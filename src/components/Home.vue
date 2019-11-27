@@ -1,0 +1,59 @@
+<template>
+  <div class="hello">
+    <h1>{{ msg }}</h1>
+     <!--整个题目+答案-->
+    <div style="display: block" v-for="(item,key) in showData" v-bind:key="key">
+      <p style="margin-bottom: 0;text-align: left;font-size: medium;font-weight: bold">{{key+1}}.{{item.question}}</p>
+      <p style="margin-bottom: 1px;margin-top: 1px;text-align: left; font-size: small" v-for="(answer,i) in item.answers" v-bind:key="i">{{letters[i]}}.{{answer}}</p>
+    </div>
+  </div>
+</template>
+
+<script>
+import questions from '../../static/questions'
+import answers from '../../static/answers'
+export default {
+  name: 'Home',
+  mounted: function () {
+    this.questionsDetail = questions.Topic
+    this.answersDetail = answers.Answer
+    for (let i of this.questionsDetail) {
+      let object = Object()
+      object.question = i.Topic
+      object.answers = []
+      for (let j of this.answersDetail) {
+        if (j.QuestionId === i.QuestionId) {
+          object.answers.push(j.AnswerContent)
+        }
+      }
+      this.showData.push(object)
+    }
+  },
+  data () {
+    return {
+      msg: '',
+      answers,
+      questions,
+      questionsDetail: [],
+      answersDetail: [],
+      total: {
+        question: '',
+        answers: []
+      },
+      showData: [],
+      letters: ['A', 'B', 'C', 'D'
+      ]
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+h1, h2 {
+  font-weight: normal;
+}
+div{
+  ;
+}
+</style>
