@@ -4,8 +4,8 @@
      <!--整个题目+答案-->
     <div style="display: block" v-for="(item,key) in showData" v-bind:key="key">
       <p style="margin-bottom: 0;text-align: left;font-size: medium;font-weight: bold"
-         v-html="(key+1)+item.question"></p>
-      <p style="margin-bottom: 1px;margin-top: 1px;text-align: left; font-size: small" v-for="(answer,i) in item.answers" v-bind:key="i">{{letters[i]}}.{{answer}}</p>
+         v-html="(key+1)+'.'+item.question"></p>
+      <p style="margin-bottom: 1px;margin-top: 1px;text-align: left; font-size: small" v-for="(answer,i) in item.answers" v-bind:key="i" v-html="letters[i]+'.'+answer"></p>
       <p style="margin-bottom: 0;text-align: left;font-size: small;font-weight: bold"> 解析:</p>
       <p style="margin-bottom: 0;text-align: left;font-size: small; " v-html="item.analyticDesc"></p>
     </div>
@@ -13,14 +13,13 @@
 </template>
 
 <script>
-import questions from '../../static/questions'
-import answers from '../../static/answers'
+import exam from '../../static/【押题卷1】私募股权投资基金基础知识'
 
 export default {
   name: 'Home',
   mounted: function () {
-    this.questionsDetail = questions.Topic
-    this.answersDetail = answers.Answer
+    this.questionsDetail = exam.Topic
+    this.answersDetail = exam.Answer
     for (let i of this.questionsDetail) {
       let object = Object()
       object.question = i.Topic
@@ -37,8 +36,6 @@ export default {
   data () {
     return {
       msg: '',
-      answers,
-      questions,
       questionsDetail: [],
       answersDetail: [],
       total: {

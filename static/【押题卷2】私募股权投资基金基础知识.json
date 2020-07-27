@@ -1,0 +1,4423 @@
+{
+  "Topic": [
+    {
+      "QuestionId": "1fc4fd9d-43e7-4303-9456-51f227ceb98b",
+      "Topic": "关于我国股权投资基金的募集与设立，表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 3,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金的概念。在国际市场上，股权投资基金既有以非公开方式募集（私募）的，也有以公开方式募集（公募）的。在我国，目前股权投资基金尚只能以非公开方式募集。",
+      "KnowledgeId": "69d2cfb6-625d-409d-a019-776502525b55",
+      "AnswersIds": "2a5755f8-5cb8-48b7-a1ef-5fd99d631439",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603568
+    },
+    {
+      "QuestionId": "68be03c4-04fc-446b-b503-f6ba0fd2cd8c",
+      "Topic": "股权投资基金的特点，以下表述错误的是（&nbsp;）。&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 4,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金的特点。作为一种重要的资产配置，股权投资基金具有以下特点：（1）投资期限长，流动性较差；（2）投资后管理投入资源较多；（3）专业性较强；（4）收益波动性较高。故“流动性较好”错误。",
+      "KnowledgeId": "9494b393-d6c0-43f7-970c-d86a47c7f812",
+      "AnswersIds": "a2b7b860-ad80-4ac4-a2b5-0e43d08f225e",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603578
+    },
+    {
+      "QuestionId": "a17fd683-c05c-4549-a7d3-75140901b314",
+      "Topic": "关于股权投资基金的收益分配，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 11,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金的收益分配。股权投资基金的市场参与主体主要包括投资者、管理人和第三方服务机构。就收益分配而言，则主要在投资者与管理人之间进行。故“收益分配主要在基金的投资者、管理人和第三方服务机构之间进行”错误。股权投资基金的收入主要来源于所投资企业分配的红利以及实现项目退出后的股权转让所得。由于股权投资基金所从事的投资是长期投资且透明性差，为建立对管理人的激励机制，作为一个基本做法，股权投资基金的管理人通常参与基金收益的分配。故“股权投资基金从事的是长期投资，且透明性好、收益较高，故基金管理人通常参与基金收益的分配”错误。根据股权投资基金与基金管理人的约定，有时候管理人需要先让基金投资者实现某一门槛收益率，之后才可以获得业绩报酬。故“无论有无相关约定，基金管理人必须先让基金投资者实现门槛收益后才可以获得业绩报酬”错误。",
+      "KnowledgeId": "4f2ab3f3-a732-4690-a21a-54b4b3374147",
+      "AnswersIds": "de92b3b9-c5af-48de-8064-1a22de960729",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603588
+    },
+    {
+      "QuestionId": "fa7c69ad-c234-4895-b366-6b11a9486d3a",
+      "Topic": "关于科技型中小微企业的特征，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 12,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是中小微企业的特征。中小微创业企业通常具有以下几方面的发展和融资需求特征：一是信息不对称比较严重。多数中小微企业在建立规范的公司治理和有效的企业管理架构方面通常存在缺陷。故“大多数已建立规范的公司治理架构”错误。二是创业成功的不确定性较高。一些研究与实践表明，中小微创业企业成功的不确定性较高，少数创业企业能获得巨大的成功，但不少创业企业最终失败。故“创业成功概率较高”错误。三是科技型中小微创业企业的资产结构中无形资产占比较高。故“一般固定资产比例占比较高”错误。四是中小微创业企业的融资需求呈现阶段性特征。企业在种子期、起步期、扩张期和相对成熟期各个创业阶段里，其融资需求的性质和规模呈现出较为显著的区别。早期发展阶段可能需要较小规模、较大比例的股权融资，中后期发展阶段可能以可转换优先股，可转换债等准股权方式融资。",
+      "KnowledgeId": "adca4c87-3d90-41a2-9a46-821fe6e8517f",
+      "AnswersIds": "dea2721c-20cc-484e-b143-f3bb6c6bcdbe",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603598
+    },
+    {
+      "QuestionId": "47d89930-0ed1-47f4-9087-cebc210d6742",
+      "Topic": "关于股权投资基金管理人，下列表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是基金管理人的基本职责。股权投资基金管理人应公平地对待其管理的不同基金财产。",
+      "KnowledgeId": "d2b1bf44-8ec0-43c5-94f7-a5759522f6b1",
+      "AnswersIds": "25c37ddc-0a4a-4fb7-a53d-daf69a8d2810",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603608
+    },
+    {
+      "QuestionId": "51305395-15d0-4e3d-ae88-89280c5d0a86",
+      "Topic": "关于基金财产保管，表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 21,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是基金财产保管机构的概念。一般来说，公募基金采取强制托管，基金托管人必然成为基金当事人之一。而私募类型的股权投资基金，通常由基金投资者和基金管理人约定是否进行托管。故“基金托管人必然是股权投资基金当事人之一”错误。如果双方选择不进行托管，为保障基金财产安全，有时基金管理人会聘请基金资产保管机构。基金资产保管不同于基金托管。在选择托管的情况下，管理人和托管人对投资者同时承担双重受托责任。在不选择托管而仅选择保管的情况下，基金资产保管机构作为基金管理人的代理人，对基金资产承担保管责任。故“股权投资基金采取强制托管措施，保障基金财产安全”错误。",
+      "KnowledgeId": "64f9f547-b8ae-403f-96e6-63bcd2016b29",
+      "AnswersIds": "64c43e16-f45e-4b11-a73b-26aadb918913",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603618
+    },
+    {
+      "QuestionId": "4f64c84d-3ee6-4d6e-a254-2275eefaf65e",
+      "Topic": "关于股权投资基金销售服务机构的业务，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 22,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股权投资基金的募集，可以分为自行募集和委托募集。自行募集是指基金管理人直接募集其管理的基金，委托募集是指基金管理人委托第三方机构代为募集基金。受托募集的第三方机构就是基金销售机构，为基金管理人提供推介基金、发售基金份额、办理基金份额认缴、退出等募集服务。",
+      "KnowledgeId": "169be674-357a-450f-8776-b5f7e5e75029",
+      "AnswersIds": "ca78ad94-c9c1-4ca8-8de7-ac66b08d946e",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603628
+    },
+    {
+      "QuestionId": "4ebd0cf2-12f0-4f86-90e1-05ecea1011c0",
+      "Topic": "关于基金服务业务，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 22,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "基金管理人可以办理募集基金的份额登记业务，也可以委托基金份额登记机构代为办理基金份额登记业务。在后一种情况下，由股权投资基金份额登记机构提供基金份额的登记、过户、保管和结算等服务。",
+      "KnowledgeId": "019af89b-a445-40ff-8a7c-da0c75d82e8d",
+      "AnswersIds": "4cdc9ba5-d926-46b1-9145-11fd5dc355ca",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603638
+    },
+    {
+      "QuestionId": "14cb2f71-0ade-46dd-ac38-a6d836c83728",
+      "Topic": "相对于行业自律、内部控制和社会力量监督，股权投资基金的政府监管具有（&nbsp;）特征。</p><p>Ⅰ.法定性</p><p>Ⅱ.优先性</p><p>Ⅲ.强制性</p><p>Ⅳ.前瞻性&nbsp;&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 25,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金政府监管的特征。股权投资基金的政府监管相对于行业自律、内部控制和社会力量监督，具有法定性和强制性特征。",
+      "KnowledgeId": "105079dd-1770-4722-8aa3-53a9f7e80b25",
+      "AnswersIds": "fe74653a-e781-4e87-8c7c-c498b376bad2",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603648
+    },
+    {
+      "QuestionId": "70c84075-376f-4e6a-9eb6-8f9bd0a6e7d1",
+      "Topic": "关于股权投资基金的高效监管原则，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 26,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金监管的高效监管原则。高效监管，是指股权投资基金监管活动不仅要以价值最大化的方式实现基金监管的根本目标，而且还要通过监管活动促进股权投资基金行业的持续健康发展。高效监管原则，首先要求监管机构具有权威性，要赋予监管机构合法的监管地位以及合理的监管权限和职责。高效监管原则还要求确定合理的监管内容体系，要有所不管，要管得有效。故“要求监管机构制定监管内容体系时要全面包括股权投资基金运营的各个方面”错误。另外，规范的监管程序、科学的监管技术、现代化的监管手段也是高效监管的保证。",
+      "KnowledgeId": "105079dd-1770-4722-8aa3-53a9f7e80b25",
+      "AnswersIds": "5bda7016-f032-46b4-a404-79bc19884248",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603658
+    },
+    {
+      "QuestionId": "ee6c0679-51e6-4a76-bc2a-61cae360bae0",
+      "Topic": "在我国，关于股权投资基金行业自律组织的作用，以下表述错误的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 29,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查股权投资基金自律组织的作用。股权投资基金行业自律组织可以在以下方面起到作用：第一，提供行业服务，促进行业交流和创新，提升行业职业素质，提高行业竞争力；第二，发挥行业与政府间的桥梁与纽带作用，维护行业职业素质，提高行业竞争力；第二，发挥行业与政府间的桥梁与纽带作用，维护行业合法权益，促进公众对行业的理解，提升行业声誉；第三，履行行业自律管理，促进行业合规经营，维护行业的正当经营秩序；第四，促进会员忠实履行受托义务和社会责任，推动行业持续稳定健康发展。故“自律组织可以通过自律管理代替政府监管，促进行业合规经营”错误。",
+      "KnowledgeId": "f4402926-6cd9-48f5-af89-0abedf5dd26c",
+      "AnswersIds": "e6a81d3a-89bc-4bfb-902d-2f6b4852842a",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603668
+    },
+    {
+      "QuestionId": "57af947f-b65a-4b4f-8e85-a6fb8807e27b",
+      "Topic": "关于创业投资，说法正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 33,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "创业投资的投资对象主要包括早期、中期、后期各个发展阶段的未上市成长性企业，主要通过股权转让获取资本增值收益。创业投资可以采取非组织化形式和组织化形式。非组织化创业投资是指非专业机构和个人分散从事创业投资；组织化创业投资是指机构或个人通过设立专业创业投资组织从事创业投资。",
+      "KnowledgeId": "3378504c-027e-4343-91bf-034bac365d79",
+      "AnswersIds": "4ee70538-5b27-40e0-adc6-f17c1481a35e",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603678
+    },
+    {
+      "QuestionId": "2aa603ba-6d34-4723-a652-e48a55e6519a",
+      "Topic": "关于并购基金整合被投资企业，以下表述错误的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是并购基金的作用。并购基金整合被投资企业可以向被投企业注入其他商业资源，提升企业在生产链中的地位和价值，并购基金具有产业背景的并购基金，结合自身产业资源，可以帮助被投企业完成转型升级。并购基金可以通过重整被投企业的管理团队，提升团队的执行力。 并购基金整合投资企业时，不会导致失业和阻碍经济发展。",
+      "KnowledgeId": "e7898a8b-42e5-4f74-8123-77206e375c4b",
+      "AnswersIds": "111ddd55-29ad-4ba7-8ee4-fb6c9d09d653",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603688
+    },
+    {
+      "QuestionId": "90c4d7e8-76d0-43af-843c-aff8d59f0138",
+      "Topic": "在杠杆收购基金的融资渠道中，夹层资本相比于银行贷款(&nbsp;)。 ",
+      "Score": 1.0,
+      "PageNumber": 35,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "夹层资本，顾名思义，是处于资本结构的中间位置，收益和风险介于银行贷款和股权资本之间的资本形态。在杠杆收购融资中，夹层资本比银行贷款优先级低，成本高，比股权资本优先级高，成本低，进一步拓展了杠杆收购基金的融资渠道，提高了可用杠杆水平。",
+      "KnowledgeId": "e7898a8b-42e5-4f74-8123-77206e375c4b",
+      "AnswersIds": "0541bb6c-e27c-4182-bb74-887c69868a60",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603698
+    },
+    {
+      "QuestionId": "1005492a-4990-4ff1-a0f4-8e7855a889f8",
+      "Topic": "杠杆收购的收购资金一般来源于（&nbsp;）。</p><p>Ⅰ.普通股</p><p>Ⅱ.夹层资本</p><p>Ⅲ.银行贷款 ",
+      "Score": 1.0,
+      "PageNumber": 34,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是并购基金的资金来源。杠杆收购的收购资金主要有三个来源：第一，普通股，由收购方提供资金。第二，夹层资本，一般采取优先股和垃圾债券的形式，有时附有转股权。第三，高级债，即银行提供的并购贷款。",
+      "KnowledgeId": "e7898a8b-42e5-4f74-8123-77206e375c4b",
+      "AnswersIds": "b354d558-79c5-4dca-9857-01f9b8d3992d",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603708
+    },
+    {
+      "QuestionId": "bf4e81d2-efb5-47c9-8b57-49d830e7a7f5",
+      "Topic": "关于公司型基金和合伙型基金，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 38,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是公司型基金和合伙型基金的运营区别。公司型基金是企业法人实体，按照公司章程运营基金；合伙型企业不是独立法人，按照合伙协议运营基金。故“合伙型基金是非法人企业，根据合伙协议运营基金”。",
+      "KnowledgeId": "9f02ee00-64c1-4fc1-bcbd-9e893c727cc1",
+      "AnswersIds": "36bba892-d43a-44a2-afa9-5f4cb061c5ed",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603718
+    },
+    {
+      "QuestionId": "aafc6556-ba20-41d7-8ae9-e71179f5bd4b",
+      "Topic": "关于合伙型股权投资基金，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 39,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是合伙型基金的概念。有限合伙人以其认缴的出资额为限对基金（合伙企业）债务承担责任。故“有限合伙人以其实缴的出资额为限对基金（合伙企业）债务承担责任”错误。合伙型基金不具有独立的法人地位，普通合伙人对基金（合伙企业）债务承担无限连带责任，合伙型基金的参与主体包括普通合伙人、有限合伙人和基金管理人。",
+      "KnowledgeId": "1c95dfca-cbfb-4eea-be5f-d602b782fc1c",
+      "AnswersIds": "0b46b809-a9e9-4ee5-bd24-194fc1de9dbb",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603728
+    },
+    {
+      "QuestionId": "93f67224-9976-4445-bac3-367e090a4c95",
+      "Topic": "关于合伙型基金的架构及特点描述错误的是(&nbsp;)。",
+      "Score": 1.0,
+      "PageNumber": 39,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "普通合伙人可自行担任基金管理人或者委托专业的基金管理机构担任基金管理人。有限合伙人不参与投资决策。",
+      "KnowledgeId": "1c95dfca-cbfb-4eea-be5f-d602b782fc1c",
+      "AnswersIds": "b153f24a-9f4c-45a7-9623-f63d7863470f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603738
+    },
+    {
+      "QuestionId": "8b466295-5f89-4628-b827-31c40a40722a",
+      "Topic": "股权投资母基金A在股权投资基金B的存续期第三年，从基金管理人C处，按公允价值估值的80%购买C持有基金B的全部份额，针对该交易，以下表述错误的是（&nbsp;&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 44,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "二级投资，是指母基金在股权投资基金募集设立完成后，对存续基金或其投资组合公司进行投资。根据投资标的不同，母基金的二级投资业务可以分为两种类型，一是购买存续基金份额及后续出资额；二是购买基金持有的投资组合公司股权。母基金二级投资业务的比例不断增加，主要基于以下原因：价格折扣。股权投资基金主要采取私募形式，缺乏流动性。加速投资回收。在二级投资业务中，母基金投资的是存续期的股权投资基金，缩短了投资等待期，从而能够更快的回收投资。投资于已知的资产组合。在一级投资业务中，母基金进行投资时，股股权投资基金尚未进行投资，因此还不知道基金的投资组合，只是基于对股权投资基金管理人的信任而投资。但在二级投资业务中，母基金投资的是存续基金，基金已经进行了投资，因此母基金能够知道股权投资基金的资产组合。",
+      "KnowledgeId": "39d641a7-5e88-4361-90ce-6f5b10c776fe",
+      "AnswersIds": "b53b1d66-770a-4d59-907c-05d5d32874f0",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603748
+    },
+    {
+      "QuestionId": "699456d1-8122-4beb-8607-db1246c980ff",
+      "Topic": "投资者通过投资（&nbsp;）可以更有效的分散风险。",
+      "Score": 1.0,
+      "PageNumber": 45,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资母基金的作用。母基金通常会将所募集的资金分散投资于15-25只股权投资基金，从而避免了单只股权投资基金投资中依赖于某一基金管理人的风险。故“投资者通过投资股权投资母基金可以更有效的分散风险”。",
+      "KnowledgeId": "5993be8d-490b-4dd8-bd2d-6457077254ee",
+      "AnswersIds": "e859455e-49e0-4212-8b3c-bfd419fd47f7",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603758
+    },
+    {
+      "QuestionId": "eb089291-5c79-4bf1-88e2-5035ce0698ca",
+      "Topic": "股权投资母基金的作用主要包括（&nbsp;&nbsp;）。</p><p>Ⅰ．分散风险</p><p>Ⅱ．专业管理</p><p>Ⅲ．投资机会</p><p>Ⅳ．规模优势&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 45,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "母基金通常会将所募集的资金分散投资于15-25只股权投资基金，从而避免了单只股权投资基金投资中依赖于某一基金管理人的风险。对股权投资基金进行投资，是一项专业性非常强的工作。大部分业绩出色的股权投资基金都会获得超额认购，因此，一般投资者难以获得投资机会。在对股权投资基金进行投资时，投资规模的大小常常是一个问题，投资者的资金常常太大或者太小，以至于难以进行合适的投资。而母基金可以通过帮助投资者“缩小规模”或“扩大规模”来解决这一问题。",
+      "KnowledgeId": "5993be8d-490b-4dd8-bd2d-6457077254ee",
+      "AnswersIds": "a3b9fad5-405e-4af2-a752-13a662c26739",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603768
+    },
+    {
+      "QuestionId": "988b26db-5ed6-4417-b717-1be1985be008",
+      "Topic": "关于股权投资母基金直接投资业务中的“跟投”，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 45,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是母基金直接投资业务。直接投资，是指母基金直接对非公开发行和交易的企业股权进行投资。在实际操作中，母基金通常和其所投资的股权投资基金联合投资，母基金往往扮演跟投角色，由股权投资基金来管理这项投资。故“股权投资母基金跟着所投资的基金直接投资项目”。",
+      "KnowledgeId": "5993be8d-490b-4dd8-bd2d-6457077254ee",
+      "AnswersIds": "b0bf103f-43e1-4613-acf1-51425dcbdf4f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603778
+    },
+    {
+      "QuestionId": "956249e0-42e3-468d-be9a-bb4631d0aa34",
+      "Topic": "关于政府引导基金，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.政府引导基金是母基金</p><p>Ⅱ.政府引导基金不能直接对企业股权进行投资</p><p>Ⅲ.政府引导基金主要投资于创业投资基金</p><p>Ⅳ.政府引导基金不可采用融资担保的方式支持创业投资基金通过债权增强其投资能力 ",
+      "Score": 1.0,
+      "PageNumber": 47,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "政府引导基金是一类特殊的母基金，主要是通过投资者于创业投资基金，达到支持创业投资基金发展的目的。政府引导基金是由政府设立并按市场化方式运作的政策性基金，主要通过扶持创业投资基金发展，引导社会资金进入创业投资领域。政府引导基金本身不直接从事创业投资业务。政府引导基金对创业投资基金的支持方式包括参股、融资担保、跟进投资。",
+      "KnowledgeId": "b6385b38-c747-4c36-9048-b1c3527bcaff",
+      "AnswersIds": "7167ad45-eac5-405e-9c98-258f861c7c65",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603788
+    },
+    {
+      "QuestionId": "1bf43dcd-8f18-4f44-ad4d-d98b7094fb0b",
+      "Topic": "关于股权投资基金选择第三方基金销售机构（代销机构）进行委托募集，合格代销机构应具备的条件是（&nbsp;）。</p><p>Ⅰ.代销机构是要有代销意愿的基金管理人</p><p>Ⅱ.代销机构需遵守募集行为管理办法的规定</p><p>Ⅲ.代销机构应具有基金销售资质</p><p>Ⅳ.代销机构需要成为中国证券投资基金业协会会员 ",
+      "Score": 1.0,
+      "PageNumber": 58,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "委托第三方机构募集的，基金管理人应当委托具有合格基金销售资质和专业基金销售服务团队的机构代为募集，并与代销机构签署书面协议，要求其严格遵守合格投资者制度和募集规定，履行对投资者的评估和投资者风险确认程序。目前，我国要求代销机构应获得中国证券投资基金业协会会员。",
+      "KnowledgeId": "1c83a34c-4e42-4669-9501-17b50a6f11f3",
+      "AnswersIds": "a596c46d-9a92-48fc-87fd-ae9d585cf273",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603798
+    },
+    {
+      "QuestionId": "72d99d11-edaf-458c-9587-ce8aed4f38d1",
+      "Topic": "关于股权投资募集过程中的责任和义务，表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 60,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "从募集阶段开始就需要对基金投资者投向基金的资金与财产安全承担责任与义务。",
+      "KnowledgeId": "7e1855b0-e326-4d66-99cf-8505c2d6ea9a",
+      "AnswersIds": "45f85525-1d4c-42fc-a19a-c455f2c40a03",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603808
+    },
+    {
+      "QuestionId": "d03d10b7-26cd-4ca5-813f-47124bd43bc0",
+      "Topic": "关于股权投资基金不同组织形式的特点，以下表述正确的有（&nbsp;）。</p><p>Ⅰ.合伙型基金有限合伙人不得超过50人，公司型、信托（契约）型基金投资人不得超过200人</p><p>Ⅱ.各基金组织形式中，仅公司型基金需在基金层面缴纳企业所得税</p><p>Ⅲ.各基金组织形式中，信托（契约）型基金投资人对基金决策权影响程度相对最低</p><p>Ⅳ.各基金组织形式中，公司型基金收益分配相对最低 ",
+      "Score": 1.0,
+      "PageNumber": 63,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金不同组织形式的特点。公司型基金以有限责任公司形式设立的，股东人数应在50人以下，以股份有限公司形式设立的，股东人数不超过200人，且应当有2个以上发起人。合伙型基金有限合伙企业应由2个以上50个以下合伙人设立，且有限合作企业至少应当有一个普通合伙人。对于信托（契约）型基金，投资者人数不得超过200人。故“合伙型基金有限合伙人不得超过50人，公司型、信托（契约）型基金投资人不得超过200人”。公司型基金的税收规则是“先税后分”，公司每一纳税年度的收入总额，减除不征税收入、免税收入、各项扣除以及允许弥补的以前年度亏损后的余额，为应纳税所得额。根据《合伙企业法》等相关规定，合伙企业生产经营所得和其他所得采取“先分后税”的原则：合伙企业以每一个合伙人为纳税义务人，合伙企业层面不缴纳所得税。故“各基金组织形式中，仅公司型基金需在基金层面缴纳企业所得税”。信托（契约）型基金并非企业，因此不是企业所得税的纳税主体。股权投资基金的核心业务是投资实施、投资后管理与项目退出，与之密切相关的是各参与主体间权利义务关系的安排，特别是投资决策权的设置机制。在公司型基金中投资者作为股东拥有较大权力，可以在股东大会层面对基金重大事项或者重大投资进行决策。对合伙型基金而言，基金的投资者以有限合伙人的身份存在，通常设置合伙人会议审议基金相关事项。信托（契约）型基金的投资者在信托契约框架下，通常作为“委托人”，把财产“委托”给基金管理人管理后，投资者对财产便丧失了支配权和发言权，由基金管理人全权负责经营和运作。故“各基金组织形式中，信托（契约）型基金投资人对基金决策权影响程度相对最低”。",
+      "KnowledgeId": "a06c254d-f31e-4a09-a00b-4b3a54a14137",
+      "AnswersIds": "08484262-87ca-4ec9-849a-a76ad9d26392",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603818
+    },
+    {
+      "QuestionId": "1aabf2ad-b0ea-4adc-a430-aa625f7de489",
+      "Topic": "关于股权投资基金的投资者人数规定，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.有限责任公司型股权投资基金不得超过200人</p><p>Ⅱ.有限合伙型股权投资基金不得超过50人</p><p>Ⅲ.股份有限公司型股权投资基金不得超过200人</p><p>Ⅳ.信托（契约）型股权投资基金不得超过50人 ",
+      "Score": 1.0,
+      "PageNumber": 63,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "对于公司型基金，以有限责任公司形式设立的，股东人数应在50人以下，以股份有限公司形式设立的，股东人数不超过200人，且应当有2个以上发起人，其中须有半数以上的发起人在中国境内有住所。对于契约型基金，按照《中国证券投资基金法》，投资者不得超过200人。对于合伙型基金，除法律另有规定的特殊情形外，有限合伙企业应由2个以上50个以下合伙人设立，且有限合伙企业至少应当有一个普通合伙人。",
+      "KnowledgeId": "a06c254d-f31e-4a09-a00b-4b3a54a14137",
+      "AnswersIds": "b9d7911e-2f28-4d63-befc-ed0fa9d8bd5f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603828
+    },
+    {
+      "QuestionId": "81bfd835-e530-46f0-8bc9-c9100c99cafc",
+      "Topic": "如果甲合伙企业是乙合伙企业的合伙人之一，则该架构中企业所得税的纳税义务人（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 67,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是合伙型基金所得税的缴纳主体。根据《合伙企业法》等相关规定，合伙企业生产经营所得和其他所得采取“先分后税”的原则：合伙企业以每一个合伙人为纳税义务人，合伙企业层面不缴纳所得税。合伙企业合伙人是自然人的，缴纳个人所得税；合伙人是法人和其他组织的，缴纳企业所得税。故“该架构中企业所得税的纳税义务人是甲合伙企业。",
+      "KnowledgeId": "0e4c586b-c4ff-4570-8c5f-8f6f7d2dda3c",
+      "AnswersIds": "f09ca5b5-edb4-443e-bba1-d813a0f121a7",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603838
+    },
+    {
+      "QuestionId": "ec92c289-a11a-446c-ae1e-9a86def2e8fe",
+      "Topic": "公司甲注册在A地，A地有所得税优惠政策，公司乙注册在B地，B地没有所得税优惠政策，甲投资了在B地的合伙型基金丙，乙投资了在A地的合伙型基金丁，针对以上情形，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "因为B地没有所得税优惠政策，所以在B地投资的公司甲和B地的合伙型基金丙不享受所得税优惠政策；丁作为合伙型基金不缴纳所得税，只是代扣代缴合伙人所涉及的个人所得税或企业所得税，因而只有公司乙可以享受A地的企业所得税优惠政策，其取得的非国债的其他投资收益及企业投资所分的利润、利息、股息、红利所得收益均需按照25%的税率缴纳企业所得税，并且由基金丁代扣代缴。",
+      "KnowledgeId": "0e4c586b-c4ff-4570-8c5f-8f6f7d2dda3c",
+      "AnswersIds": "6af311fb-6bdb-4067-bbe7-8309aef4eb3f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603848
+    },
+    {
+      "QuestionId": "4227f833-cd7d-4481-b05f-48f7324b6cd2",
+      "Topic": "信托（契约）型股权投资基金合同应包括（&nbsp;）。<p>Ⅰ.股权投资基金投资</p><p>Ⅱ.股权投资基金财产估值</p><p>Ⅲ.股权投资基金盈利预测</p><p>Ⅳ.风险揭示&nbsp; </p>",
+      "Score": 1.0,
+      "PageNumber": 70,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "信托(契约)型基金合同主要包括总则、合同正文与附则三个部分。其中,&nbsp;正文部分主要包括：前言;释义;声明与承诺;股权投资基金的基本情况;股权投资基金的募集;股权投资基金的成立与备案;股权投资基金的申购、赎回与转让;当事人及权利义务;股权投资基金份额持有人大会及日常机构;股权投资基金份额的登记;股权投资基金的投资;股权投资基金的财产;交易及清算交收安排;股权投资基金财产的估值和会计核算;股权投资基金的费用与税收;股权投资基金的收益分配;信息披露与报告;风险揭示;基金合同的效力、变更、解除与终止;股权投资基金的清算;违约责任;争议的处理;其他事项。",
+      "KnowledgeId": "2e746e1c-894f-4656-97c9-cd779b4a4302",
+      "AnswersIds": "5ac11947-629b-4977-bcda-b84b910461ba",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603858
+    },
+    {
+      "QuestionId": "d24dab59-4255-471f-9e9a-fd42766dcb7d",
+      "Topic": "有限责任公司型股权投资基金的投资者以其（&nbsp;）对基金承担责任。",
+      "Score": 1.0,
+      "PageNumber": 71,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金设立的流程。公司型基金严格按照《公司法》而设立，有限责任公司中股东以其出资为限对公司承担责任，股份有限公司中股东以其认购股份为限对公司承担责任，公司型基金是以其全部资产对公司债务承担责任的企业法人。",
+      "KnowledgeId": "c58eff32-832f-4427-8d3e-50cbe88dcd61",
+      "AnswersIds": "f373ced2-3756-482e-9a32-490c841a8549",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603868
+    },
+    {
+      "QuestionId": "b57a66c7-ada1-42a8-9519-65275257d8cb",
+      "Topic": "股权投资基金在进行业务尽职调查时，关于管理团队调查的关注内容，通常不包括（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 81,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "管理团队：包括董事会成员及主要高级管理人员的履历介绍、薪酬体系、期权或股权激励机制等。",
+      "KnowledgeId": "9de9fff0-e466-4685-a728-0a964c06ed4c",
+      "AnswersIds": "2f28d0de-9f1f-487e-b2e7-18a3a0df14bd",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603878
+    },
+    {
+      "QuestionId": "3da6c010-e286-4803-934c-6aa5691ecee3",
+      "Topic": "关于尽职调查，表述正确的是（&nbsp;）。</p><p>Ⅰ.对于处于扩张期的企业，对其产品服务、发展战略及市场因素的关注程度相对早期企业要更高一些，管理团队则不再是重点关注的事项</p><p>Ⅱ.对于处于相对较早发展阶段的创业企业，业务尽调的重点是管理团队和产品服务部分</p><p>Ⅲ.企业融资需求及结构、计划投资项目、可行性研究报告及政府批文（如适用）等均是在对成熟期企业做业务尽职调查时需要考察的部分</p><p>Ⅳ.税收及政府优惠政策是尽职调查的重要内容 ",
+      "Score": 1.0,
+      "PageNumber": 81,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是尽职调查的主要内容。业务尽职调查中的融资运用部分包括企业融资需求及结构、计划投资项目、可行性研究报告及政府批文（如适用）等。不同企业类型及所处发展阶段的目标公司调查内容的侧重点也不同。对于处于相对较早发展阶段的创业企业，业务尽职调查的重点是管理团队和产品服务部分；故“对于处于扩张期的企业，对其产品服务、发展战略及市场因素的关注程度相对早期企业要更高一些，管理团队则不再是重点关注的事项”错误。对于处于扩张期的企业，管理团队也是尽职调查重点关注的事项，对产品服务、发展战略及市场因素的关注程度相对早期企业要更高一些；对于成熟阶段的企业，尽职调查问题则更为广泛，管理团队、资产质量、融资结构、融资运用、发展战略乃至风险分析都是需要考察的部分。法律尽职调查关注的重点问题包括：历史沿革问题、主要股东情况、高级管理人员、重大合同、诉讼及仲裁、税收及政府优惠政策等。",
+      "KnowledgeId": "9de9fff0-e466-4685-a728-0a964c06ed4c",
+      "AnswersIds": "f964d3ef-1e9c-409f-855d-0bea90a09fdb",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603888
+    },
+    {
+      "QuestionId": "0d47cf19-6fd7-4af3-8a5f-02e77bf19d47",
+      "Topic": "关于财务尽职调查的工作内容，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 82,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "在股权投资基金投资运作流程中，财务尽职调查是投资及整合方案设计、交易谈判、投资决策不可或缺的前提，是判断投资是否符合战略目标及投资原则的基础。它对了解目标公司资产负债、内部控制、经营管理的真实情况，充分揭示其财务风险，分析盈利能力、现金流，预测目标公司未来前景起到重大作用。",
+      "KnowledgeId": "9de9fff0-e466-4685-a728-0a964c06ed4c",
+      "AnswersIds": "c0533dbd-73f0-4ed2-8719-6cdd0c820f68",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603898
+    },
+    {
+      "QuestionId": "5804c815-bf10-4fb9-845a-b4b04c743931",
+      "Topic": "关于财务尽职调查的工作内容，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 83,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是财务尽职调查的主要内容。对于纳入合并报表范围的重要控股子公司的财务状况，应同样履行充分的审慎核查程序；对于公司披露的参股子公司，应获取最近一年的财务报告及审计报告。",
+      "KnowledgeId": "9de9fff0-e466-4685-a728-0a964c06ed4c",
+      "AnswersIds": "a65f941f-89cc-4e4c-bc83-59def862f836",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603908
+    },
+    {
+      "QuestionId": "7d44fe96-b725-454e-a049-98711646a4f6",
+      "Topic": "有关企业价值和股权价值的简单价值等式：企业价值+现金=股权价值+债务，以下表述错误的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 90,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权价值和企业价值的区别。企业价值是指公司所有出资人，包括股东和债权人，共同拥有的公司运营所产生的价值，包括企业的股东所拥有的股权价值，以及企业的债权人所拥有的债权价值。作为股权投资者，股权投资基金关心的是股权价值，最后的交易价格以股权价值为基础来确定。但是，估值方法中，有些方法直接用的是企业价值，而非股权价值。需要运用简单价值等式，在企业价值和股权价值之间进行转换。&nbsp;简单价值等式：企业价值+现金=股权价值+债务，债务与现金的差额定义为净债务，则价值等式又可以表示为&nbsp;企业价值=股权价值&nbsp;+&nbsp;净债务。上述等式中，“债务”与资产负债表中的负债不同，只包括要支付利息的负债（如银行存款），不包括不用支付利息的负债（如应付账款）。故“等式中的债务即为资产负债表中的负债”错误。简单价值等式对有着非核心资产的公司而言就不适用了。在实际股指中，很多公司都是有非核心资产的，因此就需要对企业价值进行更为科学的定义。",
+      "KnowledgeId": "bb85498e-aa16-4be4-8e3f-ae3d33a2ec42",
+      "AnswersIds": "0115bca7-63e8-435b-8cd9-b792370f5aa6",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603918
+    },
+    {
+      "QuestionId": "0fae916a-2e41-41a2-b4cc-2c3d744252d2",
+      "Topic": "关于相对估值法，表述错误的是（&nbsp;&nbsp;）。&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 93,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "如果目标公司和可比公司属于某一特殊行业，还可以使用符合该行业特点的估值倍数。例如，互联网公司估值，有时会用“企业价值/用户数”等倍数。故“选取的估值倍数必须是以客观的财务指标为基础（如息税前利润、净利润、销售收入、净资产等）计算的估值倍数，而非其他业务指标或数据”错误。",
+      "KnowledgeId": "cfcb4dd1-f67a-4b26-bfde-7626cc000bb4",
+      "AnswersIds": "0963fbd1-8d5e-4abb-910b-d80c6c238aa6",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603928
+    },
+    {
+      "QuestionId": "27df1a2b-d311-45b7-a427-6156b86637f9",
+      "Topic": "关于相对估值法的估值倍数公式，下列选项表述错误的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 96,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是市净率倍数估值法的计算。市净率倍数=股权价值÷净资产或市净率倍数=每股价值÷每股净资产，故“市净率倍数=公司价值/净资产”错误。",
+      "KnowledgeId": "cfcb4dd1-f67a-4b26-bfde-7626cc000bb4",
+      "AnswersIds": "350585d4-d209-412f-bfc0-fd586b18259f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603938
+    },
+    {
+      "QuestionId": "37db894e-e134-49d0-b766-f53c48e7b3da",
+      "Topic": "关于相对估值法，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.选取可比公司倍数的平均值或中位数后，不再进行调整</p><p>Ⅱ.对制造业企业估值时，可采用“企业价值/用户数”倍数</p><p>Ⅲ.计算可比公司倍数的平均值或中位数时，需注意剔除异常值 ",
+      "Score": 1.0,
+      "PageNumber": 93,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是相对估值法的基本运用。根据目标公司的特点，股权投资基金选择合适的估值指标，并计算可比公司的估值倍数。常用的估值指标有市盘率倍数、企业价值／息税前利润倍数、企业价值／息税折旧摊销前利润倍数、市净率倍数、市销率倍数等。如果目标公司和可比公司属于某一特殊行业，还可使用符合该行业特点的估值倍数。例如，互联网公司估值，有时会用“企业价值／用户数”等倍数。故“对制造业企业估值时，可采用“企业价值/用户数”倍数”错误。通常，选取若干可比公司，用其可比倍数的平均值或者中位数作为目标公司的倍数参考值。在计算可比公司倍数的平均值或中位数时，还需要注意剔除其中的异常值，包括负值、非正常大值和非正常小值。故“选取可比公司倍数的平均值或中位数后，不再进行调整”错误。",
+      "KnowledgeId": "cfcb4dd1-f67a-4b26-bfde-7626cc000bb4",
+      "AnswersIds": "6e982746-d579-459f-9c1e-a0402d7c5c8f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603948
+    },
+    {
+      "QuestionId": "2f1b9521-2860-4fe8-9777-7d7b392257bc",
+      "Topic": "某国内的股权投资基金使用相对估值法，对本土的A公司进行交易估值，可比公司B在美国上市，相比之下，A公司的技术更为先进，用户规模更大，实力更为雄厚，有望很快在国内上市，以下表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 93,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金的相对估值法。通常，选取若干可比公司，用其可比倍数的平均值或者中位数作为目标公司的倍数参考值。需要注意的是，可以根据目标公司与可比公司的特点进行比较分析，对选取的平均值或中位数进行相应调整。比如，目标公司实力雄厚、技术领先，未来发展前景更好，是行业内的龙头公司，具有较强的持续竞争优势，则可以在计算得到的平均值或中位数的基础上，相应向上调整。由于A公司技术先进、用户规模大、实力雄厚、有望很快上市，因而其估值应高于B公司。",
+      "KnowledgeId": "cfcb4dd1-f67a-4b26-bfde-7626cc000bb4",
+      "AnswersIds": "e126d84e-05a5-46dc-ba39-14b7844af312",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603958
+    },
+    {
+      "QuestionId": "5287689a-5ec2-480e-9bae-c6bd39442d73",
+      "Topic": "假设智能机器人公司的付息债务账面价值为1000万元，以付息债务的账面价值95%出售，该公司100万股原始股的股权账面价值为100万元，投资者对公司按每股30元估值。公司股股权资本成本为12%，税前债务成本为8%，所得税率为25%。该公司的加权平均成本(WACC)为（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 100,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是加权平均资本（WACC）的计算。WACC=D/（D+E）×Kd×（1-t）+E/（D+E）×Ke，其中D为付息债务的市场价值，D=1000×95%=950万元；E为股权的市场价值，E=30×100万=3000万元；税前债务成本Kd=8%；股权资本成本Ke=12%；所得税税率t=25%。代入公式得WACC=10.56%。",
+      "KnowledgeId": "5f14ed1d-7e34-4441-9d95-f541fef22c56",
+      "AnswersIds": "f1a12c95-6a8a-479c-b022-4d0c488688a5",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603968
+    },
+    {
+      "QuestionId": "618a000f-f7b3-4cc8-8cea-1bbe03eab76e",
+      "Topic": "关于折现现金流估值法的优点与不足，下列表述错误的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 99,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是折现现金流估值法的优点和不足。折现现金流估值法具有以下优点：第一，折现现金流估值法评估得到的是内含价值，受市场短期变化和非经济因素的影响较小。第二，折现现金流估值法需要深入分析目标公司的财务数据和经营模式，有助于发现目标公司价值的核心驱动因素，从而为企业未来发展战略和经营决策提供依据，有助于发现提升企业价值的方法。同时，折现现金流估值法也有以下不足：第一，折现现金流估值法计算比较复杂。第二，折现现金流估值法需要较多主观假设，不同假设得出的结果差异较大。故“折现现金流估值法比较客观，较少主观假设”错误。",
+      "KnowledgeId": "5f14ed1d-7e34-4441-9d95-f541fef22c56",
+      "AnswersIds": "529903a0-d119-49cc-bb71-c22f12f24eb3",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603978
+    },
+    {
+      "QuestionId": "6bf69376-8d37-4064-b0ef-5ab11400556b",
+      "Topic": "创业投资基金A于2012年末投资了初型企业B，投资总额1000万元，预计5年后退出，预计退出时B公司的估值为8亿元，退出的目年化收益率为50％，根据B公司的业务及资金規划，预计在投资2年后会进行一轮新的融资。2014年末，B公司成功进行了一轮新融资。新投资人持有10％的股份。B公司发展顺利，2016年末，B公司实现净利润3000万元，可比公司的市盈率倍数为30。截至2016年末，A基金持有的B公司股权估值为（&nbsp;）。&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 103,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是创业投资估值法的运用。“创业投资基金A于2012年末投资了初型企业B，投资总额1000万元，预计5年后退出，预计退出时B公司的估值为8亿元，退出的目年化收益率为50％”则当前股权价值为8亿除以（1+50%）的5次方，则当前的股权价值为105349794.23868。则A基金投资B公司的初始股比例为1000万÷105349794.23868=9.49%。“2016年末，B公司实现净利润3000万元，可比公司的市盈率倍数为30”则2016年末B公司股权价值为3000万×30=9亿。故2016年末，A基金持有的B公司股权估值为9亿&nbsp;乘9.49%，进位之后为8541万元。",
+      "KnowledgeId": "72c7b035-563e-4ccd-a487-e864d24f80ac",
+      "AnswersIds": "48dba64d-f147-489e-b255-544365ba5cc4",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603988
+    },
+    {
+      "QuestionId": "d2a48b35-5431-4686-b2a1-7cddc0bef32f",
+      "Topic": "某企业实现净利润2000万元，折旧等非现金费用合计300万元，支付借款利息费用合计200万元，固定资产投资支出1000万元，营运资本净增加500万元，所得税率25%。该企业2015年度企业自由现金流FCFF为（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 100,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业自由现金流（FCFF）=息税前利润（EBIT）—调整的所得税+折旧+摊销—营运资金的增加+长期经营性负债的增加-长期经营性资产的增加—资本性支出=2000万+300万+200（1-25%）-1000万-500万=950万。息税前利润-调整所得税=净利润+利息（1-T）。",
+      "KnowledgeId": "72c7b035-563e-4ccd-a487-e864d24f80ac",
+      "AnswersIds": "e9af1d00-3824-4d68-a01e-3cb66bf5ccd9",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3603998
+    },
+    {
+      "QuestionId": "d5b83c4d-9a8d-46b3-914d-7f0135adea7c",
+      "Topic": "在使用重置成本法对资产估值时，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.重置成本法的主观因素很大</p><p>Ⅱ.重置成本法主要作为估值的一种辅助方法</p><p>Ⅲ.重置成本法是用待评估资产的重置全价减去其各种贬值后的差额</p><p>Ⅳ.重置成本考虑的是资产历史成本</p><p>Ⅴ.重置成本法的计算公式如下：待评估资产价值=重置全价×综合成新率 ",
+      "Score": 1.0,
+      "PageNumber": 104,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "重置成本法是用待评估资产的完全重置成本（重置全价）减去其各种贬值后的差额作为该项资产价值的评估方法，完全重置成本是指在现时条件下重新购置一项全新状态的资产所需的全部成本。计算公式如下：待评估资产价值=重置全价-综合贬值待评估资产价值=重置全价×综合成新率重置成本的主观因素较大，且历史成本与未来价值并无必然联系，因此，重置成本法主要作为一种辅助方法。",
+      "KnowledgeId": "e21323b0-1083-4dd4-811f-07d274c3df11",
+      "AnswersIds": "c746241c-28f1-4a64-9100-575768e27a92",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604018
+    },
+    {
+      "QuestionId": "b299ccec-8afc-42a9-91b1-d1c08df78b52",
+      "Topic": "以下对股权投资基金估值方法中的成本法的描述，不正确的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 105,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "成本法包括账面价值法和重置成本法，公司总资产减去总负债后的净值即为公司的账面价值。重置成本法是用待评估资产的完全重置成本减去其他各种贬值后的差额作为该项资产价值的评估方法。从技术角度看，重置成本法的主观因素较大。故“账面价值法的主观因素较大”错误。",
+      "KnowledgeId": "e21323b0-1083-4dd4-811f-07d274c3df11",
+      "AnswersIds": "3022b05e-1403-4845-a8d1-b543e63b7d0d",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604028
+    },
+    {
+      "QuestionId": "a420dd0c-18ed-49c3-8025-d96cc18a1333",
+      "Topic": "关于估值调整条款，表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 108,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股权投资基金有时在股权投资协议中约定估值调整条款，其主要目的是为了保护投资者利益。",
+      "KnowledgeId": "b0ac4d65-2034-426e-be0b-9001e5e06c60",
+      "AnswersIds": "a54bd0e6-0dcc-46da-9148-f80985860a7d",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604038
+    },
+    {
+      "QuestionId": "5d6a4a86-6fc9-41b9-9ab3-95dca1a89fda",
+      "Topic": "小李、某创业投资基金分别是A生物科技的天使投资人和A轮投资机构，并享有常见的股东权利。现小李欲出售其持有的部分公司股权，该基金此时可以选择行使的股东权利可能是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 111,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是第一拒绝权的概念。第一拒绝权，是指目标公司的其他股东欲对外出售股权时，作为老股东的股权投资基金在同等条件下有优先购买权。故“小李欲出售其持有的部分公司股权，该基金此时可以选择行使的股东权利可能是第一拒绝权”。",
+      "KnowledgeId": "4b6d5878-fb03-42b3-8313-f0f818465c8d",
+      "AnswersIds": "726c2ef1-8f40-4cb1-8e60-6f7129c5444b",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604048
+    },
+    {
+      "QuestionId": "b7f4ff84-d0b3-4ce2-a21d-12e4c40238c4",
+      "Topic": "关于反摊薄条款及降价融资，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 112,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是反摊薄条款的的概念。反摊薄条款也称为反稀释条款，本质上是一种价格保护机制，适用于后轮融资为降价融资时，用于保护前轮投资者利益的条款。降价融资意味着投资者此前购买的股权付出的对价相对来说更为高昂，从而导致投资者遭受到损失，因此投资者会要求在投资协议中加入反摊薄条款。由于创业投资基金更多地投资于经营业绩波动较大的早中期创业企业，因此反摊薄条款在创业投资基金的投资运作中更为多见。",
+      "KnowledgeId": "ce86a047-e636-4c62-9a69-29c97b62a406",
+      "AnswersIds": "1b8668a2-f898-4763-b843-e14e268abc50",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604058
+    },
+    {
+      "QuestionId": "5bd152d2-062a-469a-8812-160a8a6c6fe8",
+      "Topic": "关于投资备忘录中董事会席位条款，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 114,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是董事会席位条款。董事会席位条款指的是在投资协议中股权投资基金和目标公司之间约定董事会的席位构成和分配的条款。董事会是公司治理的重要组成部分，董事会席位条款的实质是对被投资企业的控制权分配进行约定。通常，董事会席位条款会约定董事会席位总数及其分配规则。故“将赋予小股东投票权”错误。",
+      "KnowledgeId": "c8c8906e-242e-4521-8450-8a265b2ab61e",
+      "AnswersIds": "3992f78a-f63a-47d6-af89-6445069d55b1",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604068
+    },
+    {
+      "QuestionId": "42e11bde-b624-4103-b409-a56adda004ee",
+      "Topic": "关于投资协议中的回售权条款，企业创始人一般不关注（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 115,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是回售权条款的概念。回售权，是指满足协议约定的特定触发条件时，股权投资基金有权将其持有的全部或部分目标公司股权以约定的价格卖给目标公司创始股东或创始股东指定的其他相关利益方。故“企业创始人一般不关注股东的其他投资资产”。",
+      "KnowledgeId": "96f5e058-6136-4aa3-b9ee-be77a5414292",
+      "AnswersIds": "46c811e6-9660-463f-b35e-94688fc0b8fc",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604078
+    },
+    {
+      "QuestionId": "d77c6677-b571-4096-998d-ac0909690000",
+      "Topic": "某股权投资基金投资了某医院管理公司X，双方签署了包含保密条款的投资协议，该基金可能违反保密义务的行为是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 117,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金保密条款的运用。保密条款是指除依法律或监管机构要求的信息披露外，投融资双方对在股权投资交易中知悉的对方商业秘密承担保密义务，未经对方书面同意，不得向第三方泄露。保密义务对目标公司而言，其在融资过程中所知悉的股权投资基金的非公开的尽职调查方法与流程，投资估值意见，投资框架协议及投资协议条款等信息通常均属于商业秘密。故“向基金现有投资组合中同行业项目高管介绍并咨询确认X项目扩张规划的合理性”可能违反保密条款。",
+      "KnowledgeId": "ce79c92f-bd10-4b42-ac74-8c6626360306",
+      "AnswersIds": "b6a68e2a-bc63-4a1a-8daf-3bbdeb3b7e79",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604088
+    },
+    {
+      "QuestionId": "93e1f02c-31fd-405d-b95a-603aa545287a",
+      "Topic": "某股权投资基金与A公司签署的投资框架协议中有排他性条款，下列行为不违反排他性条款的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 118,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是排他性条款的要求。排他性条款通常是投资框架协议中的条款，它要求目标公司现任股东及其任何任职职员、董事、财务顾问、经纪人或代表公司行事的人在约定的排他期内不得与其他投资机构进行接触，从而保证双方的时间和经济效率。除股权投资基金外，其他投资人或投资机构均属于排他性条款中禁止接触的范围。故“A公司的财务负责人与某银行接触商讨银行贷款协议”不构成排他性条款。",
+      "KnowledgeId": "ba534a9f-1213-4979-a277-ae8cde80ec63",
+      "AnswersIds": "f90ed6a6-6a94-475b-86dd-ad95b3d9a100",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604108
+    },
+    {
+      "QuestionId": "774ea099-be5e-47f2-8996-ba7626abf4c7",
+      "Topic": "股权投资基金甲对目标公司A进行初步尽职调查后判断该公司具有较高投资价值，并计划独家完成对A公司的投资，为了避免在尽职调查和商务谈判期间A公司再与其他投资机构接触，基金甲可考虑在投资框架协议中加入的条款是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 118,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "排他性条款通常是投资框架协议中的条款，它要求目标公司现任股东及其任职职员、董事、财务顾问、经纪人或代表公司行事的人在约定的排他期内不得与其他投资机构进行接触，从而保证双方的时间和经济效率。",
+      "KnowledgeId": "ba534a9f-1213-4979-a277-ae8cde80ec63",
+      "AnswersIds": "b32643dc-5e7b-4d25-87da-a1f16dba3538",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604118
+    },
+    {
+      "QuestionId": "7de2b17d-2d23-4dd5-acb0-4a893490d2a8",
+      "Topic": "关于股权投资基金的投资后管理，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.投资后管理可理解为投资后的风险管理</p><p>Ⅱ.投资后管理阶段的工作重点是监控企业各类经营指标与参与公司治理，而非跟踪协议条款执行</p><p>Ⅲ.对于处在不同成长阶段的被投资企业，基金管理机构提供增值服务的侧重点存在差异</p><p>Ⅳ.投资后管理有利于管理和防范投资风险 ",
+      "Score": 1.0,
+      "PageNumber": 121,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是投后管理的作用。投资后管理关系到被投资企业的规范运行与发展壮大，并且能有效地减少或消除潜在的投资风险，保障投资资金的远期退出，实现投资目的的最终达成，因此，投资后管理对于整个投资工作具有十分重要的意义。投资后管理不同于项目管理，也不能简单地将其理解为投资后的风险管理。故“投资后管理可理解为投资后的风险管理”错误。由于投资机构与被投资企业之间存在信息不对称，投资机构并不参与被投资企业的日常管理等情况，因而需要有效机制来保证投资机构对被投资企业各方面信息掌握的全面性，及时了解被投资企业在经营和发展中遇到的各种问题，从而有针对性地开展投资后管理工作。故“投资后管理阶段的工作重点是监控企业各类经营指标与参与公司治理，而非跟踪协议条款执行”错误。",
+      "KnowledgeId": "a994a71c-0191-4772-afab-eea4b5bc4028",
+      "AnswersIds": "9451fb09-d361-4577-86b6-7195453ea7bb",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604128
+    },
+    {
+      "QuestionId": "347bc21c-eb39-40a4-b5f2-0aed1435c309",
+      "Topic": "股权投资基金的投资后管理的期间范围是指（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 121,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "在投资交割之后直到项目退出之前都属于投资后管理期间。",
+      "KnowledgeId": "a994a71c-0191-4772-afab-eea4b5bc4028",
+      "AnswersIds": "98f8d0c2-faad-4ddf-97d9-a4aba629ed28",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604138
+    },
+    {
+      "QuestionId": "634893e8-7dc1-4e31-b2fa-1eeac3164410",
+      "Topic": "投资机构A对项目企业B实施投资后，为及时获取企业信息，机构A的投资经理可采取的方式包括（&nbsp;）。</p><p>Ⅰ.作为职工代表监事，参加被投资企业的监事会</p><p>Ⅱ.请被投资企业提供与企业经营状况相关的报告</p><p>Ⅲ.采取电话或会面、到被投资企业实地考察等方式与企业管理人员沟通接触</p><p>Ⅳ.作为董事会观察员，参与被投资企业董事会事项的讨论 ",
+      "Score": 1.0,
+      "PageNumber": 123,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "投资后管理阶段获取信息的主要方式有：（一）参加被投资企业股东大会（股东会）、董事会、监事会；（二）关注被投资企业经营状况；（三）日常联络与沟通工作。有时，在未获得董事会席位的情况下，股权投资基金会希望委派人员出任董事会“观察员”角色，观察员通常不具有投票权，也不承担决策的作用，只是作为帮助投资人更好地了解公司日常运营情况的辅助性角色。",
+      "KnowledgeId": "d4a55778-1f52-4a49-8764-5632cfaf4795",
+      "AnswersIds": "b9ec4226-f9f5-41f2-bd00-02b431982484",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604148
+    },
+    {
+      "QuestionId": "1f2a5004-d91e-4445-a7eb-02f8314cb986",
+      "Topic": "关于项目跟踪与监控的经营指标，以下描述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 126,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是项目跟踪与管理的常用指标。企业价值与收入、利润、增长率等主要企业经营指标高度正相关，并且投资协议中往往会对相关指标进行约定，因此，投资机构对企业经营指标的了解与掌握尤为重要。以年度经营指标为例，由于年度经营指标一般覆盖整年，若不对经营指标的完成情况进行及时管控，经过一年时间，实际情况很可能和年初制订的计划产生较大的偏离，进而影响年度经营指标的顺利完成。因此，对经营指标的日常管控一定要及时，只有发现问题及时解决，才能保证目标的最终实现。故“经营指标的预期和实现总是不相符的，因此无需做任何对比和分析”和“年度经营指标一般覆盖整年，所以只需到年底再监控”错误。依据被投资企业自身经营情况，其经营指标监控侧重点也有所不同。例如，对于业务和市场已经相对成熟稳定的企业，侧重于业绩指标，如收入、净利润、市场占有率等；对于尚在积极开拓市场的成长型企业，侧重于成长指标，如网点建设、新市场进入、销售额增长等。故“对于业务和市场相对成熟稳定的企业，其经营指标监控应侧重于成长指标”错误。",
+      "KnowledgeId": "9e7bc0ce-6ea0-436f-9ca4-3750f50ee32a",
+      "AnswersIds": "ac9af9fa-5101-4017-a5bc-db1b22760817",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604158
+    },
+    {
+      "QuestionId": "6896867a-d328-4d3d-9ffb-62810c09406a",
+      "Topic": "以下选项中不属于投资机构对被投资企业跟踪和监控的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 129,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查项目跟踪与监控的主要方式。投资机构通常要求被投企业定期提供财务报表和业绩报告，并跟踪被投资企业重大合同等业务经营信息、重大的投资活动和融资活动等，通常会直接参与被投资企业股东大会、董事会和监事会，以提出议案或参与表决的方式，对被投资企业的经营管理实施监控。“与被投资企业创始人股东、高级管理人和其他关键人员签订竞业禁止条款和保密条款”属于投资框架协议条款，不属于项目跟踪与监控的方式。",
+      "KnowledgeId": "da077ca8-0128-4037-b23e-26df87d7dd1d",
+      "AnswersIds": "89505e1e-0698-4c9b-bcd7-2eed0d4f59ce",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604168
+    },
+    {
+      "QuestionId": "b5cd3ba0-9a28-4cd5-a22a-cefc3dcdc288",
+      "Topic": "关于增值服务的价值，表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 130,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "投资机构提供增值服务的目的主要是提升被投资企业自身价值，增加投资的收益。",
+      "KnowledgeId": "b798f146-d08e-46a9-bd0e-722270f072cb",
+      "AnswersIds": "f66d5a42-efbf-46b5-a807-9713beb1d95f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604178
+    },
+    {
+      "QuestionId": "35733c23-2aad-483d-b7a8-d610dc226df8",
+      "Topic": "可以帮助被投资企业提升公司治理水平的增值服务措施是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 131,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金增值服务的主要内容。被投资企业，特别是创业早期企业的公司治理架构往往比较粗糙，缺乏现代企业的公司治理基础，这会成为企业发展到一定程度时的前进障碍。相比起来，大多数成熟阶段的企业都会拥有一套相对完整、适合自身运营特点的公司治理模式与组织流程。一般来说，投资机构本身就非常注重被投资企业的公司治理结构，因此通常能在这些方面提供合理意见与建议，帮助被投资企业逐步建立起规范的公司治理结构。本题中，帮助被投资企业完善会计账户处理流程属于协助建立规范的财务管理体系，帮助被投资企业制定发展战略属于为企业提供管理咨询服务，帮助被投资企业完善人才招聘流程属于提供人才专家等外部关系网络。故“可以帮助被投资企业提升公司治理水平的增值服务措施是帮助被投资企业完善董事会议事规则”。",
+      "KnowledgeId": "b9b3c0b9-18c5-4a63-9553-4f218f405e40",
+      "AnswersIds": "e4e3482e-754d-4191-9bd1-05a18f36348e",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604188
+    },
+    {
+      "QuestionId": "1256919a-df9a-4646-93ae-9ea427fcf409",
+      "Topic": "以下为某机构投后管理的部分举措，属于增值服务的是（&nbsp;）。</p><p>Ⅰ.协助公司资本运作，包括资本规划、公开上市、并购整合等</p><p>Ⅱ.帮助建立规范的公司治理架构</p><p>Ⅲ.推荐高级管理人才</p><p>Ⅳ.跟踪业绩完成情况，及时执行业绩调整条款 ",
+      "Score": 1.0,
+      "PageNumber": 131,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "投资机构为被投资企业提供的增值服务通常包括以下几个方面的内容：（一）协助完善规范的公司治理架构，（二）协助建立规范的财务管理体系，（三）为企业提供管理咨询服务，(四)协助进行后续再融资工作，(五）协助上市及并购整合，（六）提供人才专家等外部关系网络。",
+      "KnowledgeId": "b9b3c0b9-18c5-4a63-9553-4f218f405e40",
+      "AnswersIds": "cfc9b114-87f6-4d9b-9fc9-74dad7b4a3d9",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604198
+    },
+    {
+      "QuestionId": "5efefea9-26cf-4bac-8ba8-a50bfa30ea78",
+      "Topic": "在现行市场规则下，上市公司股份和在全国股转系统挂牌的公司股份都可以使用的退出方式是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 138,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股权投资基金的退出方式主要有：上市转让退出、在场外交易市场挂牌转让退出、协议转让退出以及清算退出。股份上市转让需要遵循交易所的交易机制和规则。目前，我国证券交易所，主要有以下交易机制：竞价交易、大宗交易、要约收购、协议转让。根据《全国中小企业股份转让系统有限责任公司管理暂行办法》的规定，全国股转系统挂牌股票转让可采取协议转让、做市转让或中国证监会批准的其他转让方式。",
+      "KnowledgeId": "5f3ea9bf-1874-4d31-905d-3a552915e220",
+      "AnswersIds": "e7d95ca0-b1c7-4c79-8484-92aca9013b1f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604208
+    },
+    {
+      "QuestionId": "1a799abc-9a9e-49d8-af3e-c382df5742ca",
+      "Topic": "股权投资基金A投资了企业B，上市公司C与企业B在客户群体及业务相关度较高，为了整合资源实现协同发展，C通过向B的股东非公开发行新股以及支付现金的方式，用于收购基金A所持有的企业B的股权，从而使其实现间接上市，基金A最终通过公开市场转让C的股票实现退出。B间接上市的方式为（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 142,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金间接境内上市。所投资企业除了股票首次公开发行并上市外，还可以通过参与上市公司重大资产重组或借壳上市等方式间接上市，间接上市成功的，股权投资基金持有的被投资企业股份（股权）也可以转变成为相关上市公司的股份，通过公开市场转让实现退出。参与上市公司重大资产重组与借壳上市的区别在于，前者一般是上市公司对对非上市公司形成控股，而后者是非上市公司对上市公司，即壳公司形成绝对控股。本题中上市公司C对B的股权进行收购，是B参与到了C的重大资产重组中。故“B间接上市的方式为参与上市公司重大资产重组”。",
+      "KnowledgeId": "b17dc2ff-89c5-4347-b8ca-093194e01c04",
+      "AnswersIds": "68bf5424-7236-408b-a172-bb23d70c7cec",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604218
+    },
+    {
+      "QuestionId": "20cfa2c3-b01f-4bae-a055-e7f231a06034",
+      "Topic": "境外上市的一般操作流程通常不包括（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 145,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "境外上市可以分为以下四步：策划上市方案、准备相关文件、上市申报、公开发行及交易。",
+      "KnowledgeId": "152864a3-db58-43c9-8c33-06f790fa93b7",
+      "AnswersIds": "acb969ef-65e5-47d2-9e0c-e823d04c4b69",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604228
+    },
+    {
+      "QuestionId": "b968de5e-f0f2-461e-9b65-09b765cce4dd",
+      "Topic": "关于企业上市后股权转让退出，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.协议转让根据情形的不同可以分为协议收购、对价偿还、股份回购等</p><p>Ⅱ.要约收购包含全面要约和部分要约两种情况</p><p>Ⅲ.大宗交易会对竞价交易的股票价格形成巨大冲击</p><p>Ⅳ.收购人持有一个上市公司的股份达到该公司已发行股份30%时，继续增持股份的，应当采取要约方式进行 ",
+      "Score": 1.0,
+      "PageNumber": 146,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查大宗交易的作用。大宗交易转让的卖方和买方根据拟转让的股份及其数量，可以就交易价格和数量等要素进行协议议价，卖方容易取得更满意的价格。同时，大宗交易不会对竞价交易的股票价格形成巨大冲击，有利于市场稳定。故“大宗交易会对竞价交易的股票价格形成巨大冲击”错误。",
+      "KnowledgeId": "9ce04fe1-1085-4235-90fd-bcf1253b01f4",
+      "AnswersIds": "9261d330-d494-4892-80ac-0c86b234e007",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604238
+    },
+    {
+      "QuestionId": "275f0306-5d8a-433a-9870-ef31b342bf56",
+      "Topic": "关于锁定期的表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 145,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "锁定期（限售期）的设置，通常是为了保护中小投资者的利益，防止公司实际控制人、控股股东、董事、监事、高管等“内部人”利用信息优势获得不当利益，或者利用资本市场实现快速套现。锁定期分为强制锁定和自愿锁定两种，强制锁定是指法律法规或交易所规则规定的关于股份锁定的规则。自愿锁定是指在强制锁定的基础上，为了提升投资者信心，公司实际控制人、控股股东、董事、监事或高管自愿承诺在一定时间内不对外转让其持有的上市公司股份。",
+      "KnowledgeId": "9ce04fe1-1085-4235-90fd-bcf1253b01f4",
+      "AnswersIds": "e54620ca-7695-40a0-96dd-c9e9a81cc57f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604248
+    },
+    {
+      "QuestionId": "a7ec843b-1864-47cc-893b-07c138778949",
+      "Topic": "关于全国股份转让系统挂牌的基本流程，以下说法错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 149,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "材料制作阶段，会计师事务所、律师事务所等中介机构完成相应的审计和法律调查工作后，项目小组复核《资产评估报告》《审计报告》《法律意见书》等文件；主办券商制作《股份报价转让说明书》《尽职调查报告》及工作底稿等申报材料。主办券商内核会议审议拟挂牌公司的书面备案文件并决定是否向全国股转系统推荐挂牌。同意推荐目标公司挂牌的，向全国股转系统出具《推荐报告》。",
+      "KnowledgeId": "439ed928-1148-40a2-a3e1-3a9a6d8c1ae3",
+      "AnswersIds": "52c884ca-54ae-4590-8ba6-62102ce5a313",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604258
+    },
+    {
+      "QuestionId": "3d85c826-1e37-4a9e-9999-9aca4511a433",
+      "Topic": "下列关于协议转让并购退出方式的说法，错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 151,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "协议转让，不同于股票公开发行上市或挂牌后的协议转让，而是特指未上市企业股权的非公开协议转让，通常包括并购和回购。并购及回购退出是股权投资基金的重要退出途径。并购退出是指股权投资基金向目标公司投资后，其他收购方购买股权投资基金所持目标公司的全部或部分股权，使股权投资基金实现退出。股权回购是指通常由被投资企业大股东或创始股东、管理层、员工等出资购买股权投资基金持有的企业股份，从而使股权投资基金实现退出的行为。上市转让方式退出可以使股权投资基金获取较高的收益，公开上市使被投资企业价值得到更大程度的实现，资本增值产生的投资回报率较高，因此，上市转让退出通常被认为是最为理想的退出方式之一。",
+      "KnowledgeId": "e45f9589-3088-4505-9786-bc88b8a5a722",
+      "AnswersIds": "a6f7d487-d34a-438e-8035-5bd1bfdb2587",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604268
+    },
+    {
+      "QuestionId": "8c8625c2-888a-47e5-8592-d0c67517e9a3",
+      "Topic": "股权回购的发起人通常不包括（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 152,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "发起人既可以是股权投资基金，也可以是被投资企业股东、管理层。",
+      "KnowledgeId": "15d52ff5-21c1-47c3-ae92-fab7e38a7cb5",
+      "AnswersIds": "4019eb20-f870-4d1d-8a5f-5601ee31f14d",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604278
+    },
+    {
+      "QuestionId": "8828df34-526f-4e2c-8970-81ba0b9344f8",
+      "Topic": "关于清算退出表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 154,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题主要考查清算组的人员组成。公司解散清算的，有限责任公司的清算组由股东组成，股份有限公司的清算组由董事或者股东大会确定的人员组成。故“有限责任公司的清算组由董事会或股东大会确定的人员或由股东组成”错误。",
+      "KnowledgeId": "d4efeac0-01fe-46b0-93dc-c94f31f26278",
+      "AnswersIds": "d7e458e7-5951-4290-adb4-0abf41b63b86",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604288
+    },
+    {
+      "QuestionId": "83689451-46f4-4b0c-97c1-c06f2c3a31f0",
+      "Topic": "关于清算退出的流程，以下表述错误的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 154,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金清算退出的流程。清算退出流程如下：1.清查公司财产，制订清算方案；2.了结公司债权、债务，处理公司未了结的业务；清算期间，公司不得开展新的经营活动，但是公司清算组为了清算的目的，有权处理公司尚未了结的业务。3.分配公司剩余财产。故“清算期间，公司不得开展新的经营业务，清算组也不能处理公司尚未了结的业务”错误。",
+      "KnowledgeId": "0e044e93-73bb-4526-bb4f-a81e8d52a625",
+      "AnswersIds": "fe9fb372-40fa-4af4-8a0f-0e66250215a1",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604298
+    },
+    {
+      "QuestionId": "bde3cd9c-738d-4cec-9fa6-71268be2e8a3",
+      "Topic": "关于公司型股权投资基金的减资，表述错误的是（&nbsp;）。</p><p>Ⅰ.可以减少出资总额，同时改变原有基金投资者的出资比例</p><p>Ⅱ.可以减少原有各基金投资者的出资，减资完成后股东出资比例维持不变</p><p>Ⅲ.减资决议必须获得全体基金投资者的同意</p><p>Ⅳ.公司型基金可以随意减资，无需通知基金投资者以外的任何其他人 ",
+      "Score": 1.0,
+      "PageNumber": 163,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "公司型股权投资基金减资可以采用两种方式。一种是减少出资总额，同时改变原出资比例；另一种是以不改变出资比例为前提，减少各股东出资，减资完成后股东出资比例维持不变。公司型股权投资基金的增资或减资，应当履行公司内部的决策程序，包括董事会决议及股东大会（股东会）决议，签订相应的决议文件。有限责任公司型股权投资基金作出增资或者减资决议，必须经代表2/3上表决权的股东通过；股份有限公司型股权投资基金作出增资或者减资决议，必须经出席股东大会（股东会）的股东所持表决权的2/3以上通过。",
+      "KnowledgeId": "4bf4b0d7-46e7-4503-a0a2-f9d9543e103e",
+      "AnswersIds": "596cfdb0-1d64-4f2e-87a6-3464df0a373f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604308
+    },
+    {
+      "QuestionId": "d73268ee-2f4c-4344-94c7-3ef2ec78c7b6",
+      "Topic": "合伙型股权投资基金应当解散的情形包括（&nbsp;）。</p><p>Ⅰ.基金存续届满且合伙人决定不再经营</p><p>Ⅱ.全部投资项目到期退出</p><p>Ⅲ.基金管理人决定解散</p><p>Ⅳ.合伙协议约定的解散事由 ",
+      "Score": 1.0,
+      "PageNumber": 166,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是合伙型股权投资基金的解散情形。一般地，合伙型股权投资基金出现以下情形的，应当解散：1．合伙型股权投资基金存续期届满且合伙人决定不再经营的；2．全部投资项目到期退出的；3.全体合伙人决定解散的；4．法律、行政法规及合伙协议约定的其他解散事由。故“解散情形不包括基金管理人决定解散”。",
+      "KnowledgeId": "7a4cef7e-c59a-4db3-a9f4-bedd38192d48",
+      "AnswersIds": "5b04bea0-82d9-49fb-9ce7-7149265d870b",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604318
+    },
+    {
+      "QuestionId": "6cb5689b-d029-4582-8430-292dd2c17aad",
+      "Topic": "关于股权投资基金的清算退出流程，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 167,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是信托（契约）型基金的登记。不同于公司型及合伙型股权投资基金，信托（契约）型股权投资基金无须在工商行政管理机关办理工商登记手续。故“无论是公司型、合伙型、还是信托（契约）型股权投资基金，都应该及时向工商机关办理注销手续”错误。",
+      "KnowledgeId": "7a47d12d-31b9-4938-802a-dd0615869663",
+      "AnswersIds": "7b0099a2-f7cb-4029-b2de-97334b87f000",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604328
+    },
+    {
+      "QuestionId": "2ba20444-50be-4369-84ac-76603fe9cc6b",
+      "Topic": "某股权投资基金已投资A、B、C三个项目，A项目当前价值为2.5亿元，B项目当前价值为2亿元，C项目当前价值为1.5亿元。此外，基金资产还包括5000万元银行存款，已产生的应付未付管理费用、托管费用等负债合计2000万元。则当前基金的净值为（&nbsp;）亿元。&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 168,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金资产净值的计算。目前行业较为常用的对股权投资基金进行估值的方式，是先根据估值方法确定基金投资的每一个单一投资项目的价值及项目价值总和，加上基金持有的其他资产价值，再扣减基金应承担的费用等负债，最终得到基金资产净值，用公式表示为：基金资产净值=项目价值总和+其他资产价值-基金费用等负债=2.5亿元+2亿元+1.5亿元+0.5亿元-0.2亿元=6.3亿元。",
+      "KnowledgeId": "808d0047-6939-411e-a624-169c1285366c",
+      "AnswersIds": "48e1773a-195e-46aa-bcb4-bb6ba22d444c",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604338
+    },
+    {
+      "QuestionId": "ce30731e-3812-41a0-a789-c5d6e737689e",
+      "Topic": "对于股权投资基金的估值，通常使用的方法有（&nbsp;）。</p><p>Ⅰ.成本法</p><p>Ⅱ.市场法</p><p>Ⅲ.收入法</p><p>Ⅳ.费用法 ",
+      "Score": 1.0,
+      "PageNumber": 169,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金估值方法的种类。对股权投资基金的估值，通常使用的方法主要有三类，即成本法、市场法和收入法。",
+      "KnowledgeId": "808d0047-6939-411e-a624-169c1285366c",
+      "AnswersIds": "a4b1aeb0-5c54-4f23-bf60-d4fb7faeb8d4",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604348
+    },
+    {
+      "QuestionId": "d654f04f-2667-4a75-9482-9ff91a2ce166",
+      "Topic": "股权投资基金收益分配方式中，按基金分配时可分配资金首先用于返还全体投资者的出资本金，相比较而言，按单一项目分配（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 175,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "在按照单一项目的收益分配方式下，在满足约定条件后，基金管理人针对每笔投资后退出收入都参与收益分配。在前期项目盈利并提取了业绩报酬而后期项目出现亏损的情况下，可能出现基金管理人已提取的业绩报酬金额超过基金整体盈利部分既定比例，或者基金投资者获取的投资收益不足门槛收益的情况。",
+      "KnowledgeId": "6cf3a9b8-906b-442b-b99c-1f5e53f8ddc7",
+      "AnswersIds": "60a949b1-c14c-41ef-b161-abfedfa6f523",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604358
+    },
+    {
+      "QuestionId": "e4d28e43-0cb2-406d-9094-a3a266e96b45",
+      "Topic": "某合伙型股权投资基金规模2亿元，所有投资者均完成实缴。该基金采用瀑布式收益分配体系，按照基金整体分配收益，没有约定门槛收益，无追赶机制，如有超额收益按“二八模式”分成。基金存续期7年结束进入清算，所有项目完成退出，退出金额合计5亿元，期间所有税费合计2000万元。基金管理人可获得业绩报酬（&nbsp;）亿元。",
+      "Score": 1.0,
+      "PageNumber": 173,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是基金收益的分配机制。在瀑布式收益分配体系下，如果没有约定门槛收益又无追赶机制。则在返还投资人本金之后，从剩余的资产扣减相应的费用，按照“二八模式”进行分配。即基金收益或超额收益的20%作为业绩报酬分配至基金管理人，80%分配至基金投资者。项目退出金额5亿元，实缴规模2亿元，则返还投资者本金后剩余3亿元，扣除税费2000万元，剩余2.8亿元。则基金管理人可获得的业绩报酬为2.8亿×0.2=0.56亿元。",
+      "KnowledgeId": "6cf3a9b8-906b-442b-b99c-1f5e53f8ddc7",
+      "AnswersIds": "26afaba7-53cf-43ad-a06a-0d7bfdc8875b",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604368
+    },
+    {
+      "QuestionId": "5bbf86ec-1ed2-4939-831e-8d2edd1d55f2",
+      "Topic": "关于基金的收益分配方式下，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 173,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的基金收益分配的追赶机制。追赶机制，是指在向基金投资者分配投资本金及门槛收益之后，将剩余收益先行向基金管理人分配，直至达到门槛收益与当前“追赶”金额之和的既定比例，作为基金管理人的业绩报酬。按照上述方式完成“追赶”后，余下的收益再按照业绩报酬分配比例在基金投资者与基金管理人之间进行分配。故“在追赶机制下分配本金及门槛收益后，剩余收益直接按约定比例（如8:2）在基金投资者与基金管理人之间分配”错误。",
+      "KnowledgeId": "6cf3a9b8-906b-442b-b99c-1f5e53f8ddc7",
+      "AnswersIds": "9508c096-9f4c-46c1-a5a4-a4b7bff5ccdd",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604378
+    },
+    {
+      "QuestionId": "f085ab24-c9ab-42a5-a718-c9bb87589c85",
+      "Topic": "关于基金清算，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 176,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查基金清算的概念。股权投资基金的清算，是指在基金存续期限面临终止的情况下，负有清算义务的主体，按照法律法规规定和基金合同约定的方式、程序对基金的资产、负债、权益等进行全面的清理和处置的行为。故“基金清算是指基金定期或不定期对其资产、负责、权益等情况进行核算”错误。",
+      "KnowledgeId": "568971fb-1fd9-4759-9c5e-1a13fa5ce43e",
+      "AnswersIds": "e613e304-ff0e-40eb-999e-6e67b6529f1d",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604388
+    },
+    {
+      "QuestionId": "7cbf0d65-9b43-4886-be93-0227c967af41",
+      "Topic": "合伙型股权投资基金根据合伙协议约定进入清算程序，关于基金清算人，以下表述正确的是（&nbsp;）。</p><p>Ⅰ.清算人由全体合伙人担任</p><p>Ⅱ.清算人由基金管理人担任，该事项应得到合伙人大会半数以上合伙人同意</p><p>Ⅲ.清算人由第三方担任，该事项应得到全体合伙人一致同意</p><p>Ⅳ.未确定清算人的，合伙人或其他厉害关系人可向人民法院申请指定清算人 ",
+      "Score": 1.0,
+      "PageNumber": 176,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是合伙型股权投资基金清算主体的概念。合伙型股权投资基金的清算由清算人负责。清算人由全体合伙人担任；经全体合伙人过半数同意，可以指定一个或者数个合伙人，或者委托第三人担任清算人。未确定清算人的，合伙人或者其他利害关系人可以申请人民法院指定清算人。需要注意的是清算人由第三方担任，全体合伙人过半数通过即可。故“清算人由第三方担任，该事项应得到全体合伙人一致同意”错误。",
+      "KnowledgeId": "568971fb-1fd9-4759-9c5e-1a13fa5ce43e",
+      "AnswersIds": "d4452766-6aa4-4846-96fa-008a51bc06a6",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604398
+    },
+    {
+      "QuestionId": "fb5ece96-e66d-4799-81a6-071081a3a328",
+      "Topic": "股权投资基金管理人应向中国证券投资基金业协会报告的内容包括（&nbsp;）。</p><p>Ⅰ.基金管理人名称、高级管理人员变更</p><p>Ⅱ.基金管理人依法解散、被依法撤销或者被依法宣告破产</p><p>Ⅲ.基金管理人或高级管理人员存在重大违法违规行为</p><p>Ⅳ.基金管理人分立或者合并 ",
+      "Score": 1.0,
+      "PageNumber": 181,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金重大事项信息披露。在股权投资基金运作期间，当出现与基金管理人或者股权投资基金相关的重大事项时，信息披露义务人应当将重大事项进行临时披露。一般来说，重大事项包括基金管理人和托管人发生重大事项变更、股权投资基金发生重大损失、管理费率或者托管费率变更、清盘或者清算、重大关联交易、提取业绩报酬等。",
+      "KnowledgeId": "f98f2d35-4e14-4678-8d22-8f5d65380076",
+      "AnswersIds": "0fcee76a-ad99-4655-99c4-9b9a0fbbd3a4",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604408
+    },
+    {
+      "QuestionId": "0d4a06fb-198f-468e-a382-9428a8a6cbe4",
+      "Topic": "股权投资基金运作期间，基金的费率发生变化，相应信息披露正确的做法是（）。",
+      "Score": 1.0,
+      "PageNumber": 181,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金的信息披露。在股权投资基金运作期间，当出现与基金管理人或者股权投资基金相关的重大事项时，信息披露义务人应当将重大事项进行临时披露。一般来说，重大事项包括基金管理人和托管人发生重大事项变更、股权投资基金发生重大损失、管理费率或者托管费率变更、清盘或者清算、重大关联交易、提取业绩报酬等。故“股权投资基金运作期间，基金的费率发生变化，相应信息披露正确的做法是尽快进行临时披露”。",
+      "KnowledgeId": "f98f2d35-4e14-4678-8d22-8f5d65380076",
+      "AnswersIds": "21c74c3d-5266-4943-b2d8-c49c35dd25e0",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604418
+    },
+    {
+      "QuestionId": "96402ce5-6400-4450-aa0a-7dc224e90639",
+      "Topic": "股权投资基金运行期间，基金管理人应当在5个工作日内向中国证券投资基金业协会报告的重大事项包括（&nbsp;）。</p><p>Ⅰ.投资者数量变化</p><p>Ⅱ.主要投资方向变化</p><p>Ⅲ.基金期满发生清盘</p><p>Ⅳ.基金托管人变更 ",
+      "Score": 1.0,
+      "PageNumber": 181,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查股权投资基金信息披露的内容和安排。一般来说，重大事项包括基金管理人和托管人发生重大事项变更、股权投资基金发生重大损失、管理费率或者托管费率变更、清盘或者清算、重大关联交易、提取业绩报酬、基金合同约定的影响投资者利益的其他重大事项等。",
+      "KnowledgeId": "f98f2d35-4e14-4678-8d22-8f5d65380076",
+      "AnswersIds": "7a925a99-90dc-4b56-bbf1-cf5978f884b5",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604428
+    },
+    {
+      "QuestionId": "551899e6-7d6f-4160-9d4b-87c8cd2a77c5",
+      "Topic": "关于股权投资基金中的市场服务机构，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 187,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金份额登记服务的概念。份额登记服务，是指基金服务机构代理基金管理人为股权投资基金办理基金份额登记过户、存管、结算等活动。故“为保障投资者合法权益，必须由基金管理人办理基金份额登记”错误。",
+      "KnowledgeId": "82dec33e-e4f8-4730-a23d-8cc168be5af5",
+      "AnswersIds": "006b5278-ead8-41b6-98a3-cef5e5774ddd",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604438
+    },
+    {
+      "QuestionId": "0b1d02b0-677b-4b60-926f-910cb8f1498e",
+      "Topic": "关于基金服务业的利益冲突，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 188,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是基金服务业务中可能存在的利益冲突。在开展基金服务业务的各个阶段，基金管理人应关注基金服务机构是否存在与提供基金服务相冲突的业务，以及基金服务机构是否采取了有效的隔离措施。同时，基金服务机构也应强化基金服务业务的独立性要求，应采取有效的内控与隔离措施保障基金服务业务独立运营，防范利益冲突和输送。基金托管人不得被委托担任同一基金的基金服务机构，除非该托管人能够将其托管职能和基金服务职能进行分离，恰当地识别、管理、监控潜在的利益冲突，并披露给投资者。故“基金服务机构与基金托管人一定不得为同一机构”错误。",
+      "KnowledgeId": "99af3fb3-1324-4bf4-b6c9-52afc712815a",
+      "AnswersIds": "3e236c77-aa4b-4a32-a717-dec885dbfeed",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604448
+    },
+    {
+      "QuestionId": "25a2cbb6-3a73-437a-88d5-b1feadca82c8",
+      "Topic": "假设某股权投资基金已投实缴规模为2亿元，门槛收益率为8%，基金管理人收取20%的超额收益。该基金已完成全部投资，共投资A和B两个公司。2年后，顺利完成A公司的退出，退出后回收现金金额为1.1亿元，并已全额向投资者分配；同时，B公司最近一年净利润为9000万元，最新一轮交易按照息税前利润的6倍进行估值，所得税税率为25%，公司债务余额为1亿元，利息为每年1000万元，交易完成后该股权投资基金占B公司股比例稀释至20%。假设目前该基金的资产净值为2.1亿元，则该基金的总收益倍数为（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 192,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金总收益倍数的计算。总收益倍数（TVPI），是指截至某一特定时点，投资者已从基金获得的分配金额加上资产净值（NAV）与投资者已向基金缴款金额总和的比率，体现了投资者的账面回报水平。故总收益倍数TVPI=（D+NAV）/P=（1.1+2.1）/2=1.6。",
+      "KnowledgeId": "c5a0f9c6-2432-4c8f-925f-cfe331b1ab58",
+      "AnswersIds": "bac37dc3-653a-4867-9135-4369dcf4c879",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604458
+    },
+    {
+      "QuestionId": "b136834f-4db6-41dd-ae88-5555db96592c",
+      "Topic": "X公司于2012年分别向A基金和B基金投资了5亿元，投资款项均为一次付清。A基金存续期为5年，于2016年和2017年分别向X公司分配3亿元和7亿元，并于2017年完成清算。B基金存续期为8年，截至2017年12月31日共计向X公司分配8亿元，于2017年12月31日B基金账面归属于X公司的净资产为2亿元。以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 192,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是基金业绩评价指标。已分配收益倍数是指截至某一特定时点，投资者已从基金获得的分配金额总和与投资者已向基金缴纳基金总和的比率，体现了投资者现金的回收情况。总收益分配倍数是指截至某一特定时点，投资者已从基金获得的分配金额加上资产净值与投资者已向基金缴纳金额总和的比率，体现了投资者的账面回报水平。所以B基金的已分配收益倍数是8/5=1.6，总收益倍数是（8+2）/5=2.故“B基金的总收益倍数高于已分配收益倍数”。A基金的已分配收益倍数=（3+7）/5=2，总收益倍数=（3+7+0）/5=2，故“A基金的已分配收益倍数和总收益倍数均为2”。有很多股权投资基金所投资的企业在运营过程中，由于阶段性业绩增长或行业投资热度提高可能产生较高的估值，但由于当前受限无法退出或后期退出时企业估值下降，基金最终实际取得的回报小于先前的估值。这种情况多在投资早期项目的基金发生，为此投资者需结合已分配收益倍数和总收益倍数来评价基金业绩。故“A基金的业绩显著好于B基金”错误。",
+      "KnowledgeId": "c5a0f9c6-2432-4c8f-925f-cfe331b1ab58",
+      "AnswersIds": "099a60db-348d-4407-bc07-8db230aba4c0",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604468
+    },
+    {
+      "QuestionId": "d3132355-e5b8-448b-bed0-2a3934d3bf83",
+      "Topic": "假设某基金募集规模为4亿元，2012年成立，截至2016年末资产净值是8亿元，各年投资者缴款和分配金额如下所示：<img src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/202007161258376515.png\" alt=\"\" />单位：亿元。该基金截至2016年年末的总收益倍数是（&nbsp;&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 192,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是总收益倍数的计算方法。总收益倍数是指截至某一特定时点，投资者已从基金获得的分配金额加上资产净值与投资者已向基金缴款金额总和的比率，体现了投资者账面回报水平。本题中，投资者已从基金获得的分配金额加上资产净值为1.2+3.2+8=12.4亿元。投资者缴款为：0.8+0.9+0.7+0.1=2.5亿元。故总收益倍数为12.4亿÷2.5亿=4.96。",
+      "KnowledgeId": "c5a0f9c6-2432-4c8f-925f-cfe331b1ab58",
+      "AnswersIds": "6ca8b323-05da-48ef-87ee-b9aba5514ea3",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604478
+    },
+    {
+      "QuestionId": "8a29de1f-d010-4fee-860b-481178ad8112",
+      "Topic": "在设计和执行基金管理人内部控制制度时，下列表述正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 199,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金内部控制要素的构成。基金管理人应当建立科学、严格的岗位分离制度。明确划分各岗位职责，投资和交易、交易和清算、基金会计和管理人财务核算会计等重要岗位不得有人员的重叠，重要业务部门和岗位应当进行物理隔离。",
+      "KnowledgeId": "c3bec74a-06bd-4240-b6b0-4a407107cbc6",
+      "AnswersIds": "b2af0777-6772-49f0-9512-6097138241be",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604488
+    },
+    {
+      "QuestionId": "7416f1a2-5a82-48b2-b844-76d20908c76b",
+      "Topic": "关于股权投资基金管理人的内部控制，表述正确的是（&nbsp;）。</p><p>Ⅰ.股权基金管理人开展业务外包应制定相应的风险管理框架及制度</p><p>Ⅱ.投资决策应符合合同所约定的预期收益、投资范围、投资策略</p><p>Ⅲ.所有基金都应当由基金托管人进行托管</p><p>Ⅳ.管理人选择基金服务机构时，应关注该服务机构是否存在与基金服务业务相冲突的其他业务&nbsp; ",
+      "Score": 1.0,
+      "PageNumber": 200,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股权投资基金管理人应建立健全投资业务控制，保证投资决策严格按照法律法规的规定，符合基金合同所规定的投资目标、投资范围、投资策略、投资组合和投资限制等要求。除基金合同另有约定外，基金财产应当由基金托管人托管，股权投资基金管理人应建立健全股权投资基金托管人遴选制度，切实保障资金安全。",
+      "KnowledgeId": "2482973e-95e1-43b8-83d7-6231be5dbdaa",
+      "AnswersIds": "a39dab58-72de-4a19-a0af-4a1f5f5d0cb1",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604498
+    },
+    {
+      "QuestionId": "534d2169-2a0a-4321-9adc-fcd7ca81466a",
+      "Topic": "合格投资者的辅助判断要素（非核心要素）是指（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 212,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金合格投资者制度。具备风险识别能力和承担能力、投资额不低于规定限额、资产规模或者收入水平达到一定要求，是合格投资者必备的三个要素。其中，风险识别能力和承担能力是合格投资者的核心要素，拥有的资产规模或收入水平、最低投资限额是辅助判断要素。",
+      "KnowledgeId": "d65c6bbb-b7a3-412e-aa0a-f73545f6f2cb",
+      "AnswersIds": "47931890-fc82-47bc-aaeb-555c2cdec04f",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604508
+    },
+    {
+      "QuestionId": "2c21bc74-20b4-4ee6-b8d9-26e99fd218f7",
+      "Topic": "可以直接认定为股权投资基金合格投资者的是（&nbsp;）。</p><p>Ⅰ.慈善基金</p><p>Ⅱ.企业年金</p><p>Ⅲ.社会保障基金</p><p>Ⅳ.投资于所管理私募基金的基金管理人及其从业人员 ",
+      "Score": 1.0,
+      "PageNumber": 212,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "下列投资者视为合格投资者：(1)社会保障基金、企业年金等养老基金，慈善基金等社会公益基金；(2)依法设立并在基金业协会备案的投资计划；(3)投资于所管理私募基金的私募基金管理人及其从业人员；(4)中国证监会规定的其他投资者。",
+      "KnowledgeId": "d65c6bbb-b7a3-412e-aa0a-f73545f6f2cb",
+      "AnswersIds": "acfd64fa-5960-46bb-a49f-b4e82faaa9a7",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604518
+    },
+    {
+      "QuestionId": "93f823e9-b528-4736-8bab-f8d3b4f5169d",
+      "Topic": "根据我国相关法律规定，信托（契约）型股权投资基金的投资人数最多可以达到（&nbsp;）人，而合伙型股权投资基金投资者的上限为（&nbsp;）人。 ",
+      "Score": 1.0,
+      "PageNumber": 212,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金合格投资者制度。股权投资基金应当向合格投资者募集，单只股权投资基金的投资者人数累计不得超过《证券投资基金法》《公司法》《合伙企业法》等法律规定的特定数量，即有限责任公司型和有限合伙型股权投资基金投资者人数不超过50人，股份有限公司型和信托（契约）型股权投资基金投资者人数不超过200人。",
+      "KnowledgeId": "d65c6bbb-b7a3-412e-aa0a-f73545f6f2cb",
+      "AnswersIds": "733a2f89-42a5-4d82-bd98-e8544cec3586",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604528
+    },
+    {
+      "QuestionId": "f36b34da-428c-4b11-9a25-eb6600c5dcf6",
+      "Topic": "某合伙型股权投资基金成立初期投资者合计45位，一年后有限合伙人甲拟将持有的基金份额800万元转让，以下不符合受让人条件的是（&nbsp;）。</p><p>Ⅰ.10位合伙人组成的未备案有限合伙型基金</p><p>Ⅱ.基金现有有限合伙人乙</p><p>Ⅲ.净资产500万元的有限责任公司丙</p><p>Ⅳ.已在中国证券投资基金业协会备案的155位投资人的信托（契约）型基金 ",
+      "Score": 1.0,
+      "PageNumber": 212,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是股权投资基金合格投资者制度。有限责任公司型和有限合伙型股权投资基金投资者人数不超过50人，股份有限公司型和信托（契约）型股权投资基金投资者人数不超过200人。投资者转让基金份额的，受让人应当为合格投资者且基金份额受让后投资者人数应当符合前述规定。股权投资基金的合格投资者是指具备相应风险识别能力和风险承担能力，投资于单只基金的金额不低100万元且符合下列相关标准的单位和个人：&nbsp;(1)净资产不低于1&nbsp;000万元的单位；(2)金融资产不低于300万元或者最近三年年均收入不低于50万元的个人。故不符合受让条件的是“10位合伙人组成的未备案有限合伙型基金”、“净资产500万元的有限责任公司丙”。",
+      "KnowledgeId": "d65c6bbb-b7a3-412e-aa0a-f73545f6f2cb",
+      "AnswersIds": "2441b2a5-79e9-40a1-a7e1-73587528ecd3",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604538
+    },
+    {
+      "QuestionId": "600cf6b1-19ba-41d4-8d38-368b49ef741e",
+      "Topic": "关于反摊薄条款中的加权平均条款，以下表述错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 112,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是加权平均条款的概念。与完全棘轮条款不同，加权平均条款将新增出资额的数量作为反稀释时一个重要的考虑因素，既考虑新增出资额的价格，也考虑融资额度。与完全棘轮条款相比，加权平均条款对目标公司和创始股东更为有利，也更容易被各方接受。故“加权平均条款不考虑新增出资额的价格”错误。",
+      "KnowledgeId": "ce86a047-e636-4c62-9a69-29c97b62a406",
+      "AnswersIds": "e1f15026-947b-4492-83f0-ad0e30d0c7f4",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604548
+    },
+    {
+      "QuestionId": "015e32de-6aed-4312-82f9-0440cda8911b",
+      "Topic": "假如某股权投资基金2010年成立，募集规模为8亿元，截至2015年末的资产净值为6.8亿元，各年度投资者缴款和分配金额如下表所示：<img src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/202007160102321772.png\" alt=\"\" />截至2015年总收益倍数（TVPI）为（&nbsp;&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 192,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是总收益倍数的计算。总收益倍数=（投资者历年分配+期末资产净值）/投资者历年缴款=（0.5+1.5+1.5+2.5+6.8）/（2.5+2.5+3）=1.6。",
+      "KnowledgeId": "c5a0f9c6-2432-4c8f-925f-cfe331b1ab58",
+      "AnswersIds": "42b126ab-43d1-48a0-8463-5b07870bb7b1",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3604558
+    },
+    {
+      "QuestionId": "8eca7420-ea76-444f-8a48-9187dc5079d0",
+      "Topic": "在股权投资基金募集过程中，宣传措辞可以包括（  ）。 ",
+      "Score": 1.0,
+      "PageNumber": 267,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "信息披露义务人披露基金信息，不得存在以下行为：（1）公开披露或者变相公开披露；（2）虚假记载、误导性陈述或者重大遗漏；（3）对投资业绩进行预测；（4）违规承诺收益或者承担损失；（5）诋毁其他基金管理人、基金托管人或者基金销售机构；（6）登载任何自然人、法人或者其他组织的祝贺性、恭维性或推荐性文字；（7）采用不具有可比性、公平性、准确性、权威性的数据来源和方法进行业绩比较，任意使用“业绩最佳”“规模最大”等相关措辞；（8）法律、行政法规、中国证监会和基金业协会尽职的其他行为。",
+      "KnowledgeId": "7c2ad861-4dcf-4dcf-b659-cacc7fb7778b",
+      "AnswersIds": "d2ac6a4e-75fe-4911-806f-577bd4975df8",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3586747
+    },
+    {
+      "QuestionId": "6e073e83-0ad6-4f31-8127-828016935a43",
+      "Topic": "A基金拟进行医疗器械制造行业的投资，正在对业务及产品类似的Y、Z两个公司尽调。其中，Z公司本年预计销售收入比Y公司多1000万元，且Z公司发展更为迅猛，Z公司在3个月前接受;B基金投资时投后估值为6亿元，B基金采用市销率倍数法按本年预计销售收入估值市销率倍数为12。A基金参考B基金的估值方法对Y公司进行估值，选取使用行业平均市销率倍数10，则计算Y公司的估值为（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 96,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "第一步：根据市销率倍数法，计算Z公司预计年销售收入，即6/12=0.5（亿元）第二步：计算Y公司预计年销售收入，即0.5-0.1=0.4（亿元）第三步：计算Y公司得估值，0.4×10=4（亿元）",
+      "KnowledgeId": "cfcb4dd1-f67a-4b26-bfde-7626cc000bb4",
+      "AnswersIds": "fba8fd4a-4777-4d29-aa4f-7b9601e7f618",
+      "ParentID": null,
+      "QuestionLevel": "",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "9cc59bc0-3932-25ec-1a6c-704578d75800",
+      "QuestionOrderNo": 3581627
+    }
+  ],
+  "Answer": [
+    {
+      "AnswerID": "5cc3e692-7516-4370-966a-86c6f27841a3",
+      "AnswerContent": "目标企业控制权分配的重要条款",
+      "QuestionId": "5bd152d2-062a-469a-8812-160a8a6c6fe8"
+    },
+    {
+      "AnswerID": "0541bb6c-e27c-4182-bb74-887c69868a60",
+      "AnswerContent": "优先级低，&nbsp;成本高",
+      "QuestionId": "90c4d7e8-76d0-43af-843c-aff8d59f0138"
+    },
+    {
+      "AnswerID": "994799d4-f1b1-4570-b19f-521d0635ec9b",
+      "AnswerContent": "并购退出是股权投资基金的重要退出途径之一",
+      "QuestionId": "3d85c826-1e37-4a9e-9999-9aca4511a433"
+    },
+    {
+      "AnswerID": "e84d8df7-e4b7-447c-9fe4-f71643a37b91",
+      "AnswerContent": "破产清算是指公司不能清偿到期债务，并且资产不足以清偿全部债务或者明显缺乏清偿能力时，公司被法院宣告破产，并由法院组织对公司进行的清算",
+      "QuestionId": "8828df34-526f-4e2c-8970-81ba0b9344f8"
+    },
+    {
+      "AnswerID": "14d08294-7836-4fe1-9295-431a33733190",
+      "AnswerContent": "自愿锁定是指在强制锁定的基础上，为了提升投资者信心，公司的实际控制人、高管、董事、监事、控股股东等自愿承诺在一定时间内不对外转让其持有的上市公司的股份",
+      "QuestionId": "275f0306-5d8a-433a-9870-ef31b342bf56"
+    },
+    {
+      "AnswerID": "be71c6b9-429f-4e0e-b14b-1cfd720b203f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "37db894e-e134-49d0-b766-f53c48e7b3da"
+    },
+    {
+      "AnswerID": "b0bf103f-43e1-4613-acf1-51425dcbdf4f",
+      "AnswerContent": "股权投资母基金跟着所投资的基金直接投资项目",
+      "QuestionId": "988b26db-5ed6-4417-b717-1be1985be008"
+    },
+    {
+      "AnswerID": "047fcd4c-386b-450a-9845-0909111e0764",
+      "AnswerContent": "创业投资基金",
+      "QuestionId": "699456d1-8122-4beb-8607-db1246c980ff"
+    },
+    {
+      "AnswerID": "a57ee9d5-cea2-47d1-af87-bb0a1d16ceeb",
+      "AnswerContent": "反摊薄条款本质上是一种价格保护机制",
+      "QuestionId": "b7f4ff84-d0b3-4ce2-a21d-12e4c40238c4"
+    },
+    {
+      "AnswerID": "dea2721c-20cc-484e-b143-f3bb6c6bcdbe",
+      "AnswerContent": "早期发展阶段可能会需要股权融资",
+      "QuestionId": "fa7c69ad-c234-4895-b366-6b11a9486d3a"
+    },
+    {
+      "AnswerID": "327e862e-a9f5-445f-a978-85bd47b968b7",
+      "AnswerContent": "募集机构应建立相关制度保障投资者的商业秘密",
+      "QuestionId": "72d99d11-edaf-458c-9587-ce8aed4f38d1"
+    },
+    {
+      "AnswerID": "e3dc6971-9c30-42f6-9880-8b2894eae690",
+      "AnswerContent": "对于公司利润表中的非经常性损益，应关注其对利润的影响",
+      "QuestionId": "5804c815-bf10-4fb9-845a-b4b04c743931"
+    },
+    {
+      "AnswerID": "8f2fe3da-4666-416c-ba69-270560baad95",
+      "AnswerContent": "基金投资者有权参与选择承办基金审计业务的审计机构",
+      "QuestionId": "551899e6-7d6f-4160-9d4b-87c8cd2a77c5"
+    },
+    {
+      "AnswerID": "49901097-d57d-4f95-aed3-6dd9a6233d32",
+      "AnswerContent": "要约收购",
+      "QuestionId": "1a799abc-9a9e-49d8-af3e-c382df5742ca"
+    },
+    {
+      "AnswerID": "9516c4a7-2390-4653-b6b5-d3a2a4672060",
+      "AnswerContent": "在向基金投资者定期披露的基金报告中描述X项目投资金额及项目基本情况",
+      "QuestionId": "d77c6677-b571-4096-998d-ac0909690000"
+    },
+    {
+      "AnswerID": "563473b4-8be1-4ef5-966b-6c5663644e85",
+      "AnswerContent": "该等式使得企业价值和股权价值可以进行转换",
+      "QuestionId": "7d44fe96-b725-454e-a049-98711646a4f6"
+    },
+    {
+      "AnswerID": "9246274a-0082-45d3-8cd1-2a7f9123bbdb",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "4227f833-cd7d-4481-b05f-48f7324b6cd2"
+    },
+    {
+      "AnswerID": "6af311fb-6bdb-4067-bbe7-8309aef4eb3f",
+      "AnswerContent": "乙的投资收益可以享受所得税优惠政策",
+      "QuestionId": "ec92c289-a11a-446c-ae1e-9a86def2e8fe"
+    },
+    {
+      "AnswerID": "4936153f-a70f-4817-84fa-6616e9283e8a",
+      "AnswerContent": "B基金的已分配收益倍数为1.6",
+      "QuestionId": "b136834f-4db6-41dd-ae88-5555db96592c"
+    },
+    {
+      "AnswerID": "36a4c4de-b60b-44d0-aee6-fcf84bf595e1",
+      "AnswerContent": "A公司的股东与某投资人探讨A公司的本次股权融资方案",
+      "QuestionId": "93e1f02c-31fd-405d-b95a-603aa545287a"
+    },
+    {
+      "AnswerID": "50af1639-dc1c-483d-8076-b1a72152ccd2",
+      "AnswerContent": "7551万元",
+      "QuestionId": "6bf69376-8d37-4064-b0ef-5ab11400556b"
+    },
+    {
+      "AnswerID": "30235479-ce09-442d-b9d6-1cb130590471",
+      "AnswerContent": "并购基金可以向被投企业注入其他商业资源，提升企业在生产链中的地位和价值",
+      "QuestionId": "2aa603ba-6d34-4723-a652-e48a55e6519a"
+    },
+    {
+      "AnswerID": "109c55c0-7740-4e25-a207-47734827e9a0",
+      "AnswerContent": "可以自行募集其设立的股权投资基金",
+      "QuestionId": "4f64c84d-3ee6-4d6e-a254-2275eefaf65e"
+    },
+    {
+      "AnswerID": "cfc9b114-87f6-4d9b-9fc9-74dad7b4a3d9",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "1256919a-df9a-4646-93ae-9ea427fcf409"
+    },
+    {
+      "AnswerID": "b53f27da-8a03-437e-b4ab-30eb37ec0121",
+      "AnswerContent": "自律组织可以促进会员忠实履行受托义务和社会责任，推动行业持续稳定健康发展",
+      "QuestionId": "ee6c0679-51e6-4a76-bc2a-61cae360bae0"
+    },
+    {
+      "AnswerID": "114405aa-2c3d-4f57-abb2-6f8fbf87be12",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "14cb2f71-0ade-46dd-ac38-a6d836c83728"
+    },
+    {
+      "AnswerID": "7a859bb0-c93a-4dae-9ba9-31f2a70516b0",
+      "AnswerContent": "基金存续期限届满且公司或全体合伙人决定不再经营的，应当安排清算",
+      "QuestionId": "6cb5689b-d029-4582-8430-292dd2c17aad"
+    },
+    {
+      "AnswerID": "ec75d5f9-8fb0-4f54-8db1-97c2ab388394",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "3da6c010-e286-4803-934c-6aa5691ecee3"
+    },
+    {
+      "AnswerID": "4443687f-cb0f-4ae4-b001-208c9e9ec7f1",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "634893e8-7dc1-4e31-b2fa-1eeac3164410"
+    },
+    {
+      "AnswerID": "52c884ca-54ae-4590-8ba6-62102ce5a313",
+      "AnswerContent": "材料制作阶段，由拟申请企业牵头完成包括《推荐报告》在内的各项书面申请文件",
+      "QuestionId": "a7ec843b-1864-47cc-893b-07c138778949"
+    },
+    {
+      "AnswerID": "3651dc29-ad23-4917-a90f-25413a676643",
+      "AnswerContent": "Ⅰ．Ⅱ．Ⅲ",
+      "QuestionId": "eb089291-5c79-4bf1-88e2-5035ce0698ca"
+    },
+    {
+      "AnswerID": "d89e17ea-6780-4c5e-acfd-6e68a1cfe210",
+      "AnswerContent": "基金托管人聘请基金财产保管机构对基金财产进行保管",
+      "QuestionId": "51305395-15d0-4e3d-ae88-89280c5d0a86"
+    },
+    {
+      "AnswerID": "c2c4f26a-e3ae-4765-8dc4-5cf3b761c22d",
+      "AnswerContent": "优先认购权条款",
+      "QuestionId": "774ea099-be5e-47f2-8996-ba7626abf4c7"
+    },
+    {
+      "AnswerID": "96c674a9-b83b-4585-a5d6-e06a30092616",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "b968de5e-f0f2-461e-9b65-09b765cce4dd"
+    },
+    {
+      "AnswerID": "b354d558-79c5-4dca-9857-01f9b8d3992d",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "1005492a-4990-4ff1-a0f4-8e7855a889f8"
+    },
+    {
+      "AnswerID": "3350bb74-715f-435a-98f5-0c68b22bef66",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "d73268ee-2f4c-4344-94c7-3ef2ec78c7b6"
+    },
+    {
+      "AnswerID": "9c790617-5017-4ef3-b3c4-e8b6bf4e9642",
+      "AnswerContent": "董事会成员履历",
+      "QuestionId": "b57a66c7-ada1-42a8-9519-65275257d8cb"
+    },
+    {
+      "AnswerID": "630b1c39-29aa-4347-8e8f-1e7c8f23c48c",
+      "AnswerContent": "通常情况下，该交易相对于母基金A在基金B设立时直接投资基金B,能够更快回收投资",
+      "QuestionId": "8b466295-5f89-4628-b827-31c40a40722a"
+    },
+    {
+      "AnswerID": "35b16d92-9b6a-45e1-ad76-43e93fa095ea",
+      "AnswerContent": "估值调整条款通常约定，在一定期限之后如果企业未能完成一定指标，将对投资者按规则进行补偿",
+      "QuestionId": "a420dd0c-18ed-49c3-8025-d96cc18a1333"
+    },
+    {
+      "AnswerID": "00099b65-aed4-4363-9feb-969c30ef6ccd",
+      "AnswerContent": "基金服务机构应强化基金服务业务的独立性要求",
+      "QuestionId": "0b1d02b0-677b-4b60-926f-910cb8f1498e"
+    },
+    {
+      "AnswerID": "b866a20e-c5ed-4034-9936-b780cf12242d",
+      "AnswerContent": "3.2",
+      "QuestionId": "25a2cbb6-3a73-437a-88d5-b1feadca82c8"
+    },
+    {
+      "AnswerID": "99f7bf9b-589a-408a-a46a-7474db40e3e2",
+      "AnswerContent": "对于处在不同成长阶段的被投资企业，投资机构对其在投资后管理中参与的程度和侧重点有所不同",
+      "QuestionId": "b5cd3ba0-9a28-4cd5-a22a-cefc3dcdc288"
+    },
+    {
+      "AnswerID": "0963fbd1-8d5e-4abb-910b-d80c6c238aa6",
+      "AnswerContent": "股权投资基金可以根据目标公司的特点选取适用的估值倍数，但考虑到估值倍数的可靠性及可比性，选取的估值倍数必须是以客观的财务指标为基础（如息税前利润、净利润、销售收入、净资产等）计算的估值倍数，而非其他业务指标或数据",
+      "QuestionId": "0fae916a-2e41-41a2-b4cc-2c3d744252d2"
+    },
+    {
+      "AnswerID": "e7d95ca0-b1c7-4c79-8484-92aca9013b1f",
+      "AnswerContent": "协议转让",
+      "QuestionId": "5efefea9-26cf-4bac-8ba8-a50bfa30ea78"
+    },
+    {
+      "AnswerID": "11c7a939-0bff-4b00-b4d3-62d0365dc425",
+      "AnswerContent": "回售时间",
+      "QuestionId": "42e11bde-b624-4103-b409-a56adda004ee"
+    },
+    {
+      "AnswerID": "596cfdb0-1d64-4f2e-87a6-3464df0a373f",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "bde3cd9c-738d-4cec-9fa6-71268be2e8a3"
+    },
+    {
+      "AnswerID": "25b90903-70eb-4e7a-9a07-c8d03a47b3ef",
+      "AnswerContent": "B公司具有资本市场的流动性，A公司的交易估值低于B公司市值",
+      "QuestionId": "2f1b9521-2860-4fe8-9777-7d7b392257bc"
+    },
+    {
+      "AnswerID": "36bba892-d43a-44a2-afa9-5f4cb061c5ed",
+      "AnswerContent": "合伙型基金是非法人企业，根据合伙协议运营基金",
+      "QuestionId": "bf4e81d2-efb5-47c9-8b57-49d830e7a7f5"
+    },
+    {
+      "AnswerID": "7bbb9a4c-a0f5-43d9-9c81-9d65c2bc289b",
+      "AnswerContent": "市盈率倍数=股权价值/净利润",
+      "QuestionId": "27df1a2b-d311-45b7-a427-6156b86637f9"
+    },
+    {
+      "AnswerID": "083ea243-8d73-4cfa-9518-09677f258374",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "7416f1a2-5a82-48b2-b844-76d20908c76b"
+    },
+    {
+      "AnswerID": "f1dc2a53-1eeb-454d-a95d-2517b3069bbc",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "956249e0-42e3-468d-be9a-bb4631d0aa34"
+    },
+    {
+      "AnswerID": "d84d2aba-042e-447b-8b91-4c7b0c38eede",
+      "AnswerContent": "基金投资人按照基金合同约定的程序对基金是否清算事项作出决议，且同意清算的表决权达到约定比例时，基金应当清算",
+      "QuestionId": "f085ab24-c9ab-42a5-a718-c9bb87589c85"
+    },
+    {
+      "AnswerID": "55e832ea-2097-4765-a8cb-661d74721e29",
+      "AnswerContent": "0.6",
+      "QuestionId": "e4d28e43-0cb2-406d-9094-a3a266e96b45"
+    },
+    {
+      "AnswerID": "63cc8455-e12e-4bb1-ac8a-18585e4b274c",
+      "AnswerContent": "对于业务和市场相对成熟稳定的企业，其经营指标监控应侧重于成长指标",
+      "QuestionId": "1f2a5004-d91e-4445-a7eb-02f8314cb986"
+    },
+    {
+      "AnswerID": "e93367a5-90d5-4906-98bd-e669bf8352b9",
+      "AnswerContent": "合伙型基金不具有独立的法人地位",
+      "QuestionId": "aafc6556-ba20-41d7-8ae9-e71179f5bd4b"
+    },
+    {
+      "AnswerID": "af9bd6c0-5688-4847-88bd-cf85004baae0",
+      "AnswerContent": "成本法包括账面价值法和重置成本法",
+      "QuestionId": "b299ccec-8afc-42a9-91b1-d1c08df78b52"
+    },
+    {
+      "AnswerID": "423b0105-fd2b-429e-ba96-88b938927a6c",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "fb5ece96-e66d-4799-81a6-071081a3a328"
+    },
+    {
+      "AnswerID": "462387b2-b6d9-457e-94a4-dc75258b8124",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "d03d10b7-26cd-4ca5-813f-47124bd43bc0"
+    },
+    {
+      "AnswerID": "797e678d-697e-4993-8fd2-3ace9a833eea",
+      "AnswerContent": "为方便管理，可针对不同股权投资基金设置统一账户",
+      "QuestionId": "47d89930-0ed1-47f4-9087-cebc210d6742"
+    },
+    {
+      "AnswerID": "f1a12c95-6a8a-479c-b022-4d0c488688a5",
+      "AnswerContent": "10.56%",
+      "QuestionId": "5287689a-5ec2-480e-9bae-c6bd39442d73"
+    },
+    {
+      "AnswerID": "8e76a8e4-5da9-4a16-bc0b-d1f5800e487b",
+      "AnswerContent": "主要投资成熟企业",
+      "QuestionId": "57af947f-b65a-4b4f-8e85-a6fb8807e27b"
+    },
+    {
+      "AnswerID": "8def6d11-0079-4785-afa6-d4d45fbca90b",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "96402ce5-6400-4450-aa0a-7dc224e90639"
+    },
+    {
+      "AnswerID": "94a7908a-5db9-4522-a6ac-f6b1ff9f0891",
+      "AnswerContent": "基金管理人只能向合格投资者募集",
+      "QuestionId": "1fc4fd9d-43e7-4303-9456-51f227ceb98b"
+    },
+    {
+      "AnswerID": "7c04ab54-d103-4d75-aab1-545ef00eceb0",
+      "AnswerContent": "投资后管理投入资源较多",
+      "QuestionId": "68be03c4-04fc-446b-b503-f6ba0fd2cd8c"
+    },
+    {
+      "AnswerID": "acb969ef-65e5-47d2-9e0c-e823d04c4b69",
+      "AnswerContent": "企业改制",
+      "QuestionId": "20cfa2c3-b01f-4bae-a055-e7f231a06034"
+    },
+    {
+      "AnswerID": "5bda7016-f032-46b4-a404-79bc19884248",
+      "AnswerContent": "要求监管机构制定监管内容体系时要全面包括股权投资基金运营的各个方面",
+      "QuestionId": "70c84075-376f-4e6a-9eb6-8f9bd0a6e7d1"
+    },
+    {
+      "AnswerID": "9508c096-9f4c-46c1-a5a4-a4b7bff5ccdd",
+      "AnswerContent": "在追赶机制下分配本金及门槛收益后，剩余收益直接按约定比例（如8:2）在基金投资者与基金管理人之间分配",
+      "QuestionId": "5bbf86ec-1ed2-4939-831e-8d2edd1d55f2"
+    },
+    {
+      "AnswerID": "e7196981-4445-406f-9d58-c09e549e65a8",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "ce30731e-3812-41a0-a789-c5d6e737689e"
+    },
+    {
+      "AnswerID": "09fb7a2b-3360-4e65-8fbe-bbe33af5ef30",
+      "AnswerContent": "收益分配主要在基金的投资者、管理人和第三方服务机构之间进行",
+      "QuestionId": "a17fd683-c05c-4549-a7d3-75140901b314"
+    },
+    {
+      "AnswerID": "9525add1-af7e-4783-8c20-db1baa906027",
+      "AnswerContent": "公司解散清算的，应由清算组清算公司财产、制定清算方案",
+      "QuestionId": "83689451-46f4-4b0c-97c1-c06f2c3a31f0"
+    },
+    {
+      "AnswerID": "01149c9b-75a0-4c8e-834b-d064c6da263b",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "7cbf0d65-9b43-4886-be93-0227c967af41"
+    },
+    {
+      "AnswerID": "21037914-8cc9-4b83-84a9-839c98706bd1",
+      "AnswerContent": "具备风险识别能力、具备风险承担能力、资产规模或者收入水平达到一定要求，投资额不低于规定限额",
+      "QuestionId": "534d2169-2a0a-4321-9adc-fcd7ca81466a"
+    },
+    {
+      "AnswerID": "60a949b1-c14c-41ef-b161-abfedfa6f523",
+      "AnswerContent": "主要满足了基金管理人的利益，因为增加了管理人的流动性",
+      "QuestionId": "d654f04f-2667-4a75-9482-9ff91a2ce166"
+    },
+    {
+      "AnswerID": "05498c44-2541-4f9a-ad5e-5c49dd3c05d1",
+      "AnswerContent": "无需进行披露",
+      "QuestionId": "0d4a06fb-198f-468e-a382-9428a8a6cbe4"
+    },
+    {
+      "AnswerID": "6ca8b323-05da-48ef-87ee-b9aba5514ea3",
+      "AnswerContent": "4.96",
+      "QuestionId": "d3132355-e5b8-448b-bed0-2a3934d3bf83"
+    },
+    {
+      "AnswerID": "a596c46d-9a92-48fc-87fd-ae9d585cf273",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "1bf43dcd-8f18-4f44-ad4d-d98b7094fb0b"
+    },
+    {
+      "AnswerID": "e86a4fa5-24b9-493d-b7ac-a6837e79896e",
+      "AnswerContent": "股权投资基金",
+      "QuestionId": "8c8625c2-888a-47e5-8592-d0c67517e9a3"
+    },
+    {
+      "AnswerID": "b9d7911e-2f28-4d63-befc-ed0fa9d8bd5f",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "1aabf2ad-b0ea-4adc-a430-aa625f7de489"
+    },
+    {
+      "AnswerID": "acfd64fa-5960-46bb-a49f-b4e82faaa9a7",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "2c21bc74-20b4-4ee6-b8d9-26e99fd218f7"
+    },
+    {
+      "AnswerID": "766f0038-2b28-4c10-a94d-532bb9e3b592",
+      "AnswerContent": "200，100",
+      "QuestionId": "93f823e9-b528-4736-8bab-f8d3b4f5169d"
+    },
+    {
+      "AnswerID": "8b01a8aa-a405-4bcd-9353-1577861751a0",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "f36b34da-428c-4b11-9a25-eb6600c5dcf6"
+    },
+    {
+      "AnswerID": "d7352e18-6bbf-486a-aef2-0e78dae24d13",
+      "AnswerContent": "折现现金流估值法需要深入分析目标公司的财务数据和经营模式",
+      "QuestionId": "618a000f-f7b3-4cc8-8cea-1bbe03eab76e"
+    },
+    {
+      "AnswerID": "762cd5a1-084e-49f1-b2b0-6a11c6f42359",
+      "AnswerContent": "全部资产为限",
+      "QuestionId": "d24dab59-4255-471f-9e9a-fd42766dcb7d"
+    },
+    {
+      "AnswerID": "f09ca5b5-edb4-443e-bba1-d813a0f121a7",
+      "AnswerContent": "是甲合伙企业",
+      "QuestionId": "81bfd835-e530-46f0-8bc9-c9100c99cafc"
+    },
+    {
+      "AnswerID": "d3ba51af-6f79-4200-b73d-4178a8546bbf",
+      "AnswerContent": "拖售权",
+      "QuestionId": "5d6a4a86-6fc9-41b9-9ab3-95dca1a89fda"
+    },
+    {
+      "AnswerID": "c5942682-5880-4c19-8a6e-637bd2e1b3dc",
+      "AnswerContent": "1.18",
+      "QuestionId": "015e32de-6aed-4312-82f9-0440cda8911b"
+    },
+    {
+      "AnswerID": "ebb18493-1272-4938-82c6-3494a059c259",
+      "AnswerContent": "4.8亿元",
+      "QuestionId": "6e073e83-0ad6-4f31-8127-828016935a43"
+    },
+    {
+      "AnswerID": "475a7373-c596-4d25-b423-269e673ce1a0",
+      "AnswerContent": "财务尽职调查强调发现企业的投资价值和潜在风险",
+      "QuestionId": "0d47cf19-6fd7-4af3-8a5f-02e77bf19d47"
+    },
+    {
+      "AnswerID": "b2af0777-6772-49f0-9512-6097138241be",
+      "AnswerContent": "重要业务部门和岗位进行物理隔离，增强独立性",
+      "QuestionId": "8a29de1f-d010-4fee-860b-481178ad8112"
+    },
+    {
+      "AnswerID": "5b8cd50a-f0ee-4331-8065-6053b299c463",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "7de2b17d-2d23-4dd5-acb0-4a893490d2a8"
+    },
+    {
+      "AnswerID": "d2ac6a4e-75fe-4911-806f-577bd4975df8",
+      "AnswerContent": "风控措施完善",
+      "QuestionId": "8eca7420-ea76-444f-8a48-9187dc5079d0"
+    },
+    {
+      "AnswerID": "cf8bac47-bac9-4485-b15d-f8053e9da0a8",
+      "AnswerContent": "参与被投企业股东大会、董事会和监事会",
+      "QuestionId": "6896867a-d328-4d3d-9ffb-62810c09406a"
+    },
+    {
+      "AnswerID": "af8ef8cc-8167-416a-99d9-66ced105136d",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ",
+      "QuestionId": "d5b83c4d-9a8d-46b3-914d-7f0135adea7c"
+    },
+    {
+      "AnswerID": "3006d87b-29df-4173-852f-a5317b3bda64",
+      "AnswerContent": "1500万元",
+      "QuestionId": "d2a48b35-5431-4686-b2a1-7cddc0bef32f"
+    },
+    {
+      "AnswerID": "f919a985-cd77-4524-809f-5d31fdffdfa9",
+      "AnswerContent": "帮助被投资企业完善会计账户处理流程",
+      "QuestionId": "35733c23-2aad-483d-b7a8-d610dc226df8"
+    },
+    {
+      "AnswerID": "4cdc9ba5-d926-46b1-9145-11fd5dc355ca",
+      "AnswerContent": "基金份额登记属于基金核心业务，不应自始委托给服务机构",
+      "QuestionId": "4ebd0cf2-12f0-4f86-90e1-05ecea1011c0"
+    },
+    {
+      "AnswerID": "98f8d0c2-faad-4ddf-97d9-a4aba629ed28",
+      "AnswerContent": "投资交割之后至项目退出之前",
+      "QuestionId": "347bc21c-eb39-40a4-b5f2-0aed1435c309"
+    },
+    {
+      "AnswerID": "e19e3471-c180-48e2-8470-beac265f9e0c",
+      "AnswerContent": "加权平均条款保护了前轮投资者的利益",
+      "QuestionId": "600cf6b1-19ba-41d4-8d38-368b49ef741e"
+    },
+    {
+      "AnswerID": "3d3cc219-30de-4d58-a376-d76c2f413a78",
+      "AnswerContent": "普通合伙人可自行担任基金管理人或者委托专业的基金管理机构担任基金管理人",
+      "QuestionId": "93f67224-9976-4445-bac3-367e090a4c95"
+    },
+    {
+      "AnswerID": "e0f88e7c-235f-4c15-af82-e80bf87c20a3",
+      "AnswerContent": "5.3",
+      "QuestionId": "2ba20444-50be-4369-84ac-76603fe9cc6b"
+    },
+    {
+      "AnswerID": "7b3d6e3e-151f-4a2f-b9ca-28b97168b388",
+      "AnswerContent": "5.7",
+      "QuestionId": "2ba20444-50be-4369-84ac-76603fe9cc6b"
+    },
+    {
+      "AnswerID": "8b2f9f2e-2467-4a2c-a549-e1d4d32f69c3",
+      "AnswerContent": "与完全棘轮条款相比，加权平均条款对目标公司和创始股东更为有利",
+      "QuestionId": "600cf6b1-19ba-41d4-8d38-368b49ef741e"
+    },
+    {
+      "AnswerID": "6b985085-8d0f-4b69-8b68-4a0e0a2521dc",
+      "AnswerContent": "至少由1个普通合伙人和1个有限合伙人组成",
+      "QuestionId": "93f67224-9976-4445-bac3-367e090a4c95"
+    },
+    {
+      "AnswerID": "677e8481-f08f-4226-a9f9-72f14e528757",
+      "AnswerContent": "基金服务机构均应按相关法规的规定在中国证券投资基金业协会登记",
+      "QuestionId": "4ebd0cf2-12f0-4f86-90e1-05ecea1011c0"
+    },
+    {
+      "AnswerID": "06e295ed-9088-4b76-be3f-1b5ef4a52b31",
+      "AnswerContent": "签订投资协议之后至项目退出之前",
+      "QuestionId": "347bc21c-eb39-40a4-b5f2-0aed1435c309"
+    },
+    {
+      "AnswerID": "9668a16b-8d48-4e35-9bc3-7d3534e24491",
+      "AnswerContent": "帮助被投资企业制定发展战略",
+      "QuestionId": "35733c23-2aad-483d-b7a8-d610dc226df8"
+    },
+    {
+      "AnswerID": "e9af1d00-3824-4d68-a01e-3cb66bf5ccd9",
+      "AnswerContent": "950万元",
+      "QuestionId": "d2a48b35-5431-4686-b2a1-7cddc0bef32f"
+    },
+    {
+      "AnswerID": "53152e9b-85fd-45a1-aced-2083e8bbe047",
+      "AnswerContent": "将非核心业务外包给中介机构，免除自身责任",
+      "QuestionId": "8a29de1f-d010-4fee-860b-481178ad8112"
+    },
+    {
+      "AnswerID": "af753954-2aa8-4f86-8017-fbf151bd186d",
+      "AnswerContent": "跟踪被投资企业重大投融活动",
+      "QuestionId": "6896867a-d328-4d3d-9ffb-62810c09406a"
+    },
+    {
+      "AnswerID": "c746241c-28f1-4a64-9100-575768e27a92",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅴ",
+      "QuestionId": "d5b83c4d-9a8d-46b3-914d-7f0135adea7c"
+    },
+    {
+      "AnswerID": "ad094cf8-1eca-46ff-9114-6e2aae447c35",
+      "AnswerContent": "业界最佳、规模最大",
+      "QuestionId": "8eca7420-ea76-444f-8a48-9187dc5079d0"
+    },
+    {
+      "AnswerID": "220a9dff-b024-4330-b038-7dba0d82bc41",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "7de2b17d-2d23-4dd5-acb0-4a893490d2a8"
+    },
+    {
+      "AnswerID": "fba8fd4a-4777-4d29-aa4f-7b9601e7f618",
+      "AnswerContent": "4亿元",
+      "QuestionId": "6e073e83-0ad6-4f31-8127-828016935a43"
+    },
+    {
+      "AnswerID": "c0533dbd-73f0-4ed2-8719-6cdd0c820f68",
+      "AnswerContent": "充分揭示公司运营风险中存在的风险因素",
+      "QuestionId": "0d47cf19-6fd7-4af3-8a5f-02e77bf19d47"
+    },
+    {
+      "AnswerID": "42b126ab-43d1-48a0-8463-5b07870bb7b1",
+      "AnswerContent": "1.6",
+      "QuestionId": "015e32de-6aed-4312-82f9-0440cda8911b"
+    },
+    {
+      "AnswerID": "4fd11a8a-e69b-4983-97f2-cc842cc253fb",
+      "AnswerContent": "回售权",
+      "QuestionId": "5d6a4a86-6fc9-41b9-9ab3-95dca1a89fda"
+    },
+    {
+      "AnswerID": "b67d802f-b0a1-417c-9bee-114038fc85a3",
+      "AnswerContent": "是甲合伙企业和乙合伙企业",
+      "QuestionId": "81bfd835-e530-46f0-8bc9-c9100c99cafc"
+    },
+    {
+      "AnswerID": "5edbff6c-8380-4ff5-a125-16c3bd865170",
+      "AnswerContent": "基金份额登记数量为限",
+      "QuestionId": "d24dab59-4255-471f-9e9a-fd42766dcb7d"
+    },
+    {
+      "AnswerID": "529903a0-d119-49cc-bb71-c22f12f24eb3",
+      "AnswerContent": "折现现金流估值法比较客观，较少主观假设",
+      "QuestionId": "618a000f-f7b3-4cc8-8cea-1bbe03eab76e"
+    },
+    {
+      "AnswerID": "f18b04b1-6895-46a7-b5ab-1b3839fc27e8",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "f36b34da-428c-4b11-9a25-eb6600c5dcf6"
+    },
+    {
+      "AnswerID": "e76849a1-d1d8-4dc1-91e9-a3fc4a8dc71d",
+      "AnswerContent": "100，100",
+      "QuestionId": "93f823e9-b528-4736-8bab-f8d3b4f5169d"
+    },
+    {
+      "AnswerID": "95ffe412-d89c-4e32-b570-650c76c03341",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "2c21bc74-20b4-4ee6-b8d9-26e99fd218f7"
+    },
+    {
+      "AnswerID": "ba974a33-874e-4855-82fa-9a563cd632aa",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "1aabf2ad-b0ea-4adc-a430-aa625f7de489"
+    },
+    {
+      "AnswerID": "44a7f7d3-89c1-4063-9792-5098c6590113",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "7cbf0d65-9b43-4886-be93-0227c967af41"
+    },
+    {
+      "AnswerID": "26437c71-ff36-4474-b511-c9cb0e0db0f1",
+      "AnswerContent": "1.76",
+      "QuestionId": "d3132355-e5b8-448b-bed0-2a3934d3bf83"
+    },
+    {
+      "AnswerID": "4019eb20-f870-4d1d-8a5f-5601ee31f14d",
+      "AnswerContent": "债权人",
+      "QuestionId": "8c8625c2-888a-47e5-8592-d0c67517e9a3"
+    },
+    {
+      "AnswerID": "21c74c3d-5266-4943-b2d8-c49c35dd25e0",
+      "AnswerContent": "尽快进行临时披露",
+      "QuestionId": "0d4a06fb-198f-468e-a382-9428a8a6cbe4"
+    },
+    {
+      "AnswerID": "8b1a2c75-2f7d-4502-8a1b-4a121a836377",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "1bf43dcd-8f18-4f44-ad4d-d98b7094fb0b"
+    },
+    {
+      "AnswerID": "1809918e-8a09-4e4b-8a91-cca6290fa158",
+      "AnswerContent": "主要满足了基金投资人的利益，因为每退出一笔资金就进行分配",
+      "QuestionId": "d654f04f-2667-4a75-9482-9ff91a2ce166"
+    },
+    {
+      "AnswerID": "c0091096-40f1-4373-9301-fce67d7b1dff",
+      "AnswerContent": "具备风险识别能力、资产规模或者收入水平达到一定要求",
+      "QuestionId": "534d2169-2a0a-4321-9adc-fcd7ca81466a"
+    },
+    {
+      "AnswerID": "1310ebe3-8574-4513-ae5c-e17955b0e10c",
+      "AnswerContent": "无论有无相关约定，基金管理人必须先让基金投资者实现门槛收益后才可以获得业绩报酬",
+      "QuestionId": "a17fd683-c05c-4549-a7d3-75140901b314"
+    },
+    {
+      "AnswerID": "fe9fb372-40fa-4af4-8a0f-0e66250215a1",
+      "AnswerContent": "清算期间，公司不得开展新的经营业务，清算组也不能处理公司尚未了结的业务",
+      "QuestionId": "83689451-46f4-4b0c-97c1-c06f2c3a31f0"
+    },
+    {
+      "AnswerID": "9ec44ee1-822e-41b2-ae5a-bb0c91d42398",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "ce30731e-3812-41a0-a789-c5d6e737689e"
+    },
+    {
+      "AnswerID": "352761a1-fdf8-4e67-a17a-c4d148c7830c",
+      "AnswerContent": "股权投资基金的分配通常采取瀑布式的收益分配体系",
+      "QuestionId": "5bbf86ec-1ed2-4939-831e-8d2edd1d55f2"
+    },
+    {
+      "AnswerID": "bb123fba-12ed-47b1-9cb5-6ce5c740c7ce",
+      "AnswerContent": "要求通过监管活动促进行业的健康规范发展",
+      "QuestionId": "70c84075-376f-4e6a-9eb6-8f9bd0a6e7d1"
+    },
+    {
+      "AnswerID": "92faa71c-d01f-402b-a987-73e4d0cfdaa3",
+      "AnswerContent": "策划上市方案",
+      "QuestionId": "20cfa2c3-b01f-4bae-a055-e7f231a06034"
+    },
+    {
+      "AnswerID": "2a5755f8-5cb8-48b7-a1ef-5fd99d631439",
+      "AnswerContent": "基金管理人可以以公开方式募集资金",
+      "QuestionId": "1fc4fd9d-43e7-4303-9456-51f227ceb98b"
+    },
+    {
+      "AnswerID": "7aaff2b8-2c6c-4684-9d06-0ea62099e3cf",
+      "AnswerContent": "投资期限长",
+      "QuestionId": "68be03c4-04fc-446b-b503-f6ba0fd2cd8c"
+    },
+    {
+      "AnswerID": "7a925a99-90dc-4b56-bbf1-cf5978f884b5",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "96402ce5-6400-4450-aa0a-7dc224e90639"
+    },
+    {
+      "AnswerID": "3278cff3-fd70-44db-bc2f-f499ae8c86cd",
+      "AnswerContent": "仅投资发展早期或中期企业",
+      "QuestionId": "57af947f-b65a-4b4f-8e85-a6fb8807e27b"
+    },
+    {
+      "AnswerID": "a43701c9-6319-4d70-8c69-df0c83266b3a",
+      "AnswerContent": "9%",
+      "QuestionId": "5287689a-5ec2-480e-9bae-c6bd39442d73"
+    },
+    {
+      "AnswerID": "3f1d4796-a511-41ad-a956-216b30560a7d",
+      "AnswerContent": "可在其管理的不同股权投资基金账户之间转移收益",
+      "QuestionId": "47d89930-0ed1-47f4-9087-cebc210d6742"
+    },
+    {
+      "AnswerID": "707d3467-c809-465e-83c2-1b46cdf92595",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "d03d10b7-26cd-4ca5-813f-47124bd43bc0"
+    },
+    {
+      "AnswerID": "425470e2-e308-440e-9d03-957a5ed33e31",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "fb5ece96-e66d-4799-81a6-071081a3a328"
+    },
+    {
+      "AnswerID": "26e11ef2-7118-4d38-ac22-89290dc0ab0d",
+      "AnswerContent": "重置成本法是用待评估资产的完全重置成本（重置全价）减去其各种贬值后的差额作为该项资产价值的评估方法",
+      "QuestionId": "b299ccec-8afc-42a9-91b1-d1c08df78b52"
+    },
+    {
+      "AnswerID": "43c56f60-d8f8-41f6-9b79-485302117ca4",
+      "AnswerContent": "普通合伙人对基金（合伙企业）债务承担无限连带责任",
+      "QuestionId": "aafc6556-ba20-41d7-8ae9-e71179f5bd4b"
+    },
+    {
+      "AnswerID": "37bab6b2-9cd2-4c6b-9a93-fe8045445a8d",
+      "AnswerContent": "0.96",
+      "QuestionId": "e4d28e43-0cb2-406d-9094-a3a266e96b45"
+    },
+    {
+      "AnswerID": "c3dfcdcd-9b01-4857-95b5-09955edd5a73",
+      "AnswerContent": "经营指标的预期和实现总是不相符的，因此无需做任何对比和分析",
+      "QuestionId": "1f2a5004-d91e-4445-a7eb-02f8314cb986"
+    },
+    {
+      "AnswerID": "c686967c-8d6c-4546-8714-daae0f7034ae",
+      "AnswerContent": "一般地，基金合同约定的存续期届时应进行清算",
+      "QuestionId": "f085ab24-c9ab-42a5-a718-c9bb87589c85"
+    },
+    {
+      "AnswerID": "53177f9d-ca52-4bb9-b58a-600a6ab77029",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "956249e0-42e3-468d-be9a-bb4631d0aa34"
+    },
+    {
+      "AnswerID": "238b2a46-09df-404d-9895-37a033fafa94",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "7416f1a2-5a82-48b2-b844-76d20908c76b"
+    },
+    {
+      "AnswerID": "6492558d-1002-4288-bc36-4bbafdd292b6",
+      "AnswerContent": "市销率倍数=股权价值/销售收入",
+      "QuestionId": "27df1a2b-d311-45b7-a427-6156b86637f9"
+    },
+    {
+      "AnswerID": "7522786a-38c3-490f-83b0-f264709752c1",
+      "AnswerContent": "合伙型基金是法人企业，根据合伙协议运营基金",
+      "QuestionId": "bf4e81d2-efb5-47c9-8b57-49d830e7a7f5"
+    },
+    {
+      "AnswerID": "e20a6831-3bb2-409d-8f1a-d1b771b57af7",
+      "AnswerContent": "A公司将在国内上市，国内认知度高，所以其交易估值高于B公司市值",
+      "QuestionId": "2f1b9521-2860-4fe8-9777-7d7b392257bc"
+    },
+    {
+      "AnswerID": "3c059397-d432-4736-9107-269404c0ecf0",
+      "AnswerContent": "大宗交易",
+      "QuestionId": "5efefea9-26cf-4bac-8ba8-a50bfa30ea78"
+    },
+    {
+      "AnswerID": "e8ab5eb3-195b-4b28-b345-525a15b77336",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "bde3cd9c-738d-4cec-9fa6-71268be2e8a3"
+    },
+    {
+      "AnswerID": "46c811e6-9660-463f-b35e-94688fc0b8fc",
+      "AnswerContent": "股东的其他投资资产",
+      "QuestionId": "42e11bde-b624-4103-b409-a56adda004ee"
+    },
+    {
+      "AnswerID": "976a470a-3a19-4d86-94bd-66fb66b9e71c",
+      "AnswerContent": "基金管理人应关注基金服务机构是否存在与提供基金服务相冲突的业务",
+      "QuestionId": "0b1d02b0-677b-4b60-926f-910cb8f1498e"
+    },
+    {
+      "AnswerID": "6c664242-8275-4f33-b4ad-d04a50b49ca5",
+      "AnswerContent": "相对估值法受可比公司企业价值偏差影响，且其分析结果的可靠性受可比公司质量影响",
+      "QuestionId": "0fae916a-2e41-41a2-b4cc-2c3d744252d2"
+    },
+    {
+      "AnswerID": "0a408bc0-02c8-4959-879a-219c3b960291",
+      "AnswerContent": "投资机构提供增值服务，一方面可以协助被投资企业更好的发展，另一方面业可以有效降低投资风险",
+      "QuestionId": "b5cd3ba0-9a28-4cd5-a22a-cefc3dcdc288"
+    },
+    {
+      "AnswerID": "bac37dc3-653a-4867-9135-4369dcf4c879",
+      "AnswerContent": "1.6",
+      "QuestionId": "25a2cbb6-3a73-437a-88d5-b1feadca82c8"
+    },
+    {
+      "AnswerID": "03bdc9c6-68e3-43f8-9200-c32392b26d78",
+      "AnswerContent": "薪酬体系与期权/股权激励机制",
+      "QuestionId": "b57a66c7-ada1-42a8-9519-65275257d8cb"
+    },
+    {
+      "AnswerID": "73fccca4-d12d-4ded-ac3f-deaae8176ed6",
+      "AnswerContent": "估值调整条款的触发条件是指目标公司的实际业绩未达到事先约定的业绩目标",
+      "QuestionId": "a420dd0c-18ed-49c3-8025-d96cc18a1333"
+    },
+    {
+      "AnswerID": "98ee4f12-370c-44c0-93e8-ea81d23d398c",
+      "AnswerContent": "该交易描述的是母基金二级投资业务中的购买存续基金份额及后续投资",
+      "QuestionId": "8b466295-5f89-4628-b827-31c40a40722a"
+    },
+    {
+      "AnswerID": "5b04bea0-82d9-49fb-9ce7-7149265d870b",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "d73268ee-2f4c-4344-94c7-3ef2ec78c7b6"
+    },
+    {
+      "AnswerID": "54bf826f-9642-43aa-b538-99fc55238c4a",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "1005492a-4990-4ff1-a0f4-8e7855a889f8"
+    },
+    {
+      "AnswerID": "737cc8dd-211d-44e5-a4b6-18a13ab8ed42",
+      "AnswerContent": "保护性条款",
+      "QuestionId": "774ea099-be5e-47f2-8996-ba7626abf4c7"
+    },
+    {
+      "AnswerID": "9261d330-d494-4892-80ac-0c86b234e007",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "b968de5e-f0f2-461e-9b65-09b765cce4dd"
+    },
+    {
+      "AnswerID": "64c43e16-f45e-4b11-a73b-26aadb918913",
+      "AnswerContent": "基金财产保管机构承担着保护股权投资基金财产安全的责任",
+      "QuestionId": "51305395-15d0-4e3d-ae88-89280c5d0a86"
+    },
+    {
+      "AnswerID": "a5ef7796-6c0d-41b3-b069-aab47b5082f0",
+      "AnswerContent": "Ⅰ．Ⅲ．Ⅳ",
+      "QuestionId": "eb089291-5c79-4bf1-88e2-5035ce0698ca"
+    },
+    {
+      "AnswerID": "fa10a243-abd4-4436-95f2-d93673c4ba44",
+      "AnswerContent": "决策改制阶段的一个关键工作是完成股份制改造",
+      "QuestionId": "a7ec843b-1864-47cc-893b-07c138778949"
+    },
+    {
+      "AnswerID": "77c6f1e8-d4cd-4972-929f-72897cd21a70",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "3da6c010-e286-4803-934c-6aa5691ecee3"
+    },
+    {
+      "AnswerID": "b6f48127-e1bf-477a-9bf4-045dc18fc0af",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "634893e8-7dc1-4e31-b2fa-1eeac3164410"
+    },
+    {
+      "AnswerID": "5e1531f4-46bb-4277-8d5b-0eca8ba5c73d",
+      "AnswerContent": "清算过程中的剩余财产应该先支付税费然后向投资人分配",
+      "QuestionId": "6cb5689b-d029-4582-8430-292dd2c17aad"
+    },
+    {
+      "AnswerID": "e6a81d3a-89bc-4bfb-902d-2f6b4852842a",
+      "AnswerContent": "自律组织可以通过自律管理代替政府监管，促进行业合规经营",
+      "QuestionId": "ee6c0679-51e6-4a76-bc2a-61cae360bae0"
+    },
+    {
+      "AnswerID": "45fb2f23-7a24-4aa9-ad7d-4601e4aa674e",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "14cb2f71-0ade-46dd-ac38-a6d836c83728"
+    },
+    {
+      "AnswerID": "78cdac51-aff5-4226-8088-2e13c039780d",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "1256919a-df9a-4646-93ae-9ea427fcf409"
+    },
+    {
+      "AnswerID": "abe166d4-f269-428a-a0f0-b7eebdb27c3f",
+      "AnswerContent": "可以委托其他基金销售机构募集股权投资基金",
+      "QuestionId": "4f64c84d-3ee6-4d6e-a254-2275eefaf65e"
+    },
+    {
+      "AnswerID": "48dba64d-f147-489e-b255-544365ba5cc4",
+      "AnswerContent": "8541万元",
+      "QuestionId": "6bf69376-8d37-4064-b0ef-5ab11400556b"
+    },
+    {
+      "AnswerID": "9357c9f2-a52c-4c59-af38-4354dbc5e63f",
+      "AnswerContent": "具有产业背景的并购基金，结合自身产业资源，可以帮助被投企业完成转型升级",
+      "QuestionId": "2aa603ba-6d34-4723-a652-e48a55e6519a"
+    },
+    {
+      "AnswerID": "c6ff5110-2859-4358-93fc-f36e43ab6f72",
+      "AnswerContent": "丁可享受所得税优惠政策",
+      "QuestionId": "ec92c289-a11a-446c-ae1e-9a86def2e8fe"
+    },
+    {
+      "AnswerID": "099a60db-348d-4407-bc07-8db230aba4c0",
+      "AnswerContent": "A基金的业绩显著好于B基金",
+      "QuestionId": "b136834f-4db6-41dd-ae88-5555db96592c"
+    },
+    {
+      "AnswerID": "f90ed6a6-6a94-475b-86dd-ad95b3d9a100",
+      "AnswerContent": "A公司的财务负责人与某银行接触商讨银行贷款协议",
+      "QuestionId": "93e1f02c-31fd-405d-b95a-603aa545287a"
+    },
+    {
+      "AnswerID": "635983e5-76af-4098-9202-605dc4c77cc2",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "4227f833-cd7d-4481-b05f-48f7324b6cd2"
+    },
+    {
+      "AnswerID": "ec804272-546d-448e-a154-45b384c1630c",
+      "AnswerContent": "简单价值等式不适用于拥有非核心资产的公司",
+      "QuestionId": "7d44fe96-b725-454e-a049-98711646a4f6"
+    },
+    {
+      "AnswerID": "7b72ecb2-bb47-4953-a741-4ed566649ebe",
+      "AnswerContent": "经X项目书面允许向媒体披露了其最新纳入托管的医院名称",
+      "QuestionId": "d77c6677-b571-4096-998d-ac0909690000"
+    },
+    {
+      "AnswerID": "b9cd98cd-15ce-4d66-b0ba-99d5227f76c8",
+      "AnswerContent": "股票首次公开发行",
+      "QuestionId": "1a799abc-9a9e-49d8-af3e-c382df5742ca"
+    },
+    {
+      "AnswerID": "006b5278-ead8-41b6-98a3-cef5e5774ddd",
+      "AnswerContent": "为保障投资者合法权益，必须由基金管理人办理基金份额登记",
+      "QuestionId": "551899e6-7d6f-4160-9d4b-87c8cd2a77c5"
+    },
+    {
+      "AnswerID": "12a8fbb5-90c4-46aa-b104-54df05e83072",
+      "AnswerContent": "公司近期的收购兼并中被收购企业资产总额或营业收入或净利润超过收购前公司相应项目一定比例时，应获取被收购企业前一年的财务报表和核查其财务状况",
+      "QuestionId": "5804c815-bf10-4fb9-845a-b4b04c743931"
+    },
+    {
+      "AnswerID": "e81f3de0-742e-461d-a492-9a6d77bab7d3",
+      "AnswerContent": "募集机构应与投资者关于基金合同进行充分沟通",
+      "QuestionId": "72d99d11-edaf-458c-9587-ce8aed4f38d1"
+    },
+    {
+      "AnswerID": "14cb05b3-b1b6-4712-8f94-f3a98fc4ffc9",
+      "AnswerContent": "反摊薄条款的意义主要是为保护前轮投资者，而非后轮投资者",
+      "QuestionId": "b7f4ff84-d0b3-4ce2-a21d-12e4c40238c4"
+    },
+    {
+      "AnswerID": "550fd992-dca0-4cd4-b507-dee707e42cbf",
+      "AnswerContent": "一般固定资产比例占比较高",
+      "QuestionId": "fa7c69ad-c234-4895-b366-6b11a9486d3a"
+    },
+    {
+      "AnswerID": "284a7fd5-2665-4f5d-aa39-b067203e5e9b",
+      "AnswerContent": "并购基金",
+      "QuestionId": "699456d1-8122-4beb-8607-db1246c980ff"
+    },
+    {
+      "AnswerID": "41a8da7f-ed6e-409c-bf7c-b8720aae4a2b",
+      "AnswerContent": "创业企业的创业者跟着母基金直接投资项目",
+      "QuestionId": "988b26db-5ed6-4417-b717-1be1985be008"
+    },
+    {
+      "AnswerID": "6e982746-d579-459f-9c1e-a0402d7c5c8f",
+      "AnswerContent": "Ⅲ",
+      "QuestionId": "37db894e-e134-49d0-b766-f53c48e7b3da"
+    },
+    {
+      "AnswerID": "79c34565-4751-401b-99a0-182826b8b596",
+      "AnswerContent": "锁定期分为强制锁定和自愿锁定两种",
+      "QuestionId": "275f0306-5d8a-433a-9870-ef31b342bf56"
+    },
+    {
+      "AnswerID": "0bf80767-b0c0-43bd-ba0d-c6f61eec1907",
+      "AnswerContent": "与IPO退出相比，并购退出的收益率通常稍低，但是更加灵活、高效",
+      "QuestionId": "3d85c826-1e37-4a9e-9999-9aca4511a433"
+    },
+    {
+      "AnswerID": "d7e458e7-5951-4290-adb4-0abf41b63b86",
+      "AnswerContent": "有限责任公司的清算组由董事会或股东大会确定的人员或由股东组成",
+      "QuestionId": "8828df34-526f-4e2c-8970-81ba0b9344f8"
+    },
+    {
+      "AnswerID": "3992f78a-f63a-47d6-af89-6445069d55b1",
+      "AnswerContent": "将赋予小股东投票权",
+      "QuestionId": "5bd152d2-062a-469a-8812-160a8a6c6fe8"
+    },
+    {
+      "AnswerID": "a0931ab5-7ead-4f60-a546-78496e0b7273",
+      "AnswerContent": "优先级高，&nbsp;成本低",
+      "QuestionId": "90c4d7e8-76d0-43af-843c-aff8d59f0138"
+    },
+    {
+      "AnswerID": "abd85f76-03a1-470f-bd6e-4f7ae56ea559",
+      "AnswerContent": "优先级高，&nbsp;成本高",
+      "QuestionId": "90c4d7e8-76d0-43af-843c-aff8d59f0138"
+    },
+    {
+      "AnswerID": "447ce3be-4494-4e22-94ef-495a1dc5e475",
+      "AnswerContent": "可决定目标企业董事席位的初始分配方案",
+      "QuestionId": "5bd152d2-062a-469a-8812-160a8a6c6fe8"
+    },
+    {
+      "AnswerID": "e34c4dd7-2c34-4fee-ba71-6604e71fb191",
+      "AnswerContent": "公司经营管理发生严重困难，继续存续会使股东利益受到重大损失，通过其他途径不能解决时，持有公司全部股东表决权百分之十以上的股东请求法院解散并获法院支持的，应当进行解散清算",
+      "QuestionId": "8828df34-526f-4e2c-8970-81ba0b9344f8"
+    },
+    {
+      "AnswerID": "a6f7d487-d34a-438e-8035-5bd1bfdb2587",
+      "AnswerContent": "并购退出的收购方，主要包括被投资企业大股东创始股东、管理层、员工等",
+      "QuestionId": "3d85c826-1e37-4a9e-9999-9aca4511a433"
+    },
+    {
+      "AnswerID": "ac0c8d03-a3d3-4e9b-863a-bf0a24dbd0ba",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "37db894e-e134-49d0-b766-f53c48e7b3da"
+    },
+    {
+      "AnswerID": "e54620ca-7695-40a0-96dd-c9e9a81cc57f",
+      "AnswerContent": "强制锁定是根据法律法规或公司章程规定的关于股份锁定的规则",
+      "QuestionId": "275f0306-5d8a-433a-9870-ef31b342bf56"
+    },
+    {
+      "AnswerID": "4c7f9427-7a39-4515-a7ee-3a11f2023481",
+      "AnswerContent": "股权投资母基金的投资者跟着母基金直接投资项目",
+      "QuestionId": "988b26db-5ed6-4417-b717-1be1985be008"
+    },
+    {
+      "AnswerID": "e859455e-49e0-4212-8b3c-bfd419fd47f7",
+      "AnswerContent": "股权投资母基金",
+      "QuestionId": "699456d1-8122-4beb-8607-db1246c980ff"
+    },
+    {
+      "AnswerID": "64529785-79cc-430a-95a1-4b8cf261fe29",
+      "AnswerContent": "降价融资意味着投资者先前购买的股权对价相对更为高昂，从而使投资者遭受损失",
+      "QuestionId": "b7f4ff84-d0b3-4ce2-a21d-12e4c40238c4"
+    },
+    {
+      "AnswerID": "2506a91e-ac39-4968-9e52-b76431feab02",
+      "AnswerContent": "创业成功概率较高",
+      "QuestionId": "fa7c69ad-c234-4895-b366-6b11a9486d3a"
+    },
+    {
+      "AnswerID": "45f85525-1d4c-42fc-a19a-c455f2c40a03",
+      "AnswerContent": "基金管理人只有在募集成功后，才需要对投资者投资基金的资金与财产安全承担责任和义务",
+      "QuestionId": "72d99d11-edaf-458c-9587-ce8aed4f38d1"
+    },
+    {
+      "AnswerID": "c22e883e-321c-4d05-b4b8-d7ac2c0eaaea",
+      "AnswerContent": "公司经营活动产生的现金流量净额远低于同期净利润时，应进行专项核查",
+      "QuestionId": "5804c815-bf10-4fb9-845a-b4b04c743931"
+    },
+    {
+      "AnswerID": "46c05ec5-eaec-4f23-84e0-caaf34e5009e",
+      "AnswerContent": "律师服务涵盖股权投资基金的各个阶段，包括设立、投资、投后管理、项目退出以及清算等托管机构承担的相关责任",
+      "QuestionId": "551899e6-7d6f-4160-9d4b-87c8cd2a77c5"
+    },
+    {
+      "AnswerID": "68bf5424-7236-408b-a172-bb23d70c7cec",
+      "AnswerContent": "参与上市公司重大资产重组",
+      "QuestionId": "1a799abc-9a9e-49d8-af3e-c382df5742ca"
+    },
+    {
+      "AnswerID": "71d27964-a81d-42d8-96d8-aca392d8cbec",
+      "AnswerContent": "向基金审计师提供了X项目的年度财务报表",
+      "QuestionId": "d77c6677-b571-4096-998d-ac0909690000"
+    },
+    {
+      "AnswerID": "370ab06e-f1cf-4d0a-b0f9-744bac54f601",
+      "AnswerContent": "甲的投资收益可以享受所得税优惠政策",
+      "QuestionId": "ec92c289-a11a-446c-ae1e-9a86def2e8fe"
+    },
+    {
+      "AnswerID": "5ac11947-629b-4977-bcda-b84b910461ba",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "4227f833-cd7d-4481-b05f-48f7324b6cd2"
+    },
+    {
+      "AnswerID": "0115bca7-63e8-435b-8cd9-b792370f5aa6",
+      "AnswerContent": "等式中的债务即为资产负债表中的负债",
+      "QuestionId": "7d44fe96-b725-454e-a049-98711646a4f6"
+    },
+    {
+      "AnswerID": "79131e66-664a-48e3-a7e3-a02eb0bde51f",
+      "AnswerContent": "A公司聘请的财务顾问将A公司商业计划书发送给某投资机构",
+      "QuestionId": "93e1f02c-31fd-405d-b95a-603aa545287a"
+    },
+    {
+      "AnswerID": "7700e96a-f956-4773-b9b1-8ad85c39da56",
+      "AnswerContent": "A基金的已分配收益倍数和总收益倍数均为2",
+      "QuestionId": "b136834f-4db6-41dd-ae88-5555db96592c"
+    },
+    {
+      "AnswerID": "de97c7c5-a4e0-45f6-81f3-59323531dab0",
+      "AnswerContent": "并购基金可以通过重整被投企业的管理团队，提升团队的执行力",
+      "QuestionId": "2aa603ba-6d34-4723-a652-e48a55e6519a"
+    },
+    {
+      "AnswerID": "ca5b3d09-6a7c-4398-84b8-f61d1bee32b9",
+      "AnswerContent": "7687万元",
+      "QuestionId": "6bf69376-8d37-4064-b0ef-5ab11400556b"
+    },
+    {
+      "AnswerID": "78cd31a1-9a10-459a-97cd-3d96916ed37a",
+      "AnswerContent": "可以委托基金管理人募集股权投资基金",
+      "QuestionId": "4f64c84d-3ee6-4d6e-a254-2275eefaf65e"
+    },
+    {
+      "AnswerID": "7628aa05-48e8-4f9e-a2a4-1fda306c6590",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "1256919a-df9a-4646-93ae-9ea427fcf409"
+    },
+    {
+      "AnswerID": "009b064e-aa82-4ee2-b405-16c4234794a0",
+      "AnswerContent": "自律组织可以提供行业服务，促进行业交流和创新",
+      "QuestionId": "ee6c0679-51e6-4a76-bc2a-61cae360bae0"
+    },
+    {
+      "AnswerID": "fe74653a-e781-4e87-8c7c-c498b376bad2",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "14cb2f71-0ade-46dd-ac38-a6d836c83728"
+    },
+    {
+      "AnswerID": "1095822c-5aac-4954-8206-cf2e1484e9aa",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "3da6c010-e286-4803-934c-6aa5691ecee3"
+    },
+    {
+      "AnswerID": "b9ec4226-f9f5-41f2-bd00-02b431982484",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "634893e8-7dc1-4e31-b2fa-1eeac3164410"
+    },
+    {
+      "AnswerID": "b4a1faa8-c459-4e66-bc58-cb524096481d",
+      "AnswerContent": "所有投资项目都实现到期退出的，应当安排基金清算",
+      "QuestionId": "6cb5689b-d029-4582-8430-292dd2c17aad"
+    },
+    {
+      "AnswerID": "bd5786bd-c6ee-41b5-9d04-df76f1203f1f",
+      "AnswerContent": "登记挂牌阶段的工作包括分配股票代码、股份登记存管等",
+      "QuestionId": "a7ec843b-1864-47cc-893b-07c138778949"
+    },
+    {
+      "AnswerID": "3a977f57-3b70-4482-b568-c1bea8ec5160",
+      "AnswerContent": "Ⅱ．Ⅲ．Ⅳ",
+      "QuestionId": "eb089291-5c79-4bf1-88e2-5035ce0698ca"
+    },
+    {
+      "AnswerID": "eb649111-9588-448a-96f0-b1c6aa35ea1d",
+      "AnswerContent": "基金托管人必然是股权投资基金当事人之一",
+      "QuestionId": "51305395-15d0-4e3d-ae88-89280c5d0a86"
+    },
+    {
+      "AnswerID": "13837500-e0b6-42b7-8fe6-0cb5215f7289",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "b968de5e-f0f2-461e-9b65-09b765cce4dd"
+    },
+    {
+      "AnswerID": "b9c18650-2745-4d49-bbd6-fbdabaf08611",
+      "AnswerContent": "第一拒绝权条款",
+      "QuestionId": "774ea099-be5e-47f2-8996-ba7626abf4c7"
+    },
+    {
+      "AnswerID": "2872ae84-715e-4882-b0ac-3eb5c58aa8a3",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "1005492a-4990-4ff1-a0f4-8e7855a889f8"
+    },
+    {
+      "AnswerID": "aa7cf987-f315-432e-9fe1-bfdbf42eb317",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "d73268ee-2f4c-4344-94c7-3ef2ec78c7b6"
+    },
+    {
+      "AnswerID": "2f28d0de-9f1f-487e-b2e7-18a3a0df14bd",
+      "AnswerContent": "公司年度招聘计划",
+      "QuestionId": "b57a66c7-ada1-42a8-9519-65275257d8cb"
+    },
+    {
+      "AnswerID": "b53b1d66-770a-4d59-907c-05d5d32874f0",
+      "AnswerContent": "母基金A在该交易中只需考察基金B所持有投资组合公司的价值",
+      "QuestionId": "8b466295-5f89-4628-b827-31c40a40722a"
+    },
+    {
+      "AnswerID": "705d8f51-1264-47b1-9b7b-3e87dc33a558",
+      "AnswerContent": "估值主要依据公司当时的经营业绩以及对未来经营业绩的预测做出，具有一定的风险性",
+      "QuestionId": "a420dd0c-18ed-49c3-8025-d96cc18a1333"
+    },
+    {
+      "AnswerID": "1b93de13-78bf-4880-bb4a-008544df70e4",
+      "AnswerContent": "如果基金服务存在与提供基金服务相冲突的业务，基金管理人应关注基金服务机构是否采取了有效的隔离措施",
+      "QuestionId": "0b1d02b0-677b-4b60-926f-910cb8f1498e"
+    },
+    {
+      "AnswerID": "012e15c4-e4a3-45d2-88ad-a538195f8fcd",
+      "AnswerContent": "1.03",
+      "QuestionId": "25a2cbb6-3a73-437a-88d5-b1feadca82c8"
+    },
+    {
+      "AnswerID": "f66d5a42-efbf-46b5-a807-9713beb1d95f",
+      "AnswerContent": "投资机构提供增值服务的目的主要是完善公司治理结构以满足公司上市要求",
+      "QuestionId": "b5cd3ba0-9a28-4cd5-a22a-cefc3dcdc288"
+    },
+    {
+      "AnswerID": "ba6458f4-b338-4c0f-be7a-b275a565e77f",
+      "AnswerContent": "根据目标公司与可比公司的特点进行分析比较，可以在可比公司可比倍数的平均值或中位数的基础上进行调整，进而计算出适用于目标公司的可比倍数",
+      "QuestionId": "0fae916a-2e41-41a2-b4cc-2c3d744252d2"
+    },
+    {
+      "AnswerID": "74497b0d-3d09-465b-9527-2150f490d939",
+      "AnswerContent": "连续竞价",
+      "QuestionId": "5efefea9-26cf-4bac-8ba8-a50bfa30ea78"
+    },
+    {
+      "AnswerID": "e16e8ba4-4b4e-45e7-8c3f-3b6b13ad3fde",
+      "AnswerContent": "回售价格",
+      "QuestionId": "42e11bde-b624-4103-b409-a56adda004ee"
+    },
+    {
+      "AnswerID": "ea407a15-313e-4a86-8646-4d2662a63a86",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "bde3cd9c-738d-4cec-9fa6-71268be2e8a3"
+    },
+    {
+      "AnswerID": "b40d4c23-9c49-4b10-84e9-4f79f0683fe2",
+      "AnswerContent": "A公司的估值由交易双方协商而定",
+      "QuestionId": "2f1b9521-2860-4fe8-9777-7d7b392257bc"
+    },
+    {
+      "AnswerID": "9af8675a-97bc-408f-8616-64c1f41a3742",
+      "AnswerContent": "公司型基金是非法人企业，根据公司章程运营基金",
+      "QuestionId": "bf4e81d2-efb5-47c9-8b57-49d830e7a7f5"
+    },
+    {
+      "AnswerID": "350585d4-d209-412f-bfc0-fd586b18259f",
+      "AnswerContent": "市净率倍数=公司价值/净资产",
+      "QuestionId": "27df1a2b-d311-45b7-a427-6156b86637f9"
+    },
+    {
+      "AnswerID": "a39dab58-72de-4a19-a0af-4a1f5f5d0cb1",
+      "AnswerContent": "Ⅰ、Ⅳ",
+      "QuestionId": "7416f1a2-5a82-48b2-b844-76d20908c76b"
+    },
+    {
+      "AnswerID": "6f5fe7ea-8529-4b6c-a345-0abdefe1d351",
+      "AnswerContent": "基金投资的项目没有全部退出时可以进行清算",
+      "QuestionId": "f085ab24-c9ab-42a5-a718-c9bb87589c85"
+    },
+    {
+      "AnswerID": "7167ad45-eac5-405e-9c98-258f861c7c65",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "956249e0-42e3-468d-be9a-bb4631d0aa34"
+    },
+    {
+      "AnswerID": "ac9af9fa-5101-4017-a5bc-db1b22760817",
+      "AnswerContent": "企业价值与企业经营指标高度正相关，因此，投资机构对企业经营指标的了解与掌握尤为重要",
+      "QuestionId": "1f2a5004-d91e-4445-a7eb-02f8314cb986"
+    },
+    {
+      "AnswerID": "26afaba7-53cf-43ad-a06a-0d7bfdc8875b",
+      "AnswerContent": "0.56",
+      "QuestionId": "e4d28e43-0cb2-406d-9094-a3a266e96b45"
+    },
+    {
+      "AnswerID": "0b46b809-a9e9-4ee5-bd24-194fc1de9dbb",
+      "AnswerContent": "有限合伙人以其实缴的出资额为限对基金（合伙企业）债务承担责任",
+      "QuestionId": "aafc6556-ba20-41d7-8ae9-e71179f5bd4b"
+    },
+    {
+      "AnswerID": "1b807eac-54f6-46ef-a5d2-1957c5d27035",
+      "AnswerContent": "公司总资产减去总负债后的净值即为公司的账面价值",
+      "QuestionId": "b299ccec-8afc-42a9-91b1-d1c08df78b52"
+    },
+    {
+      "AnswerID": "0fcee76a-ad99-4655-99c4-9b9a0fbbd3a4",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "fb5ece96-e66d-4799-81a6-071081a3a328"
+    },
+    {
+      "AnswerID": "08484262-87ca-4ec9-849a-a76ad9d26392",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "d03d10b7-26cd-4ca5-813f-47124bd43bc0"
+    },
+    {
+      "AnswerID": "65f92486-f367-45d7-abe5-5f77420464c5",
+      "AnswerContent": "主要通过股息红利的方式获取收益",
+      "QuestionId": "57af947f-b65a-4b4f-8e85-a6fb8807e27b"
+    },
+    {
+      "AnswerID": "25c37ddc-0a4a-4fb7-a53d-daf69a8d2810",
+      "AnswerContent": "应公平地对待其管理的不同基金财产",
+      "QuestionId": "47d89930-0ed1-47f4-9087-cebc210d6742"
+    },
+    {
+      "AnswerID": "37f57496-69ba-453a-8d9b-3d2d81b60c7c",
+      "AnswerContent": "11.21%",
+      "QuestionId": "5287689a-5ec2-480e-9bae-c6bd39442d73"
+    },
+    {
+      "AnswerID": "cb969cb0-43b0-426a-93b8-b23be26b273a",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "96402ce5-6400-4450-aa0a-7dc224e90639"
+    },
+    {
+      "AnswerID": "00914d5a-f3d6-4ddb-ad41-08c3a7992c8f",
+      "AnswerContent": "基金管理人可以委托有资质的第三方募集机构募集",
+      "QuestionId": "1fc4fd9d-43e7-4303-9456-51f227ceb98b"
+    },
+    {
+      "AnswerID": "a2b7b860-ad80-4ac4-a2b5-0e43d08f225e",
+      "AnswerContent": "流动性较好",
+      "QuestionId": "68be03c4-04fc-446b-b503-f6ba0fd2cd8c"
+    },
+    {
+      "AnswerID": "44939d68-7878-4ad5-a4da-6c45463fc75a",
+      "AnswerContent": "上市申报",
+      "QuestionId": "20cfa2c3-b01f-4bae-a055-e7f231a06034"
+    },
+    {
+      "AnswerID": "79f5fb76-ff76-4390-a067-a996e9a38e24",
+      "AnswerContent": "Ⅰ、Ⅳ",
+      "QuestionId": "ce30731e-3812-41a0-a789-c5d6e737689e"
+    },
+    {
+      "AnswerID": "d1ff3f0d-c59c-4f7e-b0cd-fb0c70daa22d",
+      "AnswerContent": "要求监管机构具有权威性，要赋予监管机构合法的监管地位",
+      "QuestionId": "70c84075-376f-4e6a-9eb6-8f9bd0a6e7d1"
+    },
+    {
+      "AnswerID": "2d20f029-3f7a-4f29-b752-7cddf9873eec",
+      "AnswerContent": "在瀑布式的收益分配方式中，项目投资退出的资金应当先返还至基金投资者",
+      "QuestionId": "5bbf86ec-1ed2-4939-831e-8d2edd1d55f2"
+    },
+    {
+      "AnswerID": "47931890-fc82-47bc-aaeb-555c2cdec04f",
+      "AnswerContent": "资产规模或者收入水平达到一定要求、投资额不低于规定限额",
+      "QuestionId": "534d2169-2a0a-4321-9adc-fcd7ca81466a"
+    },
+    {
+      "AnswerID": "d4452766-6aa4-4846-96fa-008a51bc06a6",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "7cbf0d65-9b43-4886-be93-0227c967af41"
+    },
+    {
+      "AnswerID": "f5c14b46-ed0f-4bfa-88b8-4675e24db2ca",
+      "AnswerContent": "股权投资基金从事的是长期投资，且透明性好、收益较高，故基金管理人通常参与基金收益的分配",
+      "QuestionId": "a17fd683-c05c-4549-a7d3-75140901b314"
+    },
+    {
+      "AnswerID": "dcb5e15f-c6ce-47af-a18a-c92167e7bd33",
+      "AnswerContent": "公司清偿全部债务后，清算组可将剩余资产（如有）分配给包括股权投资基金在内的股东",
+      "QuestionId": "83689451-46f4-4b0c-97c1-c06f2c3a31f0"
+    },
+    {
+      "AnswerID": "1f099ce0-05ce-432a-93a1-10d432b4e1a9",
+      "AnswerContent": "主要满足了合理税收的要求，因为可以降低整体税务水平",
+      "QuestionId": "d654f04f-2667-4a75-9482-9ff91a2ce166"
+    },
+    {
+      "AnswerID": "e2be58c9-1a40-4b11-a3a6-2907f09744dc",
+      "AnswerContent": "无需临时披露，只需在半年报或者年报进行披露",
+      "QuestionId": "0d4a06fb-198f-468e-a382-9428a8a6cbe4"
+    },
+    {
+      "AnswerID": "183c2754-54e5-4ff9-85ed-31d1154dfc4e",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "1bf43dcd-8f18-4f44-ad4d-d98b7094fb0b"
+    },
+    {
+      "AnswerID": "599cec5e-97cd-4dff-b3e7-7e49cc2d95be",
+      "AnswerContent": "股东",
+      "QuestionId": "8c8625c2-888a-47e5-8592-d0c67517e9a3"
+    },
+    {
+      "AnswerID": "c126c48d-aa51-4357-8e53-84ef275b2f8b",
+      "AnswerContent": "3.2",
+      "QuestionId": "d3132355-e5b8-448b-bed0-2a3934d3bf83"
+    },
+    {
+      "AnswerID": "b59df2b3-bdbb-46cb-804e-00c58a896d89",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "1aabf2ad-b0ea-4adc-a430-aa625f7de489"
+    },
+    {
+      "AnswerID": "67ef8c17-4885-4e61-a5e3-406b195ab564",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "2c21bc74-20b4-4ee6-b8d9-26e99fd218f7"
+    },
+    {
+      "AnswerID": "733a2f89-42a5-4d82-bd98-e8544cec3586",
+      "AnswerContent": "200,50",
+      "QuestionId": "93f823e9-b528-4736-8bab-f8d3b4f5169d"
+    },
+    {
+      "AnswerID": "2441b2a5-79e9-40a1-a7e1-73587528ecd3",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "f36b34da-428c-4b11-9a25-eb6600c5dcf6"
+    },
+    {
+      "AnswerID": "cc0d6dd0-1c47-437f-9208-ddf5702733be",
+      "AnswerContent": "折现现金流估值法受市场短期变化和非经济因素的影响较小",
+      "QuestionId": "618a000f-f7b3-4cc8-8cea-1bbe03eab76e"
+    },
+    {
+      "AnswerID": "f373ced2-3756-482e-9a32-490c841a8549",
+      "AnswerContent": "出资为限",
+      "QuestionId": "d24dab59-4255-471f-9e9a-fd42766dcb7d"
+    },
+    {
+      "AnswerID": "ea1b2d7b-1910-4a43-8e60-97559dd5925b",
+      "AnswerContent": "既不是甲合伙企业，也不是乙合伙企业",
+      "QuestionId": "81bfd835-e530-46f0-8bc9-c9100c99cafc"
+    },
+    {
+      "AnswerID": "e83dec58-02cc-4d41-b586-b0ccb1be6e5a",
+      "AnswerContent": "反稀释权",
+      "QuestionId": "5d6a4a86-6fc9-41b9-9ab3-95dca1a89fda"
+    },
+    {
+      "AnswerID": "23013fa7-f5dd-4f15-b0f6-2467cca7816e",
+      "AnswerContent": "1.85",
+      "QuestionId": "015e32de-6aed-4312-82f9-0440cda8911b"
+    },
+    {
+      "AnswerID": "1057807b-c967-47fb-825f-6d9a1246bde4",
+      "AnswerContent": "财务尽职调查重点关注目标公司的历史财务业绩情况,，并对企业未来财务状况进行合理预测",
+      "QuestionId": "0d47cf19-6fd7-4af3-8a5f-02e77bf19d47"
+    },
+    {
+      "AnswerID": "994576bd-3137-4dda-8772-a73fe16635bd",
+      "AnswerContent": "设置较多环节，提高控制效果",
+      "QuestionId": "8a29de1f-d010-4fee-860b-481178ad8112"
+    },
+    {
+      "AnswerID": "4cc62a16-933a-4500-a310-a954dd1f5621",
+      "AnswerContent": "6亿元",
+      "QuestionId": "6e073e83-0ad6-4f31-8127-828016935a43"
+    },
+    {
+      "AnswerID": "9451fb09-d361-4577-86b6-7195453ea7bb",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "7de2b17d-2d23-4dd5-acb0-4a893490d2a8"
+    },
+    {
+      "AnswerID": "776f9ed8-2c9b-4487-b12f-4f0f18b481e0",
+      "AnswerContent": "高收益、无风险",
+      "QuestionId": "8eca7420-ea76-444f-8a48-9187dc5079d0"
+    },
+    {
+      "AnswerID": "89505e1e-0698-4c9b-bcd7-2eed0d4f59ce",
+      "AnswerContent": "与被投资企业创始人股东、高级管理人和其他关键人员签订竞业禁止条款和保密条款",
+      "QuestionId": "6896867a-d328-4d3d-9ffb-62810c09406a"
+    },
+    {
+      "AnswerID": "dd5559fa-cfeb-44ee-b674-8e6c3e24f87d",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ、Ⅴ",
+      "QuestionId": "d5b83c4d-9a8d-46b3-914d-7f0135adea7c"
+    },
+    {
+      "AnswerID": "6bba3b1a-181d-4caa-9dd7-2cfeb13cecc4",
+      "AnswerContent": "900万元",
+      "QuestionId": "d2a48b35-5431-4686-b2a1-7cddc0bef32f"
+    },
+    {
+      "AnswerID": "9a236377-c182-455e-8134-50841863d48d",
+      "AnswerContent": "帮助被投资企业完善人才招聘流程",
+      "QuestionId": "35733c23-2aad-483d-b7a8-d610dc226df8"
+    },
+    {
+      "AnswerID": "fe5487f6-82a3-4320-9a36-8acb6094c13f",
+      "AnswerContent": "投资交割之后至项目清算之前",
+      "QuestionId": "347bc21c-eb39-40a4-b5f2-0aed1435c309"
+    },
+    {
+      "AnswerID": "b153f24a-9f4c-45a7-9623-f63d7863470f",
+      "AnswerContent": "基金由基金管理人具体负责投资运作，有限合伙人可以参与投资决策",
+      "QuestionId": "93f67224-9976-4445-bac3-367e090a4c95"
+    },
+    {
+      "AnswerID": "d778f999-891e-46c7-b5a6-60ead2a3baa7",
+      "AnswerContent": "在建立必要业务隔离的前提下，基金托管人可以被委托担任同一基金的基金服务机构",
+      "QuestionId": "4ebd0cf2-12f0-4f86-90e1-05ecea1011c0"
+    },
+    {
+      "AnswerID": "e1f15026-947b-4492-83f0-ad0e30d0c7f4",
+      "AnswerContent": "加权平均条款不考虑新增出资额的价格",
+      "QuestionId": "600cf6b1-19ba-41d4-8d38-368b49ef741e"
+    },
+    {
+      "AnswerID": "48e1773a-195e-46aa-bcb4-bb6ba22d444c",
+      "AnswerContent": "6.3",
+      "QuestionId": "2ba20444-50be-4369-84ac-76603fe9cc6b"
+    },
+    {
+      "AnswerID": "cdd47c65-1696-4a8c-9704-2e2f0fa4924d",
+      "AnswerContent": "6.5",
+      "QuestionId": "2ba20444-50be-4369-84ac-76603fe9cc6b"
+    },
+    {
+      "AnswerID": "e9ee5f69-cc75-4870-91dc-93f2f92405b8",
+      "AnswerContent": "普通合伙人对基金的债务承担无限连带责任，有限合伙人以其认缴的出资额为限对基金债务承担责任",
+      "QuestionId": "93f67224-9976-4445-bac3-367e090a4c95"
+    },
+    {
+      "AnswerID": "fa95dc58-735b-49db-9205-90da09e584eb",
+      "AnswerContent": "签订投资协议之后至项目清算之前",
+      "QuestionId": "347bc21c-eb39-40a4-b5f2-0aed1435c309"
+    },
+    {
+      "AnswerID": "ff704cc1-02b4-43f1-bc06-363dad75a128",
+      "AnswerContent": "加权平均条款将新增出资额的数量作为反稀释时一个重要的考虑因素",
+      "QuestionId": "600cf6b1-19ba-41d4-8d38-368b49ef741e"
+    },
+    {
+      "AnswerID": "cc10577f-1f46-41fc-ada3-219747fa7869",
+      "AnswerContent": "基金管理人可以委托基金服务机构提供基金募集服务",
+      "QuestionId": "4ebd0cf2-12f0-4f86-90e1-05ecea1011c0"
+    },
+    {
+      "AnswerID": "e4e3482e-754d-4191-9bd1-05a18f36348e",
+      "AnswerContent": "帮助被投资企业完善董事会议事规则",
+      "QuestionId": "35733c23-2aad-483d-b7a8-d610dc226df8"
+    },
+    {
+      "AnswerID": "07f467e5-c167-4f89-a7e1-a7174beedfd3",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ、Ⅴ",
+      "QuestionId": "d5b83c4d-9a8d-46b3-914d-7f0135adea7c"
+    },
+    {
+      "AnswerID": "022d3064-f4ba-4b5a-861c-0dcf276e8395",
+      "AnswerContent": "100万元",
+      "QuestionId": "d2a48b35-5431-4686-b2a1-7cddc0bef32f"
+    },
+    {
+      "AnswerID": "fa3c4066-43a2-4953-a92c-a929ec1d1d8c",
+      "AnswerContent": "要求被投资企业提供财务报表和业绩报表",
+      "QuestionId": "6896867a-d328-4d3d-9ffb-62810c09406a"
+    },
+    {
+      "AnswerID": "14625e94-09d9-4417-9e9b-f78d96dfd477",
+      "AnswerContent": "避险、安全",
+      "QuestionId": "8eca7420-ea76-444f-8a48-9187dc5079d0"
+    },
+    {
+      "AnswerID": "b1fdeb31-73a0-4308-aba6-d0d75728f925",
+      "AnswerContent": "根据领导要求，灵活执行内部控制制度",
+      "QuestionId": "8a29de1f-d010-4fee-860b-481178ad8112"
+    },
+    {
+      "AnswerID": "144b406d-9c0b-4f91-bea3-3d76d30c8c7f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "7de2b17d-2d23-4dd5-acb0-4a893490d2a8"
+    },
+    {
+      "AnswerID": "ae2e4d1a-a744-4210-b2ba-81cd27ecba28",
+      "AnswerContent": "财务尽职调查是投资及整合方案设计、交易谈判、投资决策不可或缺的前提",
+      "QuestionId": "0d47cf19-6fd7-4af3-8a5f-02e77bf19d47"
+    },
+    {
+      "AnswerID": "2118f031-0bad-406b-aa1e-66fd9db0f697",
+      "AnswerContent": "5亿元",
+      "QuestionId": "6e073e83-0ad6-4f31-8127-828016935a43"
+    },
+    {
+      "AnswerID": "59e91cd6-e864-4078-ac90-0871b957a76b",
+      "AnswerContent": "0.75",
+      "QuestionId": "015e32de-6aed-4312-82f9-0440cda8911b"
+    },
+    {
+      "AnswerID": "b3129c62-f1aa-449f-b1e9-9694390b1458",
+      "AnswerContent": "认购股份为限",
+      "QuestionId": "d24dab59-4255-471f-9e9a-fd42766dcb7d"
+    },
+    {
+      "AnswerID": "c02eb521-1379-43a5-9ab1-8250fcf75631",
+      "AnswerContent": "是乙合伙企业",
+      "QuestionId": "81bfd835-e530-46f0-8bc9-c9100c99cafc"
+    },
+    {
+      "AnswerID": "726c2ef1-8f40-4cb1-8e60-6f7129c5444b",
+      "AnswerContent": "第一拒绝权",
+      "QuestionId": "5d6a4a86-6fc9-41b9-9ab3-95dca1a89fda"
+    },
+    {
+      "AnswerID": "9158381e-7cd9-4e67-96e9-0eb011407e6e",
+      "AnswerContent": "折现现金流估值法计算较复杂，操作起来有一定难度",
+      "QuestionId": "618a000f-f7b3-4cc8-8cea-1bbe03eab76e"
+    },
+    {
+      "AnswerID": "60f96343-629c-46df-9dcb-f65e139acb34",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "f36b34da-428c-4b11-9a25-eb6600c5dcf6"
+    },
+    {
+      "AnswerID": "b2b372ef-f460-424c-bbe1-29d471b83a7c",
+      "AnswerContent": "100,50",
+      "QuestionId": "93f823e9-b528-4736-8bab-f8d3b4f5169d"
+    },
+    {
+      "AnswerID": "19674538-b4ab-4687-b062-7cd3b8d53c47",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "2c21bc74-20b4-4ee6-b8d9-26e99fd218f7"
+    },
+    {
+      "AnswerID": "9ecfe81f-2a7b-4982-8559-c0e5fda0d531",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "1aabf2ad-b0ea-4adc-a430-aa625f7de489"
+    },
+    {
+      "AnswerID": "23902133-f617-4bdd-a9aa-aebf4d99cae3",
+      "AnswerContent": "3.36",
+      "QuestionId": "d3132355-e5b8-448b-bed0-2a3934d3bf83"
+    },
+    {
+      "AnswerID": "bdb5697a-14f6-44bd-a3d7-875aedb0c853",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "1bf43dcd-8f18-4f44-ad4d-d98b7094fb0b"
+    },
+    {
+      "AnswerID": "6e1d2ef0-b765-4dd7-bd28-5f920ee7ded3",
+      "AnswerContent": "管理层",
+      "QuestionId": "8c8625c2-888a-47e5-8592-d0c67517e9a3"
+    },
+    {
+      "AnswerID": "bde9b0d6-09a1-4375-8346-a72809372391",
+      "AnswerContent": "基金管理人自主决定披露时间",
+      "QuestionId": "0d4a06fb-198f-468e-a382-9428a8a6cbe4"
+    },
+    {
+      "AnswerID": "1a877e44-6ebb-45ce-8545-c6fce4637315",
+      "AnswerContent": "主要满足了被投资企业的利益，因为可以获得更多的增值服务",
+      "QuestionId": "d654f04f-2667-4a75-9482-9ff91a2ce166"
+    },
+    {
+      "AnswerID": "cce4c164-604e-41cd-b2be-8212fb0aecb1",
+      "AnswerContent": "具备风险识别能力、具备风险承担能力",
+      "QuestionId": "534d2169-2a0a-4321-9adc-fcd7ca81466a"
+    },
+    {
+      "AnswerID": "1db28d40-f61d-4a50-8582-d13092c8067f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "7cbf0d65-9b43-4886-be93-0227c967af41"
+    },
+    {
+      "AnswerID": "a4b1aeb0-5c54-4f23-bf60-d4fb7faeb8d4",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "ce30731e-3812-41a0-a789-c5d6e737689e"
+    },
+    {
+      "AnswerID": "de92b3b9-c5af-48de-8064-1a22de960729",
+      "AnswerContent": "基金的主要收益来源之一是投资企业分配的红利",
+      "QuestionId": "a17fd683-c05c-4549-a7d3-75140901b314"
+    },
+    {
+      "AnswerID": "42247b7f-6b50-47a6-a496-a50f4ce3bbe3",
+      "AnswerContent": "清算组发现公司财产不足清偿债务的，有责任向法院申请破产清算",
+      "QuestionId": "83689451-46f4-4b0c-97c1-c06f2c3a31f0"
+    },
+    {
+      "AnswerID": "0edaec43-e4e2-4707-b083-06035973803d",
+      "AnswerContent": "在回拨机制下基金清算时，若投资者收益率低于门槛收益率，管理人需将部分或全部业绩报酬返还至基金资产，并分配给基金投资者",
+      "QuestionId": "5bbf86ec-1ed2-4939-831e-8d2edd1d55f2"
+    },
+    {
+      "AnswerID": "46ba4fc1-c926-4f0d-8bce-1c4219ea9cae",
+      "AnswerContent": "要求监管机构具有科学的监管技术和现代化的监管手段",
+      "QuestionId": "70c84075-376f-4e6a-9eb6-8f9bd0a6e7d1"
+    },
+    {
+      "AnswerID": "a3425315-087d-465e-95fb-961c73f356ad",
+      "AnswerContent": "公开发行和交易",
+      "QuestionId": "20cfa2c3-b01f-4bae-a055-e7f231a06034"
+    },
+    {
+      "AnswerID": "4789e7b7-f651-4482-960f-7e24300cb4bd",
+      "AnswerContent": "专业性较强",
+      "QuestionId": "68be03c4-04fc-446b-b503-f6ba0fd2cd8c"
+    },
+    {
+      "AnswerID": "1acb4100-2f66-48f7-bb18-29071d873009",
+      "AnswerContent": "基金可选择采用公司、有限合伙或信托（契约）这三种组织形式",
+      "QuestionId": "1fc4fd9d-43e7-4303-9456-51f227ceb98b"
+    },
+    {
+      "AnswerID": "35a8d0cc-98f1-4cdb-a058-17e6fe8f3d82",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "96402ce5-6400-4450-aa0a-7dc224e90639"
+    },
+    {
+      "AnswerID": "4ee70538-5b27-40e0-adc6-f17c1481a35e",
+      "AnswerContent": "包含非专业机构和个人从事创业投资",
+      "QuestionId": "57af947f-b65a-4b4f-8e85-a6fb8807e27b"
+    },
+    {
+      "AnswerID": "487d5e4d-9eae-463c-bcfd-d5e744c8582f",
+      "AnswerContent": "可为基金投资人场外配资活动提供服务",
+      "QuestionId": "47d89930-0ed1-47f4-9087-cebc210d6742"
+    },
+    {
+      "AnswerID": "139dbc80-5860-4b83-94b8-6cb1c38db0a5",
+      "AnswerContent": "9.6%",
+      "QuestionId": "5287689a-5ec2-480e-9bae-c6bd39442d73"
+    },
+    {
+      "AnswerID": "2fc739fd-43f4-4355-addd-9e359959f6e9",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "fb5ece96-e66d-4799-81a6-071081a3a328"
+    },
+    {
+      "AnswerID": "c34f563d-4d31-4b4d-98f1-05824270b3d4",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "d03d10b7-26cd-4ca5-813f-47124bd43bc0"
+    },
+    {
+      "AnswerID": "3022b05e-1403-4845-a8d1-b543e63b7d0d",
+      "AnswerContent": "账面价值法的主观因素较大",
+      "QuestionId": "b299ccec-8afc-42a9-91b1-d1c08df78b52"
+    },
+    {
+      "AnswerID": "d752478e-942e-4fb7-bf6a-6ffda6df8aa1",
+      "AnswerContent": "合伙型基金的参与主体包括普通合伙人、有限合伙人和基金管理人",
+      "QuestionId": "aafc6556-ba20-41d7-8ae9-e71179f5bd4b"
+    },
+    {
+      "AnswerID": "fcb9ab6c-4d0c-423b-aca8-fec45e4023a7",
+      "AnswerContent": "年度经营指标一般覆盖整年，所以只需到年底再监控",
+      "QuestionId": "1f2a5004-d91e-4445-a7eb-02f8314cb986"
+    },
+    {
+      "AnswerID": "37dd7899-f55b-4b72-955e-0d34f4d447f8",
+      "AnswerContent": "0.376",
+      "QuestionId": "e4d28e43-0cb2-406d-9094-a3a266e96b45"
+    },
+    {
+      "AnswerID": "e613e304-ff0e-40eb-999e-6e67b6529f1d",
+      "AnswerContent": "基金清算是指基金定期或不定期对其资产、负责、权益等情况进行核算",
+      "QuestionId": "f085ab24-c9ab-42a5-a718-c9bb87589c85"
+    },
+    {
+      "AnswerID": "5b57ae7f-1ba1-4074-9861-453e8fe7a355",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "956249e0-42e3-468d-be9a-bb4631d0aa34"
+    },
+    {
+      "AnswerID": "0349f9ae-cba8-480c-955f-c382c9a0ebca",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "7416f1a2-5a82-48b2-b844-76d20908c76b"
+    },
+    {
+      "AnswerID": "4ee04c4e-6537-4286-9abe-5774777f529e",
+      "AnswerContent": "市盈率倍数=每股价值/每股收益",
+      "QuestionId": "27df1a2b-d311-45b7-a427-6156b86637f9"
+    },
+    {
+      "AnswerID": "37710dc3-fcc1-4dda-964c-fd7a8e5fe2fe",
+      "AnswerContent": "公司型基金是法人企业，根据合伙协议运营基金",
+      "QuestionId": "bf4e81d2-efb5-47c9-8b57-49d830e7a7f5"
+    },
+    {
+      "AnswerID": "732b36d5-280b-4898-aa9b-882cba8c4bc9",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "bde3cd9c-738d-4cec-9fa6-71268be2e8a3"
+    },
+    {
+      "AnswerID": "e126d84e-05a5-46dc-ba39-14b7844af312",
+      "AnswerContent": "A公司的竞争力更强，所以其交易估值高于B公司市值",
+      "QuestionId": "2f1b9521-2860-4fe8-9777-7d7b392257bc"
+    },
+    {
+      "AnswerID": "7a41c33c-4834-485a-9edb-dc2094bb6003",
+      "AnswerContent": "触发条件",
+      "QuestionId": "42e11bde-b624-4103-b409-a56adda004ee"
+    },
+    {
+      "AnswerID": "38801e9c-fc8e-454c-bf02-21d5cc452725",
+      "AnswerContent": "做市转让",
+      "QuestionId": "5efefea9-26cf-4bac-8ba8-a50bfa30ea78"
+    },
+    {
+      "AnswerID": "54c42b62-c99c-4964-9f34-c6e06f158ec1",
+      "AnswerContent": "计算适用于目标公司的可比倍数时，通常用若干个可比公司可比倍数的平均值或中位数作为目标公司的倍数参考值，还需注意剔除其中的异常值",
+      "QuestionId": "0fae916a-2e41-41a2-b4cc-2c3d744252d2"
+    },
+    {
+      "AnswerID": "aee56c32-2c07-4120-8e40-807bb1446e49",
+      "AnswerContent": "增值服务属于投资机构投资后管理的重要组成部分，贯穿于投资后管理的整个环节",
+      "QuestionId": "b5cd3ba0-9a28-4cd5-a22a-cefc3dcdc288"
+    },
+    {
+      "AnswerID": "3e236c77-aa4b-4a32-a717-dec885dbfeed",
+      "AnswerContent": "基金服务机构与基金托管人一定不得为同一机构",
+      "QuestionId": "0b1d02b0-677b-4b60-926f-910cb8f1498e"
+    },
+    {
+      "AnswerID": "edf18b05-7a55-486a-ad3f-082b593b2365",
+      "AnswerContent": "0.55",
+      "QuestionId": "25a2cbb6-3a73-437a-88d5-b1feadca82c8"
+    },
+    {
+      "AnswerID": "a54bd0e6-0dcc-46da-9148-f80985860a7d",
+      "AnswerContent": "估值调整条款的主要目的是用来弥补投资者因企业实际价值降低而蒙受的损失",
+      "QuestionId": "a420dd0c-18ed-49c3-8025-d96cc18a1333"
+    },
+    {
+      "AnswerID": "85754e44-eb67-43b7-ac1a-1014c7ea4a04",
+      "AnswerContent": "因缺乏流动性，母基金A可以按一定折扣购买C持有的基金B的份额",
+      "QuestionId": "8b466295-5f89-4628-b827-31c40a40722a"
+    },
+    {
+      "AnswerID": "f6724dff-394a-459e-8e07-66e2cc75b674",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "d73268ee-2f4c-4344-94c7-3ef2ec78c7b6"
+    },
+    {
+      "AnswerID": "2b28d3ad-8816-457c-8c2b-993cf0541a69",
+      "AnswerContent": "管理团队履历",
+      "QuestionId": "b57a66c7-ada1-42a8-9519-65275257d8cb"
+    },
+    {
+      "AnswerID": "5758f033-ac90-4a38-80fd-342d257e3c00",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "1005492a-4990-4ff1-a0f4-8e7855a889f8"
+    },
+    {
+      "AnswerID": "aaf5881b-c71f-4cc7-830f-987fc3012cbe",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "b968de5e-f0f2-461e-9b65-09b765cce4dd"
+    },
+    {
+      "AnswerID": "b32643dc-5e7b-4d25-87da-a1f16dba3538",
+      "AnswerContent": "排他性条款",
+      "QuestionId": "774ea099-be5e-47f2-8996-ba7626abf4c7"
+    },
+    {
+      "AnswerID": "a3a97762-d431-424e-9fb8-a915f00f78f9",
+      "AnswerContent": "股权投资基金采取强制托管措施，保障基金财产安全",
+      "QuestionId": "51305395-15d0-4e3d-ae88-89280c5d0a86"
+    },
+    {
+      "AnswerID": "ef5b585c-6b6e-4f71-bb76-fdcbaff84b95",
+      "AnswerContent": "反馈审核阶段，&nbsp;股转系统接受申请材料，&nbsp;并出具审查反馈意见",
+      "QuestionId": "a7ec843b-1864-47cc-893b-07c138778949"
+    },
+    {
+      "AnswerID": "ef53e2fa-fc95-4970-b471-41b292396ebc",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "634893e8-7dc1-4e31-b2fa-1eeac3164410"
+    },
+    {
+      "AnswerID": "a3b9fad5-405e-4af2-a752-13a662c26739",
+      "AnswerContent": "Ⅰ．Ⅱ．Ⅲ．Ⅳ",
+      "QuestionId": "eb089291-5c79-4bf1-88e2-5035ce0698ca"
+    },
+    {
+      "AnswerID": "f964d3ef-1e9c-409f-855d-0bea90a09fdb",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "3da6c010-e286-4803-934c-6aa5691ecee3"
+    },
+    {
+      "AnswerID": "7b0099a2-f7cb-4029-b2de-97334b87f000",
+      "AnswerContent": "无论是公司型、合伙型、还是信托（契约）型股权投资基金，都应该及时向工商机关办理注销手续",
+      "QuestionId": "6cb5689b-d029-4582-8430-292dd2c17aad"
+    },
+    {
+      "AnswerID": "f707b99d-ea9d-4abb-b5e4-9c4648f13da9",
+      "AnswerContent": "自律组织可以发挥行业与政府间的桥梁和纽带作用，维护行业合法权益",
+      "QuestionId": "ee6c0679-51e6-4a76-bc2a-61cae360bae0"
+    },
+    {
+      "AnswerID": "c1d3715c-fa6c-4cf7-a418-81099262b6a5",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "14cb2f71-0ade-46dd-ac38-a6d836c83728"
+    },
+    {
+      "AnswerID": "22f6b403-f587-4de3-aa17-c411938668e1",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "1256919a-df9a-4646-93ae-9ea427fcf409"
+    },
+    {
+      "AnswerID": "ca78ad94-c9c1-4ca8-8de7-ac66b08d946e",
+      "AnswerContent": "可以接受基金管理人委托募集股权投资基金",
+      "QuestionId": "4f64c84d-3ee6-4d6e-a254-2275eefaf65e"
+    },
+    {
+      "AnswerID": "c16e8bca-c2eb-4922-99a3-10fbe05b49d5",
+      "AnswerContent": "9495万元",
+      "QuestionId": "6bf69376-8d37-4064-b0ef-5ab11400556b"
+    },
+    {
+      "AnswerID": "111ddd55-29ad-4ba7-8ee4-fb6c9d09d653",
+      "AnswerContent": "并购基金整合投资企业时，会导致大规模失业，不利于经济的稳定发展",
+      "QuestionId": "2aa603ba-6d34-4723-a652-e48a55e6519a"
+    },
+    {
+      "AnswerID": "89660fd5-fb91-47c9-aab3-cdd9a8b667db",
+      "AnswerContent": "B基金的总收益倍数高于已分配收益倍数",
+      "QuestionId": "b136834f-4db6-41dd-ae88-5555db96592c"
+    },
+    {
+      "AnswerID": "f8d76fea-fc16-4fd8-b044-0450a5a17d89",
+      "AnswerContent": "A公司的法务与某投资机构谈判签署投资框架协议",
+      "QuestionId": "93e1f02c-31fd-405d-b95a-603aa545287a"
+    },
+    {
+      "AnswerID": "dd20ac1c-c8d7-4be8-81cd-6b1abc77396c",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "4227f833-cd7d-4481-b05f-48f7324b6cd2"
+    },
+    {
+      "AnswerID": "6e017a09-80df-4a4f-b514-355132c8cd1b",
+      "AnswerContent": "丙可享受所得税优惠政策",
+      "QuestionId": "ec92c289-a11a-446c-ae1e-9a86def2e8fe"
+    },
+    {
+      "AnswerID": "dbfada0b-762b-483e-b45e-16e145fdd1f1",
+      "AnswerContent": "等式中的债务与现金的差额可定义为净债务",
+      "QuestionId": "7d44fe96-b725-454e-a049-98711646a4f6"
+    },
+    {
+      "AnswerID": "45832fee-31da-429d-859d-c3dc29b1a1b2",
+      "AnswerContent": "借壳上市",
+      "QuestionId": "1a799abc-9a9e-49d8-af3e-c382df5742ca"
+    },
+    {
+      "AnswerID": "b6a68e2a-bc63-4a1a-8daf-3bbdeb3b7e79",
+      "AnswerContent": "向基金现有投资组合中同行业项目高管介绍并咨询确认X项目扩张规划的合理性",
+      "QuestionId": "d77c6677-b571-4096-998d-ac0909690000"
+    },
+    {
+      "AnswerID": "a05f6758-e549-4c15-8c17-56209d5f79a8",
+      "AnswerContent": "基金财产保管机构仅承担保管责任，不同于基金托管机构承担的相关责任",
+      "QuestionId": "551899e6-7d6f-4160-9d4b-87c8cd2a77c5"
+    },
+    {
+      "AnswerID": "a65f941f-89cc-4e4c-bc83-59def862f836",
+      "AnswerContent": "对于公司披露的参股子公司，应获取最近三年的财务报告及审计报告",
+      "QuestionId": "5804c815-bf10-4fb9-845a-b4b04c743931"
+    },
+    {
+      "AnswerID": "55cd4f1e-bd27-4c21-a0ce-d1a327601109",
+      "AnswerContent": "无论是自行募集还是委托募集，募集机构都应保证募集行为的合法合规性",
+      "QuestionId": "72d99d11-edaf-458c-9587-ce8aed4f38d1"
+    },
+    {
+      "AnswerID": "3728a26d-428b-4e4b-9a14-95c1d85d691c",
+      "AnswerContent": "大多数已建立规范的公司治理架构",
+      "QuestionId": "fa7c69ad-c234-4895-b366-6b11a9486d3a"
+    },
+    {
+      "AnswerID": "1b8668a2-f898-4763-b843-e14e268abc50",
+      "AnswerContent": "经营状况较为成熟的企业比早中期创业企业更需要反摊薄条款",
+      "QuestionId": "b7f4ff84-d0b3-4ce2-a21d-12e4c40238c4"
+    },
+    {
+      "AnswerID": "73fb5d16-7204-4dee-a6c1-debdf80f10e0",
+      "AnswerContent": "股权投资母基金所投资的基金跟着母基金直接投资项目",
+      "QuestionId": "988b26db-5ed6-4417-b717-1be1985be008"
+    },
+    {
+      "AnswerID": "4010415b-8f0c-4df5-94bf-19c9462ef6a1",
+      "AnswerContent": "成长性基金",
+      "QuestionId": "699456d1-8122-4beb-8607-db1246c980ff"
+    },
+    {
+      "AnswerID": "f6643833-624e-477a-8a9b-4703a61d9b38",
+      "AnswerContent": "锁定期的设置，通常是为了保护中小投资者的利益，防止“内部人”利用信息优势获得不当利益",
+      "QuestionId": "275f0306-5d8a-433a-9870-ef31b342bf56"
+    },
+    {
+      "AnswerID": "058c5fb1-7ff7-445b-bfc2-d6e46745005b",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "37db894e-e134-49d0-b766-f53c48e7b3da"
+    },
+    {
+      "AnswerID": "4c7d59c1-13af-486e-b68b-c1ff5b1aefbd",
+      "AnswerContent": "并购退出是指目标企业原投资方向其它收购方转让持有的全部或者部分股权，实现退出行为",
+      "QuestionId": "3d85c826-1e37-4a9e-9999-9aca4511a433"
+    },
+    {
+      "AnswerID": "3666020d-be24-47c1-96f3-ae0f7de4e4aa",
+      "AnswerContent": "清算退出包括解散清算和破产清算",
+      "QuestionId": "8828df34-526f-4e2c-8970-81ba0b9344f8"
+    },
+    {
+      "AnswerID": "71952dbc-edcd-459d-8c8f-183b5e53ea06",
+      "AnswerContent": "可约定目标公司董事会的席位数量",
+      "QuestionId": "5bd152d2-062a-469a-8812-160a8a6c6fe8"
+    },
+    {
+      "AnswerID": "c2f681d8-d70f-4c80-b65a-ae46fee3e586",
+      "AnswerContent": "优先级低，&nbsp;成本低",
+      "QuestionId": "90c4d7e8-76d0-43af-843c-aff8d59f0138"
+    }
+  ],
+  "Paper": [
+    {
+      "ExamTime": 7200,
+      "CalculationScoreType": "0"
+    }
+  ],
+  "Label": [],
+  "Wrong": [],
+  "Schedule": [
+    {
+      "ScheduleID": "e5bb5b30-bb43-47e3-ac01-be0b9f093191",
+      "UseTime": 0,
+      "LableQuestionID": null,
+      "IsHand": 0
+    }
+  ],
+  "ScheduleItems": []
+}
