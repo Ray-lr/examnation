@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <img  height="200" width="200" src="./assets/avatar.jpg"><br>
+    <h1> 【押题卷5】私募股权投资基金基础知识</h1>
+    <!--<img  height="200" width="200" src="./assets/avatar.jpg"><br>-->
     作者: Ray
-    <h1> 第二套考题</h1>
     <Home/>
   </div>
 </template>

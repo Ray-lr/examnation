@@ -1,2329 +1,2004 @@
 {
-"Answer": [
-            {
-                "AnswerID": "7640701c-8d51-4e46-933e-7391b4ee0ec5",
-                "AnswerContent": "竣工验收合格证明",
-                "QuestionId": "2d4dcf4e-c9a7-4876-abe9-fda751afcb4b"
-            },
-            {
-                "AnswerID": "81d5cbef-5440-449d-a8f2-12c4bedaeb89",
-                "AnswerContent": "加强审查，对抵押物登记情况予以核实",
-                "QuestionId": "df711789-a7ed-4e6f-9fcc-224ea98222d1"
-            },
-            {
-                "AnswerID": "20ad6b4f-e093-493c-9c27-a5d9deaf4abe",
-                "AnswerContent": "农村承包土地经营权和农村住房财产权",
-                "QuestionId": "ff01ecf9-7417-439b-8912-db3a6521dc14"
-            },
-            {
-                "AnswerID": "cc7decff-25c7-4948-a00a-090f27692635",
-                "AnswerContent": "个人教育贷款分为国家助学贷款和商业性助学贷款",
-                "QuestionId": "c7d55623-4d7e-4c1c-8b37-e9bf9f9eb441"
-            },
-            {
-                "AnswerID": "a50791c7-fe57-4a91-ab88-a1d7bea4953e",
-                "AnswerContent": "房产信息",
-                "QuestionId": "52f6474c-084c-4c42-8892-4282230e08a7"
-            },
-            {
-                "AnswerID": "bea634f8-10de-4404-aa5d-d2f8fd8c15c2",
-                "AnswerContent": "丙企业不再承担保证责任，因为保证合同因甲、乙变更了合同的数额条款而致保证合同无效",
-                "QuestionId": "89f15e9c-bf23-4d7b-8b68-ec431b80ffff"
-            },
-            {
-                "AnswerID": "6803800a-dc90-49bd-8518-8d439d2bc80f",
-                "AnswerContent": "进一步完善风险保证金制度",
-                "QuestionId": "1b40dc1f-678a-425d-88fd-ab8e6551ab40"
-            },
-            {
-                "AnswerID": "a0498318-67c9-4cf3-b9d2-e4577a813608",
-                "AnswerContent": "甲贷乙用",
-                "QuestionId": "8c469c35-b988-4db9-96e7-a0b15be38d2f"
-            },
-            {
-                "AnswerID": "66635f7f-09ef-462e-9829-254bd544c7d8",
-                "AnswerContent": "租金收入*1.2%",
-                "QuestionId": "f9f49314-c8a2-4727-9290-e8cc8a2ccd80"
-            },
-            {
-                "AnswerID": "8415d138-f9eb-4fac-8e48-73a9e902232f",
-                "AnswerContent": "国家重点建设债券",
-                "QuestionId": "73dfd61e-a9c2-4502-bb28-ab2bfc5e4578"
-            },
-            {
-                "AnswerID": "0f5ba0f0-3158-41cd-ac47-1bfd532b4668",
-                "AnswerContent": "会计报表",
-                "QuestionId": "8d2cd236-a3fd-4a47-91a9-11248503f904"
-            },
-            {
-                "AnswerID": "27eff833-e8a0-4203-b26d-584113273359",
-                "AnswerContent": "借款人委托贷款银行代办的，贷款银行应要求借款人出具授权证明",
-                "QuestionId": "1760174e-bcf5-4c70-8be8-8946f50793d3"
-            },
-            {
-                "AnswerID": "21e89a39-8294-4eba-81e0-015556457f3c",
-                "AnswerContent": "对于同一笔个人汽车贷款，借款人所购车辆的抵押担保和专业担保公司的第三方保证担保可同时存在",
-                "QuestionId": "11a0bd73-dec1-4145-a76b-d7ef2b2a67ce"
-            },
-            {
-                "AnswerID": "0569b110-edba-4cd4-a3a1-dcee675188db",
-                "AnswerContent": "国有的土地使用权不得抵押",
-                "QuestionId": "f64564ae-f2ac-4968-ba58-49fe74cbd36b"
-            },
-            {
-                "AnswerID": "4bbcfeb2-a203-4ca6-9946-ba54bbddaff6",
-                "AnswerContent": "公积金个人住房贷款实行“低进低出”的利率政策",
-                "QuestionId": "ec0c4768-7bde-4574-9f88-82c4fb600bf6"
-            },
-            {
-                "AnswerID": "0a8128cb-e53c-4316-8682-d9ae20b53626",
-                "AnswerContent": "合法性",
-                "QuestionId": "9eacfbb1-007b-48fd-8892-d23b7be7e8b2"
-            },
-            {
-                "AnswerID": "16996ab8-6ee0-4ea7-bede-0fd64d7f5d84",
-                "AnswerContent": "保证人、债务人",
-                "QuestionId": "e27aeaf8-6524-4925-855c-05de7ad06b48"
-            },
-            {
-                "AnswerID": "3568a553-fb28-4b14-9fec-dc9a2b7fc09b",
-                "AnswerContent": "审批人员对应审查的内容审查不严",
-                "QuestionId": "8445ff04-aa15-4e68-a567-cddbb4c6505a"
-            },
-            {
-                "AnswerID": "1ce2fdd5-67f7-4356-893a-12a0eb819d53",
-                "AnswerContent": "抵押",
-                "QuestionId": "4db68a91-882c-4726-aca6-4b7ccf87cba2"
-            },
-            {
-                "AnswerID": "f27cebaa-b8f3-4d42-af6c-7efe85a00755",
-                "AnswerContent": "制定公积金信贷政策",
-                "QuestionId": "55afacae-6042-4b65-880c-41441126d84c"
-            },
-            {
-                "AnswerID": "4cf66483-7d4b-4855-a908-6633280db1e9",
-                "AnswerContent": "数据主体本人",
-                "QuestionId": "52f0a7d9-ef74-418f-9fe1-abfd7b2395fa"
-            },
-            {
-                "AnswerID": "7bd14348-fb67-41a2-b2ea-042e41551a49",
-                "AnswerContent": "贷款形态应遵循不可拆分原则",
-                "QuestionId": "5d31c4f8-a7f8-4909-a84d-0271f2d8d5bb"
-            },
-            {
-                "AnswerID": "7ac428be-7427-4ff5-bcc6-5cec9881707a",
-                "AnswerContent": "合同文件",
-                "QuestionId": "db40e864-8f24-4d4f-9c22-ce0f7e94baf0"
-            },
-            {
-                "AnswerID": "b2136582-1c88-4c83-b7a4-0b85a5bc2cd5",
-                "AnswerContent": "贷前调查人能通过有关渠道查询到申请人资信和偿还能力证明的，也要求申请人提供相关证明材料",
-                "QuestionId": "e69134e4-094e-4afb-9254-f4c3ce2604a0"
-            },
-            {
-                "AnswerID": "93c428ca-b1ba-4a1f-b731-5658147d65a8",
-                "AnswerContent": "长期居住在乡镇和城关镇所辖行政村的住户",
-                "QuestionId": "fea594ed-bbf8-4e38-bb62-f6fd53d8a9d3"
-            },
-            {
-                "AnswerID": "69f981fb-20c7-43e0-808c-feb432dbbd5b",
-                "AnswerContent": "零借整还",
-                "QuestionId": "466b045c-9da8-4ab8-92a7-90a3c7e68337"
-            },
-            {
-                "AnswerID": "a65ec909-afb5-43bd-ac71-287a4879aa34",
-                "AnswerContent": "借款合同签订后，未经贷款人同意，不得更改还款方式",
-                "QuestionId": "81542b14-9487-4843-bf6f-435ee2dcbe1c"
-            },
-            {
-                "AnswerID": "d29223ca-a206-482b-a25d-0e82af1dc93f",
-                "AnswerContent": "职工贷款账户设立",
-                "QuestionId": "11c40f52-07ff-4c46-a3a0-a789625b48c6"
-            },
-            {
-                "AnswerID": "f2f3dd8c-a0e9-4bd9-91bd-117c7efbe62c",
-                "AnswerContent": "道德风险",
-                "QuestionId": "cce0a69c-d2ca-4917-a997-52c0f0bf8d62"
-            },
-            {
-                "AnswerID": "e166f4c1-b5cf-445a-ab72-1882b4d59ca3",
-                "AnswerContent": "至少直接与借款人面谈一次；亲笔签署",
-                "QuestionId": "38856cf1-c4f0-419d-a4d3-46f6d3c8e0d5"
-            },
-            {
-                "AnswerID": "9d1598a7-795c-49fd-b873-e9709d028717",
-                "AnswerContent": "国家助学贷款的风险补偿金由高校承担",
-                "QuestionId": "fc01d8ab-8046-487e-8a87-299d4a1c7285"
-            },
-            {
-                "AnswerID": "d214654f-92f6-443d-a38c-9d540c89c270",
-                "AnswerContent": "股东分红决议",
-                "QuestionId": "6f16a622-3e21-4dcc-976d-944da14eb004"
-            },
-            {
-                "AnswerID": "9507c23a-daa8-4a9e-8cb9-0ab633d7a222",
-                "AnswerContent": "连带保证是指保证人与债务人对主债务承担连带责任的保证",
-                "QuestionId": "c2b55979-edf2-4f4d-82bb-d3ffe74e3f8a"
-            },
-            {
-                "AnswerID": "9a782794-fba5-4d44-bb38-ff6b4e19e484",
-                "AnswerContent": "分类管理",
-                "QuestionId": "471917ec-4070-4d86-a6b9-048ea35b0488"
-            },
-            {
-                "AnswerID": "255936d3-81e2-42b3-b2c2-728962177d75",
-                "AnswerContent": "个人信用卡透支",
-                "QuestionId": "4492bdbe-4157-4b00-b4ce-afecd104bd87"
-            },
-            {
-                "AnswerID": "1515d94a-668c-454b-8268-e89197618bc0",
-                "AnswerContent": "开发企业资质等级证、建设用地规划许可证、建设工程规划许可证、建筑工程施工许可证、商品房预售许可证",
-                "QuestionId": "e681a6e1-2bf1-4205-a96c-daddd331db3c"
-            },
-            {
-                "AnswerID": "93d1c82c-9f15-427b-9771-730984e4bcd4",
-                "AnswerContent": "按学年（期），按学年（期），按学年（期）",
-                "QuestionId": "64b393c9-53a4-4ff2-8ce9-1dae39794f9d"
-            },
-            {
-                "AnswerID": "931450be-f6b4-498d-828c-b827762181a2",
-                "AnswerContent": "按委托协议的约定，公积金管理中心应定期（每月、每季、每年）按比例将委托贷款手续费划归给承办银行",
-                "QuestionId": "d7614da8-1560-4ad5-ab64-6df92adca5e0"
-            },
-            {
-                "AnswerID": "36489133-c2bb-42c9-b8ac-ab2f5ebacc5e",
-                "AnswerContent": "全方位网点机构营销渠道",
-                "QuestionId": "51aeab41-81c4-4793-af65-eb495c1aecea"
-            },
-            {
-                "AnswerID": "c9356fb6-e25b-4160-8844-9bd5f206fb12",
-                "AnswerContent": "由高校对借款人的申请材料进行初审",
-                "QuestionId": "77d51482-bddd-46d6-a24d-3e0e75b5a984"
-            },
-            {
-                "AnswerID": "09597576-0057-41f1-84cf-fd2798d45e9f",
-                "AnswerContent": "有限责任公司",
-                "QuestionId": "bdbe60ac-719c-4857-8905-9d4bf705da0f"
-            },
-            {
-                "AnswerID": "17ad3f6c-6790-4422-a7f8-85d3d262e14a",
-                "AnswerContent": "重新评估抵押物价值，择机及时处置抵押物",
-                "QuestionId": "69fd0797-a10e-42f7-9463-c6a312339018"
-            },
-            {
-                "AnswerID": "f057fc21-f96a-4c2d-8c0b-4c81a769a4bc",
-                "AnswerContent": "分层营销策略",
-                "QuestionId": "d8585fd2-236a-4f71-a5d7-8bfd6a8465fb"
-            },
-            {
-                "AnswerID": "a58874d4-fd9f-46b2-af1d-e83a7576e480",
-                "AnswerContent": "拆迁范围内的住宅底商",
-                "QuestionId": "d465b2ef-d9cd-4209-9484-ce1808d924a7"
-            },
-            {
-                "AnswerID": "d0c50781-0449-41c3-a825-934b71efe2b9",
-                "AnswerContent": "借款学生毕业后申请出国留学的，应主动通知经办银行并还清当期贷款本息",
-                "QuestionId": "c22348c6-3968-41a0-a0ef-d6c44002e87c"
-            },
-            {
-                "AnswerID": "7ef5f0bc-cf01-4336-b1d2-2179816e2085",
-                "AnswerContent": "提交在银行近6个月内的金融资产（含存款、国债、基金）证明",
-                "QuestionId": "81349380-1554-4ad7-88b8-5e0c3f9c3412"
-            },
-            {
-                "AnswerID": "0099c806-3bce-4176-9d06-750e4ef1f591",
-                "AnswerContent": "低进低出",
-                "QuestionId": "aad1f380-2b0c-4dc5-92e8-90aa059998ba"
-            },
-            {
-                "AnswerID": "aa8c486b-f5cc-433b-9b0d-5d97a1541b2c",
-                "AnswerContent": "未签订合同或签订无效合同",
-                "QuestionId": "828af976-07ff-4c6d-8a8c-4364aac8c7e3"
-            },
-            {
-                "AnswerID": "245b9e6b-c8f2-4947-9469-529bd650f33e",
-                "AnswerContent": "30,40",
-                "QuestionId": "5bb83804-ac5f-42fb-a57d-f65a5461ef75"
-            },
-            {
-                "AnswerID": "e5d4a5ad-1c0b-4205-9a3f-7bd1e0e5aec9",
-                "AnswerContent": "对格式条款有两种以上解释的，应当作出不利于提供格式条款一方的解释",
-                "QuestionId": "5ad486ec-f792-429c-8d06-d6277b7532ed"
-            },
-            {
-                "AnswerID": "11e17447-230a-429f-87c0-73dc22f271d4",
-                "AnswerContent": "银行或专门的信用卡公司签发",
-                "QuestionId": "e980b55f-1dbc-4f70-9a18-377664aeb2ae"
-            },
-            {
-                "AnswerID": "240453bc-65fc-4941-8939-0bb92ed1bfd4",
-                "AnswerContent": "7",
-                "QuestionId": "bab9605a-d6f0-45b3-a86e-ea24bc2c09ed"
-            },
-            {
-                "AnswerID": "60b760d8-cccc-479c-908b-6daa86f11c31",
-                "AnswerContent": "1",
-                "QuestionId": "f43b376e-8fc8-49dd-a97e-795079401298"
-            },
-            {
-                "AnswerID": "b7479f0d-92ee-493b-8a55-04a5e54e48a8",
-                "AnswerContent": "审批人员对应审查的内容审查不严，导致向不符合条件的借款人发放贷款",
-                "QuestionId": "d4b7a4fb-60a4-4e39-a4d2-68c9c9e8147b"
-            },
-            {
-                "AnswerID": "90388e4e-ef9a-492b-bde3-bb2959ae91b4",
-                "AnswerContent": "到期一次性还本付息",
-                "QuestionId": "d02100b9-06f7-4074-a3d5-b9206e18debd"
-            },
-            {
-                "AnswerID": "2eddaab7-d358-48f5-91f7-f192e2c71bde",
-                "AnswerContent": "专业化策略",
-                "QuestionId": "f662811c-1c7c-461f-b043-ad4adf42ef03"
-            },
-            {
-                "AnswerID": "6c01a262-41a6-4f29-8bee-b845ab2e99d6",
-                "AnswerContent": "中国人民银行、各商业银行",
-                "QuestionId": "67bbe412-6b21-4c9f-a9d4-0cfc4bfe0acd"
-            },
-            {
-                "AnswerID": "3a57d90f-a71a-4e3a-a065-0fc14279f539",
-                "AnswerContent": "集中性原则",
-                "QuestionId": "fa9200f9-ee9e-458e-a761-7eb28dfd9c89"
-            },
-            {
-                "AnswerID": "e0134b6d-874f-4836-91a9-bddf19c98a8d",
-                "AnswerContent": "合同填写必须做到标准、规范、要素齐全、数字正确、字迹清晰、不错漏、不超过2处涂改",
-                "QuestionId": "cf9c92af-c5ad-4244-9cd1-475ca8d6f2d6"
-            },
-            {
-                "AnswerID": "7174b60a-d4c4-41c9-a899-4992cd1509c3",
-                "AnswerContent": "诚信审贷原则",
-                "QuestionId": "3b091f97-40bc-4449-a7b2-5d0b2ad2d55e"
-            },
-            {
-                "AnswerID": "5910d0b3-5cf7-49b9-a9eb-46b825cb0bb1",
-                "AnswerContent": "贷款审批人签署审批意见后，应将审批表连同有关材料退还业务部门",
-                "QuestionId": "58eb5e34-f848-41d3-8ca1-af04d2f1f764"
-            },
-            {
-                "AnswerID": "0be3a025-c443-44be-a0af-afe86aea9b69",
-                "AnswerContent": "县级以上地方人民政府规定的部门",
-                "QuestionId": "01b75911-d2eb-48a7-a329-fe32d60a4fa7"
-            },
-            {
-                "AnswerID": "9fb64711-7020-43d6-a5b4-db24cfc9d511",
-                "AnswerContent": "仅当债务人不履行债务偿还责任时，银行方可依法对押品享有优先受偿权",
-                "QuestionId": "927e6a36-993e-4dd2-b479-f3f96ca8bd51"
-            },
-            {
-                "AnswerID": "59147a1a-bc65-407b-be91-48cdb26b962a",
-                "AnswerContent": "市场竞争",
-                "QuestionId": "488a2f66-d483-42eb-bb7e-856db9835990"
-            },
-            {
-                "AnswerID": "8a5f98d5-83d6-40e5-a784-59d332d44770",
-                "AnswerContent": "贷款审批通过日期",
-                "QuestionId": "090185b7-3193-42e8-b786-f299e70b9f37"
-            },
-            {
-                "AnswerID": "70a19700-2c91-4df3-aae6-8c5d8f05df5f",
-                "AnswerContent": "两项指标均达到条件",
-                "QuestionId": "8b7320b6-f626-4e96-8bfc-788431b3a740"
-            },
-            {
-                "AnswerID": "a656a38f-f48e-4b48-85bd-025b2d51bcd8",
-                "AnswerContent": "诚信申贷",
-                "QuestionId": "5f13ccd9-3a89-41b6-9666-321a9af7f829"
-            },
-            {
-                "AnswerID": "e24e072f-4ca9-4e05-a52c-c766448f8bfd",
-                "AnswerContent": "2500",
-                "QuestionId": "31be1a82-0d48-4bb2-b228-6bb85618f4c6"
-            },
-            {
-                "AnswerID": "e79ba11c-8bf8-44bd-97c0-3cf278828340",
-                "AnswerContent": "价格领导模型是国际银行业广泛采用的一种贷款定价方法",
-                "QuestionId": "1dbfefde-a773-4d98-ad9f-71a76b31c28e"
-            },
-            {
-                "AnswerID": "f81db5eb-18a9-4f82-9200-c439ecd988cb",
-                "AnswerContent": "正常",
-                "QuestionId": "b7a20b8e-e33d-452e-a396-cac5a16c7173"
-            },
-            {
-                "AnswerID": "9df2a336-8b8e-4d30-9ee4-06c6928b0668",
-                "AnswerContent": "银行一般由个贷客户部门负责贷后监测，检查以及对贷款经办行贷后管理工作的组织和督导",
-                "QuestionId": "a6f08502-0ad2-4cb4-8668-6926b7c355ca"
-            },
-            {
-                "AnswerID": "e52dcbb4-57e1-4de4-af94-f2d7a613fd48",
-                "AnswerContent": "选择尽可能多的合作机构",
-                "QuestionId": "4af7f4d3-ea34-49b2-99b2-3ab185733f9c"
-            },
-            {
-                "AnswerID": "a724c03a-3ee6-4cdc-9425-188fa3621ad5",
-                "AnswerContent": "一年以上（含1年）",
-                "QuestionId": "8ebaea00-6da4-4057-a758-8615d5490593"
-            },
-            {
-                "AnswerID": "8e6003d1-bcba-42c7-96c8-d762a3bcd8fb",
-                "AnswerContent": "银行允许借款人在合同履行期间申请调整分期还款额，并分清原因，分别处理",
-                "QuestionId": "a9016f16-b034-4ac4-9c38-dc8f07ec9f8a"
-            },
-            {
-                "AnswerID": "cb05aca7-1233-4cca-8af0-539d456c089d",
-                "AnswerContent": "材料受理、审查、押品价值评估、抵质押权的设立与变更、押品日常管理、押品的返还与处置",
-                "QuestionId": "d03b1b6a-da29-414e-accd-a9bfb0bfa174"
-            },
-            {
-                "AnswerID": "8cb00bcb-ebd2-4a91-a614-97256f94a9f1",
-                "AnswerContent": "系统风险",
-                "QuestionId": "3b02a4ce-2208-43ae-834e-7cea3f3f5d14"
-            },
-            {
-                "AnswerID": "f9bb61f6-bbe5-4984-bf83-87fa51d8d0b4",
-                "AnswerContent": "10",
-                "QuestionId": "71f0f1fc-9459-41b9-a3a9-954017875957"
-            },
-            {
-                "AnswerID": "40c19008-b8c6-4879-b27c-d05ecaf73142",
-                "AnswerContent": "按月调整",
-                "QuestionId": "9d3cb6fa-1587-4e31-bd9b-540bae928894"
-            },
-            {
-                "AnswerID": "6dab028e-b5fa-4aa1-a072-b6b8790e3ae9",
-                "AnswerContent": "应审查该笔贷款是否有拖欠贷款本息及相关费用的情况，提出审查意见，按贷款审批程序进行审查",
-                "QuestionId": "fdc22d6e-19b0-43dc-a0ae-d3074a897409"
-            },
-            {
-                "AnswerID": "0afeffa6-1079-4da5-a7bd-5baa7d9507ad",
-                "AnswerContent": "能证明保证人保证能力的证明材料",
-                "QuestionId": "f955c29a-7088-4561-97a0-dc4f2731b6b7"
-            },
-            {
-                "AnswerID": "de7d4b96-278b-42e0-9cf9-783002dd0b2e",
-                "AnswerContent": "贷款金额大",
-                "QuestionId": "acaeb5c4-3f34-457e-b91d-a306e23c9c93"
-            },
-            {
-                "AnswerID": "c7e655ff-822a-427e-a2d4-d5e540eb0906",
-                "AnswerContent": "中介机构协助借款人出具包括假收入证明在内的虚假证明文件",
-                "QuestionId": "3e3af5c7-58aa-43fd-a181-5c1697c28140"
-            },
-            {
-                "AnswerID": "7004b346-6742-48a3-806d-da84c3303b02",
-                "AnswerContent": "网点机构营销",
-                "QuestionId": "f1839f9d-da0d-433e-9d77-3eb5c17cc296"
-            },
-            {
-                "AnswerID": "54154bbf-f4f5-4d55-bc53-e70dc6620aba",
-                "AnswerContent": "购买理财产品",
-                "QuestionId": "20cf7dbd-6957-4136-bf7f-4c24df05fb0c"
-            },
-            {
-                "AnswerID": "710d6be2-39f1-4302-a3af-c349a293ad28",
-                "AnswerContent": "贷款利率不同",
-                "QuestionId": "df9a558a-80ec-464a-ae84-422de156beac"
-            },
-            {
-                "AnswerID": "8679cdbd-e2cf-4bb4-93bc-e6d960f2004e",
-                "AnswerContent": "借款人的道德品质，是一种对客户声誉的度量，包括其偿债意愿和偿债历史，指客户愿意履行其付款承诺的可能性，其是否愿意尽自己最大努力来按照承诺还款，客户的品德好坏主要根据过去的信用记录来确定",
-                "QuestionId": "6b8221f9-2a09-4e5e-adfc-ee08f3194e5f"
-            },
-            {
-                "AnswerID": "be7a2165-cce4-47b1-bfaf-bc5be95bac62",
-                "AnswerContent": "因系统故障造成的风险资产",
-                "QuestionId": "c0da9f42-f2da-46c8-a928-346cfddbffb6"
-            },
-            {
-                "AnswerID": "70ba3b2f-8a4f-4aaa-a233-8a844cf6c105",
-                "AnswerContent": "借款人所从事行业的发展状况",
-                "QuestionId": "5bdae808-a57f-4d48-b371-4ac0ab9c4571"
-            },
-            {
-                "AnswerID": "277fb59d-a02b-4bed-88e4-1449bc42a3f5",
-                "AnswerContent": "违反法律，行政法规中的强制性规定",
-                "QuestionId": "99bb2a4f-09d3-4538-bc08-32be15cc4571"
-            },
-            {
-                "AnswerID": "73061dad-a301-41f5-b132-7964b64a0983",
-                "AnswerContent": "开发企业员工或关联方集中购买同一楼盘，或一人购买多套",
-                "QuestionId": "014004c2-6e60-4d41-a377-d25ba8e21cef"
-            },
-            {
-                "AnswerID": "208f4b0e-afea-4119-a3a8-ac45811bd4c1",
-                "AnswerContent": "借款人在还款期间内死亡或宣告死亡，即使有财产继承人，贷款银行仍有权提前收回贷款，并依法处分抵押物或质物，用以归还未清偿部分",
-                "QuestionId": "e217561b-ceb7-4daa-90f6-3de8a29df66b"
-            },
-            {
-                "AnswerID": "a3974828-8b87-4ccd-8bb7-c6f7b011acb1",
-                "AnswerContent": "组合定价原则",
-                "QuestionId": "28b50d92-90fe-4355-b548-95a88e66d1f4"
-            },
-            {
-                "AnswerID": "e6919015-6580-4e88-a159-404222ed215d",
-                "AnswerContent": "依法合规",
-                "QuestionId": "2ded554b-5a3c-404a-abba-fc0d8eb54e93"
-            },
-            {
-                "AnswerID": "b1edafac-d826-41a1-a088-ceeb4180a567",
-                "AnswerContent": "再抵押",
-                "QuestionId": "ac231607-0e5e-4dfc-a912-33e04602f30c"
-            },
-            {
-                "AnswerID": "99541d61-8e97-46e4-b8d0-31b34d8556b8",
-                "AnswerContent": "两类业务都可用于消费和生产经营",
-                "QuestionId": "a487b533-a5a5-48a8-a0b7-677ca2218c14"
-            },
-            {
-                "AnswerID": "5a0249b3-9ac5-4bd5-b170-6c6a3a3aae49",
-                "AnswerContent": "对账",
-                "QuestionId": "087db8f7-854a-4fd5-9b71-923be13975f9"
-            },
-            {
-                "AnswerID": "2428bd41-2c3f-4870-87f0-4374b5f341b2",
-                "AnswerContent": "调查担保情况",
-                "QuestionId": "b2b4b9c6-d02a-4b09-a207-79f2379ae3d1"
-            },
-            {
-                "AnswerID": "dcbb6426-ad69-465a-a741-db501165d982",
-                "AnswerContent": "利率是借款人为取得货币资金的使用权而支付给商业银行的价格",
-                "QuestionId": "de4a03fb-08b0-49c7-8065-6d8c7edeb3ee"
-            },
-            {
-                "AnswerID": "03801e0e-4e1d-494a-877b-c76caaf99996",
-                "AnswerContent": "要求限期纠正违约行为",
-                "QuestionId": "c51f7900-f9ec-48e1-8b8f-dade8669a2a1"
-            },
-            {
-                "AnswerID": "b8eabebb-756f-4fb4-96be-a2849cb66220",
-                "AnswerContent": "具有汽车生产商出具的代理销售汽车证明",
-                "QuestionId": "554bc60d-f85c-4bc7-b6ff-890cbb9ad511"
-            },
-            {
-                "AnswerID": "9cb6d047-a40e-4e09-9286-ab65b5a7a4ab",
-                "AnswerContent": "借款人学生证或入学通知书的原件和复印件",
-                "QuestionId": "905eebeb-8831-4be1-9b32-288a13a20ab8"
-            },
-            {
-                "AnswerID": "0963fdca-c7b6-49b9-b6fd-785b2fcc734b",
-                "AnswerContent": "军官证、警官证、文职干部证",
-                "QuestionId": "7909815b-697d-482a-b586-51d30194e53a"
-            },
-            {
-                "AnswerID": "fa3f6568-8e85-428b-af90-5c4688425e75",
-                "AnswerContent": "等额本息还款法",
-                "QuestionId": "47ff7d49-bec4-484d-8c04-863d70b21cb3"
-            },
-            {
-                "AnswerID": "05c64fa8-0d55-486c-bd6c-22c3ad13cfea",
-                "AnswerContent": "文化功能",
-                "QuestionId": "7721d51f-0425-4136-9388-d4c2a206a9bf"
-            },
-            {
-                "AnswerID": "0a0cdc25-d99b-40ca-8180-85d0d379fb09",
-                "AnswerContent": "借款人在提前还款前应归还当期贷款本息",
-                "QuestionId": "66c69bdd-670d-4a4d-b1ee-ec3c10e91c71"
-            },
-            {
-                "AnswerID": "22d18e46-368e-47e6-83cb-621109011560",
-                "AnswerContent": "正确",
-                "QuestionId": "e0ce3db6-cc4e-4764-a9f2-c62ee4d12ff5"
-            },
-            {
-                "AnswerID": "87e22178-7c65-4599-8bea-908806bb8deb",
-                "AnswerContent": "正确",
-                "QuestionId": "fb520804-52d5-481e-b2fa-a61e9d93cbd4"
-            },
-            {
-                "AnswerID": "8844e098-0140-4725-b4c2-766948558c56",
-                "AnswerContent": "正确",
-                "QuestionId": "fe99454e-25e8-4f65-a51a-ce85c52adc2c"
-            },
-            {
-                "AnswerID": "44509abb-cc1f-4f39-ad8f-1bafd22b68ca",
-                "AnswerContent": "正确",
-                "QuestionId": "b1102ad3-f919-4e61-842a-a2e07619a7ef"
-            },
-            {
-                "AnswerID": "ba10987b-d3a5-4c51-9eae-72c1c7907e97",
-                "AnswerContent": "正确",
-                "QuestionId": "8c2eec06-19a7-4ef4-bf6d-b289125cdc39"
-            },
-            {
-                "AnswerID": "fefc6ca5-d8d6-4181-86b3-a997de3d607d",
-                "AnswerContent": "正确",
-                "QuestionId": "a4e14838-9256-4626-b6bc-aba89582f6cc"
-            },
-            {
-                "AnswerID": "9845d069-6ca6-487e-8172-e1ab4c71cb80",
-                "AnswerContent": "正确",
-                "QuestionId": "594e58d2-985d-4bb1-983c-6b072e8a5962"
-            },
-            {
-                "AnswerID": "49d0643f-8a46-40a4-b59b-be4896a603b0",
-                "AnswerContent": "正确",
-                "QuestionId": "3d5c0d03-a531-4082-948f-74fcd28dcc67"
-            },
-            {
-                "AnswerID": "d8bea4b1-2d96-483b-b603-19888b2092db",
-                "AnswerContent": "正确",
-                "QuestionId": "08501ff3-b46f-4df7-8300-481f22338d72"
-            },
-            {
-                "AnswerID": "25f5b1f9-3fa6-41ed-8bcd-087280abf47e",
-                "AnswerContent": "正确",
-                "QuestionId": "49c5ff84-20f8-401e-a585-06728f68f198"
-            },
-            {
-                "AnswerID": "dd0ea9e4-173d-4205-9ea8-e1c4785fc3ce",
-                "AnswerContent": "错误",
-                "QuestionId": "49c5ff84-20f8-401e-a585-06728f68f198"
-            },
-            {
-                "AnswerID": "6b068df5-39b1-416b-94f6-b3258af82597",
-                "AnswerContent": "错误",
-                "QuestionId": "08501ff3-b46f-4df7-8300-481f22338d72"
-            },
-            {
-                "AnswerID": "2200347e-a1c1-4d3c-b03f-17c00652a722",
-                "AnswerContent": "错误",
-                "QuestionId": "3d5c0d03-a531-4082-948f-74fcd28dcc67"
-            },
-            {
-                "AnswerID": "ffcfc6a1-9508-4c93-a686-3d948962a3c9",
-                "AnswerContent": "错误",
-                "QuestionId": "594e58d2-985d-4bb1-983c-6b072e8a5962"
-            },
-            {
-                "AnswerID": "5b0c1be6-a7c3-488f-9030-f864f66d3c23",
-                "AnswerContent": "错误",
-                "QuestionId": "8c2eec06-19a7-4ef4-bf6d-b289125cdc39"
-            },
-            {
-                "AnswerID": "c1c766f0-d296-4db2-8d20-a1a2938cac2c",
-                "AnswerContent": "错误",
-                "QuestionId": "a4e14838-9256-4626-b6bc-aba89582f6cc"
-            },
-            {
-                "AnswerID": "c0ef6b5a-3db5-45a0-abd9-4d21718441d0",
-                "AnswerContent": "错误",
-                "QuestionId": "b1102ad3-f919-4e61-842a-a2e07619a7ef"
-            },
-            {
-                "AnswerID": "a7b66845-af64-4a35-a7e1-cfafe1ae3092",
-                "AnswerContent": "错误",
-                "QuestionId": "fe99454e-25e8-4f65-a51a-ce85c52adc2c"
-            },
-            {
-                "AnswerID": "cd863c95-64fd-4449-ac65-ba64dc2e4aed",
-                "AnswerContent": "错误",
-                "QuestionId": "fb520804-52d5-481e-b2fa-a61e9d93cbd4"
-            },
-            {
-                "AnswerID": "7e43b825-9eee-4cb0-9762-d2ffcd2753ee",
-                "AnswerContent": "借款人在提前还款前应归还下一期贷款本息",
-                "QuestionId": "66c69bdd-670d-4a4d-b1ee-ec3c10e91c71"
-            },
-            {
-                "AnswerID": "e77b9249-9119-4288-be87-0896d36c5b6a",
-                "AnswerContent": "错误",
-                "QuestionId": "e0ce3db6-cc4e-4764-a9f2-c62ee4d12ff5"
-            },
-            {
-                "AnswerID": "22f451ec-c37f-4e22-8e4a-37e837d720fb",
-                "AnswerContent": "社会功能",
-                "QuestionId": "7721d51f-0425-4136-9388-d4c2a206a9bf"
-            },
-            {
-                "AnswerID": "84ebcfaa-59c8-42a6-9582-0f291a1dac17",
-                "AnswerContent": "组合还款法",
-                "QuestionId": "47ff7d49-bec4-484d-8c04-863d70b21cb3"
-            },
-            {
-                "AnswerID": "2bde09ac-6b15-4e4b-b27c-3005fbede6dc",
-                "AnswerContent": "出生证",
-                "QuestionId": "7909815b-697d-482a-b586-51d30194e53a"
-            },
-            {
-                "AnswerID": "2dba5aac-1da1-49d7-b7b0-941b38223a5e",
-                "AnswerContent": "提前收回部分或全部贷款本息",
-                "QuestionId": "c51f7900-f9ec-48e1-8b8f-dade8669a2a1"
-            },
-            {
-                "AnswerID": "1b15cb03-1ab1-4e26-ba23-a51ecb145d12",
-                "AnswerContent": "借款人有效身份证件的原件和复印件",
-                "QuestionId": "905eebeb-8831-4be1-9b32-288a13a20ab8"
-            },
-            {
-                "AnswerID": "b8d9ef4a-e0ed-4649-96c1-585f84ccf3b2",
-                "AnswerContent": "经销商、经销商高级管理人员无重大违法行为或信用不良记录",
-                "QuestionId": "554bc60d-f85c-4bc7-b6ff-890cbb9ad511"
-            },
-            {
-                "AnswerID": "445de8a6-4e1b-4483-acf7-5afc3ceffe39",
-                "AnswerContent": "一般来说，贷款期限在1年以内（含1年）的实行合同利率，遇法定利率调整要分段计息",
-                "QuestionId": "de4a03fb-08b0-49c7-8065-6d8c7edeb3ee"
-            },
-            {
-                "AnswerID": "19abf80b-f9d1-4367-b30f-6b8e16bdecc0",
-                "AnswerContent": "调查材料一致性",
-                "QuestionId": "b2b4b9c6-d02a-4b09-a207-79f2379ae3d1"
-            },
-            {
-                "AnswerID": "a9d63863-e519-407a-b0ba-d3fec90a0cae",
-                "AnswerContent": "信用卡作为主要支付工具之一，本外币一体，个人贷款业务一般以本币为主",
-                "QuestionId": "a487b533-a5a5-48a8-a0b7-677ca2218c14"
-            },
-            {
-                "AnswerID": "6420eb41-5971-41d1-99d7-4b500ab223fa",
-                "AnswerContent": "贷款检查",
-                "QuestionId": "087db8f7-854a-4fd5-9b71-923be13975f9"
-            },
-            {
-                "AnswerID": "f7e01ba6-b3bc-44b7-bf8c-2c71e02dceb8",
-                "AnswerContent": "留置",
-                "QuestionId": "ac231607-0e5e-4dfc-a912-33e04602f30c"
-            },
-            {
-                "AnswerID": "9e4df0f7-c0bc-4b23-b729-40e5e9032756",
-                "AnswerContent": "效率优先",
-                "QuestionId": "2ded554b-5a3c-404a-abba-fc0d8eb54e93"
-            },
-            {
-                "AnswerID": "cee51b7d-c831-4e24-a047-ef8fa14a6505",
-                "AnswerContent": "参照市场价格原则",
-                "QuestionId": "28b50d92-90fe-4355-b548-95a88e66d1f4"
-            },
-            {
-                "AnswerID": "d86906da-00fc-456d-bc15-79759027967d",
-                "AnswerContent": "借贷双方协商未达成之前，借款合同继续有效",
-                "QuestionId": "e217561b-ceb7-4daa-90f6-3de8a29df66b"
-            },
-            {
-                "AnswerID": "1b89cdb7-e9b4-4fb1-bc51-4b0afe74ab80",
-                "AnswerContent": "一方以欺压、胁迫的手段订立合同，损害国家利益",
-                "QuestionId": "99bb2a4f-09d3-4538-bc08-32be15cc4571"
-            },
-            {
-                "AnswerID": "2f17f799-caa1-461b-9502-9d21779c9ba8",
-                "AnswerContent": "无特殊原因，楼盘售价与周围楼盘相比明显偏高",
-                "QuestionId": "014004c2-6e60-4d41-a377-d25ba8e21cef"
-            },
-            {
-                "AnswerID": "6b44e386-88ae-4de8-9c35-cf689a9c86cb",
-                "AnswerContent": "如果发生违约，债权人对于借款人抵押的物品不拥有要求权",
-                "QuestionId": "6b8221f9-2a09-4e5e-adfc-ee08f3194e5f"
-            },
-            {
-                "AnswerID": "3ed9d5c7-a3e1-4de1-b0e3-aac402e3811a",
-                "AnswerContent": "借款人所经营企业的现金流情况",
-                "QuestionId": "5bdae808-a57f-4d48-b371-4ac0ab9c4571"
-            },
-            {
-                "AnswerID": "fa63352f-7172-47b6-9a28-d7f24037a54a",
-                "AnswerContent": "因内部作案或内外勾搭作案造成的风险资产",
-                "QuestionId": "c0da9f42-f2da-46c8-a928-346cfddbffb6"
-            },
-            {
-                "AnswerID": "dd300bc3-1d85-4c18-98b0-f12d05b553e5",
-                "AnswerContent": "资金来源不同",
-                "QuestionId": "df9a558a-80ec-464a-ae84-422de156beac"
-            },
-            {
-                "AnswerID": "6962ba94-565c-462b-87ba-fb2166757607",
-                "AnswerContent": "出国旅游费用",
-                "QuestionId": "20cf7dbd-6957-4136-bf7f-4c24df05fb0c"
-            },
-            {
-                "AnswerID": "d10a861b-4074-447c-a8e1-d45ed1fe8bc1",
-                "AnswerContent": "开发项目“五证”齐全、真实、合法、有效",
-                "QuestionId": "3e3af5c7-58aa-43fd-a181-5c1697c28140"
-            },
-            {
-                "AnswerID": "8e496011-e005-45ae-bd38-38e706ce412c",
-                "AnswerContent": "品牌营销",
-                "QuestionId": "f1839f9d-da0d-433e-9d77-3eb5c17cc296"
-            },
-            {
-                "AnswerID": "2808c2ff-1de7-4ff2-868c-a2ca2a094d10",
-                "AnswerContent": "贷款期限长",
-                "QuestionId": "acaeb5c4-3f34-457e-b91d-a306e23c9c93"
-            },
-            {
-                "AnswerID": "b7bb82e1-b077-4ac8-a0d2-766b40b4836a",
-                "AnswerContent": "有效信用证明",
-                "QuestionId": "f955c29a-7088-4561-97a0-dc4f2731b6b7"
-            },
-            {
-                "AnswerID": "5489dee1-5afb-4264-b16a-575df65e6321",
-                "AnswerContent": "变更担保后，贷款余额与新的抵（质）押物评估价值之比不得高于规定的抵（质）押率",
-                "QuestionId": "fdc22d6e-19b0-43dc-a0ae-d3074a897409"
-            },
-            {
-                "AnswerID": "12eed00d-8fd9-4452-a652-83342737883b",
-                "AnswerContent": "在合同履行期间，借款人可以向银行提出变更贷款担保申请",
-                "QuestionId": "a9016f16-b034-4ac4-9c38-dc8f07ec9f8a"
-            },
-            {
-                "AnswerID": "0a940d93-6fb0-4f2d-87e5-ef0a4d2dc0e0",
-                "AnswerContent": "材料受理、押品价值评估、审查、抵质押权的设立与变更、押品日常管理、押品的返还与处置",
-                "QuestionId": "d03b1b6a-da29-414e-accd-a9bfb0bfa174"
-            },
-            {
-                "AnswerID": "2eb59b5b-cc46-4d49-aa6a-fbf262fbe71c",
-                "AnswerContent": "30",
-                "QuestionId": "71f0f1fc-9459-41b9-a3a9-954017875957"
-            },
-            {
-                "AnswerID": "45314440-54c6-4742-803c-5943a03ba42a",
-                "AnswerContent": "不分段",
-                "QuestionId": "9d3cb6fa-1587-4e31-bd9b-540bae928894"
-            },
-            {
-                "AnswerID": "3a89ce15-029f-477c-96b4-5c9f3f6cb2f1",
-                "AnswerContent": "一年以上（不含1年）",
-                "QuestionId": "8ebaea00-6da4-4057-a758-8615d5490593"
-            },
-            {
-                "AnswerID": "a4be5354-02b2-402d-ae3f-05453ef438a4",
-                "AnswerContent": "信用风险",
-                "QuestionId": "3b02a4ce-2208-43ae-834e-7cea3f3f5d14"
-            },
-            {
-                "AnswerID": "c1e5f7a4-33ec-442b-9004-2e5c887e0c70",
-                "AnswerContent": "业务合作中不过分依赖合作机构",
-                "QuestionId": "4af7f4d3-ea34-49b2-99b2-3ab185733f9c"
-            },
-            {
-                "AnswerID": "504d4e90-d92d-4d87-9b51-27586047432c",
-                "AnswerContent": "关注",
-                "QuestionId": "b7a20b8e-e33d-452e-a396-cac5a16c7173"
-            },
-            {
-                "AnswerID": "c20e3ad4-fa88-4d12-b283-d4858f3d1d29",
-                "AnswerContent": "对固定资产贷款应检查项目投资和建设进度、项目施工设计方案及项目投资预算是否变更、项目自筹资金和其他银行借款是否到位、项目建设与生产条件是否变化等",
-                "QuestionId": "a6f08502-0ad2-4cb4-8668-6926b7c355ca"
-            },
-            {
-                "AnswerID": "6c1be8f0-ce26-45fa-a485-4e993274797e",
-                "AnswerContent": "在价格领导模型中，贷款利率通常由优惠利率、违约风险溢价和期限风险溢价三部分组成",
-                "QuestionId": "1dbfefde-a773-4d98-ad9f-71a76b31c28e"
-            },
-            {
-                "AnswerID": "686bd38d-bc71-43a1-9289-46e3b6a4b81f",
-                "AnswerContent": "实贷实付",
-                "QuestionId": "5f13ccd9-3a89-41b6-9666-321a9af7f829"
-            },
-            {
-                "AnswerID": "fc787cfe-04e1-45c4-a7fd-271fa1f59d27",
-                "AnswerContent": "8000",
-                "QuestionId": "31be1a82-0d48-4bb2-b228-6bb85618f4c6"
-            },
-            {
-                "AnswerID": "bc67f6c3-1fbc-42b1-8316-48b3812b1a0d",
-                "AnswerContent": "两项指标均未达到条件",
-                "QuestionId": "8b7320b6-f626-4e96-8bfc-788431b3a740"
-            },
-            {
-                "AnswerID": "9d86dd4f-b116-4686-a5dc-29823e2ac489",
-                "AnswerContent": "资金成本",
-                "QuestionId": "488a2f66-d483-42eb-bb7e-856db9835990"
-            },
-            {
-                "AnswerID": "e2f349e0-19b7-43b4-a9a9-24524d061a93",
-                "AnswerContent": "借款合同签订日期",
-                "QuestionId": "090185b7-3193-42e8-b786-f299e70b9f37"
-            },
-            {
-                "AnswerID": "28271098-cc95-4e9a-a963-1efb94ce1d98",
-                "AnswerContent": "押品又称担保物、抵质押品，是指由债务人或第三人所提供符合法律规定的财产和权利",
-                "QuestionId": "927e6a36-993e-4dd2-b479-f3f96ca8bd51"
-            },
-            {
-                "AnswerID": "21d3481f-9bcb-4c25-87b1-00f537109173",
-                "AnswerContent": "车辆管理部门",
-                "QuestionId": "01b75911-d2eb-48a7-a329-fe32d60a4fa7"
-            },
-            {
-                "AnswerID": "f3be3ea8-5078-4454-a62a-5adeb85c26b9",
-                "AnswerContent": "各商业银行、中国人民银行",
-                "QuestionId": "67bbe412-6b21-4c9f-a9d4-0cfc4bfe0acd"
-            },
-            {
-                "AnswerID": "303f247f-3c89-4372-b576-21e1af8d9d42",
-                "AnswerContent": "对需补充材料的，贷前调查人应按要求及时补充材料后重新履行审查、审批程序",
-                "QuestionId": "58eb5e34-f848-41d3-8ca1-af04d2f1f764"
-            },
-            {
-                "AnswerID": "98a009c1-f15e-4718-99ff-b34546ca5e5d",
-                "AnswerContent": "重视贷后管理原则",
-                "QuestionId": "3b091f97-40bc-4449-a7b2-5d0b2ad2d55e"
-            },
-            {
-                "AnswerID": "b38b2bb2-b7c7-4f25-910c-1c5d15d485bc",
-                "AnswerContent": "可衡量性原则",
-                "QuestionId": "fa9200f9-ee9e-458e-a761-7eb28dfd9c89"
-            },
-            {
-                "AnswerID": "41a780f5-985b-497d-a678-32ad37e80dcb",
-                "AnswerContent": "合同填写完毕后，填写人员应及时将有关合同文本交合同复核人员进行复核",
-                "QuestionId": "cf9c92af-c5ad-4244-9cd1-475ca8d6f2d6"
-            },
-            {
-                "AnswerID": "69a048a1-ba90-42c4-8051-b4d8b6b661b0",
-                "AnswerContent": "交叉营销策略",
-                "QuestionId": "f662811c-1c7c-461f-b043-ad4adf42ef03"
-            },
-            {
-                "AnswerID": "dc67bf4a-4265-4015-adaa-1049925ef1b0",
-                "AnswerContent": "与借款人签订的合同无效",
-                "QuestionId": "d4b7a4fb-60a4-4e39-a4d2-68c9c9e8147b"
-            },
-            {
-                "AnswerID": "4431519a-d06a-42c5-9183-1d25a8233b43",
-                "AnswerContent": "按季度付息",
-                "QuestionId": "d02100b9-06f7-4074-a3d5-b9206e18debd"
-            },
-            {
-                "AnswerID": "ab7e9089-87f6-4a02-8d42-ca2d7f77595d",
-                "AnswerContent": "0.7",
-                "QuestionId": "f43b376e-8fc8-49dd-a97e-795079401298"
-            },
-            {
-                "AnswerID": "1680b15e-013a-4382-a7b6-59d3304e5db0",
-                "AnswerContent": "5",
-                "QuestionId": "bab9605a-d6f0-45b3-a86e-ea24bc2c09ed"
-            },
-            {
-                "AnswerID": "9dd871f6-ae4a-4848-8669-d29897dfbb54",
-                "AnswerContent": "银行或商户均可签发",
-                "QuestionId": "e980b55f-1dbc-4f70-9a18-377664aeb2ae"
-            },
-            {
-                "AnswerID": "d9c2abfd-45a7-4ee5-b3c5-e794e57efb50",
-                "AnswerContent": "格式条款的提供方应当采取合理的方式提请对方注意免除或限制其责任的条款",
-                "QuestionId": "5ad486ec-f792-429c-8d06-d6277b7532ed"
-            },
-            {
-                "AnswerID": "b2a193f3-876f-4a56-bc45-64f59920fb10",
-                "AnswerContent": "20,60",
-                "QuestionId": "5bb83804-ac5f-42fb-a57d-f65a5461ef75"
-            },
-            {
-                "AnswerID": "523ee357-08ee-491e-a5e2-f21334d0e920",
-                "AnswerContent": "贷款额度未控制在抵押物价值规定比率内",
-                "QuestionId": "828af976-07ff-4c6d-8a8c-4364aac8c7e3"
-            },
-            {
-                "AnswerID": "2250a387-83f4-4c7a-9500-d91745af6d86",
-                "AnswerContent": "高进低出",
-                "QuestionId": "aad1f380-2b0c-4dc5-92e8-90aa059998ba"
-            },
-            {
-                "AnswerID": "30e4b1a9-3eb9-4b07-9776-7a4f7720d568",
-                "AnswerContent": "经办银行在发放贷款后，于每季度结束后的10个工作日内，按照“中央部门所属高校国家助学贷款贴息资金汇总表”汇总已发放的国家助学贷款学生名单、贷款金额、利率、利息等信息，经合作高校确认后上报总行",
-                "QuestionId": "c22348c6-3968-41a0-a0ef-d6c44002e87c"
-            },
-            {
-                "AnswerID": "5760d472-1c99-465d-869e-bbdc6e454ae3",
-                "AnswerContent": "申请人应以书面形式提出贷款申请",
-                "QuestionId": "81349380-1554-4ad7-88b8-5e0c3f9c3412"
-            },
-            {
-                "AnswerID": "78ee18a3-2f88-4824-a8eb-3d29f41cb275",
-                "AnswerContent": "要求借款人恢复抵押物价值",
-                "QuestionId": "69fd0797-a10e-42f7-9463-c6a312339018"
-            },
-            {
-                "AnswerID": "8b4c41e0-2dd7-4a6d-85e6-387801559981",
-                "AnswerContent": "综合用地上的商业用房",
-                "QuestionId": "d465b2ef-d9cd-4209-9484-ce1808d924a7"
-            },
-            {
-                "AnswerID": "01345287-59f9-4ba7-937d-50cd52ad05b8",
-                "AnswerContent": "专业化策略",
-                "QuestionId": "d8585fd2-236a-4f71-a5d7-8bfd6a8465fb"
-            },
-            {
-                "AnswerID": "9cdee188-9811-4089-a5f9-d2b3542ab6ae",
-                "AnswerContent": "国家助学贷款的财政贴息是指国家承担部分利息",
-                "QuestionId": "77d51482-bddd-46d6-a24d-3e0e75b5a984"
-            },
-            {
-                "AnswerID": "967b9d07-ae82-4961-b1d3-170a12d5eb79",
-                "AnswerContent": "个体工商户",
-                "QuestionId": "bdbe60ac-719c-4857-8905-9d4bf705da0f"
-            },
-            {
-                "AnswerID": "bdb0bf13-631b-4627-b720-820745482334",
-                "AnswerContent": "按照委托协议，承办银行应定期对公积金贷款的办理情况进行检查",
-                "QuestionId": "d7614da8-1560-4ad5-ab64-6df92adca5e0"
-            },
-            {
-                "AnswerID": "2a2295f3-0be5-4fc2-943f-6464fff0fcfa",
-                "AnswerContent": "零售型网点机构营销渠道",
-                "QuestionId": "51aeab41-81c4-4793-af65-eb495c1aecea"
-            },
-            {
-                "AnswerID": "4b030278-0fee-4bc2-b153-cfb27d16aa93",
-                "AnswerContent": "一次，一次，一次",
-                "QuestionId": "64b393c9-53a4-4ff2-8ce9-1dae39794f9d"
-            },
-            {
-                "AnswerID": "4aacee07-a1b5-4c53-a50e-d1f91470ee30",
-                "AnswerContent": "个人住房装修贷款",
-                "QuestionId": "4492bdbe-4157-4b00-b4ce-afecd104bd87"
-            },
-            {
-                "AnswerID": "d917fd0a-1383-4de5-8d89-0ba45a38d526",
-                "AnswerContent": "贷款证、建设用地规划许可证、建设工程规划许可证、建筑工程施工许可证、商品房预售许可证",
-                "QuestionId": "e681a6e1-2bf1-4205-a96c-daddd331db3c"
-            },
-            {
-                "AnswerID": "8f88e7b6-51df-4cb7-ac42-9f7527830fce",
-                "AnswerContent": "风险补偿",
-                "QuestionId": "471917ec-4070-4d86-a6b9-048ea35b0488"
-            },
-            {
-                "AnswerID": "8a002e67-ce56-4d15-bb1f-9df100de6d96",
-                "AnswerContent": "保证担保的范围包括主债权、利息、违约金、损害赔偿金和实现债权的费用",
-                "QuestionId": "c2b55979-edf2-4f4d-82bb-d3ffe74e3f8a"
-            },
-            {
-                "AnswerID": "112ac9be-1f0d-4f64-a380-c657d06a704d",
-                "AnswerContent": "房产证",
-                "QuestionId": "6f16a622-3e21-4dcc-976d-944da14eb004"
-            },
-            {
-                "AnswerID": "e5e96748-3de7-4259-8d46-81e4cd020af9",
-                "AnswerContent": "财政贴息是指国家以承担部分利息的方式，对学生办理国家助学贷款进行补贴",
-                "QuestionId": "fc01d8ab-8046-487e-8a87-299d4a1c7285"
-            },
-            {
-                "AnswerID": "16eb3fab-85b3-4bcd-987c-41d795658f3b",
-                "AnswerContent": "与借款人双人面谈一次；亲笔签署",
-                "QuestionId": "38856cf1-c4f0-419d-a4d3-46f6d3c8e0d5"
-            },
-            {
-                "AnswerID": "c9f8e3ea-fb71-4997-91ce-779290451f30",
-                "AnswerContent": "市场风险",
-                "QuestionId": "cce0a69c-d2ca-4917-a997-52c0f0bf8d62"
-            },
-            {
-                "AnswerID": "1595805d-facc-4217-b06a-17443b00c106",
-                "AnswerContent": "贷款发放",
-                "QuestionId": "11c40f52-07ff-4c46-a3a0-a789625b48c6"
-            },
-            {
-                "AnswerID": "7a722e1e-f255-4d33-be26-92513aad8a72",
-                "AnswerContent": "整借零还",
-                "QuestionId": "466b045c-9da8-4ab8-92a7-90a3c7e68337"
-            },
-            {
-                "AnswerID": "ec677ef8-d53e-4a0a-9f56-4b6526b7cb79",
-                "AnswerContent": "个人住房贷款的计息、结息方式，由借贷双方协商确定",
-                "QuestionId": "81542b14-9487-4843-bf6f-435ee2dcbe1c"
-            },
-            {
-                "AnswerID": "a1591ce0-4049-4284-8a11-e51831e2b8c4",
-                "AnswerContent": "检验文件",
-                "QuestionId": "db40e864-8f24-4d4f-9c22-ce0f7e94baf0"
-            },
-            {
-                "AnswerID": "eed8e453-b48e-445b-8f97-0cf21fa95cd8",
-                "AnswerContent": "户籍所在地为乡镇所辖行政村，长期居住在城市范围的务工人员",
-                "QuestionId": "fea594ed-bbf8-4e38-bb62-f6fd53d8a9d3"
-            },
-            {
-                "AnswerID": "9e052a5b-0994-4d6b-a971-2e25c627f9e4",
-                "AnswerContent": "借款申请人对相关系统查询结果有异议的，可以提出申请，贷前调查人员负责查检借款申请人的申贷内容",
-                "QuestionId": "e69134e4-094e-4afb-9254-f4c3ce2604a0"
-            },
-            {
-                "AnswerID": "c2d9db35-c25b-44e6-a009-d6d2390c8cd3",
-                "AnswerContent": "司法部门",
-                "QuestionId": "52f0a7d9-ef74-418f-9fe1-abfd7b2395fa"
-            },
-            {
-                "AnswerID": "636bd853-a3e6-4b86-8d28-3d41ffa85b0b",
-                "AnswerContent": "一笔贷款不能同时处于多种贷款形态",
-                "QuestionId": "5d31c4f8-a7f8-4909-a84d-0271f2d8d5bb"
-            },
-            {
-                "AnswerID": "9893e910-0f04-4ca0-85bf-d4227a60f515",
-                "AnswerContent": "合理性",
-                "QuestionId": "9eacfbb1-007b-48fd-8892-d23b7be7e8b2"
-            },
-            {
-                "AnswerID": "6ca383e2-2ef4-46e4-b51d-9cff9972d751",
-                "AnswerContent": "发放未经审批的贷款",
-                "QuestionId": "8445ff04-aa15-4e68-a567-cddbb4c6505a"
-            },
-            {
-                "AnswerID": "64b43082-778a-45de-b026-1103afb1ae3a",
-                "AnswerContent": "发放公积金贷款",
-                "QuestionId": "55afacae-6042-4b65-880c-41441126d84c"
-            },
-            {
-                "AnswerID": "6ca7dfa0-6b92-48fd-b376-14395e134862",
-                "AnswerContent": "保证",
-                "QuestionId": "4db68a91-882c-4726-aca6-4b7ccf87cba2"
-            },
-            {
-                "AnswerID": "9ccdd03c-b7f5-4a64-a046-b84b1869a532",
-                "AnswerContent": "个人住房贷款是指银行向自然人发放的用于购买、建造和大修理各类型住房的贷款",
-                "QuestionId": "ec0c4768-7bde-4574-9f88-82c4fb600bf6"
-            },
-            {
-                "AnswerID": "2a6942d2-d1f1-4655-9ea0-ecf20410767c",
-                "AnswerContent": "保证人、债权人",
-                "QuestionId": "e27aeaf8-6524-4925-855c-05de7ad06b48"
-            },
-            {
-                "AnswerID": "2858beff-4cb1-4ef2-b14d-de2bab064d92",
-                "AnswerContent": "抵押人依法承担的荒山、荒沟、荒丘、荒滩等荒地的土地使用权不得抵押",
-                "QuestionId": "f64564ae-f2ac-4968-ba58-49fe74cbd36b"
-            },
-            {
-                "AnswerID": "01b909d4-056f-4319-b729-45049bb3837a",
-                "AnswerContent": "个人二手汽车贷款期限（含展期）不得超过3年",
-                "QuestionId": "11a0bd73-dec1-4145-a76b-d7ef2b2a67ce"
-            },
-            {
-                "AnswerID": "e4014f7e-08c7-42c8-aff1-9c2630207089",
-                "AnswerContent": "贷款人应遵循审贷与放贷分离的原则",
-                "QuestionId": "1760174e-bcf5-4c70-8be8-8946f50793d3"
-            },
-            {
-                "AnswerID": "60c2ca34-2bac-4d49-ae70-7c4fb7fc98ce",
-                "AnswerContent": "贷款卡",
-                "QuestionId": "8d2cd236-a3fd-4a47-91a9-11248503f904"
-            },
-            {
-                "AnswerID": "47b2b109-a310-4903-aec3-94e661a1fedf",
-                "AnswerContent": "单位定期存单",
-                "QuestionId": "73dfd61e-a9c2-4502-bb28-ab2bfc5e4578"
-            },
-            {
-                "AnswerID": "e36df480-85aa-480c-83b2-5be09c65c7e4",
-                "AnswerContent": "租金收入*0.12%",
-                "QuestionId": "f9f49314-c8a2-4727-9290-e8cc8a2ccd80"
-            },
-            {
-                "AnswerID": "02e26582-d8a4-4ba1-bab8-c418110a62e9",
-                "AnswerContent": "积极利用法律手段，追究当事人刑事责任",
-                "QuestionId": "1b40dc1f-678a-425d-88fd-ab8e6551ab40"
-            },
-            {
-                "AnswerID": "d20a3875-be07-42d6-9433-5a8dc6ad075b",
-                "AnswerContent": "冒名顶替",
-                "QuestionId": "8c469c35-b988-4db9-96e7-a0b15be38d2f"
-            },
-            {
-                "AnswerID": "a8b47f7f-54eb-4071-8102-fbf1a269bee1",
-                "AnswerContent": "投资信息",
-                "QuestionId": "52f6474c-084c-4c42-8892-4282230e08a7"
-            },
-            {
-                "AnswerID": "0a9537fe-4437-44b6-9727-33399ec67503",
-                "AnswerContent": "丙企业对10万元应承担保证责任，增加的5万元不承担保证责任",
-                "QuestionId": "89f15e9c-bf23-4d7b-8b68-ec431b80ffff"
-            },
-            {
-                "AnswerID": "75975371-bbe5-4a7c-b83f-0dca26624a93",
-                "AnswerContent": "农村土地租赁权和农村住房财产权",
-                "QuestionId": "ff01ecf9-7417-439b-8912-db3a6521dc14"
-            },
-            {
-                "AnswerID": "edc2458a-4207-4c2e-8692-16056ae808fa",
-                "AnswerContent": "国家助学贷款可发放给经济困难的全日制初高中生",
-                "QuestionId": "c7d55623-4d7e-4c1c-8b37-e9bf9f9eb441"
-            },
-            {
-                "AnswerID": "b0a7ddb2-9339-4062-870d-838ef7083e6a",
-                "AnswerContent": "加强审查，审查第三方的资质",
-                "QuestionId": "df711789-a7ed-4e6f-9fcc-224ea98222d1"
-            },
-            {
-                "AnswerID": "633a0205-8df7-444e-8d8e-ea5f6e49e878",
-                "AnswerContent": "销（预）售许可证",
-                "QuestionId": "2d4dcf4e-c9a7-4876-abe9-fda751afcb4b"
-            },
-            {
-                "AnswerID": "122b13e6-e679-4a56-af25-1876647e0295",
-                "AnswerContent": "房屋所有权证",
-                "QuestionId": "2d4dcf4e-c9a7-4876-abe9-fda751afcb4b"
-            },
-            {
-                "AnswerID": "8b937023-7ec4-4973-8adb-c22f122a7f20",
-                "AnswerContent": "参与，审查第三方的资质",
-                "QuestionId": "df711789-a7ed-4e6f-9fcc-224ea98222d1"
-            },
-            {
-                "AnswerID": "b630645a-ce4e-45ed-a11e-d6832965d90a",
-                "AnswerContent": "商业助学贷款只能支付学费",
-                "QuestionId": "c7d55623-4d7e-4c1c-8b37-e9bf9f9eb441"
-            },
-            {
-                "AnswerID": "1c386623-16b4-4b13-b5a8-93ea62e9db75",
-                "AnswerContent": "农村士地租赁权和农村住病房赁权",
-                "QuestionId": "ff01ecf9-7417-439b-8912-db3a6521dc14"
-            },
-            {
-                "AnswerID": "b0cea59b-5ed5-4696-b9b6-de1b19c093e8",
-                "AnswerContent": "资产信息",
-                "QuestionId": "52f6474c-084c-4c42-8892-4282230e08a7"
-            },
-            {
-                "AnswerID": "ed14354f-9b41-4296-9b6f-e53bfb99865a",
-                "AnswerContent": "丙企业应承担15万元的保证责任，因为丙对于甲和银行的通知未予答复，视为默认",
-                "QuestionId": "89f15e9c-bf23-4d7b-8b68-ec431b80ffff"
-            },
-            {
-                "AnswerID": "2d614e0f-7aac-454d-a168-2aff8cb59984",
-                "AnswerContent": "加强一线人员培训，严把贷款准入关",
-                "QuestionId": "1b40dc1f-678a-425d-88fd-ab8e6551ab40"
-            },
-            {
-                "AnswerID": "03358a89-31ce-4208-a090-5f037707c80b",
-                "AnswerContent": "租金收入*12%",
-                "QuestionId": "f9f49314-c8a2-4727-9290-e8cc8a2ccd80"
-            },
-            {
-                "AnswerID": "7743bfdf-40f1-410f-a296-dc87f71ae68f",
-                "AnswerContent": "一车多贷",
-                "QuestionId": "8c469c35-b988-4db9-96e7-a0b15be38d2f"
-            },
-            {
-                "AnswerID": "92e96834-1cc7-4ef1-9138-612f3f8e2ffe",
-                "AnswerContent": "国有土地使用权",
-                "QuestionId": "73dfd61e-a9c2-4502-bb28-ab2bfc5e4578"
-            },
-            {
-                "AnswerID": "addad996-04d3-4522-9fe4-644241993bd6",
-                "AnswerContent": "企业法人代表的个人信用情况",
-                "QuestionId": "8d2cd236-a3fd-4a47-91a9-11248503f904"
-            },
-            {
-                "AnswerID": "05ab153e-051f-46c9-94b8-236037e9d3d7",
-                "AnswerContent": "汽车经销商同购车人达成一致，以同一套购车资料通过不同的借款人向同一家银行的不同分支机构申请贷款，该种行为属于欺诈行为",
-                "QuestionId": "11a0bd73-dec1-4145-a76b-d7ef2b2a67ce"
-            },
-            {
-                "AnswerID": "66ba2ad7-bfc0-436c-8911-67814b77f3b5",
-                "AnswerContent": "个人住房组合贷款不追求营利，是一种政策性贷款",
-                "QuestionId": "ec0c4768-7bde-4574-9f88-82c4fb600bf6"
-            },
-            {
-                "AnswerID": "68e3e255-ace0-4758-8b95-47d48d6aa3c2",
-                "AnswerContent": "未按独立公正原则审批",
-                "QuestionId": "8445ff04-aa15-4e68-a567-cddbb4c6505a"
-            },
-            {
-                "AnswerID": "f61c16ef-a75f-465e-841e-ca9ef32bc3a9",
-                "AnswerContent": "真实性",
-                "QuestionId": "9eacfbb1-007b-48fd-8892-d23b7be7e8b2"
-            },
-            {
-                "AnswerID": "fb076e9d-e9b6-43cb-babf-421d161a25ca",
-                "AnswerContent": "质押",
-                "QuestionId": "4db68a91-882c-4726-aca6-4b7ccf87cba2"
-            },
-            {
-                "AnswerID": "70580615-6b67-4135-b3a4-a99c8388a9aa",
-                "AnswerContent": "债权人、债务人",
-                "QuestionId": "e27aeaf8-6524-4925-855c-05de7ad06b48"
-            },
-            {
-                "AnswerID": "3bf6e5e9-50b0-452d-a6c0-bfe469ec324e",
-                "AnswerContent": "当开户放款完成后，银行应将放款通知书等一并交借款人作回单",
-                "QuestionId": "1760174e-bcf5-4c70-8be8-8946f50793d3"
-            },
-            {
-                "AnswerID": "33c00a8c-ec77-4373-89a0-6c648d7b6352",
-                "AnswerContent": "抵押人所有的房屋和其他地上定着物均可以作为抵押物",
-                "QuestionId": "f64564ae-f2ac-4968-ba58-49fe74cbd36b"
-            },
-            {
-                "AnswerID": "b5c9351f-4c3e-4f80-b16a-1d4132a93638",
-                "AnswerContent": "承担公积金信贷风险",
-                "QuestionId": "55afacae-6042-4b65-880c-41441126d84c"
-            },
-            {
-                "AnswerID": "cd1f751a-13aa-44e9-9d25-ba462d7eb114",
-                "AnswerContent": "金融机构",
-                "QuestionId": "52f0a7d9-ef74-418f-9fe1-abfd7b2395fa"
-            },
-            {
-                "AnswerID": "b7e09d29-e2fb-4147-9418-0ce6b826406f",
-                "AnswerContent": "贷款风险分类一般先进行定性分类，再进行定量分类",
-                "QuestionId": "5d31c4f8-a7f8-4909-a84d-0271f2d8d5bb"
-            },
-            {
-                "AnswerID": "23b9d3d3-3ffa-42a2-ac89-69d467e7957b",
-                "AnswerContent": "审查报告",
-                "QuestionId": "db40e864-8f24-4d4f-9c22-ce0f7e94baf0"
-            },
-            {
-                "AnswerID": "cd835df0-64a6-4d93-85f6-4a6d742b83a1",
-                "AnswerContent": "贷前调查人可以从人民银行征信系统查询借款申请人的信用记录是否良好，并打印查询结果",
-                "QuestionId": "e69134e4-094e-4afb-9254-f4c3ce2604a0"
-            },
-            {
-                "AnswerID": "5c77819f-374f-4b22-a6b5-96b22f6af45e",
-                "AnswerContent": "长期居住在乡镇和城关银行所辖行政村的农村个体工商户",
-                "QuestionId": "fea594ed-bbf8-4e38-bb62-f6fd53d8a9d3"
-            },
-            {
-                "AnswerID": "36c8641a-ad98-49d7-acd3-c6343c983cd4",
-                "AnswerContent": "个人住房贷款还款方式以等额本息还款法和等额本金还款法最为常用",
-                "QuestionId": "81542b14-9487-4843-bf6f-435ee2dcbe1c"
-            },
-            {
-                "AnswerID": "a6773ea7-4997-4f16-bacc-553d30a98b13",
-                "AnswerContent": "操作风险",
-                "QuestionId": "cce0a69c-d2ca-4917-a997-52c0f0bf8d62"
-            },
-            {
-                "AnswerID": "1ce70f49-f10d-4e7e-8fb3-0f32de678e5c",
-                "AnswerContent": "零借零还",
-                "QuestionId": "466b045c-9da8-4ab8-92a7-90a3c7e68337"
-            },
-            {
-                "AnswerID": "f3dedff0-25eb-4ec1-9cda-e0ed210e0b32",
-                "AnswerContent": "贷款审批",
-                "QuestionId": "11c40f52-07ff-4c46-a3a0-a789625b48c6"
-            },
-            {
-                "AnswerID": "0897c922-0576-4f0c-9266-670fecefbae1",
-                "AnswerContent": "在“间客式”模式中客户与汽车经销商合作，而在“直客式”模式中是客户与银行直接合作",
-                "QuestionId": "fc01d8ab-8046-487e-8a87-299d4a1c7285"
-            },
-            {
-                "AnswerID": "4d982842-a3c6-450d-b8dd-8883d6da8192",
-                "AnswerContent": "与借款人双人面谈一次；见证签署",
-                "QuestionId": "38856cf1-c4f0-419d-a4d3-46f6d3c8e0d5"
-            },
-            {
-                "AnswerID": "7d9be4df-0db9-420e-9e3e-25de0d5ea270",
-                "AnswerContent": "租赁合同及租金收入银行流水",
-                "QuestionId": "6f16a622-3e21-4dcc-976d-944da14eb004"
-            },
-            {
-                "AnswerID": "c551f83f-5e51-4c8a-baa5-aed98eaae26f",
-                "AnswerContent": "连带责任保证的保证人与债权人未约定保证期间的，保证期间为主债务履行期届满之日起六个月",
-                "QuestionId": "c2b55979-edf2-4f4d-82bb-d3ffe74e3f8a"
-            },
-            {
-                "AnswerID": "3c60e8ac-33d4-406d-9f09-90b12d69e7c5",
-                "AnswerContent": "个人教育贷款",
-                "QuestionId": "4492bdbe-4157-4b00-b4ce-afecd104bd87"
-            },
-            {
-                "AnswerID": "fffa37f4-0395-42e5-b126-4cb491f23d95",
-                "AnswerContent": "设定担保",
-                "QuestionId": "471917ec-4070-4d86-a6b9-048ea35b0488"
-            },
-            {
-                "AnswerID": "ceed9518-f8dd-497c-b48b-bd04a2017e8e",
-                "AnswerContent": "国有土地使用权证、开发企业等级证、建设工程规划许可证、建筑工程施工许可证、商品房预售许可证",
-                "QuestionId": "e681a6e1-2bf1-4205-a96c-daddd331db3c"
-            },
-            {
-                "AnswerID": "95696244-13dd-4ffb-8c75-f90d8ba329d2",
-                "AnswerContent": "一次，一次，按学年（期）",
-                "QuestionId": "64b393c9-53a4-4ff2-8ce9-1dae39794f9d"
-            },
-            {
-                "AnswerID": "cb0ceb5d-53a2-4ebd-b836-21b00cab36f8",
-                "AnswerContent": "逾期120天以上的，将对拒不还款的借款人提起诉讼，对抵押物进行处置",
-                "QuestionId": "d7614da8-1560-4ad5-ab64-6df92adca5e0"
-            },
-            {
-                "AnswerID": "bd13a31e-5aa0-4ee2-b4bf-7c4323c31821",
-                "AnswerContent": "专业化网点机构营销渠道",
-                "QuestionId": "51aeab41-81c4-4793-af65-eb495c1aecea"
-            },
-            {
-                "AnswerID": "19b0631b-81ed-45b1-9041-d68f50e38d9a",
-                "AnswerContent": "合资企业",
-                "QuestionId": "bdbe60ac-719c-4857-8905-9d4bf705da0f"
-            },
-            {
-                "AnswerID": "0625f39a-4c0b-4838-99c6-e112df66a883",
-                "AnswerContent": "各经办银行需严格按零售贷款档案管理办法管理国家助学贷款相关档案",
-                "QuestionId": "77d51482-bddd-46d6-a24d-3e0e75b5a984"
-            },
-            {
-                "AnswerID": "b0ca4012-e7a3-4b5e-8aa2-9fe5b42befe3",
-                "AnswerContent": "情感营销策略",
-                "QuestionId": "d8585fd2-236a-4f71-a5d7-8bfd6a8465fb"
-            },
-            {
-                "AnswerID": "105ec8f7-8ea8-4058-99de-a3edc79c3b94",
-                "AnswerContent": "更换为其他足值抵押物",
-                "QuestionId": "69fd0797-a10e-42f7-9463-c6a312339018"
-            },
-            {
-                "AnswerID": "a02ec10a-431b-4c5e-b350-42b80210d77f",
-                "AnswerContent": "集体土地上的自建仓库",
-                "QuestionId": "d465b2ef-d9cd-4209-9484-ce1808d924a7"
-            },
-            {
-                "AnswerID": "4e87953c-a1ff-4e86-bebb-5b65ac6d42d6",
-                "AnswerContent": "借款学生自取得毕业证书之日（以毕业证书签发日期为准）起，下月1日（含1日）开始归还贷款利息",
-                "QuestionId": "c22348c6-3968-41a0-a0ef-d6c44002e87c"
-            },
-            {
-                "AnswerID": "e7d4b22f-62cc-47a5-97c4-04c956fa39c8",
-                "AnswerContent": "提交借款人与售房人签订的商品房销（预）售合同或房屋买卖协议复印件",
-                "QuestionId": "81349380-1554-4ad7-88b8-5e0c3f9c3412"
-            },
-            {
-                "AnswerID": "4a946552-d999-4c88-8f99-05b8e5abfc4c",
-                "AnswerContent": "审批人员审查不严，导致向不符合条件的借款人发放贷款",
-                "QuestionId": "828af976-07ff-4c6d-8a8c-4364aac8c7e3"
-            },
-            {
-                "AnswerID": "9d82d70d-2ba6-4f70-b2ca-8b7f2fe822f9",
-                "AnswerContent": "低进高出",
-                "QuestionId": "aad1f380-2b0c-4dc5-92e8-90aa059998ba"
-            },
-            {
-                "AnswerID": "1fca7d99-4939-4d21-99c6-675bdef4bd9b",
-                "AnswerContent": "格式条款与非格式条款不一致的，应当采用格式条款",
-                "QuestionId": "5ad486ec-f792-429c-8d06-d6277b7532ed"
-            },
-            {
-                "AnswerID": "383858ac-2bfc-471e-917c-de64bc009475",
-                "AnswerContent": "金融机构均可签发",
-                "QuestionId": "e980b55f-1dbc-4f70-9a18-377664aeb2ae"
-            },
-            {
-                "AnswerID": "b146dd13-0918-46a0-be47-c5d023f6fe51",
-                "AnswerContent": "10",
-                "QuestionId": "bab9605a-d6f0-45b3-a86e-ea24bc2c09ed"
-            },
-            {
-                "AnswerID": "75828b88-41a5-46d8-9643-37c99355bd8f",
-                "AnswerContent": "30,50",
-                "QuestionId": "5bb83804-ac5f-42fb-a57d-f65a5461ef75"
-            },
-            {
-                "AnswerID": "9377ccbf-ff23-40e1-ab28-72f25a25b852",
-                "AnswerContent": "1.1",
-                "QuestionId": "f43b376e-8fc8-49dd-a97e-795079401298"
-            },
-            {
-                "AnswerID": "f39c6f86-23b4-42a6-a25e-d85f80e858b6",
-                "AnswerContent": "分层营销策略",
-                "QuestionId": "f662811c-1c7c-461f-b043-ad4adf42ef03"
-            },
-            {
-                "AnswerID": "065aef89-2162-4ec5-a0eb-551313af2829",
-                "AnswerContent": "未按独立公正原则审批",
-                "QuestionId": "d4b7a4fb-60a4-4e39-a4d2-68c9c9e8147b"
-            },
-            {
-                "AnswerID": "0450d351-f3d5-4543-ad67-a65759e905ac",
-                "AnswerContent": "等额本金还款法",
-                "QuestionId": "d02100b9-06f7-4074-a3d5-b9206e18debd"
-            },
-            {
-                "AnswerID": "35a0f4de-965b-4d74-8beb-47a3fe75674f",
-                "AnswerContent": "合同文本要使用统一格式的个人贷款的有关合同文本，对单笔贷款有特殊要求的，可以在合同中的其他约定事项中约定",
-                "QuestionId": "cf9c92af-c5ad-4244-9cd1-475ca8d6f2d6"
-            },
-            {
-                "AnswerID": "ee470273-290a-42fe-b775-aaf945fc853f",
-                "AnswerContent": "可进入性原则",
-                "QuestionId": "fa9200f9-ee9e-458e-a761-7eb28dfd9c89"
-            },
-            {
-                "AnswerID": "184c64cb-eb1b-4d2c-ab53-df9b76104080",
-                "AnswerContent": "国务院银行业监督管理机构、各商业银行",
-                "QuestionId": "67bbe412-6b21-4c9f-a9d4-0cfc4bfe0acd"
-            },
-            {
-                "AnswerID": "e148b52c-1a88-4b21-a285-cb81f05406b4",
-                "AnswerContent": "实贷实付原则",
-                "QuestionId": "3b091f97-40bc-4449-a7b2-5d0b2ad2d55e"
-            },
-            {
-                "AnswerID": "616dbfd9-efa8-43d8-bd5b-2b1457931842",
-                "AnswerContent": "交通运输部门",
-                "QuestionId": "01b75911-d2eb-48a7-a329-fe32d60a4fa7"
-            },
-            {
-                "AnswerID": "8ce9482c-603e-4b9a-89e7-7077d716a8ba",
-                "AnswerContent": "对经审批同意或有条件同意的贷款，如贷款条件与申报审批的贷款方案内容不一致的，应重新审批该笔贷款",
-                "QuestionId": "58eb5e34-f848-41d3-8ca1-af04d2f1f764"
-            },
-            {
-                "AnswerID": "7325dfc4-b2fb-452a-a143-c976115b6c5a",
-                "AnswerContent": "押品是缓释银行对市场风险的重要工具",
-                "QuestionId": "927e6a36-993e-4dd2-b479-f3f96ca8bd51"
-            },
-            {
-                "AnswerID": "12902e1b-3e6e-49dc-affe-5738b7593af4",
-                "AnswerContent": "盈利目标",
-                "QuestionId": "488a2f66-d483-42eb-bb7e-856db9835990"
-            },
-            {
-                "AnswerID": "3dc79e27-5595-4fc0-94e7-3510783b0100",
-                "AnswerContent": "房产支出与收入比达到条件、债务与收入比未达到条件",
-                "QuestionId": "8b7320b6-f626-4e96-8bfc-788431b3a740"
-            },
-            {
-                "AnswerID": "b648b4c5-3883-442a-ac58-966bfb9136af",
-                "AnswerContent": "抵押合同签订日期",
-                "QuestionId": "090185b7-3193-42e8-b786-f299e70b9f37"
-            },
-            {
-                "AnswerID": "d8be1402-8ac0-44c4-9c8b-87fa2dcb0b5b",
-                "AnswerContent": "4545",
-                "QuestionId": "31be1a82-0d48-4bb2-b228-6bb85618f4c6"
-            },
-            {
-                "AnswerID": "f0725e8f-b418-4e19-99f7-cd00fd668b9a",
-                "AnswerContent": "审放分离",
-                "QuestionId": "5f13ccd9-3a89-41b6-9666-321a9af7f829"
-            },
-            {
-                "AnswerID": "5370eb51-e0b3-4b8f-a383-75c561ba34ac",
-                "AnswerContent": "贷款供大于求时，应当适应适当降低贷款价格",
-                "QuestionId": "1dbfefde-a773-4d98-ad9f-71a76b31c28e"
-            },
-            {
-                "AnswerID": "605f0197-acdb-4a0d-babc-9509258ce90a",
-                "AnswerContent": "在政策、市场、经营环境等外部环境发生变化，或借款人自身发生异常的情况下，应不定期的走访企业，并及时检查借款人的借款资金及使用情况",
-                "QuestionId": "a6f08502-0ad2-4cb4-8668-6926b7c355ca"
-            },
-            {
-                "AnswerID": "02d18a59-c432-4e19-9814-56db3600e863",
-                "AnswerContent": "可疑",
-                "QuestionId": "b7a20b8e-e33d-452e-a396-cac5a16c7173"
-            },
-            {
-                "AnswerID": "67e97364-6562-4278-a4a3-64803372f6d5",
-                "AnswerContent": "加强对估值机构、地产经纪和律师事务所等合作机构的准入管理",
-                "QuestionId": "4af7f4d3-ea34-49b2-99b2-3ab185733f9c"
-            },
-            {
-                "AnswerID": "848eb424-759b-4156-9f62-2920367f9c5a",
-                "AnswerContent": "1年以内（含1年）",
-                "QuestionId": "8ebaea00-6da4-4057-a758-8615d5490593"
-            },
-            {
-                "AnswerID": "e8a8c670-1430-4202-b6b8-47d27f23d7e3",
-                "AnswerContent": "法律风险",
-                "QuestionId": "3b02a4ce-2208-43ae-834e-7cea3f3f5d14"
-            },
-            {
-                "AnswerID": "9f51379b-c719-4a98-97b7-a2c2fc4286dd",
-                "AnswerContent": "材料受理、抵质权的设立与变更、押品价值评估、审查、押品日常管理、押品的返还与处置",
-                "QuestionId": "d03b1b6a-da29-414e-accd-a9bfb0bfa174"
-            },
-            {
-                "AnswerID": "8bd1f3c1-1458-42d7-bfd9-59dc24e7664e",
-                "AnswerContent": "按年调整",
-                "QuestionId": "9d3cb6fa-1587-4e31-bd9b-540bae928894"
-            },
-            {
-                "AnswerID": "79705ef3-3146-4195-b183-57cbd05b4e55",
-                "AnswerContent": "有效身份证件",
-                "QuestionId": "f955c29a-7088-4561-97a0-dc4f2731b6b7"
-            },
-            {
-                "AnswerID": "88c3fca7-8ffe-4a1c-b407-3db0d5d2907e",
-                "AnswerContent": "应审查新的保证人或抵（质）押物是否符合担保要求",
-                "QuestionId": "fdc22d6e-19b0-43dc-a0ae-d3074a897409"
-            },
-            {
-                "AnswerID": "43249500-f689-4d9f-b880-8816213cbcdb",
-                "AnswerContent": "15",
-                "QuestionId": "71f0f1fc-9459-41b9-a3a9-954017875957"
-            },
-            {
-                "AnswerID": "018d5056-f80e-4263-aa6e-c118a091deb9",
-                "AnswerContent": "个人借款合同主体变更，包括贷款银行的变更和借款人的变更两方面",
-                "QuestionId": "a9016f16-b034-4ac4-9c38-dc8f07ec9f8a"
-            },
-            {
-                "AnswerID": "74e55047-4d9b-4157-a3ca-593fb964837a",
-                "AnswerContent": "风险具有系统性",
-                "QuestionId": "acaeb5c4-3f34-457e-b91d-a306e23c9c93"
-            },
-            {
-                "AnswerID": "452280e4-f2d6-497e-87c3-5f44d10cea9e",
-                "AnswerContent": "电子银行营销",
-                "QuestionId": "f1839f9d-da0d-433e-9d77-3eb5c17cc296"
-            },
-            {
-                "AnswerID": "42d564cd-71d0-4b13-8cd3-c29ca28386ca",
-                "AnswerContent": "未接到借款人支付申请和支付委托的情况下，将贷款支付给房地产开发商",
-                "QuestionId": "3e3af5c7-58aa-43fd-a181-5c1697c28140"
-            },
-            {
-                "AnswerID": "49ec1280-c51d-414d-98f0-2d2b48881d6c",
-                "AnswerContent": "贷款对象不同",
-                "QuestionId": "df9a558a-80ec-464a-ae84-422de156beac"
-            },
-            {
-                "AnswerID": "682259dc-7316-41e8-8c2e-04c34d0b9c13",
-                "AnswerContent": "支付购买住房的首付款",
-                "QuestionId": "20cf7dbd-6957-4136-bf7f-4c24df05fb0c"
-            },
-            {
-                "AnswerID": "0b9a8a05-f647-490d-9452-bf3d151c06eb",
-                "AnswerContent": "运用专家判断法对借款人进行信贷分析时，难以确定共同遵循的标准，造成信贷评估的主观性、随意性和不一致性",
-                "QuestionId": "6b8221f9-2a09-4e5e-adfc-ee08f3194e5f"
-            },
-            {
-                "AnswerID": "8ac85086-e39e-4352-a2f1-747516ffbfe0",
-                "AnswerContent": "因操作失误造成的风险资产",
-                "QuestionId": "c0da9f42-f2da-46c8-a928-346cfddbffb6"
-            },
-            {
-                "AnswerID": "079e9f0d-1de5-406b-822a-ba35189bae06",
-                "AnswerContent": "担保的有效性",
-                "QuestionId": "5bdae808-a57f-4d48-b371-4ac0ab9c4571"
-            },
-            {
-                "AnswerID": "cdebb11a-c32c-45c0-ba9a-46e5da821649",
-                "AnswerContent": "借款合同依法需要变更或解除的，必须经借贷双方协商同意",
-                "QuestionId": "e217561b-ceb7-4daa-90f6-3de8a29df66b"
-            },
-            {
-                "AnswerID": "c50c4eb8-b6e2-4341-a984-a78028811ff2",
-                "AnswerContent": "以合法形式掩盖非法目的",
-                "QuestionId": "99bb2a4f-09d3-4538-bc08-32be15cc4571"
-            },
-            {
-                "AnswerID": "cb5a659f-c892-4108-8c0f-0acf15326fd3",
-                "AnswerContent": "无特殊原因，滞销楼盘突然热销",
-                "QuestionId": "014004c2-6e60-4d41-a377-d25ba8e21cef"
-            },
-            {
-                "AnswerID": "e81ea6b4-86c7-491b-92c1-aa78afd7d545",
-                "AnswerContent": "逆经济周期原则",
-                "QuestionId": "28b50d92-90fe-4355-b548-95a88e66d1f4"
-            },
-            {
-                "AnswerID": "c381b2f0-42a0-42f7-aa4c-c66ab169867c",
-                "AnswerContent": "公平诚信",
-                "QuestionId": "2ded554b-5a3c-404a-abba-fc0d8eb54e93"
-            },
-            {
-                "AnswerID": "ad2216af-703a-41eb-9ae6-b831aa64d50a",
-                "AnswerContent": "变卖",
-                "QuestionId": "ac231607-0e5e-4dfc-a912-33e04602f30c"
-            },
-            {
-                "AnswerID": "671d1765-f686-46bb-bd10-5ffbe31561c0",
-                "AnswerContent": "两类业务都是根据贷款申请人资信状况给予一定的授信额度",
-                "QuestionId": "a487b533-a5a5-48a8-a0b7-677ca2218c14"
-            },
-            {
-                "AnswerID": "ed880f3d-6c8b-4c41-ba16-fe4e0275d55e",
-                "AnswerContent": "贷款数据报送",
-                "QuestionId": "087db8f7-854a-4fd5-9b71-923be13975f9"
-            },
-            {
-                "AnswerID": "126ea9e9-bed2-40d8-b019-1c5caa2a4274",
-                "AnswerContent": "调查借款申请人的信用情况",
-                "QuestionId": "b2b4b9c6-d02a-4b09-a207-79f2379ae3d1"
-            },
-            {
-                "AnswerID": "a502b908-4a94-4437-83d6-8bcf17bfafc6",
-                "AnswerContent": "利率的公式为：利率=利息额/本息之和",
-                "QuestionId": "de4a03fb-08b0-49c7-8065-6d8c7edeb3ee"
-            },
-            {
-                "AnswerID": "f3821236-8faf-4fd2-bbb4-fd531dc8200b",
-                "AnswerContent": "停止发放尚未使用的贷款",
-                "QuestionId": "c51f7900-f9ec-48e1-8b8f-dade8669a2a1"
-            },
-            {
-                "AnswerID": "e8950819-8144-48c1-a6a9-0841df450aa2",
-                "AnswerContent": "资产负债率不超过85%",
-                "QuestionId": "554bc60d-f85c-4bc7-b6ff-890cbb9ad511"
-            },
-            {
-                "AnswerID": "9f69c684-e6e1-4b05-9a8c-4fe839f2b629",
-                "AnswerContent": "借款人及家庭的年度收入证明材料",
-                "QuestionId": "905eebeb-8831-4be1-9b32-288a13a20ab8"
-            },
-            {
-                "AnswerID": "7e0e0140-47c0-4847-94c4-36244495ae9c",
-                "AnswerContent": "港澳台居民还乡证、居留证明",
-                "QuestionId": "7909815b-697d-482a-b586-51d30194e53a"
-            },
-            {
-                "AnswerID": "932fadae-5c8e-4262-be7b-b27d12be1d0c",
-                "AnswerContent": "银行将按规定计收违约金",
-                "QuestionId": "66c69bdd-670d-4a4d-b1ee-ec3c10e91c71"
-            },
-            {
-                "AnswerID": "33e117f2-6e1d-471c-87a7-0165b4703eac",
-                "AnswerContent": "一次还本付息法",
-                "QuestionId": "47ff7d49-bec4-484d-8c04-863d70b21cb3"
-            },
-            {
-                "AnswerID": "149bc73a-f7cc-44e3-be9f-718be199a1be",
-                "AnswerContent": "历史功能",
-                "QuestionId": "7721d51f-0425-4136-9388-d4c2a206a9bf"
-            },
-            {
-                "AnswerID": "f8ce5f09-60b7-43ac-be06-27d07d2261e7",
-                "AnswerContent": "等额本金还款法",
-                "QuestionId": "47ff7d49-bec4-484d-8c04-863d70b21cb3"
-            },
-            {
-                "AnswerID": "57333b12-ad6e-41b0-906e-254eff223328",
-                "AnswerContent": "借款人应向银行提交提前还款申请书",
-                "QuestionId": "66c69bdd-670d-4a4d-b1ee-ec3c10e91c71"
-            },
-            {
-                "AnswerID": "e2797f68-acd0-47f1-8564-6e0fa5b6caff",
-                "AnswerContent": "工作证",
-                "QuestionId": "7909815b-697d-482a-b586-51d30194e53a"
-            },
-            {
-                "AnswerID": "6ae145b7-9b29-48fa-942b-6d1c25a1c6e4",
-                "AnswerContent": "政治功能",
-                "QuestionId": "7721d51f-0425-4136-9388-d4c2a206a9bf"
-            },
-            {
-                "AnswerID": "84e5ae3a-cb09-468b-9ad4-2c3474da6d17",
-                "AnswerContent": "具有足够偿还贷款本息的合法资产",
-                "QuestionId": "554bc60d-f85c-4bc7-b6ff-890cbb9ad511"
-            },
-            {
-                "AnswerID": "c6afc024-a3ef-4e1b-9fa3-010eda28ef32",
-                "AnswerContent": "乡、镇、街道、民政部门和县级教育行政部门关于其家庭经济困难的证明材料",
-                "QuestionId": "905eebeb-8831-4be1-9b32-288a13a20ab8"
-            },
-            {
-                "AnswerID": "097859f4-f188-4111-bd2c-dbe2fb3ddb99",
-                "AnswerContent": "利息是货币所有者因暂时让渡货币资金使用权而从借款人那里获得的一定报酬",
-                "QuestionId": "de4a03fb-08b0-49c7-8065-6d8c7edeb3ee"
-            },
-            {
-                "AnswerID": "5df4cf16-24ef-43c9-8d91-4a67abdeb11b",
-                "AnswerContent": "在原贷款利率基础上加收利息",
-                "QuestionId": "c51f7900-f9ec-48e1-8b8f-dade8669a2a1"
-            },
-            {
-                "AnswerID": "d4cc5968-5ea2-480c-a04b-a841de92b3a6",
-                "AnswerContent": "调查借款申请人基本情况",
-                "QuestionId": "b2b4b9c6-d02a-4b09-a207-79f2379ae3d1"
-            },
-            {
-                "AnswerID": "903fb34d-ed1a-44e2-8166-b5b8d5c48abf",
-                "AnswerContent": "协助不良贷款催收",
-                "QuestionId": "087db8f7-854a-4fd5-9b71-923be13975f9"
-            },
-            {
-                "AnswerID": "9348b441-5301-4c31-8769-4850bacc7763",
-                "AnswerContent": "信用卡一般可以跨境使用，个人贷款一般限于境内使用",
-                "QuestionId": "a487b533-a5a5-48a8-a0b7-677ca2218c14"
-            },
-            {
-                "AnswerID": "04fbc7f6-6adb-4129-91f6-e628d8463cc9",
-                "AnswerContent": "拍卖",
-                "QuestionId": "ac231607-0e5e-4dfc-a912-33e04602f30c"
-            },
-            {
-                "AnswerID": "04a343e7-059f-44d8-a271-b56fd22b5eb9",
-                "AnswerContent": "风险定价原则",
-                "QuestionId": "28b50d92-90fe-4355-b548-95a88e66d1f4"
-            },
-            {
-                "AnswerID": "b51f7397-c131-4a00-8c93-7c59d7d7e5d4",
-                "AnswerContent": "审慎经营",
-                "QuestionId": "2ded554b-5a3c-404a-abba-fc0d8eb54e93"
-            },
-            {
-                "AnswerID": "f504393a-6a3a-49ef-a6fb-cc0073050db8",
-                "AnswerContent": "借款人首付款超过应支付比例",
-                "QuestionId": "014004c2-6e60-4d41-a377-d25ba8e21cef"
-            },
-            {
-                "AnswerID": "af95ae6c-fdf1-4e87-8c51-167badf99c6e",
-                "AnswerContent": "如需办理抵（质）押变更登记的，还应到原抵（质）押登记部门办理变更登记等手续。",
-                "QuestionId": "e217561b-ceb7-4daa-90f6-3de8a29df66b"
-            },
-            {
-                "AnswerID": "6b9b1577-ce6a-43c4-837e-166ea1fe5cad",
-                "AnswerContent": "恶意串通，损害国家、集体或者第三人利益",
-                "QuestionId": "99bb2a4f-09d3-4538-bc08-32be15cc4571"
-            },
-            {
-                "AnswerID": "734940c7-40bc-4bdf-a0c7-ae6bb15864ef",
-                "AnswerContent": "借款人所在行业的从业经历",
-                "QuestionId": "5bdae808-a57f-4d48-b371-4ac0ab9c4571"
-            },
-            {
-                "AnswerID": "6775ab99-a0f7-40f5-86b7-8c323c1f9850",
-                "AnswerContent": "经确认持卡人因使用诈骗方式申领、使用信用卡造成的风险资产",
-                "QuestionId": "c0da9f42-f2da-46c8-a928-346cfddbffb6"
-            },
-            {
-                "AnswerID": "a94b9ce3-670f-4ea5-8bab-63bb5eb340d2",
-                "AnswerContent": "“5C”指借款人道德品质、能力、资本、担保、环境",
-                "QuestionId": "6b8221f9-2a09-4e5e-adfc-ee08f3194e5f"
-            },
-            {
-                "AnswerID": "d3b59976-4dea-422a-8ae3-77d8acd17d20",
-                "AnswerContent": "商用房装修",
-                "QuestionId": "20cf7dbd-6957-4136-bf7f-4c24df05fb0c"
-            },
-            {
-                "AnswerID": "25cd04e4-6735-43f0-aa44-da539e9c3531",
-                "AnswerContent": "审批主体不同",
-                "QuestionId": "df9a558a-80ec-464a-ae84-422de156beac"
-            },
-            {
-                "AnswerID": "c2c40651-f8a9-4c34-b5ea-bb97753d37a1",
-                "AnswerContent": "评估机构出具的抵押商用房的评估价格大幅高于同一区域同类型商用房市场成交价格",
-                "QuestionId": "3e3af5c7-58aa-43fd-a181-5c1697c28140"
-            },
-            {
-                "AnswerID": "a2e48a1b-fead-4264-848e-e0ad51ff1162",
-                "AnswerContent": "情感营销",
-                "QuestionId": "f1839f9d-da0d-433e-9d77-3eb5c17cc296"
-            },
-            {
-                "AnswerID": "921e450e-5941-4979-a057-c1574523c740",
-                "AnswerContent": "有效居住地证明",
-                "QuestionId": "f955c29a-7088-4561-97a0-dc4f2731b6b7"
-            },
-            {
-                "AnswerID": "264cf4bd-a70e-4bbe-aec1-bcf5e6d4095d",
-                "AnswerContent": "大多以抵押为前提建立借贷关系",
-                "QuestionId": "acaeb5c4-3f34-457e-b91d-a306e23c9c93"
-            },
-            {
-                "AnswerID": "d5a122c7-e924-4e2b-ad21-5ad56f04b5b5",
-                "AnswerContent": "以房产作为新的抵押物的，必须由借款人认可的评估机构对房产进行评估",
-                "QuestionId": "fdc22d6e-19b0-43dc-a0ae-d3074a897409"
-            },
-            {
-                "AnswerID": "fb915531-18b8-46ed-8d42-9d9b7f3f99d6",
-                "AnswerContent": "按季调整",
-                "QuestionId": "9d3cb6fa-1587-4e31-bd9b-540bae928894"
-            },
-            {
-                "AnswerID": "a092972f-240a-42fa-a82c-3a09e1023ba4",
-                "AnswerContent": "5",
-                "QuestionId": "71f0f1fc-9459-41b9-a3a9-954017875957"
-            },
-            {
-                "AnswerID": "151f3f53-a5b6-4832-91b4-8b6e08daf7f6",
-                "AnswerContent": "个人借款合同变更包括合同主体变更、贷款期限变更、分期还款变更、还款方式变更等",
-                "QuestionId": "a9016f16-b034-4ac4-9c38-dc8f07ec9f8a"
-            },
-            {
-                "AnswerID": "be2e9beb-6b68-46ab-b07d-ccf4430b17c7",
-                "AnswerContent": "材料受理、审查、抵质押权的设立与变更、押品价值评估、押品日常管理、押品的返还与处置",
-                "QuestionId": "d03b1b6a-da29-414e-accd-a9bfb0bfa174"
-            },
-            {
-                "AnswerID": "2b7fb1c3-8368-4f57-8caf-943cb343f971",
-                "AnswerContent": "操作风险",
-                "QuestionId": "3b02a4ce-2208-43ae-834e-7cea3f3f5d14"
-            },
-            {
-                "AnswerID": "792d6802-6e74-4d38-becd-6f3493649d48",
-                "AnswerContent": "一年以内（不含1年）",
-                "QuestionId": "8ebaea00-6da4-4057-a758-8615d5490593"
-            },
-            {
-                "AnswerID": "a330714c-873f-4061-8766-b794640a886e",
-                "AnswerContent": "损失",
-                "QuestionId": "b7a20b8e-e33d-452e-a396-cac5a16c7173"
-            },
-            {
-                "AnswerID": "bf9f58e8-ad66-4d16-8c6e-071b84870c5a",
-                "AnswerContent": "加强对开发商及合作项目的审查",
-                "QuestionId": "4af7f4d3-ea34-49b2-99b2-3ab185733f9c"
-            },
-            {
-                "AnswerID": "0724a817-9a16-42c1-87bd-bf1c72e79e80",
-                "AnswerContent": "通过测算与比较资产负债表、损益表、现金流量表及主要财务比率的变化、动态的评价企业的经济实力、资产负债结构、变现能力、现金流量情况，进一步判断企业是否具有可靠的还款来源和能力",
-                "QuestionId": "a6f08502-0ad2-4cb4-8668-6926b7c355ca"
-            },
-            {
-                "AnswerID": "236166a8-6e41-44cb-b1d4-afad3c3db15e",
-                "AnswerContent": "借款人的盈利能力会直接影响到贷款价格",
-                "QuestionId": "1dbfefde-a773-4d98-ad9f-71a76b31c28e"
-            },
-            {
-                "AnswerID": "99d3d190-3803-443d-8b74-0ead493c31e0",
-                "AnswerContent": "5000",
-                "QuestionId": "31be1a82-0d48-4bb2-b228-6bb85618f4c6"
-            },
-            {
-                "AnswerID": "83461cb8-6f88-4a75-b41f-921d0a23a0d2",
-                "AnswerContent": "协议承诺",
-                "QuestionId": "5f13ccd9-3a89-41b6-9666-321a9af7f829"
-            },
-            {
-                "AnswerID": "365f7f0d-e3db-4f9a-a1ad-0c0e3b7f7bd4",
-                "AnswerContent": "房产支出与收入比未达到条件、债务与收入比达到条件",
-                "QuestionId": "8b7320b6-f626-4e96-8bfc-788431b3a740"
-            },
-            {
-                "AnswerID": "ebd89f9b-daea-4770-8108-0beff84fe9eb",
-                "AnswerContent": "贷款申请提交日期",
-                "QuestionId": "090185b7-3193-42e8-b786-f299e70b9f37"
-            },
-            {
-                "AnswerID": "54c007f5-5689-47a9-8b93-1cc44f34f879",
-                "AnswerContent": "支付方式",
-                "QuestionId": "488a2f66-d483-42eb-bb7e-856db9835990"
-            },
-            {
-                "AnswerID": "9fa8071f-27b1-4033-97bc-8e7fd9f3afd7",
-                "AnswerContent": "工商部门",
-                "QuestionId": "01b75911-d2eb-48a7-a329-fe32d60a4fa7"
-            },
-            {
-                "AnswerID": "9f6430b6-3ee3-479f-8d0b-4c5157383925",
-                "AnswerContent": "押品是实现债务人的权利的重要保证",
-                "QuestionId": "927e6a36-993e-4dd2-b479-f3f96ca8bd51"
-            },
-            {
-                "AnswerID": "656f75c7-a6e6-4392-9233-71311dcce326",
-                "AnswerContent": "审贷分离原则",
-                "QuestionId": "3b091f97-40bc-4449-a7b2-5d0b2ad2d55e"
-            },
-            {
-                "AnswerID": "66bc845a-20cf-467a-a12f-5d218f6de0e0",
-                "AnswerContent": "对未获批准的借款申请，贷前调查人应及时告知借款人，并做好解释工作，将有关材料退还，同时做好信贷拒批记录存档",
-                "QuestionId": "58eb5e34-f848-41d3-8ca1-af04d2f1f764"
-            },
-            {
-                "AnswerID": "1d993d0c-3068-48b6-b81c-176035d65953",
-                "AnswerContent": "经济性原则",
-                "QuestionId": "fa9200f9-ee9e-458e-a761-7eb28dfd9c89"
-            },
-            {
-                "AnswerID": "9ef98656-7db0-49ee-9fa5-2b8740006245",
-                "AnswerContent": "需要填写空白栏，且空白栏后有备选项的，在横线上填好选定的内容后，对未选的内容应加横线表示删除；合同条款有空白栏，但根据实际情况不准备填写内容的，应加盖“此栏空白”字样的印章",
-                "QuestionId": "cf9c92af-c5ad-4244-9cd1-475ca8d6f2d6"
-            },
-            {
-                "AnswerID": "19a465f7-ab23-4c82-96e3-7ec00e8d1a6d",
-                "AnswerContent": "大众营销策略",
-                "QuestionId": "f662811c-1c7c-461f-b043-ad4adf42ef03"
-            },
-            {
-                "AnswerID": "eec9a4c5-dcad-4b0f-8189-48f9e5715498",
-                "AnswerContent": "中国人民银行、国务院银行业监督管理机构",
-                "QuestionId": "67bbe412-6b21-4c9f-a9d4-0cfc4bfe0acd"
-            },
-            {
-                "AnswerID": "99b16bb3-d343-4879-b9b4-99fa1dda0d06",
-                "AnswerContent": "等额本息还款法",
-                "QuestionId": "d02100b9-06f7-4074-a3d5-b9206e18debd"
-            },
-            {
-                "AnswerID": "b3886899-caf0-4e6c-bac1-43dd0a1b4704",
-                "AnswerContent": "不按权限审批贷款，使得贷款超授权发放",
-                "QuestionId": "d4b7a4fb-60a4-4e39-a4d2-68c9c9e8147b"
-            },
-            {
-                "AnswerID": "c2f2f0db-ce9a-482c-9bc9-eb99a9b08797",
-                "AnswerContent": "3",
-                "QuestionId": "bab9605a-d6f0-45b3-a86e-ea24bc2c09ed"
-            },
-            {
-                "AnswerID": "c8affd1e-f2f4-4df3-aa87-1cb8d2a855e8",
-                "AnswerContent": "0.8",
-                "QuestionId": "f43b376e-8fc8-49dd-a97e-795079401298"
-            },
-            {
-                "AnswerID": "4ef157ef-4719-4df3-b699-f3a4ba02263f",
-                "AnswerContent": "非格式条款是在格式条款外另行商定的条款",
-                "QuestionId": "5ad486ec-f792-429c-8d06-d6277b7532ed"
-            },
-            {
-                "AnswerID": "f29886e4-ccbb-4531-8dff-be764ce63090",
-                "AnswerContent": "未详细记录资金流向和归集保存相关凭证",
-                "QuestionId": "828af976-07ff-4c6d-8a8c-4364aac8c7e3"
-            },
-            {
-                "AnswerID": "9ffd6108-9952-40f2-ad99-86d5f4b5fad6",
-                "AnswerContent": "20,50",
-                "QuestionId": "5bb83804-ac5f-42fb-a57d-f65a5461ef75"
-            },
-            {
-                "AnswerID": "862f80e0-25f2-4682-89a5-24e0e5700276",
-                "AnswerContent": "仅由银行签发",
-                "QuestionId": "e980b55f-1dbc-4f70-9a18-377664aeb2ae"
-            },
-            {
-                "AnswerID": "697377a3-7f0f-42b5-9468-d5f84fca379d",
-                "AnswerContent": "高进高出",
-                "QuestionId": "aad1f380-2b0c-4dc5-92e8-90aa059998ba"
-            },
-            {
-                "AnswerID": "7adbc861-392c-4a7c-b833-bb612621d505",
-                "AnswerContent": "拟购房产为共有的，须提供共有人同意抵押的证明文件",
-                "QuestionId": "81349380-1554-4ad7-88b8-5e0c3f9c3412"
-            },
-            {
-                "AnswerID": "91e9ff26-10d3-4e7f-82a5-2af4c904ea06",
-                "AnswerContent": "总行将国家助学贷款风险补偿金划拨至各分行，各分行在收到总行下拨的风险补偿金的当日将其划入对应账户",
-                "QuestionId": "c22348c6-3968-41a0-a0ef-d6c44002e87c"
-            },
-            {
-                "AnswerID": "739141eb-3a6a-46db-b7fd-0a30bf1283a8",
-                "AnswerContent": "提高贷款利息并加收罚息",
-                "QuestionId": "69fd0797-a10e-42f7-9463-c6a312339018"
-            },
-            {
-                "AnswerID": "97f86ef6-4b9d-4788-bbed-1b4065f21a4d",
-                "AnswerContent": "工业用地上的标准工业厂房",
-                "QuestionId": "d465b2ef-d9cd-4209-9484-ce1808d924a7"
-            },
-            {
-                "AnswerID": "ed25ae49-ae5d-4934-8de6-69160c578ec7",
-                "AnswerContent": "大众营销策略",
-                "QuestionId": "d8585fd2-236a-4f71-a5d7-8bfd6a8465fb"
-            },
-            {
-                "AnswerID": "bf7318e6-804d-46c0-be5e-3bfef15adb03",
-                "AnswerContent": "国家助学贷款的贷款流程适用于商业助学贷款",
-                "QuestionId": "77d51482-bddd-46d6-a24d-3e0e75b5a984"
-            },
-            {
-                "AnswerID": "02ff5175-0a26-4676-842b-3783771a5469",
-                "AnswerContent": "股份有限责任公司",
-                "QuestionId": "bdbe60ac-719c-4857-8905-9d4bf705da0f"
-            },
-            {
-                "AnswerID": "516ae5ff-73e3-44e5-80f3-f715c1cbd65b",
-                "AnswerContent": "在贷款催收中，逾期90天以内的，选择短信、电话和信函等方式进行催收",
-                "QuestionId": "d7614da8-1560-4ad5-ab64-6df92adca5e0"
-            },
-            {
-                "AnswerID": "17b65f01-f5b1-4268-81e5-5de47ac64d5b",
-                "AnswerContent": "高端化网点机构营销渠道",
-                "QuestionId": "51aeab41-81c4-4793-af65-eb495c1aecea"
-            },
-            {
-                "AnswerID": "06e2a68e-d8ee-48c1-9e68-51d7c6cbddf9",
-                "AnswerContent": "一次，按学年（期），按学年（期）",
-                "QuestionId": "64b393c9-53a4-4ff2-8ce9-1dae39794f9d"
-            },
-            {
-                "AnswerID": "0ee12f1c-c862-4c2c-ab7d-8524b7b9eb7d",
-                "AnswerContent": "国有土地使用权证、建设用地规划许可证、建设工程规划许可证、建筑工程施工许可证、商品房预售许可证",
-                "QuestionId": "e681a6e1-2bf1-4205-a96c-daddd331db3c"
-            },
-            {
-                "AnswerID": "2d8e41a6-3688-4d08-9711-e1f6cd49e5b6",
-                "AnswerContent": "保证的责任方式分为一般保证和连带保证",
-                "QuestionId": "c2b55979-edf2-4f4d-82bb-d3ffe74e3f8a"
-            },
-            {
-                "AnswerID": "f1b2eaa5-15da-4782-9687-b04b9fc647bc",
-                "AnswerContent": "特定用途",
-                "QuestionId": "471917ec-4070-4d86-a6b9-048ea35b0488"
-            },
-            {
-                "AnswerID": "91c598f8-2331-4ed7-ac21-4fb6a35df9d2",
-                "AnswerContent": "个人汽车贷款",
-                "QuestionId": "4492bdbe-4157-4b00-b4ce-afecd104bd87"
-            },
-            {
-                "AnswerID": "5cdb04b9-e51e-46db-ae51-56aab347c3af",
-                "AnswerContent": "至少过去3个月的工资单",
-                "QuestionId": "6f16a622-3e21-4dcc-976d-944da14eb004"
-            },
-            {
-                "AnswerID": "62412642-0842-415c-9987-25c03d9f2a71",
-                "AnswerContent": "汽车价格，对于新车是指汽车实际成交价格与汽车生产商公布价格中的低者",
-                "QuestionId": "fc01d8ab-8046-487e-8a87-299d4a1c7285"
-            },
-            {
-                "AnswerID": "18bb0833-58aa-48af-8981-a404e16322ce",
-                "AnswerContent": "逆向风险",
-                "QuestionId": "cce0a69c-d2ca-4917-a997-52c0f0bf8d62"
-            },
-            {
-                "AnswerID": "b4a92795-8a39-472a-98a2-66868da9bee1",
-                "AnswerContent": "至少直接与借款人面谈一次；见证签署",
-                "QuestionId": "38856cf1-c4f0-419d-a4d3-46f6d3c8e0d5"
-            },
-            {
-                "AnswerID": "dbea6193-dc1d-45a5-abeb-f8f63499cbe0",
-                "AnswerContent": "借款人可以根据需要选择还款方式，一笔借款合同可以选择多种还款方式",
-                "QuestionId": "81542b14-9487-4843-bf6f-435ee2dcbe1c"
-            },
-            {
-                "AnswerID": "92c87737-ea3b-40d4-9a48-beff1b56b39e",
-                "AnswerContent": "整借整还",
-                "QuestionId": "466b045c-9da8-4ab8-92a7-90a3c7e68337"
-            },
-            {
-                "AnswerID": "19c3b6f1-0aa2-47a1-be6a-42c9d7794a94",
-                "AnswerContent": "贷前调查",
-                "QuestionId": "11c40f52-07ff-4c46-a3a0-a789625b48c6"
-            },
-            {
-                "AnswerID": "2acd2787-5b63-4c63-bef3-af0d57c319f7",
-                "AnswerContent": "国有农场的职工",
-                "QuestionId": "fea594ed-bbf8-4e38-bb62-f6fd53d8a9d3"
-            },
-            {
-                "AnswerID": "a0b978dc-6935-4da4-9562-6fd493353708",
-                "AnswerContent": "贷前调查人应结合借款人申请所从事的行业，所任职务等信息，对其收入水平及证明材料的真实性做出判断",
-                "QuestionId": "e69134e4-094e-4afb-9254-f4c3ce2604a0"
-            },
-            {
-                "AnswerID": "5684129e-9425-42c8-bac4-64730974cbe0",
-                "AnswerContent": "调查评价意见",
-                "QuestionId": "db40e864-8f24-4d4f-9c22-ce0f7e94baf0"
-            },
-            {
-                "AnswerID": "0068762b-0238-4339-b6c7-9ea52060b07d",
-                "AnswerContent": "贷款风险分类指按规定的标准和程序对贷款资产进行分类",
-                "QuestionId": "5d31c4f8-a7f8-4909-a84d-0271f2d8d5bb"
-            },
-            {
-                "AnswerID": "5d51ffdc-fe15-464c-afe7-bfe54238f6fd",
-                "AnswerContent": "数据主体本人的上级领导或单位",
-                "QuestionId": "52f0a7d9-ef74-418f-9fe1-abfd7b2395fa"
-            },
-            {
-                "AnswerID": "3e4c54f0-de3a-41ee-8baf-fa446776d951",
-                "AnswerContent": "负责信贷审批",
-                "QuestionId": "55afacae-6042-4b65-880c-41441126d84c"
-            },
-            {
-                "AnswerID": "3cf8e42d-ba4f-4697-96a9-7121255d9c25",
-                "AnswerContent": "有效性",
-                "QuestionId": "9eacfbb1-007b-48fd-8892-d23b7be7e8b2"
-            },
-            {
-                "AnswerID": "d6a22017-c8f8-4450-a2f7-bf025d8d0064",
-                "AnswerContent": "保证人、债权人、债务人",
-                "QuestionId": "e27aeaf8-6524-4925-855c-05de7ad06b48"
-            },
-            {
-                "AnswerID": "f1bacbc4-f76e-4846-942e-99d651378bb4",
-                "AnswerContent": "信用",
-                "QuestionId": "4db68a91-882c-4726-aca6-4b7ccf87cba2"
-            },
-            {
-                "AnswerID": "48ae5bf9-1373-4bde-b622-4be659b781a8",
-                "AnswerContent": "不按权限审批贷款，使贷款超授权发放",
-                "QuestionId": "8445ff04-aa15-4e68-a567-cddbb4c6505a"
-            },
-            {
-                "AnswerID": "94849341-e44a-4085-b218-b27b02151251",
-                "AnswerContent": "自营性个人住房贷款也称商业性个人住房贷款",
-                "QuestionId": "ec0c4768-7bde-4574-9f88-82c4fb600bf6"
-            },
-            {
-                "AnswerID": "e710af6b-c370-4f58-aae2-f8dc74d10d59",
-                "AnswerContent": "新车价格是指汽车经销商与购车人实际成交价格，二手车价格是指贷款银行认可的评估价格",
-                "QuestionId": "11a0bd73-dec1-4145-a76b-d7ef2b2a67ce"
-            },
-            {
-                "AnswerID": "a85c87d6-aaf7-46b4-99ce-695ad1b61908",
-                "AnswerContent": "作为抵押物的财产应是作为贷款申请人的自然人所有的、经贷款银行认可的、符合规定条件的财产",
-                "QuestionId": "f64564ae-f2ac-4968-ba58-49fe74cbd36b"
-            },
-            {
-                "AnswerID": "d15b58dc-3786-415d-aefe-a49f52e7b8e7",
-                "AnswerContent": "专业资质等级和资信等级",
-                "QuestionId": "8d2cd236-a3fd-4a47-91a9-11248503f904"
-            },
-            {
-                "AnswerID": "c779716a-a24b-48a1-8259-be2ee5ca3944",
-                "AnswerContent": "借款人委托其他自然人代办的，代理人应持本人身份证件和借款人授权委托书到柜台办理",
-                "QuestionId": "1760174e-bcf5-4c70-8be8-8946f50793d3"
-            },
-            {
-                "AnswerID": "916b3e18-6d15-4dcc-82a8-520ee5b17b02",
-                "AnswerContent": "个人定期储蓄存单",
-                "QuestionId": "73dfd61e-a9c2-4502-bb28-ab2bfc5e4578"
-            },
-            {
-                "AnswerID": "63ef2a68-a14f-41f3-a1d6-8a923ee2e55e",
-                "AnswerContent": "租金收入*5%",
-                "QuestionId": "f9f49314-c8a2-4727-9290-e8cc8a2ccd80"
-            },
-            {
-                "AnswerID": "673ccc4a-3eab-4e4f-8d05-b34ce1f98946",
-                "AnswerContent": "丙企业不再承担保证责任，因为甲乙变更合同条款未得到丙的同意",
-                "QuestionId": "89f15e9c-bf23-4d7b-8b68-ec431b80ffff"
-            },
-            {
-                "AnswerID": "e81d114d-1afc-49f3-b068-61a150067a62",
-                "AnswerContent": "虚假车行",
-                "QuestionId": "8c469c35-b988-4db9-96e7-a0b15be38d2f"
-            },
-            {
-                "AnswerID": "2dba6807-a605-47b9-ba05-c3cbb2edcf98",
-                "AnswerContent": "准确把握借款人的还款能力",
-                "QuestionId": "1b40dc1f-678a-425d-88fd-ab8e6551ab40"
-            },
-            {
-                "AnswerID": "6369c480-7469-4fe8-ac33-952ef463d953",
-                "AnswerContent": "农村承包土地经营权和农村住房租赁权",
-                "QuestionId": "ff01ecf9-7417-439b-8912-db3a6521dc14"
-            },
-            {
-                "AnswerID": "94ce9774-9df0-4a25-a043-eb6fe25d4e5f",
-                "AnswerContent": "国家助学贷款是国家运用金融手段支持教育的重要方式",
-                "QuestionId": "c7d55623-4d7e-4c1c-8b37-e9bf9f9eb441"
-            },
-            {
-                "AnswerID": "220225fc-d4b7-42f0-a0c5-3ff434e95571",
-                "AnswerContent": "居住信息",
-                "QuestionId": "52f6474c-084c-4c42-8892-4282230e08a7"
-            },
-            {
-                "AnswerID": "508705a6-7c26-4f8b-bea6-37a54d2a30e0",
-                "AnswerContent": "参与，对抵押物登记情况予以核实",
-                "QuestionId": "df711789-a7ed-4e6f-9fcc-224ea98222d1"
-            },
-            {
-                "AnswerID": "3fe117fc-055f-4645-8095-d24cd70ae808",
-                "AnswerContent": "建筑工程施工许可证",
-                "QuestionId": "2d4dcf4e-c9a7-4876-abe9-fda751afcb4b"
-            },
-            {
-                "AnswerID": "ed22d647-d692-40d5-93e8-f81096de0488",
-                "AnswerContent": "大多数为房产抵押贷款，无风险",
-                "QuestionId": "acaeb5c4-3f34-457e-b91d-a306e23c9c93"
-            },
-            {
-                "AnswerID": "26b4bc2f-af7a-4892-bd7b-0ef7c6fdd7f2",
-                "AnswerContent": "合作项目的开发商尚未取得房地产开发的主体资格",
-                "QuestionId": "3e3af5c7-58aa-43fd-a181-5c1697c28140"
-            },
-            {
-                "AnswerID": "b54b5064-955c-4970-8ae8-df436376dad1",
-                "AnswerContent": "合作单位营销",
-                "QuestionId": "f1839f9d-da0d-433e-9d77-3eb5c17cc296"
-            },
-            {
-                "AnswerID": "3165f0e2-a431-4a25-8dfa-ddc9d1fb404c",
-                "AnswerContent": "用于支付就医费用",
-                "QuestionId": "20cf7dbd-6957-4136-bf7f-4c24df05fb0c"
-            },
-            {
-                "AnswerID": "d474a982-456d-4014-a495-994c0f89a2aa",
-                "AnswerContent": "承担风险的主体不同",
-                "QuestionId": "df9a558a-80ec-464a-ae84-422de156beac"
-            },
-            {
-                "AnswerID": "06316311-3e24-4aec-9cf0-1f4ac4c665a8",
-                "AnswerContent": "对于个人经营类贷款，环境往往是衡量财务状况的决定性因素",
-                "QuestionId": "6b8221f9-2a09-4e5e-adfc-ee08f3194e5f"
-            },
-            {
-                "AnswerID": "343335f1-dfa4-48f4-8cd5-8f7470997218",
-                "AnswerContent": "签订个性化分期还款协议后尚未偿还的风险资产",
-                "QuestionId": "c0da9f42-f2da-46c8-a928-346cfddbffb6"
-            },
-            {
-                "AnswerID": "3aa9d9ec-2adb-402d-a2f5-51d9a715d3d0",
-                "AnswerContent": "借款人所经营企业的用水、用电情况",
-                "QuestionId": "5bdae808-a57f-4d48-b371-4ac0ab9c4571"
-            },
-            {
-                "AnswerID": "f541969a-e041-4ca7-81db-1c6b4c03df24",
-                "AnswerContent": "损害社会公共利益",
-                "QuestionId": "99bb2a4f-09d3-4538-bc08-32be15cc4571"
-            },
-            {
-                "AnswerID": "29e6acaa-5e77-445a-b057-708784d8ca26",
-                "AnswerContent": "当发生保证人破产、分立、合并等情况时，借款人应及时通知贷款银行，并重新提供贷款银行认可的担保",
-                "QuestionId": "e217561b-ceb7-4daa-90f6-3de8a29df66b"
-            },
-            {
-                "AnswerID": "7a6156a0-db2d-4086-910c-9286b94821b5",
-                "AnswerContent": "借款人收入证明与年龄、职业明显不相称，在一段时间内集中申请办理贷款",
-                "QuestionId": "014004c2-6e60-4d41-a377-d25ba8e21cef"
-            },
-            {
-                "AnswerID": "27727a50-7a45-411c-a109-11c75e1b424d",
-                "AnswerContent": "平等自愿",
-                "QuestionId": "2ded554b-5a3c-404a-abba-fc0d8eb54e93"
-            },
-            {
-                "AnswerID": "c07de009-3469-42d8-bd49-b02060b82d27",
-                "AnswerContent": "成本收益原则",
-                "QuestionId": "28b50d92-90fe-4355-b548-95a88e66d1f4"
-            },
-            {
-                "AnswerID": "f7aef020-a609-4662-a13b-477c629260cb",
-                "AnswerContent": "折价",
-                "QuestionId": "ac231607-0e5e-4dfc-a912-33e04602f30c"
-            },
-            {
-                "AnswerID": "281fa4d9-9583-430c-8f7f-6b5ff4611d00",
-                "AnswerContent": "信用卡业务有免息还款期，个人贷款业务没有免息还款期",
-                "QuestionId": "a487b533-a5a5-48a8-a0b7-677ca2218c14"
-            },
-            {
-                "AnswerID": "90f62043-5ac6-4e6a-8b9e-4edb037fdcdc",
-                "AnswerContent": "基金清退和利息划回",
-                "QuestionId": "087db8f7-854a-4fd5-9b71-923be13975f9"
-            },
-            {
-                "AnswerID": "04b27958-f518-4db7-82c4-bcff7bc1a976",
-                "AnswerContent": "调查借款申请人收入情况",
-                "QuestionId": "b2b4b9c6-d02a-4b09-a207-79f2379ae3d1"
-            },
-            {
-                "AnswerID": "901f1a7e-5883-4bda-b248-30353f43bb46",
-                "AnswerContent": "利息作为借入货币的代价或贷出货币的报酬，实际上就是借贷资金的“价格”",
-                "QuestionId": "de4a03fb-08b0-49c7-8065-6d8c7edeb3ee"
-            },
-            {
-                "AnswerID": "5ca29722-cb49-4676-8e6b-8cf1d7e3d156",
-                "AnswerContent": "具有工商行政主管部门核发的企业法人营业执照",
-                "QuestionId": "554bc60d-f85c-4bc7-b6ff-890cbb9ad511"
-            },
-            {
-                "AnswerID": "25be62c1-49b5-41d3-ad4b-fcc85a574903",
-                "AnswerContent": "要求增加所减少的相应价值的抵（质）押物，或更换担保人",
-                "QuestionId": "c51f7900-f9ec-48e1-8b8f-dade8669a2a1"
-            },
-            {
-                "AnswerID": "07e0625a-b190-4df5-af74-167af1472102",
-                "AnswerContent": "等比累进还款法",
-                "QuestionId": "47ff7d49-bec4-484d-8c04-863d70b21cb3"
-            },
-            {
-                "AnswerID": "7b690cbd-c88d-40ee-9abb-a8f260ed3d79",
-                "AnswerContent": "居民身份证或者临时居民身份证",
-                "QuestionId": "7909815b-697d-482a-b586-51d30194e53a"
-            },
-            {
-                "AnswerID": "d777ed04-9678-41f2-8a14-846a7ac893ce",
-                "AnswerContent": "贷款银行要求的其他材料",
-                "QuestionId": "905eebeb-8831-4be1-9b32-288a13a20ab8"
-            },
-            {
-                "AnswerID": "c09b53ad-a22b-4045-9cd8-574dac5a7899",
-                "AnswerContent": "借款人的贷款账户未拖欠本息及其他费用",
-                "QuestionId": "66c69bdd-670d-4a4d-b1ee-ec3c10e91c71"
-            },
-            {
-                "AnswerID": "b3a6c664-ee09-48aa-af2e-e24b24d84db0",
-                "AnswerContent": "经济功能",
-                "QuestionId": "7721d51f-0425-4136-9388-d4c2a206a9bf"
-            }
-        ]
+  "Answer": [
+    {
+      "AnswerID": "654ab9cf-209c-45d2-bc04-baa2680be0a0",
+      "AnswerContent": "在排他期内，投资方不得与目标公司的其他竞争对手接触",
+      "QuestionId": "49798ba1-91e0-4edb-b1f4-8fa195598a27"
+    },
+    {
+      "AnswerID": "d735bfee-19dc-4a1d-aed6-0075991f022f",
+      "AnswerContent": "股东必须包括法人机构",
+      "QuestionId": "1e747b0a-9ba8-4421-bd87-73cd84bd137c"
+    },
+    {
+      "AnswerID": "51fb88cc-8236-40fd-8445-ec7cdf5db0a2",
+      "AnswerContent": "基金服务机构接受管理人的委托，为管理人提供服务",
+      "QuestionId": "f7934410-b110-4cf7-a346-675f32bcb913"
+    },
+    {
+      "AnswerID": "fc20543a-29d7-4b29-aa7b-b0b27960a146",
+      "AnswerContent": "保密条款意味着投资人不得披露目标公司的任何信息",
+      "QuestionId": "e83cb17d-0e26-4fb2-bf38-93bdb5619201"
+    },
+    {
+      "AnswerID": "ab948c6a-823b-49ae-a947-74fc5721ce72",
+      "AnswerContent": "财务风险",
+      "QuestionId": "75cdfbea-9f8e-4794-85d8-11e50107f856"
+    },
+    {
+      "AnswerID": "d6b8621a-7a86-4e48-bebe-5a213a60bda4",
+      "AnswerContent": "关注目标公司涉及的诉讼及仲裁情况",
+      "QuestionId": "46c3358d-f1f9-46f5-93fa-6f3c480de0fd"
+    },
+    {
+      "AnswerID": "a13cbdb8-210d-4021-8b54-2559adf1f7cb",
+      "AnswerContent": "创业投资基金",
+      "QuestionId": "c94d47c9-f91f-4635-8f3b-4ae178e17b29"
+    },
+    {
+      "AnswerID": "d43d9e9f-455c-4de8-81e7-0dcbfb3ed037",
+      "AnswerContent": "两者目的一致，都是为了保护投资者合法权益",
+      "QuestionId": "ae533a42-dd3a-4e30-b484-4548805b0c45"
+    },
+    {
+      "AnswerID": "31811fe6-a08a-4fe4-b118-c5997582e56a",
+      "AnswerContent": "60%",
+      "QuestionId": "00366cc0-2392-4b38-9b49-4846cb9547b9"
+    },
+    {
+      "AnswerID": "e33f79b7-3936-498f-a8bc-354746f57a57",
+      "AnswerContent": "《证券投资基金法》",
+      "QuestionId": "59622691-fb92-4c77-b6b6-7bb248f9b178"
+    },
+    {
+      "AnswerID": "a8d2b5c3-96c4-41d2-a427-5562e3b19fda",
+      "AnswerContent": "Ⅰ、Ⅴ",
+      "QuestionId": "ac4d7e34-e30e-4cf3-956f-3130105eb0bc"
+    },
+    {
+      "AnswerID": "69831f09-d985-4f08-9345-e53cacdb9fb9",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "09d0545d-ed0e-42a9-bacb-e64ec25de4be"
+    },
+    {
+      "AnswerID": "9ab5f534-ba00-4d23-af51-0260208b7612",
+      "AnswerContent": "筹资用途符合国家产业政策、利用外资政策及国家有关固定资产投资立项的规定",
+      "QuestionId": "49c4b936-e75f-472a-a946-f6069d6d11cb"
+    },
+    {
+      "AnswerID": "6e6d99d4-218a-43f5-9b60-847535114149",
+      "AnswerContent": "公司清偿全部公司债务后，清算组可将公司剩余财产分配给包括股权投资基金在内的公司股东",
+      "QuestionId": "c2f011cf-0279-42f6-b943-667237d79a28"
+    },
+    {
+      "AnswerID": "98914449-2633-4904-8ff1-ebc2d63fc565",
+      "AnswerContent": "投资者持有基金的年限",
+      "QuestionId": "fe94cb23-f4d6-4de5-aaa3-9bcc46844a01"
+    },
+    {
+      "AnswerID": "f53d4748-0a6b-41d5-87c7-dbfc8ea94e76",
+      "AnswerContent": "投资冷静期内，募集机构与投资者不得互相联系",
+      "QuestionId": "d251afb6-c9df-4ef8-9207-1ead231fe941"
+    },
+    {
+      "AnswerID": "14f95bc6-4409-48b4-af31-fa3d8e88bdb5",
+      "AnswerContent": "管理层回购",
+      "QuestionId": "a8ee3d38-9237-457d-849f-a954186c75fe"
+    },
+    {
+      "AnswerID": "aedcffe6-462f-4e0d-bd5e-95d0dd9d4f15",
+      "AnswerContent": "正常运营中的电子商务企业",
+      "QuestionId": "bb5f65a4-f9e8-41f6-8cde-96461ecc33f9"
+    },
+    {
+      "AnswerID": "7a5d7bef-2510-4443-a428-b8706efccf29",
+      "AnswerContent": "30%",
+      "QuestionId": "fb0b43ba-5970-46b2-acdf-1a2663ad1013"
+    },
+    {
+      "AnswerID": "9c01a813-29d6-42d0-af12-e398a1e760c7",
+      "AnswerContent": "基金管理人",
+      "QuestionId": "f6c8a33b-3dec-4852-aa13-66b7c5cb6cb6"
+    },
+    {
+      "AnswerID": "69394638-82a2-475e-8634-8f97f763e5e6",
+      "AnswerContent": "保证股权投资基金作为投资人对一些重大事项的一票否决权",
+      "QuestionId": "00032c4b-ef92-4b47-8e81-2d70d1fd904f"
+    },
+    {
+      "AnswerID": "b9b0eff5-b0cd-4d8d-b016-f2e8a2c178d0",
+      "AnswerContent": "8.5",
+      "QuestionId": "8e0b16ff-8fa4-43ad-a618-06fdddd7b666"
+    },
+    {
+      "AnswerID": "cfa7e59a-8485-4074-b7bb-e006244a1d1c",
+      "AnswerContent": "份额登记机构",
+      "QuestionId": "4d3a4207-0451-471a-a6bd-89115f872a7e"
+    },
+    {
+      "AnswerID": "a07cddd9-c0e7-4001-a738-f093e5f367ec",
+      "AnswerContent": "本基金为有限合伙企业形式，仅有一名普通合伙人",
+      "QuestionId": "b2b3f0e2-4262-42b9-b061-c31b103dd30f"
+    },
+    {
+      "AnswerID": "2751a86f-d54b-4264-ba63-adc6fc42a522",
+      "AnswerContent": "投资机构协助被投资企业进行后续再融投资工作，以便投资机构能参与被投资企业的公司治理",
+      "QuestionId": "14385b94-b50b-4b7e-9c13-65d7e4676064"
+    },
+    {
+      "AnswerID": "c096db8b-91ec-438d-904d-c83e017435fa",
+      "AnswerContent": "基金募集机构需对普通投资者资格进行审核，若为风险承受能力最低类别投资者需另附说明",
+      "QuestionId": "57c70d30-2e84-4c53-9c19-65e7fd6edf3d"
+    },
+    {
+      "AnswerID": "90f1be89-bd3a-4058-8fc4-bbfe913903af",
+      "AnswerContent": "除基金合同另有约定外，股权投资基金应当由基金托管人托管",
+      "QuestionId": "3d8d3cc7-606c-490e-bb50-4f9a04f5eee8"
+    },
+    {
+      "AnswerID": "43d8e12d-3548-41c6-a70f-f7a140b7393f",
+      "AnswerContent": "夹层资本通常是杠杆收购基金为收购提供自有资金的主要方式",
+      "QuestionId": "30f0c21d-c4a1-4cef-a62b-44e30aa9deb7"
+    },
+    {
+      "AnswerID": "796e1f1e-7e38-4207-9c3a-321d215faa9b",
+      "AnswerContent": "按照中国证券投资基金业协会的相关规定，管理费应当按基金实缴出资金额的一定比例收取",
+      "QuestionId": "c3846411-32e9-4399-9f3b-6967e3635691"
+    },
+    {
+      "AnswerID": "b43e3925-891d-4887-b471-23490dc2b9c7",
+      "AnswerContent": "从适度监管原则的角度，政府监管不应直接干预基金机构内部的经营管理",
+      "QuestionId": "5653a236-1dea-4e3c-becc-63d512b1a3bd"
+    },
+    {
+      "AnswerID": "e957435a-7c5e-4ec9-91b3-8b07c868f196",
+      "AnswerContent": "管理人分配获得0.52亿元，投资者分配获得7.48亿元",
+      "QuestionId": "f17721da-d6e9-4ba7-977f-19e765cb82c6"
+    },
+    {
+      "AnswerID": "4ca75fa5-8abb-4553-8a42-4f2bec5ccc26",
+      "AnswerContent": "并购基金因规模较大，往往以自有资金进行并购",
+      "QuestionId": "41da0130-9081-4deb-a2fb-df8220af64cf"
+    },
+    {
+      "AnswerID": "9226ffb2-ddbd-400d-a6f3-b499f4a2c34e",
+      "AnswerContent": "基金管理人",
+      "QuestionId": "3b0f8f4b-d0d3-4f0d-a042-e8ef28f373e7"
+    },
+    {
+      "AnswerID": "a1623849-cd19-4238-a071-a12bf24736cd",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "6243658c-4f04-46f2-a07a-9752d63ce046"
+    },
+    {
+      "AnswerID": "c948de8e-5f91-4e71-aa25-913a502cd578",
+      "AnswerContent": "受到未能IPO条件的触发，A基金必须强制执行回售权，出售价款总额为6400万元",
+      "QuestionId": "96732023-966c-4a3c-9840-d0fd2fdde996"
+    },
+    {
+      "AnswerID": "16ec5610-71ba-475f-b8eb-00a9ce5924dc",
+      "AnswerContent": "杠杆收购主要针对成熟企业",
+      "QuestionId": "b8efd23b-a6e5-4cf6-8693-498f09c434f7"
+    },
+    {
+      "AnswerID": "4deb0a9a-451e-401f-8c04-92cff846e9e9",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅴ",
+      "QuestionId": "9d54adc1-c073-4be0-9b68-d9f4b0747c71"
+    },
+    {
+      "AnswerID": "58100e85-b500-41dc-b93e-70a68d2a1272",
+      "AnswerContent": "市销率法",
+      "QuestionId": "dfeb92e0-718a-4e9f-a55d-8913855600fe"
+    },
+    {
+      "AnswerID": "47d2e79c-492d-4e81-b8f2-a7ca940dddd6",
+      "AnswerContent": "流动性风险",
+      "QuestionId": "eb4859e0-49c8-43bb-84b8-ac3d8452f588"
+    },
+    {
+      "AnswerID": "c6425592-22be-42ee-a5b3-149cfeaa1042",
+      "AnswerContent": "10000万元",
+      "QuestionId": "e957a061-222d-40e6-a551-33c969961c1b"
+    },
+    {
+      "AnswerID": "fba84908-fbff-463d-84d4-a1313f63ca72",
+      "AnswerContent": "参股",
+      "QuestionId": "bfe28803-2468-4cfb-a3d3-d084f3cd81bf"
+    },
+    {
+      "AnswerID": "f04423a5-fecd-43ef-8632-0392db8c383e",
+      "AnswerContent": "基金投资者可参与分享收益，但不得参与分配清算后的剩余基金财产",
+      "QuestionId": "8b2726fa-4bef-418d-b34e-4f8c9a23d32b"
+    },
+    {
+      "AnswerID": "c75d3ec9-2ebb-47e8-864b-b661b326d4c0",
+      "AnswerContent": "基金管理人的收入分配包括管理费",
+      "QuestionId": "c71fc9d8-f473-443f-9b4d-4744415dcae8"
+    },
+    {
+      "AnswerID": "08952091-f2f6-4e4c-b3d9-eec9d950ef6e",
+      "AnswerContent": "制定和实施私募基金行业自律规则，监督、检查会员及其从业人员的执业行为",
+      "QuestionId": "d15e23cf-57f8-43c1-aea5-10ec4300dda1"
+    },
+    {
+      "AnswerID": "ce7bb042-0d5e-4c65-a8ff-a9ea35179ee7",
+      "AnswerContent": "250",
+      "QuestionId": "d7060b2b-a516-4955-af2a-8fbbe8be00a7"
+    },
+    {
+      "AnswerID": "44c11127-d2a2-4a4e-907c-6aa9c4d06864",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "12a8775c-66d1-47ee-82ad-5492a1504f47"
+    },
+    {
+      "AnswerID": "d7e13f1a-8f9f-4736-a8df-bb0383180af4",
+      "AnswerContent": "1000",
+      "QuestionId": "2d591e22-f0a9-4896-929e-6209a1a9eac0"
+    },
+    {
+      "AnswerID": "1acf7af5-6c38-4fed-a237-aa96b9299d90",
+      "AnswerContent": "真实性原则",
+      "QuestionId": "1531ef19-5d0a-480c-b478-39dbd3c7e683"
+    },
+    {
+      "AnswerID": "d626351f-009f-4ff8-b5ef-7dc791e26dc9",
+      "AnswerContent": "证监会收到申请文件后作出是否受理的决定，未按要求制作申请文件的，不予受理",
+      "QuestionId": "45464860-1414-4a1e-a676-97ef9fefe976"
+    },
+    {
+      "AnswerID": "08e29ac0-fb85-4629-9152-224d6051b260",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "f7c4c425-6a0f-4a95-81c1-c7b83a40ee62"
+    },
+    {
+      "AnswerID": "4e9ca0c6-84dd-4167-8f75-510d09c6f28b",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "a2383d59-80fd-48ff-b94e-4b737f847156"
+    },
+    {
+      "AnswerID": "f5fc8fca-1b76-4a92-b4a9-816b7fbeb4ee",
+      "AnswerContent": "将其固有财产混同于基金财产从事投资活动",
+      "QuestionId": "cf83e08a-567e-41d6-a429-0d3354343110"
+    },
+    {
+      "AnswerID": "cc75fcef-ab42-410a-9a45-bf0bb996da7a",
+      "AnswerContent": "股权投资需要更多的投资经验积累、团队培育和建设",
+      "QuestionId": "984ad96d-cf2f-449e-9d49-828809bb7bf6"
+    },
+    {
+      "AnswerID": "6a4afa29-6066-4f8e-b3d1-573a9c33400c",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "96606841-29b4-4d8a-b5bc-e5ea47e36bbe"
+    },
+    {
+      "AnswerID": "e45fa374-8e7b-483a-997c-94c7f3ce2f7f",
+      "AnswerContent": "做市转让是做市商在全国股转系统持续发布买卖双方报价，交易必须通过做市商进行",
+      "QuestionId": "de63ffbe-3761-407c-aded-eff85163047f"
+    },
+    {
+      "AnswerID": "e06ac0ea-4420-442b-8dfc-f164d3b879a5",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "547edbec-9368-49d1-ad31-d41e0eea41af"
+    },
+    {
+      "AnswerID": "0f9267fd-82f1-4616-b2d0-6365693e5f8f",
+      "AnswerContent": "2016年6月基金A向其基金潜在出资人介绍了B公司的IPO进展",
+      "QuestionId": "ff475e9c-7b20-47ae-8cfa-ed94f7a30076"
+    },
+    {
+      "AnswerID": "0b73dee4-7a59-498f-b1af-94e76497d65f",
+      "AnswerContent": "基金是独立企业，应缴纳企业所得税",
+      "QuestionId": "ba921c1c-9ee5-4b64-8840-b6b41907ef4f"
+    },
+    {
+      "AnswerID": "899bfa82-11c0-4f7d-95c5-2e60ba83b0af",
+      "AnswerContent": "合伙协议",
+      "QuestionId": "e7b2bb35-a5a5-42c0-9b54-3f4678fc8af7"
+    },
+    {
+      "AnswerID": "ef0eaac3-8292-4b7e-9071-895047a1316a",
+      "AnswerContent": "向经确认的特定对象推介基金",
+      "QuestionId": "1d1b5578-969c-4223-bda0-0d6ced41a1b4"
+    },
+    {
+      "AnswerID": "3e9a3be5-8ec8-40b9-9655-0f83e188304c",
+      "AnswerContent": "公司型股权投资基金增资，应向工商行政管理机关办理变更登记手续",
+      "QuestionId": "e022a717-0d73-4aa8-ab4d-b9cb70ab7b07"
+    },
+    {
+      "AnswerID": "f7ad3c07-5220-48da-bc83-3dd87f695b11",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅴ",
+      "QuestionId": "52c62262-c1dc-48f2-abba-de87004c0333"
+    },
+    {
+      "AnswerID": "a7c8b1a6-0c2f-4b28-8bc9-38b08df88a4a",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "4c2e0e34-60d9-421f-9e84-1c5501ecec75"
+    },
+    {
+      "AnswerID": "220007cc-66d4-4e09-8e23-2ceaaca2aaf7",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "4967148a-864b-415e-ad11-397c51878941"
+    },
+    {
+      "AnswerID": "c6b3b156-7381-4925-b9d2-169a78a12803",
+      "AnswerContent": "信息披露义务人委托第三方机构代为披露的，可以免除信息披露义务人的责任",
+      "QuestionId": "710b8e53-66e8-41eb-8a7c-28d50a7da800"
+    },
+    {
+      "AnswerID": "c1c10d87-28ad-4cc3-9ea7-c0c3c79e2784",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "15911382-5b4d-4dcd-9cc7-5e33ace07f93"
+    },
+    {
+      "AnswerID": "690632fa-dd3b-41f8-821f-12c56305ca7b",
+      "AnswerContent": "销售增长率",
+      "QuestionId": "bc3a4108-6272-4d19-b197-3feffd2ce267"
+    },
+    {
+      "AnswerID": "54be73bd-9c0c-436a-947e-52786b49546e",
+      "AnswerContent": "母基金甲持有基金乙的所有份额都处于甲的二级投资业务",
+      "QuestionId": "3de462ab-b2c8-43d3-85dc-c93aac4f47b3"
+    },
+    {
+      "AnswerID": "4ad51fbd-5e2f-4634-b8d8-be9e489f0bcb",
+      "AnswerContent": "第三方独立托管",
+      "QuestionId": "2a251ef1-5136-4b0f-917f-a301ec2c7ac6"
+    },
+    {
+      "AnswerID": "fa9a9803-1173-4757-88e2-4523221fd1c4",
+      "AnswerContent": "2%",
+      "QuestionId": "f1a1facf-13b9-45df-ad6b-88233e8c0b78"
+    },
+    {
+      "AnswerID": "7f25d530-58d9-46e8-9d16-24acb31b745d",
+      "AnswerContent": "将集资款用于违法犯罪活动",
+      "QuestionId": "bc47ff60-78b7-4dcf-b185-c1b3db300bef"
+    },
+    {
+      "AnswerID": "d7c16165-3f85-4c88-83c5-71953bf07b64",
+      "AnswerContent": "清算由基金管理人负责",
+      "QuestionId": "30f50c57-50dc-421b-8127-3271e84c95ec"
+    },
+    {
+      "AnswerID": "7c9751ea-b291-4263-b63f-c5c345ee4761",
+      "AnswerContent": "中国证券投资基金业协会直接撤销其基金管理人登记",
+      "QuestionId": "44bb9c2d-3a3b-4ed5-8a05-2e9cee838dcf"
+    },
+    {
+      "AnswerID": "71072e28-6ae0-4573-b293-d877ec278a24",
+      "AnswerContent": "在电视上公开宣传管理团队",
+      "QuestionId": "fd1699a5-60a2-4f74-8aaf-8bc4cc700fac"
+    },
+    {
+      "AnswerID": "a39dd6dd-2dca-4bf6-824e-3ca5803273d4",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "1c5773f0-a235-4ec1-b135-4a7a9feb4ada"
+    },
+    {
+      "AnswerID": "76bb5301-fe0c-4ac8-a45d-bce962a0b414",
+      "AnswerContent": "清算价值法常见于杠杆收购和破产投资策略",
+      "QuestionId": "b6b25cc2-7dc1-41d0-9922-05d063031f79"
+    },
+    {
+      "AnswerID": "f148321c-06b0-4f9c-9e6e-11ca158d94b6",
+      "AnswerContent": "监事会",
+      "QuestionId": "2ba1d311-7087-4f6c-8928-19124cd9efa8"
+    },
+    {
+      "AnswerID": "7fe10eee-d1b1-444c-b7b2-a505974afa89",
+      "AnswerContent": "82%",
+      "QuestionId": "3e2fa3d4-8ad4-4a56-a78c-618c0efb7bf3"
+    },
+    {
+      "AnswerID": "bc4f4c2e-7288-48a2-b81b-2ce6ec9ac9a9",
+      "AnswerContent": "3.73%",
+      "QuestionId": "7b3bd478-5be6-4597-a054-973a3429bcb6"
+    },
+    {
+      "AnswerID": "8eedd4b1-3b24-43ea-9b24-04ea0f94d498",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "77292033-27f5-4750-94a7-933ff8b1afa3"
+    },
+    {
+      "AnswerID": "8e5e416c-5500-4585-b596-aad8708dbc83",
+      "AnswerContent": "对行政处罚措施不服的，既可以向复议机关申诉申请复议，也可以向法院提起诉讼，如果对行政复议结果不服的，不能再向法院提起诉讼",
+      "QuestionId": "304f67bd-1993-4756-86e8-45663623c68e"
+    },
+    {
+      "AnswerID": "129c874a-bcf4-406d-9713-7f0e30192844",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "e1bcd1a9-16a3-49be-b096-6debc3abf0fe"
+    },
+    {
+      "AnswerID": "3de5118b-9ab3-45a1-8e8f-ab350aa498fe",
+      "AnswerContent": "不得以任何方式承诺投资者资金不受损失",
+      "QuestionId": "d6d8ec76-9baf-470f-bb69-844495e20e2f"
+    },
+    {
+      "AnswerID": "6e55c942-c800-4778-bbf5-42790d309a90",
+      "AnswerContent": "基金宣传推介，募集相关规范制度",
+      "QuestionId": "6dc3a047-0050-46dc-a60f-80d37834ac49"
+    },
+    {
+      "AnswerID": "3abefec3-f1d9-4da4-8982-f1013fd44499",
+      "AnswerContent": "分类监管",
+      "QuestionId": "d540a82a-5af9-41e5-b4c1-f7fb358191c4"
+    },
+    {
+      "AnswerID": "33018a2e-cd65-455e-b91f-5a38bc7c6d8e",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "c4be7c81-8a78-4484-accf-9d4a8742d64d"
+    },
+    {
+      "AnswerID": "df93bff2-fed2-4645-b0e0-afa213afb908",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "57afa0e7-79b2-4270-b5c3-f46e1b1f6568"
+    },
+    {
+      "AnswerID": "6366d1d1-553c-43cd-979b-60bc7e6996bb",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "220b863f-8b7b-473d-aeb3-4c1bc86bfbf2"
+    },
+    {
+      "AnswerID": "d66eec62-ed25-4135-88ca-b61cb4b571fe",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "70cd170a-783d-401b-af7e-a2e870c0cd7f"
+    },
+    {
+      "AnswerID": "3a248645-98b9-4a92-9072-44a5db99495c",
+      "AnswerContent": "创业投资估值法是一种基于创业早期企业可比公司估值倍数的相对估值法",
+      "QuestionId": "fc6d0090-3e0f-45e3-bc63-6b481c952de8"
+    },
+    {
+      "AnswerID": "a5b44406-6061-4707-8098-c78fb0f0bfa3",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "28af2fc6-1855-4863-9085-fd0d5aa1a9ef"
+    },
+    {
+      "AnswerID": "714dd28a-bd02-4aa3-9e5b-eaf67d912a8c",
+      "AnswerContent": "将资产注入已上市公司可以实现间接上市",
+      "QuestionId": "c3eb1a9a-41af-4541-8e93-5cd3fc414d60"
+    },
+    {
+      "AnswerID": "4bd452c7-ce2b-492d-ac16-4334515a9d64",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "d233d6ba-d07c-45f1-a52f-7d149db37844"
+    },
+    {
+      "AnswerID": "8d16f0ef-882b-41af-81e1-23cefc911482",
+      "AnswerContent": "<img alt=\"\" src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/202007190730318351.png\" />",
+      "QuestionId": "4584cb0d-6a73-4a71-b3e3-f662dcab5b93"
+    },
+    {
+      "AnswerID": "8f0ef7b6-93b2-418d-b90b-00dc8a32c9f4",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "3adbfae4-52f4-4887-ad64-d6992a046ab8"
+    },
+    {
+      "AnswerID": "9ec6fa1f-d4f1-4b35-a104-769d5c0816cd",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "6a1cfe82-06a9-4c85-b366-4d79775f1739"
+    },
+    {
+      "AnswerID": "ec212e76-c4f1-4094-a582-84c9bf9a62b8",
+      "AnswerContent": "股权自由现金流既可以用股权资本成本也可以用加权平均资本成本折现",
+      "QuestionId": "b84b1492-a48e-497d-b68d-d5ed31a3a7fd"
+    },
+    {
+      "AnswerID": "c223c635-ad6d-4f6d-877a-b5e29ba3d146",
+      "AnswerContent": "合伙型",
+      "QuestionId": "49a0e531-d0a3-4211-b123-353bf0784182"
+    },
+    {
+      "AnswerID": "8c49e292-f64f-4372-b1b4-cd71a94470f3",
+      "AnswerContent": "股份有限公司型基金",
+      "QuestionId": "e3c34e97-a942-4b7b-927b-ecfc3f02e0d1"
+    },
+    {
+      "AnswerID": "2f8db715-7796-4e9e-9d19-a87b5ebedb22",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "b78bd07b-f83c-4669-bb3a-ea84692f56ce"
+    },
+    {
+      "AnswerID": "8264169a-6a46-4bfc-a12c-e460ff215d61",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "b78bd07b-f83c-4669-bb3a-ea84692f56ce"
+    },
+    {
+      "AnswerID": "180eacdc-bc75-44c7-aae9-509203a0ab79",
+      "AnswerContent": "信托（契约）型基金",
+      "QuestionId": "e3c34e97-a942-4b7b-927b-ecfc3f02e0d1"
+    },
+    {
+      "AnswerID": "d7dc947f-4f53-44f7-88ab-806e88daf4d9",
+      "AnswerContent": "有限责任公司",
+      "QuestionId": "49a0e531-d0a3-4211-b123-353bf0784182"
+    },
+    {
+      "AnswerID": "68c4b2d4-2f4e-4aaf-ab3f-dd55935c53b1",
+      "AnswerContent": "折现率是现金流风险的函数，风险越大则折现率越小",
+      "QuestionId": "b84b1492-a48e-497d-b68d-d5ed31a3a7fd"
+    },
+    {
+      "AnswerID": "7bdacbe7-5cc7-406b-91a6-75dae758864c",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "6a1cfe82-06a9-4c85-b366-4d79775f1739"
+    },
+    {
+      "AnswerID": "5944a7ff-f05c-43e4-b384-8118b91ba656",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "3adbfae4-52f4-4887-ad64-d6992a046ab8"
+    },
+    {
+      "AnswerID": "3bb69a31-6640-442e-a111-dee027f6d2bd",
+      "AnswerContent": "<img alt=\"\" src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/202007190731004663.png\" />",
+      "QuestionId": "4584cb0d-6a73-4a71-b3e3-f662dcab5b93"
+    },
+    {
+      "AnswerID": "a4a7f3f0-0675-4d06-9f16-b41ca9592e29",
+      "AnswerContent": "参与上市公司重大资产重组，可能使得基金通过直接股权转让实现收益或持有上市公司的股份",
+      "QuestionId": "c3eb1a9a-41af-4541-8e93-5cd3fc414d60"
+    },
+    {
+      "AnswerID": "1a8d4357-bfe3-4f35-a420-03d3d26be4ef",
+      "AnswerContent": "Ⅳ",
+      "QuestionId": "d233d6ba-d07c-45f1-a52f-7d149db37844"
+    },
+    {
+      "AnswerID": "c88c0dea-36c8-4e00-918e-1a4f2e709d28",
+      "AnswerContent": "创业投资估值法基于退出时目标公司股权价值及目标收益率，折现计算出其当前价值",
+      "QuestionId": "fc6d0090-3e0f-45e3-bc63-6b481c952de8"
+    },
+    {
+      "AnswerID": "a3413cc2-5c13-4e7f-9f3a-e430ef0c9053",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "70cd170a-783d-401b-af7e-a2e870c0cd7f"
+    },
+    {
+      "AnswerID": "ad69e2a9-637b-4122-addc-0ffa0c2aa357",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "28af2fc6-1855-4863-9085-fd0d5aa1a9ef"
+    },
+    {
+      "AnswerID": "d750ec91-7636-421c-bac0-0844cf156078",
+      "AnswerContent": "审慎监管",
+      "QuestionId": "d540a82a-5af9-41e5-b4c1-f7fb358191c4"
+    },
+    {
+      "AnswerID": "4bb2e0af-7f65-4aa6-af42-bef5f2838fcc",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "220b863f-8b7b-473d-aeb3-4c1bc86bfbf2"
+    },
+    {
+      "AnswerID": "e22095a1-5eeb-4bea-a4a8-5ad84039a48f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "c4be7c81-8a78-4484-accf-9d4a8742d64d"
+    },
+    {
+      "AnswerID": "14ba3876-e363-4cd3-96da-55158b58b1d4",
+      "AnswerContent": "从业人员买卖证券申报制度",
+      "QuestionId": "6dc3a047-0050-46dc-a60f-80d37834ac49"
+    },
+    {
+      "AnswerID": "55e58077-a9b6-41b6-bf4c-915d2554b2c8",
+      "AnswerContent": "Ⅰ、Ⅳ",
+      "QuestionId": "57afa0e7-79b2-4270-b5c3-f46e1b1f6568"
+    },
+    {
+      "AnswerID": "e1e1bce4-d35b-49d1-92f5-fbc0e96c7423",
+      "AnswerContent": "可以介绍“过往投资业绩”",
+      "QuestionId": "d6d8ec76-9baf-470f-bb69-844495e20e2f"
+    },
+    {
+      "AnswerID": "1aa8c1dd-75e7-438f-943b-7383da8b77f2",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "e1bcd1a9-16a3-49be-b096-6debc3abf0fe"
+    },
+    {
+      "AnswerID": "fbd9a74a-9800-483e-9fad-d257090a258c",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "77292033-27f5-4750-94a7-933ff8b1afa3"
+    },
+    {
+      "AnswerID": "3038ec75-b05e-46fc-bff9-28db68ca6791",
+      "AnswerContent": "对行政监管措施和行政处罚不服的，可以自收到决定书之日起六个月内向有管辖权的人民法院提起诉讼",
+      "QuestionId": "304f67bd-1993-4756-86e8-45663623c68e"
+    },
+    {
+      "AnswerID": "5f2d3627-112b-4719-afc2-a9c9915e2c34",
+      "AnswerContent": "1.5%",
+      "QuestionId": "7b3bd478-5be6-4597-a054-973a3429bcb6"
+    },
+    {
+      "AnswerID": "79e4b499-a963-4711-81cf-4d69ede08440",
+      "AnswerContent": "37%",
+      "QuestionId": "3e2fa3d4-8ad4-4a56-a78c-618c0efb7bf3"
+    },
+    {
+      "AnswerID": "7f93b406-d6b9-4edb-8859-8195b962c998",
+      "AnswerContent": "股东会",
+      "QuestionId": "2ba1d311-7087-4f6c-8928-19124cd9efa8"
+    },
+    {
+      "AnswerID": "66da7960-dac9-4c8e-9849-d3c1176622f5",
+      "AnswerContent": "向投资者承诺基金保本",
+      "QuestionId": "fd1699a5-60a2-4f74-8aaf-8bc4cc700fac"
+    },
+    {
+      "AnswerID": "d5bbe05f-5a4c-488b-a8a4-bd8cf2f28d4c",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "1c5773f0-a235-4ec1-b135-4a7a9feb4ada"
+    },
+    {
+      "AnswerID": "aabb8918-6a65-433d-95d6-59b1831ab3f9",
+      "AnswerContent": "采用清算价值法应进行市场调查，收集与被评估资产或类似资产清算拍卖相关的价格资料",
+      "QuestionId": "b6b25cc2-7dc1-41d0-9922-05d063031f79"
+    },
+    {
+      "AnswerID": "17f7f4a8-bb2c-41cb-9066-dadbdd1baa6b",
+      "AnswerContent": "投资者可向中国证券投资基金业协会投诉或举报",
+      "QuestionId": "44bb9c2d-3a3b-4ed5-8a05-2e9cee838dcf"
+    },
+    {
+      "AnswerID": "04ca3c94-fbca-4fad-95aa-a078f70f7b29",
+      "AnswerContent": "清算报告由基金管理人编制",
+      "QuestionId": "30f50c57-50dc-421b-8127-3271e84c95ec"
+    },
+    {
+      "AnswerID": "cf6a1552-4490-43a1-9381-59b5410eb6cc",
+      "AnswerContent": "1%",
+      "QuestionId": "f1a1facf-13b9-45df-ad6b-88233e8c0b78"
+    },
+    {
+      "AnswerID": "3fe39e95-e3ed-4e3a-9248-79326bfa19c8",
+      "AnswerContent": "可自行或委托专业基金管理人进行管理",
+      "QuestionId": "2a251ef1-5136-4b0f-917f-a301ec2c7ac6"
+    },
+    {
+      "AnswerID": "68786d38-376d-418b-b628-212aca0d295b",
+      "AnswerContent": "肆意挥霍集资款，致使集资款不能返还",
+      "QuestionId": "bc47ff60-78b7-4dcf-b185-c1b3db300bef"
+    },
+    {
+      "AnswerID": "4bf08ef7-9305-4007-85e5-c695c7aaaad0",
+      "AnswerContent": "母基金甲投资乙属于一级投资，购买丙的份额属于二级投资",
+      "QuestionId": "3de462ab-b2c8-43d3-85dc-c93aac4f47b3"
+    },
+    {
+      "AnswerID": "e54d3caf-9e0c-44f4-9373-2a564d7c02df",
+      "AnswerContent": "营业网点开设",
+      "QuestionId": "bc3a4108-6272-4d19-b197-3feffd2ce267"
+    },
+    {
+      "AnswerID": "aa3f5fbc-90c1-4e66-8f3d-c817cebb42a1",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "15911382-5b4d-4dcd-9cc7-5e33ace07f93"
+    },
+    {
+      "AnswerID": "6a1b5b33-ffaf-47f4-b55a-874293ca7fe6",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "4967148a-864b-415e-ad11-397c51878941"
+    },
+    {
+      "AnswerID": "c37b12c0-da20-4ed1-9f63-7ed829721c22",
+      "AnswerContent": "信息披露义务人可以是股权投资基金管理人的风控负责人",
+      "QuestionId": "710b8e53-66e8-41eb-8a7c-28d50a7da800"
+    },
+    {
+      "AnswerID": "219223fe-15da-4cc1-a2c7-413e24afb4ec",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "4c2e0e34-60d9-421f-9e84-1c5501ecec75"
+    },
+    {
+      "AnswerID": "53050c7d-5d7c-4967-bc11-4146041ce66a",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅴ",
+      "QuestionId": "52c62262-c1dc-48f2-abba-de87004c0333"
+    },
+    {
+      "AnswerID": "2f964842-63e3-45fa-9ec1-7abb4f9080db",
+      "AnswerContent": "公司型股权投资基金设立，应向中国证券投资基金业协会办理工商登记手续",
+      "QuestionId": "e022a717-0d73-4aa8-ab4d-b9cb70ab7b07"
+    },
+    {
+      "AnswerID": "aeb04887-988c-478d-9984-c0c6852ae041",
+      "AnswerContent": "委托未取得基金销售资格的机构募集资金",
+      "QuestionId": "1d1b5578-969c-4223-bda0-0d6ced41a1b4"
+    },
+    {
+      "AnswerID": "a8bd0e28-fc07-4296-a904-674e99937b89",
+      "AnswerContent": "公司章程",
+      "QuestionId": "e7b2bb35-a5a5-42c0-9b54-3f4678fc8af7"
+    },
+    {
+      "AnswerID": "2d7de90d-4a4d-4dd5-8bdd-c4db6da2ec95",
+      "AnswerContent": "有限合伙人通常以投资决策委员会成员参与投资决策",
+      "QuestionId": "ba921c1c-9ee5-4b64-8840-b6b41907ef4f"
+    },
+    {
+      "AnswerID": "b06f22d0-5c50-4960-97a6-cdadd7125ea8",
+      "AnswerContent": "2017年1月基金A向其基金出资人提供了B公司近三年业务发展概况",
+      "QuestionId": "ff475e9c-7b20-47ae-8cfa-ed94f7a30076"
+    },
+    {
+      "AnswerID": "58613631-596d-4259-973c-02dd24f758bf",
+      "AnswerContent": "Ⅰ、Ⅳ",
+      "QuestionId": "547edbec-9368-49d1-ad31-d41e0eea41af"
+    },
+    {
+      "AnswerID": "8a73a533-a7d7-4c14-9526-95a85d777399",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "96606841-29b4-4d8a-b5bc-e5ea47e36bbe"
+    },
+    {
+      "AnswerID": "441c3cbb-d9c6-4231-b3cc-2f25fe4f69ea",
+      "AnswerContent": "退出所需时间受债权公告、资产处置等环节的影响",
+      "QuestionId": "de63ffbe-3761-407c-aded-eff85163047f"
+    },
+    {
+      "AnswerID": "fde211cf-35f4-4646-9f1f-e6565eae6893",
+      "AnswerContent": "人力资本对于股权投资基金的成功运作发挥了决定性作用",
+      "QuestionId": "984ad96d-cf2f-449e-9d49-828809bb7bf6"
+    },
+    {
+      "AnswerID": "cd738f78-a3a0-4ce8-8f56-5442e1c842fd",
+      "AnswerContent": "在申报阶段，企业和保荐机构按照证监会的要求制作申请文件，中介机构进行内部审核并出具意见",
+      "QuestionId": "45464860-1414-4a1e-a676-97ef9fefe976"
+    },
+    {
+      "AnswerID": "99a69962-5ec3-41d7-8ebc-8f3428c1d49e",
+      "AnswerContent": "将账户借给第三方进行交易",
+      "QuestionId": "cf83e08a-567e-41d6-a429-0d3354343110"
+    },
+    {
+      "AnswerID": "b4a268b4-441e-4ba0-ae44-6910e6705b33",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "a2383d59-80fd-48ff-b94e-4b737f847156"
+    },
+    {
+      "AnswerID": "93914568-0a13-4b78-bb82-a5daf58fb62c",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "f7c4c425-6a0f-4a95-81c1-c7b83a40ee62"
+    },
+    {
+      "AnswerID": "bf17b9c6-7f10-4439-9185-fcf3422b0ef0",
+      "AnswerContent": "准确性原则",
+      "QuestionId": "1531ef19-5d0a-480c-b478-39dbd3c7e683"
+    },
+    {
+      "AnswerID": "2113896d-2579-460f-8af4-f6717005fa37",
+      "AnswerContent": "1200",
+      "QuestionId": "2d591e22-f0a9-4896-929e-6209a1a9eac0"
+    },
+    {
+      "AnswerID": "621d37f2-ca19-4230-a205-daa0f8c9851e",
+      "AnswerContent": "建立私募基金管理人登记、私募基金备案管理信息系统",
+      "QuestionId": "d15e23cf-57f8-43c1-aea5-10ec4300dda1"
+    },
+    {
+      "AnswerID": "0ade2283-f0be-4b9d-89ca-6a7941b7ea56",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "12a8775c-66d1-47ee-82ad-5492a1504f47"
+    },
+    {
+      "AnswerID": "d5726b58-4a72-4b37-ba6e-1ae525f2d613",
+      "AnswerContent": "312.5",
+      "QuestionId": "d7060b2b-a516-4955-af2a-8fbbe8be00a7"
+    },
+    {
+      "AnswerID": "361afc90-7197-4339-878a-b445b1786866",
+      "AnswerContent": "基金投资者的收入分配包括本金",
+      "QuestionId": "c71fc9d8-f473-443f-9b4d-4744415dcae8"
+    },
+    {
+      "AnswerID": "4132a98e-7c02-41e8-a83d-5bff67f2ca4d",
+      "AnswerContent": "退出时股权价值/目标回报倍数倒推法",
+      "QuestionId": "dfeb92e0-718a-4e9f-a55d-8913855600fe"
+    },
+    {
+      "AnswerID": "b4604380-cbcd-447b-926f-2efba8c0a664",
+      "AnswerContent": "基金投资者可随时查阅或复制所有的基金信息材料",
+      "QuestionId": "8b2726fa-4bef-418d-b34e-4f8c9a23d32b"
+    },
+    {
+      "AnswerID": "bbbb9160-9b23-4d68-926d-ab42b3381280",
+      "AnswerContent": "7000万元",
+      "QuestionId": "e957a061-222d-40e6-a551-33c969961c1b"
+    },
+    {
+      "AnswerID": "9adf0ee4-dca0-4234-9452-15935b978e8f",
+      "AnswerContent": "风险补偿",
+      "QuestionId": "bfe28803-2468-4cfb-a3d3-d084f3cd81bf"
+    },
+    {
+      "AnswerID": "abb78737-4eab-46a6-b3a7-00431ee6a996",
+      "AnswerContent": "基金未履行登记备案手续所涉风险",
+      "QuestionId": "eb4859e0-49c8-43bb-84b8-ac3d8452f588"
+    },
+    {
+      "AnswerID": "3a3d8c55-cdb9-4f86-a12f-003ec40c6fe5",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "9d54adc1-c073-4be0-9b68-d9f4b0747c71"
+    },
+    {
+      "AnswerID": "47c7a663-4f1d-4161-8e2e-c3526387370d",
+      "AnswerContent": "受到未能IPO条件的触发，A基金可以选择执行回售权，出售价款总额为6400万元",
+      "QuestionId": "96732023-966c-4a3c-9840-d0fd2fdde996"
+    },
+    {
+      "AnswerID": "36c58a1a-6c9d-43a9-b5c7-b491e73a2529",
+      "AnswerContent": "个人或机构投资者",
+      "QuestionId": "3b0f8f4b-d0d3-4f0d-a042-e8ef28f373e7"
+    },
+    {
+      "AnswerID": "4c2d5f3f-6501-41ae-99dd-0053693a4045",
+      "AnswerContent": "天使投资属于组织创业投资范畴",
+      "QuestionId": "b8efd23b-a6e5-4cf6-8693-498f09c434f7"
+    },
+    {
+      "AnswerID": "286e2fd6-b49f-41d7-b3f6-c5e2c3e2be38",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "6243658c-4f04-46f2-a07a-9752d63ce046"
+    },
+    {
+      "AnswerID": "0b6bfa02-c3b4-405a-82a7-a1ead14ccf22",
+      "AnswerContent": "并购基金的收益主要来源于因管理增值带来的股权增值",
+      "QuestionId": "41da0130-9081-4deb-a2fb-df8220af64cf"
+    },
+    {
+      "AnswerID": "8f410d69-d632-4f88-82c5-cd0001d05652",
+      "AnswerContent": "管理人分配获得0.2亿元，投资者分配获得7.8亿元",
+      "QuestionId": "f17721da-d6e9-4ba7-977f-19e765cb82c6"
+    },
+    {
+      "AnswerID": "e1317b6b-8885-4129-a966-8aaf8c0c157a",
+      "AnswerContent": "存在较高的风险外溢时，对金额系统稳定存在潜在威胁，使得防范系统性金融风险成为股权投资基金监管目标之一",
+      "QuestionId": "5653a236-1dea-4e3c-becc-63d512b1a3bd"
+    },
+    {
+      "AnswerID": "6b052a05-b316-473e-b287-6b121cf761b7",
+      "AnswerContent": "股权投资基金管理人应具备至少3名高级管理人员，且应当设置负责合规风控的高级管理人员",
+      "QuestionId": "3d8d3cc7-606c-490e-bb50-4f9a04f5eee8"
+    },
+    {
+      "AnswerID": "36b48630-1bb5-4b7a-ba52-a549034a43d9",
+      "AnswerContent": "管理费是基金投资人向基金管理人收取的费用，按投资规模的一定比例收取",
+      "QuestionId": "c3846411-32e9-4399-9f3b-6967e3635691"
+    },
+    {
+      "AnswerID": "35a21a32-f4a2-4521-ba28-98cc5474fac7",
+      "AnswerContent": "本基金由普通合伙人担任执行事务合伙人，执行事务合伙人有权对合伙企业的财产进行投资、管理、运用和处置，并接受其他普通合伙人和有限合伙人的监督",
+      "QuestionId": "b2b3f0e2-4262-42b9-b061-c31b103dd30f"
+    },
+    {
+      "AnswerID": "f85d6950-6e1c-4829-8a74-9e907231b934",
+      "AnswerContent": "夹层资本通常无法要求融资方提供资产担保",
+      "QuestionId": "30f0c21d-c4a1-4cef-a62b-44e30aa9deb7"
+    },
+    {
+      "AnswerID": "13d4eac7-e84c-41c6-91c8-435f7d0cfd74",
+      "AnswerContent": "普通投资者需对特别警示进行确认，并明确作出愿意自行承担相应不利结果的意思表示",
+      "QuestionId": "57c70d30-2e84-4c53-9c19-65e7fd6edf3d"
+    },
+    {
+      "AnswerID": "a3ccb2ec-4c6e-47e5-9995-b38c3e5b262d",
+      "AnswerContent": "对于发展较为成熟的被投资企业，增值服务侧重在规范管理，业务拓展，后续再融资等方面",
+      "QuestionId": "14385b94-b50b-4b7e-9c13-65d7e4676064"
+    },
+    {
+      "AnswerID": "37e664fb-c476-45f1-b2e6-3a0708293541",
+      "AnswerContent": "基金财产保管机构",
+      "QuestionId": "4d3a4207-0451-471a-a6bd-89115f872a7e"
+    },
+    {
+      "AnswerID": "cb7c891a-d0bb-4dfe-88e3-bd82ae2779cc",
+      "AnswerContent": "股权投资基金作为投资人投入一定金额的资金可在目标公司中获取相应股权比例",
+      "QuestionId": "00032c4b-ef92-4b47-8e81-2d70d1fd904f"
+    },
+    {
+      "AnswerID": "fad6c5cb-a025-4cc7-b475-ee97a046c03e",
+      "AnswerContent": "基金监管机构",
+      "QuestionId": "f6c8a33b-3dec-4852-aa13-66b7c5cb6cb6"
+    },
+    {
+      "AnswerID": "4c76e244-ca73-4e87-bb90-7a0819ce8ccf",
+      "AnswerContent": "8.8",
+      "QuestionId": "8e0b16ff-8fa4-43ad-a618-06fdddd7b666"
+    },
+    {
+      "AnswerID": "c0d6469e-9575-4de3-99f1-10dccaeeb495",
+      "AnswerContent": "10%",
+      "QuestionId": "fb0b43ba-5970-46b2-acdf-1a2663ad1013"
+    },
+    {
+      "AnswerID": "2be3dd3c-100c-415d-836e-6b4a96ebd144",
+      "AnswerContent": "某商业零售企业",
+      "QuestionId": "bb5f65a4-f9e8-41f6-8cde-96461ecc33f9"
+    },
+    {
+      "AnswerID": "23111e99-a2e0-4ddc-ade0-763debb21af4",
+      "AnswerContent": "对于未到期的公司债权，清算组不可要求债务人提前清偿",
+      "QuestionId": "c2f011cf-0279-42f6-b943-667237d79a28"
+    },
+    {
+      "AnswerID": "6cf6d8c1-0544-4549-801b-4d5ab0fd8e7f",
+      "AnswerContent": "控股股东回购",
+      "QuestionId": "a8ee3d38-9237-457d-849f-a954186c75fe"
+    },
+    {
+      "AnswerID": "3a2f521b-3ba4-4d7f-9b5d-32424780b5d3",
+      "AnswerContent": "回访程序成功确认前，投资者有权解除基金合同",
+      "QuestionId": "d251afb6-c9df-4ef8-9207-1ead231fe941"
+    },
+    {
+      "AnswerID": "c2d1bfdf-b13e-47b4-bab8-15b8d1a14c61",
+      "AnswerContent": "投资者历年向基金支付的出资金额",
+      "QuestionId": "fe94cb23-f4d6-4de5-aaa3-9bcc46844a01"
+    },
+    {
+      "AnswerID": "5f3a46f5-b8f1-48cc-9ba4-988961b1ab01",
+      "AnswerContent": "过去一年税后利润不少于5000万人民币，并有增长潜力；按照合理市盈率预期，筹资不少于6000万美元",
+      "QuestionId": "49c4b936-e75f-472a-a946-f6069d6d11cb"
+    },
+    {
+      "AnswerID": "f0f4c4f1-e676-424c-b1e0-f148524fca5d",
+      "AnswerContent": "Ⅱ、Ⅴ",
+      "QuestionId": "ac4d7e34-e30e-4cf3-956f-3130105eb0bc"
+    },
+    {
+      "AnswerID": "c66ddf80-4ed0-4c81-bd15-6e1245c0bf1d",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "09d0545d-ed0e-42a9-bacb-e64ec25de4be"
+    },
+    {
+      "AnswerID": "2232480e-4324-4553-93ff-c1c5b4f44245",
+      "AnswerContent": "《私募股权投资基金监督管理办法》",
+      "QuestionId": "59622691-fb92-4c77-b6b6-7bb248f9b178"
+    },
+    {
+      "AnswerID": "7f35cb20-fb9f-431b-9535-b574958c1c07",
+      "AnswerContent": "行业自律与政府监管性质相同",
+      "QuestionId": "ae533a42-dd3a-4e30-b484-4548805b0c45"
+    },
+    {
+      "AnswerID": "83cc8932-d8f6-4628-896f-132a1653089c",
+      "AnswerContent": "90%",
+      "QuestionId": "00366cc0-2392-4b38-9b49-4846cb9547b9"
+    },
+    {
+      "AnswerID": "a4af0827-5777-4cf6-bca0-19a2465932e1",
+      "AnswerContent": "并购基金",
+      "QuestionId": "c94d47c9-f91f-4635-8f3b-4ae178e17b29"
+    },
+    {
+      "AnswerID": "6b036478-b2fb-49c0-87a0-290802854c79",
+      "AnswerContent": "关注税收优惠的来源、归属、用途和核算并评估其对未来经营业绩的影响",
+      "QuestionId": "46c3358d-f1f9-46f5-93fa-6f3c480de0fd"
+    },
+    {
+      "AnswerID": "515a5c15-581e-406c-8145-e85f6cefc19f",
+      "AnswerContent": "委托代理风险",
+      "QuestionId": "75cdfbea-9f8e-4794-85d8-11e50107f856"
+    },
+    {
+      "AnswerID": "d98a15b5-bf0c-4392-bc6b-f640673c0cba",
+      "AnswerContent": "保密条款有时效性，通常为两个月",
+      "QuestionId": "e83cb17d-0e26-4fb2-bf38-93bdb5619201"
+    },
+    {
+      "AnswerID": "92fb2f88-3c3d-4180-89fb-a52dd6b1caa8",
+      "AnswerContent": "基金服务机构接受投资者的委托，为投资者提供服务",
+      "QuestionId": "f7934410-b110-4cf7-a346-675f32bcb913"
+    },
+    {
+      "AnswerID": "c5601047-616d-4f99-b5e2-00e0ecb1f9ec",
+      "AnswerContent": "有2个以上的发起人",
+      "QuestionId": "1e747b0a-9ba8-4421-bd87-73cd84bd137c"
+    },
+    {
+      "AnswerID": "9125341d-c288-4318-81e9-51c43b8f274c",
+      "AnswerContent": "在排他期内，投资方不得提前终止排他期限",
+      "QuestionId": "49798ba1-91e0-4edb-b1f4-8fa195598a27"
+    },
+    {
+      "AnswerID": "8b817b69-c4c3-4df2-b0ea-727c38ee51d6",
+      "AnswerContent": "在排他期内，目标公司的普通员工不得与其他潜在投资方接触",
+      "QuestionId": "49798ba1-91e0-4edb-b1f4-8fa195598a27"
+    },
+    {
+      "AnswerID": "62e87bfb-4303-49bd-b682-c03a59714940",
+      "AnswerContent": "半数以上的发起人在中国境内有住所",
+      "QuestionId": "1e747b0a-9ba8-4421-bd87-73cd84bd137c"
+    },
+    {
+      "AnswerID": "e9bedd18-c9f6-4d50-9d4b-e4689a34d001",
+      "AnswerContent": "基金服务机构接受投资者的委托，为股权投资基金提供服务",
+      "QuestionId": "f7934410-b110-4cf7-a346-675f32bcb913"
+    },
+    {
+      "AnswerID": "0ea5d920-aaca-49f8-8a0f-6de8a20443a8",
+      "AnswerContent": "保密条款主要约定股权投资基金对目标公司负有保密义务",
+      "QuestionId": "e83cb17d-0e26-4fb2-bf38-93bdb5619201"
+    },
+    {
+      "AnswerID": "9ed2109c-6652-4623-9ce7-e3a2a4e9b158",
+      "AnswerContent": "信用风险",
+      "QuestionId": "75cdfbea-9f8e-4794-85d8-11e50107f856"
+    },
+    {
+      "AnswerID": "0231f758-375f-46f6-9721-0f687f44878b",
+      "AnswerContent": "需关注主要股东是否存在股权被质押或者被查封的情况",
+      "QuestionId": "46c3358d-f1f9-46f5-93fa-6f3c480de0fd"
+    },
+    {
+      "AnswerID": "daa43315-f1d9-4fa6-918f-955ad9703e71",
+      "AnswerContent": "股权投资母基金",
+      "QuestionId": "c94d47c9-f91f-4635-8f3b-4ae178e17b29"
+    },
+    {
+      "AnswerID": "578da74e-6856-4e0f-b437-350e11840d30",
+      "AnswerContent": "《最高人民法院关于审理非法集资刑事案件具体应用法律若干意见问题的解释》",
+      "QuestionId": "59622691-fb92-4c77-b6b6-7bb248f9b178"
+    },
+    {
+      "AnswerID": "f0e869a3-1ee9-43db-bed9-fa6ec4666d11",
+      "AnswerContent": "对违法违规处罚力度相同",
+      "QuestionId": "ae533a42-dd3a-4e30-b484-4548805b0c45"
+    },
+    {
+      "AnswerID": "44f574e9-a77b-4660-9070-796f082c6c6a",
+      "AnswerContent": "70%",
+      "QuestionId": "00366cc0-2392-4b38-9b49-4846cb9547b9"
+    },
+    {
+      "AnswerID": "7a25f327-cf11-4b72-bd02-e4ca12be5572",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "09d0545d-ed0e-42a9-bacb-e64ec25de4be"
+    },
+    {
+      "AnswerID": "c1b9fc57-121a-4bbc-a28b-a507c199b34b",
+      "AnswerContent": "具有规范的法人治理结构及较完善的内部管理制度",
+      "QuestionId": "49c4b936-e75f-472a-a946-f6069d6d11cb"
+    },
+    {
+      "AnswerID": "a21ec63b-20f4-4935-a663-4578977a09a7",
+      "AnswerContent": "投资者收到的基金利润分配",
+      "QuestionId": "fe94cb23-f4d6-4de5-aaa3-9bcc46844a01"
+    },
+    {
+      "AnswerID": "9d1cabfb-9204-4c1f-852d-7a1f43b30c08",
+      "AnswerContent": "在投资冷静期内进行的回访确认程序无效",
+      "QuestionId": "d251afb6-c9df-4ef8-9207-1ead231fe941"
+    },
+    {
+      "AnswerID": "c5b34d7a-64be-45bd-a099-108e2537e3d1",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "ac4d7e34-e30e-4cf3-956f-3130105eb0bc"
+    },
+    {
+      "AnswerID": "a21ed214-9883-4e83-9278-5814ae25de34",
+      "AnswerContent": "清算组应当制订清算方案，提出收取债权和清偿债务的具体安排，提交股东大会（股东会）通过或者报主管机关确认",
+      "QuestionId": "c2f011cf-0279-42f6-b943-667237d79a28"
+    },
+    {
+      "AnswerID": "63dd560a-203e-453c-9433-93f3732c9d49",
+      "AnswerContent": "参股股东回购",
+      "QuestionId": "a8ee3d38-9237-457d-849f-a954186c75fe"
+    },
+    {
+      "AnswerID": "94727275-9f3b-4922-9ded-1fd6a34f9cc2",
+      "AnswerContent": "某持续经营的机械制造企业",
+      "QuestionId": "bb5f65a4-f9e8-41f6-8cde-96461ecc33f9"
+    },
+    {
+      "AnswerID": "c60d9a3a-ac33-4a05-a6fa-bdf1503ca05b",
+      "AnswerContent": "25%",
+      "QuestionId": "fb0b43ba-5970-46b2-acdf-1a2663ad1013"
+    },
+    {
+      "AnswerID": "ff5cc2b8-3930-421f-8364-0ac20078e765",
+      "AnswerContent": "基金投资者",
+      "QuestionId": "f6c8a33b-3dec-4852-aa13-66b7c5cb6cb6"
+    },
+    {
+      "AnswerID": "d41d900d-2901-4292-a534-d643489cc052",
+      "AnswerContent": "保证投资方对了解的目标公司商业秘密不得泄露",
+      "QuestionId": "00032c4b-ef92-4b47-8e81-2d70d1fd904f"
+    },
+    {
+      "AnswerID": "76054006-993a-4657-bd93-1ed135d2569a",
+      "AnswerContent": "基金销售机构",
+      "QuestionId": "4d3a4207-0451-471a-a6bd-89115f872a7e"
+    },
+    {
+      "AnswerID": "74996857-922a-4bc8-88d2-e49315a9f6eb",
+      "AnswerContent": "9.1",
+      "QuestionId": "8e0b16ff-8fa4-43ad-a618-06fdddd7b666"
+    },
+    {
+      "AnswerID": "f7119464-645c-4450-8af6-2491509e8872",
+      "AnswerContent": "本基金解散清算时首先应对基金合伙人进行分配，如有剩余，则可用于支付基金清算费用",
+      "QuestionId": "b2b3f0e2-4262-42b9-b061-c31b103dd30f"
+    },
+    {
+      "AnswerID": "d750a067-5174-4e25-aa51-e7968d91985b",
+      "AnswerContent": "主要目的是，提升被投资企业的价值，降低投资风险，最终实现投资机构对投资项目的顺利退出",
+      "QuestionId": "14385b94-b50b-4b7e-9c13-65d7e4676064"
+    },
+    {
+      "AnswerID": "afc393b5-32af-4e0f-b3c5-b75256b00968",
+      "AnswerContent": "普通投资者需主动向基金募集机构提出申请，并同时申明基金募集机构未在销售过程中主动推介该基金产品或服务的信息",
+      "QuestionId": "57c70d30-2e84-4c53-9c19-65e7fd6edf3d"
+    },
+    {
+      "AnswerID": "655bf55d-8c06-4563-b2c8-b4fdce3791c1",
+      "AnswerContent": "夹层资本具有较大的弹性，通常用来满足特定交易需求",
+      "QuestionId": "30f0c21d-c4a1-4cef-a62b-44e30aa9deb7"
+    },
+    {
+      "AnswerID": "eea04373-86c6-471d-ae2c-467260a69f26",
+      "AnswerContent": "股权投资基金管理人应建立合格投资者适当性制度",
+      "QuestionId": "3d8d3cc7-606c-490e-bb50-4f9a04f5eee8"
+    },
+    {
+      "AnswerID": "6e133069-cc71-40ae-aba0-2d8e90d0eaef",
+      "AnswerContent": "可按基金规模的一定比例收取，也可以采用基金运营预算的机制收取",
+      "QuestionId": "c3846411-32e9-4399-9f3b-6967e3635691"
+    },
+    {
+      "AnswerID": "d5dda4b4-f95f-462d-8f49-6635b60d502b",
+      "AnswerContent": "股权投资基金监管机构的监管对象包括基金管理人及各类市场服务机构",
+      "QuestionId": "5653a236-1dea-4e3c-becc-63d512b1a3bd"
+    },
+    {
+      "AnswerID": "21735bc3-c804-4909-b4a8-628b4206172d",
+      "AnswerContent": "并购基金往往通过注资的形式对企业增量股权进行投资",
+      "QuestionId": "41da0130-9081-4deb-a2fb-df8220af64cf"
+    },
+    {
+      "AnswerID": "9de3bff8-6672-4957-8b33-2c86b8e7fb1f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "6243658c-4f04-46f2-a07a-9752d63ce046"
+    },
+    {
+      "AnswerID": "4f5eedb5-1056-4fb0-b6c7-4a8c04f8be39",
+      "AnswerContent": "管理人分配获得0.6亿元，投资者分配获得7.4亿元",
+      "QuestionId": "f17721da-d6e9-4ba7-977f-19e765cb82c6"
+    },
+    {
+      "AnswerID": "90ad426f-91bd-427a-bbd6-906bab2eca86",
+      "AnswerContent": "中国证券投资基金业协会",
+      "QuestionId": "3b0f8f4b-d0d3-4f0d-a042-e8ef28f373e7"
+    },
+    {
+      "AnswerID": "bf46ccf6-43d9-4991-b8c0-ff699d951ee7",
+      "AnswerContent": "受到未能IPO条件的触发，A基金可以选择执行回售权，出售价款总额为700万元",
+      "QuestionId": "96732023-966c-4a3c-9840-d0fd2fdde996"
+    },
+    {
+      "AnswerID": "93803bbd-6043-424d-9555-c2f8a87fc0cb",
+      "AnswerContent": "基金运营风险",
+      "QuestionId": "eb4859e0-49c8-43bb-84b8-ac3d8452f588"
+    },
+    {
+      "AnswerID": "c4a0375f-ceda-4ea3-a5f5-f5c8754a6e7d",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "9d54adc1-c073-4be0-9b68-d9f4b0747c71"
+    },
+    {
+      "AnswerID": "58237179-272d-4250-878d-c4648f7e66e3",
+      "AnswerContent": "杠杆收购的企业通常资产性支出较低",
+      "QuestionId": "b8efd23b-a6e5-4cf6-8693-498f09c434f7"
+    },
+    {
+      "AnswerID": "6371700a-6d56-445d-9ad9-4284b2cfb421",
+      "AnswerContent": "企业价值/息税折旧摊销前利润倍数法",
+      "QuestionId": "dfeb92e0-718a-4e9f-a55d-8913855600fe"
+    },
+    {
+      "AnswerID": "f1041257-1c83-49fb-84d2-17932658a69d",
+      "AnswerContent": "9000万元",
+      "QuestionId": "e957a061-222d-40e6-a551-33c969961c1b"
+    },
+    {
+      "AnswerID": "d1a9308b-d7d8-4a22-b7a6-6de2f7cef68d",
+      "AnswerContent": "跟进投资",
+      "QuestionId": "bfe28803-2468-4cfb-a3d3-d084f3cd81bf"
+    },
+    {
+      "AnswerID": "d66d4a32-60bd-47b8-a390-dbd8da0e64f8",
+      "AnswerContent": "母基金作为具备专业投资能力的投资者通常参与确定其所投资基金的投资方案",
+      "QuestionId": "8b2726fa-4bef-418d-b34e-4f8c9a23d32b"
+    },
+    {
+      "AnswerID": "b7aa2099-4bb4-4d77-b313-afa3f47ad8c3",
+      "AnswerContent": "基金管理人在实现门槛收益率（若有）后才可以获得业绩报酬",
+      "QuestionId": "c71fc9d8-f473-443f-9b4d-4744415dcae8"
+    },
+    {
+      "AnswerID": "dc45baf5-77a7-4432-86de-4a141456a8ae",
+      "AnswerContent": "建立投诉处理机制，接受投资者投诉，进行纠纷调解",
+      "QuestionId": "d15e23cf-57f8-43c1-aea5-10ec4300dda1"
+    },
+    {
+      "AnswerID": "d4595702-bc12-4721-8ede-7f931e894ecf",
+      "AnswerContent": "156.25",
+      "QuestionId": "d7060b2b-a516-4955-af2a-8fbbe8be00a7"
+    },
+    {
+      "AnswerID": "4ae0dc9e-4736-4fad-b09e-1d7c7afb173a",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "12a8775c-66d1-47ee-82ad-5492a1504f47"
+    },
+    {
+      "AnswerID": "8b14593a-a4ee-4597-811f-0b62ff794271",
+      "AnswerContent": "及时性原则",
+      "QuestionId": "1531ef19-5d0a-480c-b478-39dbd3c7e683"
+    },
+    {
+      "AnswerID": "0c6cd89a-5c71-4190-a306-4f8a7e08d628",
+      "AnswerContent": "47",
+      "QuestionId": "2d591e22-f0a9-4896-929e-6209a1a9eac0"
+    },
+    {
+      "AnswerID": "f1e443b9-d20d-4772-8994-3d0212b50650",
+      "AnswerContent": "证监会对发行人申请文件进行初审时，同时须征求国家相关政府部门或企业所在地政府的意见",
+      "QuestionId": "45464860-1414-4a1e-a676-97ef9fefe976"
+    },
+    {
+      "AnswerID": "7f893d60-bf21-48f4-b853-41e725ecc2ec",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "a2383d59-80fd-48ff-b94e-4b737f847156"
+    },
+    {
+      "AnswerID": "5f0ad1e3-1b8b-4f56-8adb-323549fd0ec7",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "f7c4c425-6a0f-4a95-81c1-c7b83a40ee62"
+    },
+    {
+      "AnswerID": "fd8cb537-0ef6-4ff9-919a-d961cb12e935",
+      "AnswerContent": "在不同股权投资基金账户之间转移收益或亏损",
+      "QuestionId": "cf83e08a-567e-41d6-a429-0d3354343110"
+    },
+    {
+      "AnswerID": "93f665fb-9261-42a8-9b9b-b8c5b9dfb54a",
+      "AnswerContent": "股权投资是服务密集型行业",
+      "QuestionId": "984ad96d-cf2f-449e-9d49-828809bb7bf6"
+    },
+    {
+      "AnswerID": "81b61e60-8dda-46f2-908f-54edcde6689a",
+      "AnswerContent": "根据全国中小企业股价转让系统挂牌的要求，挂牌后仍有一定的限售期，但比IPO上市的限售期要短",
+      "QuestionId": "de63ffbe-3761-407c-aded-eff85163047f"
+    },
+    {
+      "AnswerID": "f713081e-441f-4796-a991-3ba21180b135",
+      "AnswerContent": "2015年2月基金A向B公司的保荐机构提供了基金出资人相关信息",
+      "QuestionId": "ff475e9c-7b20-47ae-8cfa-ed94f7a30076"
+    },
+    {
+      "AnswerID": "b6e9eba6-8d1f-48b9-95e2-d712dbf5c437",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "96606841-29b4-4d8a-b5bc-e5ea47e36bbe"
+    },
+    {
+      "AnswerID": "d8ee7da0-d008-416d-b1a3-d45a80aac71c",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "547edbec-9368-49d1-ad31-d41e0eea41af"
+    },
+    {
+      "AnswerID": "b91d9403-5ff4-4770-8408-166b2073a0b7",
+      "AnswerContent": "普通合伙人可以通过自我管理或者委托其他基金管理人负责基金投资等重大事项的管理与决策",
+      "QuestionId": "ba921c1c-9ee5-4b64-8840-b6b41907ef4f"
+    },
+    {
+      "AnswerID": "cf9a08a3-f833-44d1-8076-bc6449d2a55c",
+      "AnswerContent": "议事规则",
+      "QuestionId": "e7b2bb35-a5a5-42c0-9b54-3f4678fc8af7"
+    },
+    {
+      "AnswerID": "a824c376-8364-43d7-98d9-91d9813803e4",
+      "AnswerContent": "在与基金销售机构签署的基金销售协议中明确“受托募集之后，由基金销售机构全权承担与募集相关的全部责任”",
+      "QuestionId": "1d1b5578-969c-4223-bda0-0d6ced41a1b4"
+    },
+    {
+      "AnswerID": "84e03e8b-b0c8-482a-9a8b-0b4f48019630",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅴ",
+      "QuestionId": "52c62262-c1dc-48f2-abba-de87004c0333"
+    },
+    {
+      "AnswerID": "443ac9ef-21f5-46bd-89f7-e839b1da36e4",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "4c2e0e34-60d9-421f-9e84-1c5501ecec75"
+    },
+    {
+      "AnswerID": "46172915-5cca-42b4-9bfe-1b469f99b826",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "4967148a-864b-415e-ad11-397c51878941"
+    },
+    {
+      "AnswerID": "17af886c-81d4-4124-9e51-032ddb9a65c6",
+      "AnswerContent": "公司型股权投资基金终止清算，应向工商行政管理机关办理注销手续",
+      "QuestionId": "e022a717-0d73-4aa8-ab4d-b9cb70ab7b07"
+    },
+    {
+      "AnswerID": "67be3f9e-c0c8-4005-8724-89872c1adb30",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "15911382-5b4d-4dcd-9cc7-5e33ace07f93"
+    },
+    {
+      "AnswerID": "ca9f5e00-1f6e-463b-9cdd-596d1b195b51",
+      "AnswerContent": "同一基金可以存在多个信息披露义务人",
+      "QuestionId": "710b8e53-66e8-41eb-8a7c-28d50a7da800"
+    },
+    {
+      "AnswerID": "3541d757-df4c-426f-b80a-ff30aebb49e6",
+      "AnswerContent": "母基金甲投资乙属于二级投资，购买丙的份额属于一级投资",
+      "QuestionId": "3de462ab-b2c8-43d3-85dc-c93aac4f47b3"
+    },
+    {
+      "AnswerID": "6b1c3f30-4a16-456f-b2e6-ed12dbe5ff1b",
+      "AnswerContent": "非公开募集基金",
+      "QuestionId": "2a251ef1-5136-4b0f-917f-a301ec2c7ac6"
+    },
+    {
+      "AnswerID": "42cc2a38-8cb4-45dd-91b2-328e691fd1d0",
+      "AnswerContent": "2.5%",
+      "QuestionId": "f1a1facf-13b9-45df-ad6b-88233e8c0b78"
+    },
+    {
+      "AnswerID": "82e8f461-f7c8-409e-995f-e8cc3cadfae7",
+      "AnswerContent": "新扩展市场区域",
+      "QuestionId": "bc3a4108-6272-4d19-b197-3feffd2ce267"
+    },
+    {
+      "AnswerID": "8a5bb931-5cad-41f7-837f-dcbbcc68ef38",
+      "AnswerContent": "基金存续期没有届满不能对基金进行清算",
+      "QuestionId": "30f50c57-50dc-421b-8127-3271e84c95ec"
+    },
+    {
+      "AnswerID": "19079da6-1383-4a7d-b9e9-7a1243936712",
+      "AnswerContent": "中国证券投资基金业协会可要求其限期改正",
+      "QuestionId": "44bb9c2d-3a3b-4ed5-8a05-2e9cee838dcf"
+    },
+    {
+      "AnswerID": "4890d94f-9abc-4a2e-aeb0-36d8b60bdb57",
+      "AnswerContent": "拒不交代资金去向，逃避返还现金的",
+      "QuestionId": "bc47ff60-78b7-4dcf-b185-c1b3db300bef"
+    },
+    {
+      "AnswerID": "a90d3542-e330-411b-8fae-922410e810a6",
+      "AnswerContent": "向投资者承诺保证基金最低收益率",
+      "QuestionId": "fd1699a5-60a2-4f74-8aaf-8bc4cc700fac"
+    },
+    {
+      "AnswerID": "0bbd13d9-9d05-4a62-8bef-29faa0b1b3cb",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "1c5773f0-a235-4ec1-b135-4a7a9feb4ada"
+    },
+    {
+      "AnswerID": "c8b455ca-8077-4afc-bf53-c2ae45e003bb",
+      "AnswerContent": "对股权投资基金而言，企业在正常可持续经营情况下，一般不会采用清算价值法",
+      "QuestionId": "b6b25cc2-7dc1-41d0-9922-05d063031f79"
+    },
+    {
+      "AnswerID": "5da5347a-f545-49f7-abed-bc854cfa3775",
+      "AnswerContent": "经营层",
+      "QuestionId": "2ba1d311-7087-4f6c-8928-19124cd9efa8"
+    },
+    {
+      "AnswerID": "0d0db4d6-d5b6-469e-adf4-ef2e7eca5f81",
+      "AnswerContent": "51%",
+      "QuestionId": "3e2fa3d4-8ad4-4a56-a78c-618c0efb7bf3"
+    },
+    {
+      "AnswerID": "316e2d5f-635f-4ab3-9731-03f9ad1f6613",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "77292033-27f5-4750-94a7-933ff8b1afa3"
+    },
+    {
+      "AnswerID": "faf20763-a439-412b-ac17-32aa39430d5e",
+      "AnswerContent": "5.24%",
+      "QuestionId": "7b3bd478-5be6-4597-a054-973a3429bcb6"
+    },
+    {
+      "AnswerID": "2541f0e8-6863-41d1-acc9-0347246b3fd8",
+      "AnswerContent": "机构内部交易记录制度",
+      "QuestionId": "6dc3a047-0050-46dc-a60f-80d37834ac49"
+    },
+    {
+      "AnswerID": "d4596d89-9926-4b33-934b-f30e10312f55",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "e1bcd1a9-16a3-49be-b096-6debc3abf0fe"
+    },
+    {
+      "AnswerID": "8e07dbd3-07ec-4d8b-8643-969442fdb919",
+      "AnswerContent": "对行政监管措施和行政处罚不服的，可以自收到决定书之日起60天内向复议机关申请复议",
+      "QuestionId": "304f67bd-1993-4756-86e8-45663623c68e"
+    },
+    {
+      "AnswerID": "c685cd8f-e9e8-4eef-9d52-8d3c9e7ebec6",
+      "AnswerContent": "不得以任何方式承诺投资者最低收益",
+      "QuestionId": "d6d8ec76-9baf-470f-bb69-844495e20e2f"
+    },
+    {
+      "AnswerID": "ebd4d041-ad61-458d-aefa-541846224f55",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "57afa0e7-79b2-4270-b5c3-f46e1b1f6568"
+    },
+    {
+      "AnswerID": "951840d7-3ea5-4d8a-a9a7-a1e34b597e3b",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "c4be7c81-8a78-4484-accf-9d4a8742d64d"
+    },
+    {
+      "AnswerID": "5b6e24c3-8a59-4995-8f9b-a642481a3ace",
+      "AnswerContent": "适度监管",
+      "QuestionId": "d540a82a-5af9-41e5-b4c1-f7fb358191c4"
+    },
+    {
+      "AnswerID": "bfb0a426-cab3-436f-bd84-6380caf57ef6",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "70cd170a-783d-401b-af7e-a2e870c0cd7f"
+    },
+    {
+      "AnswerID": "cbcc4f32-bab4-4866-9894-bcf4a8a3a79b",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "220b863f-8b7b-473d-aeb3-4c1bc86bfbf2"
+    },
+    {
+      "AnswerID": "76c45196-419e-4d06-8734-9a81f9290d1b",
+      "AnswerContent": "Ⅰ、Ⅳ、Ⅴ",
+      "QuestionId": "28af2fc6-1855-4863-9085-fd0d5aa1a9ef"
+    },
+    {
+      "AnswerID": "83f9f950-4f62-477c-b947-62db11c3f6d7",
+      "AnswerContent": "创业投资估值法是一种基于创业早期企业未来清算退出情景下估值预测的估值方法",
+      "QuestionId": "fc6d0090-3e0f-45e3-bc63-6b481c952de8"
+    },
+    {
+      "AnswerID": "0b18ba26-14ab-47b9-a205-aa7bb5c4b330",
+      "AnswerContent": "间接上市成功之后，股权投资基金的被投资企业的股份将转变成为上市公司的股份",
+      "QuestionId": "c3eb1a9a-41af-4541-8e93-5cd3fc414d60"
+    },
+    {
+      "AnswerID": "5f94cfeb-57ae-4941-803b-607be87e1328",
+      "AnswerContent": "Ⅱ、Ⅳ",
+      "QuestionId": "3adbfae4-52f4-4887-ad64-d6992a046ab8"
+    },
+    {
+      "AnswerID": "f9cd1b5b-abfc-48cd-ad05-447f518cfa20",
+      "AnswerContent": "<img alt=\"\" src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/202007190731379040.png\" />",
+      "QuestionId": "4584cb0d-6a73-4a71-b3e3-f662dcab5b93"
+    },
+    {
+      "AnswerID": "036b246a-8992-476c-ae16-f1c498d38238",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "d233d6ba-d07c-45f1-a52f-7d149db37844"
+    },
+    {
+      "AnswerID": "f26f9b81-07a4-4c2f-8d97-53c88111c4d9",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "6a1cfe82-06a9-4c85-b366-4d79775f1739"
+    },
+    {
+      "AnswerID": "6ee9f661-2bb2-435e-8eba-79539aa6a20b",
+      "AnswerContent": "企业自由现金流只能用企业的加权平均资本成本来折现",
+      "QuestionId": "b84b1492-a48e-497d-b68d-d5ed31a3a7fd"
+    },
+    {
+      "AnswerID": "2a05a1f9-f34f-48bf-85a0-e265e9a4cacb",
+      "AnswerContent": "股份有限公司型",
+      "QuestionId": "49a0e531-d0a3-4211-b123-353bf0784182"
+    },
+    {
+      "AnswerID": "ab345aa3-678f-480e-b6a6-4f13c8dcfe2f",
+      "AnswerContent": "有限责任公司型基金",
+      "QuestionId": "e3c34e97-a942-4b7b-927b-ecfc3f02e0d1"
+    },
+    {
+      "AnswerID": "3caab751-ffb2-4da2-a8e5-51c533e68d48",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "b78bd07b-f83c-4669-bb3a-ea84692f56ce"
+    },
+    {
+      "AnswerID": "41bb60db-c51e-40f4-97db-9aa4277ec2d8",
+      "AnswerContent": "有限合伙型基金",
+      "QuestionId": "e3c34e97-a942-4b7b-927b-ecfc3f02e0d1"
+    },
+    {
+      "AnswerID": "3997c604-7253-4293-80f1-82d541c01d6b",
+      "AnswerContent": "封闭型",
+      "QuestionId": "49a0e531-d0a3-4211-b123-353bf0784182"
+    },
+    {
+      "AnswerID": "5e7e81cb-53a8-41e2-b791-de23de2ab9f0",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "b78bd07b-f83c-4669-bb3a-ea84692f56ce"
+    },
+    {
+      "AnswerID": "49b11337-e15a-401d-a73a-ed3a40515c4b",
+      "AnswerContent": "折现率和市场短期变化相关，和公司类型无关",
+      "QuestionId": "b84b1492-a48e-497d-b68d-d5ed31a3a7fd"
+    },
+    {
+      "AnswerID": "3c99fcd2-5123-4cc9-905d-b7029903c562",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "6a1cfe82-06a9-4c85-b366-4d79775f1739"
+    },
+    {
+      "AnswerID": "2714d46a-fdb3-473b-b98d-662bd7b1a69f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "3adbfae4-52f4-4887-ad64-d6992a046ab8"
+    },
+    {
+      "AnswerID": "42381abf-3deb-43df-aff4-f2400e8523bf",
+      "AnswerContent": "<img alt=\"\" src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/20200719073207601.png\" />",
+      "QuestionId": "4584cb0d-6a73-4a71-b3e3-f662dcab5b93"
+    },
+    {
+      "AnswerID": "61a2e01c-1317-4af0-8b7a-f9c62e2b5a70",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "28af2fc6-1855-4863-9085-fd0d5aa1a9ef"
+    },
+    {
+      "AnswerID": "937a442c-458f-4d40-851b-01cd736e18ee",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "d233d6ba-d07c-45f1-a52f-7d149db37844"
+    },
+    {
+      "AnswerID": "e246cff8-0fc2-4266-8b58-6bfbe1ff6ffe",
+      "AnswerContent": "创业投资估值法基于退出期目标公司的现金流计算目标收益率，折现计算其当前价值",
+      "QuestionId": "fc6d0090-3e0f-45e3-bc63-6b481c952de8"
+    },
+    {
+      "AnswerID": "ab575c61-396c-4759-8358-31eee97b9d2c",
+      "AnswerContent": "间接上市成功之后，基金应要求上市公司现金回购实现退出",
+      "QuestionId": "c3eb1a9a-41af-4541-8e93-5cd3fc414d60"
+    },
+    {
+      "AnswerID": "27f80adb-cc9b-42e6-b7dd-09379432f71a",
+      "AnswerContent": "高效监管",
+      "QuestionId": "d540a82a-5af9-41e5-b4c1-f7fb358191c4"
+    },
+    {
+      "AnswerID": "b20f9634-8b94-455a-8d14-5026a8361035",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "70cd170a-783d-401b-af7e-a2e870c0cd7f"
+    },
+    {
+      "AnswerID": "0e24d525-21fc-4422-9748-ce2060379581",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "c4be7c81-8a78-4484-accf-9d4a8742d64d"
+    },
+    {
+      "AnswerID": "680a60fc-82ed-4c47-ba94-46278e107091",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "220b863f-8b7b-473d-aeb3-4c1bc86bfbf2"
+    },
+    {
+      "AnswerID": "f34b755b-3d53-4fcf-b562-a0d76c44dc83",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "57afa0e7-79b2-4270-b5c3-f46e1b1f6568"
+    },
+    {
+      "AnswerID": "4b40c042-5bc2-48bb-b969-38cc5538f4d8",
+      "AnswerContent": "可以宣传“预测投资业绩”",
+      "QuestionId": "d6d8ec76-9baf-470f-bb69-844495e20e2f"
+    },
+    {
+      "AnswerID": "ba95661a-5957-49a0-8c67-0face8dc2514",
+      "AnswerContent": "防范内幕交易，利益冲突的投资交易制度",
+      "QuestionId": "6dc3a047-0050-46dc-a60f-80d37834ac49"
+    },
+    {
+      "AnswerID": "60f2220e-01bb-4e49-a026-7ba35f5ccf52",
+      "AnswerContent": "对行政监管措施不服的，只能向复议机关申请复议，不能向人民法院提起诉讼",
+      "QuestionId": "304f67bd-1993-4756-86e8-45663623c68e"
+    },
+    {
+      "AnswerID": "0eb0a437-7472-454b-a3a1-8aea7f990c99",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "77292033-27f5-4750-94a7-933ff8b1afa3"
+    },
+    {
+      "AnswerID": "37266c1f-e5ec-4226-9f3d-a0309fa9cd35",
+      "AnswerContent": "Ⅲ",
+      "QuestionId": "e1bcd1a9-16a3-49be-b096-6debc3abf0fe"
+    },
+    {
+      "AnswerID": "a1a6b2cc-1e7c-4c31-b702-51508c68e0cf",
+      "AnswerContent": "7.56%",
+      "QuestionId": "7b3bd478-5be6-4597-a054-973a3429bcb6"
+    },
+    {
+      "AnswerID": "5a7be37f-31ae-4151-bac9-c1eec7076b56",
+      "AnswerContent": "10%",
+      "QuestionId": "3e2fa3d4-8ad4-4a56-a78c-618c0efb7bf3"
+    },
+    {
+      "AnswerID": "107389cb-bbc0-4edc-999b-ac9ad5b0d29e",
+      "AnswerContent": "董事会",
+      "QuestionId": "2ba1d311-7087-4f6c-8928-19124cd9efa8"
+    },
+    {
+      "AnswerID": "dc5c0a71-ccd2-48e3-81c9-edd5112b3cdc",
+      "AnswerContent": "一般采用清算价值法估值时采用较高的折扣率",
+      "QuestionId": "b6b25cc2-7dc1-41d0-9922-05d063031f79"
+    },
+    {
+      "AnswerID": "5a782263-87e5-40f6-9b1c-4f9b03ef0b25",
+      "AnswerContent": "Ⅰ、Ⅱ",
+      "QuestionId": "1c5773f0-a235-4ec1-b135-4a7a9feb4ada"
+    },
+    {
+      "AnswerID": "bf168901-353b-415d-b1de-9b5a42ad1116",
+      "AnswerContent": "以群发手机短信的形式推介基金产品信息",
+      "QuestionId": "fd1699a5-60a2-4f74-8aaf-8bc4cc700fac"
+    },
+    {
+      "AnswerID": "156a9a17-8f1c-42c6-b0bb-c9419b6ee3f8",
+      "AnswerContent": "将集资款用于投资股市等，并且用其中盈利来给投资人兑付本息",
+      "QuestionId": "bc47ff60-78b7-4dcf-b185-c1b3db300bef"
+    },
+    {
+      "AnswerID": "74d9a4f9-dcb3-4395-9748-6ed5c71976bf",
+      "AnswerContent": "清算事由通过基金合同约定",
+      "QuestionId": "30f50c57-50dc-421b-8127-3271e84c95ec"
+    },
+    {
+      "AnswerID": "4fea957a-3609-42b1-bfc0-7df5dc136440",
+      "AnswerContent": "中国证券投资基金业协会可视情节轻重对主要负责人采取书面警示",
+      "QuestionId": "44bb9c2d-3a3b-4ed5-8a05-2e9cee838dcf"
+    },
+    {
+      "AnswerID": "0add1c19-3c05-4af2-be1d-236e707ca5e5",
+      "AnswerContent": "母基金甲持有的基金乙的所有份额都属于甲的一级投资业务",
+      "QuestionId": "3de462ab-b2c8-43d3-85dc-c93aac4f47b3"
+    },
+    {
+      "AnswerID": "f9c527c5-29a3-43b1-80b7-c6da74d2342d",
+      "AnswerContent": "3%",
+      "QuestionId": "f1a1facf-13b9-45df-ad6b-88233e8c0b78"
+    },
+    {
+      "AnswerID": "e0a7e6bf-41ef-4bfa-bb76-71765a377367",
+      "AnswerContent": "基金主体需缴纳企业所得税",
+      "QuestionId": "2a251ef1-5136-4b0f-917f-a301ec2c7ac6"
+    },
+    {
+      "AnswerID": "5cbd1f7f-1f4e-436a-983e-7dc027b5c282",
+      "AnswerContent": "应收账款金额",
+      "QuestionId": "bc3a4108-6272-4d19-b197-3feffd2ce267"
+    },
+    {
+      "AnswerID": "9c81eaa2-7011-48ef-b382-62e4ac9ee997",
+      "AnswerContent": "信息披露义务人只能是股权投资基金管理人",
+      "QuestionId": "710b8e53-66e8-41eb-8a7c-28d50a7da800"
+    },
+    {
+      "AnswerID": "b933b185-1d3f-4e2e-bdd9-f8595d5c654c",
+      "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
+      "QuestionId": "4967148a-864b-415e-ad11-397c51878941"
+    },
+    {
+      "AnswerID": "c4b95191-0760-42f1-9b7c-25587954feab",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "15911382-5b4d-4dcd-9cc7-5e33ace07f93"
+    },
+    {
+      "AnswerID": "6322ddad-d6b8-4a81-bf7c-fbfe186ae01f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ",
+      "QuestionId": "52c62262-c1dc-48f2-abba-de87004c0333"
+    },
+    {
+      "AnswerID": "3a430e15-131e-4ec6-bba0-27986171c0dd",
+      "AnswerContent": "Ⅰ、Ⅲ",
+      "QuestionId": "4c2e0e34-60d9-421f-9e84-1c5501ecec75"
+    },
+    {
+      "AnswerID": "90ca626a-d21b-411c-8984-60b5a8334cb9",
+      "AnswerContent": "股份有限公司型股权投资基金除发起人以外的股东发生变更的，无须向工商行政管理机关办理登记手续",
+      "QuestionId": "e022a717-0d73-4aa8-ab4d-b9cb70ab7b07"
+    },
+    {
+      "AnswerID": "5906aa84-fccc-4850-8ed0-d200b5ca3b3a",
+      "AnswerContent": "向投资者披露预期收益",
+      "QuestionId": "1d1b5578-969c-4223-bda0-0d6ced41a1b4"
+    },
+    {
+      "AnswerID": "39c2677e-4f83-4840-b9b4-d9979b25df32",
+      "AnswerContent": "投资协议",
+      "QuestionId": "e7b2bb35-a5a5-42c0-9b54-3f4678fc8af7"
+    },
+    {
+      "AnswerID": "464ea346-d5ed-446a-8c37-d02381b4b03c",
+      "AnswerContent": "主要参与主体有合伙人、基金管理人以及基金托管人",
+      "QuestionId": "ba921c1c-9ee5-4b64-8840-b6b41907ef4f"
+    },
+    {
+      "AnswerID": "15138e0b-5244-4b6d-8336-541aed01a7c6",
+      "AnswerContent": "2015年3月B公司向其次潜在投资人提供了基金A投资时的投资估值意见及投资协议",
+      "QuestionId": "ff475e9c-7b20-47ae-8cfa-ed94f7a30076"
+    },
+    {
+      "AnswerID": "171ce991-e41f-4c83-8a03-5e5ba6b77f76",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "547edbec-9368-49d1-ad31-d41e0eea41af"
+    },
+    {
+      "AnswerID": "4927203b-0989-480a-a61c-d470a9a692d6",
+      "AnswerContent": "协议转让中的定价委托方式是指投资者委托主办券商设定股票价格和数量，并确定交易对手方，交易信息将公开显示于交易大盘中",
+      "QuestionId": "de63ffbe-3761-407c-aded-eff85163047f"
+    },
+    {
+      "AnswerID": "5e8b7a6e-558a-469b-a0ed-c1b0fae7264a",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "96606841-29b4-4d8a-b5bc-e5ea47e36bbe"
+    },
+    {
+      "AnswerID": "55863fce-2444-42d2-a7f2-94abff9d7f96",
+      "AnswerContent": "股权投资体现出较明显的智力密集型特征",
+      "QuestionId": "984ad96d-cf2f-449e-9d49-828809bb7bf6"
+    },
+    {
+      "AnswerID": "04db6cc7-c4f8-4934-a21c-d29230152fdb",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "a2383d59-80fd-48ff-b94e-4b737f847156"
+    },
+    {
+      "AnswerID": "d29587c2-5e40-425e-9cd0-7420e703a8ca",
+      "AnswerContent": "对每只股权投资基金设置独立账户",
+      "QuestionId": "cf83e08a-567e-41d6-a429-0d3354343110"
+    },
+    {
+      "AnswerID": "b8514479-ac09-464b-8660-4c2da64bbc58",
+      "AnswerContent": "证监会向中介机构反馈意见，保荐机构组织发行人对相关问题进行整改，对审核意见进行回复",
+      "QuestionId": "45464860-1414-4a1e-a676-97ef9fefe976"
+    },
+    {
+      "AnswerID": "d8b0d825-ad62-4a13-a51f-207d282efdb5",
+      "AnswerContent": "Ⅰ、Ⅳ",
+      "QuestionId": "f7c4c425-6a0f-4a95-81c1-c7b83a40ee62"
+    },
+    {
+      "AnswerID": "d3d7fe25-5858-44e5-9d45-c0cedbdef100",
+      "AnswerContent": "95",
+      "QuestionId": "2d591e22-f0a9-4896-929e-6209a1a9eac0"
+    },
+    {
+      "AnswerID": "352ecdba-cbd3-4125-a99b-f8d3b6d90d07",
+      "AnswerContent": "公平披露原则",
+      "QuestionId": "1531ef19-5d0a-480c-b478-39dbd3c7e683"
+    },
+    {
+      "AnswerID": "bd4932b2-42ef-47cb-a34b-3a758e50beab",
+      "AnswerContent": "Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "12a8775c-66d1-47ee-82ad-5492a1504f47"
+    },
+    {
+      "AnswerID": "beb4f67e-d3a6-42d6-9472-951c7109d77b",
+      "AnswerContent": "436",
+      "QuestionId": "d7060b2b-a516-4955-af2a-8fbbe8be00a7"
+    },
+    {
+      "AnswerID": "6a0b9563-9032-437e-b234-80b639486831",
+      "AnswerContent": "对违反相关法规的私募机构采取责令改正、监管谈话、出具警示函、公开谴责等行政监管措施",
+      "QuestionId": "d15e23cf-57f8-43c1-aea5-10ec4300dda1"
+    },
+    {
+      "AnswerID": "8ebe7c56-1b39-4228-94dc-3dfc0d397691",
+      "AnswerContent": "基金管理人的收入分配包括业绩报酬",
+      "QuestionId": "c71fc9d8-f473-443f-9b4d-4744415dcae8"
+    },
+    {
+      "AnswerID": "5c4ba89c-9986-4eec-8ffb-29b54d096a4b",
+      "AnswerContent": "6000万元",
+      "QuestionId": "e957a061-222d-40e6-a551-33c969961c1b"
+    },
+    {
+      "AnswerID": "f80e2a99-bf89-4e54-a855-17b3fad7888a",
+      "AnswerContent": "融资担保",
+      "QuestionId": "bfe28803-2468-4cfb-a3d3-d084f3cd81bf"
+    },
+    {
+      "AnswerID": "a7a775c1-c4c5-4249-a1a9-97fec41c2201",
+      "AnswerContent": "基金投资者可对基金投资者会议审议事项进行表决",
+      "QuestionId": "8b2726fa-4bef-418d-b34e-4f8c9a23d32b"
+    },
+    {
+      "AnswerID": "15d224d8-7c3c-4235-8e41-396549a7fecd",
+      "AnswerContent": "折现现金流估值法",
+      "QuestionId": "dfeb92e0-718a-4e9f-a55d-8913855600fe"
+    },
+    {
+      "AnswerID": "2220590a-2a70-4f4a-9e5d-5f641108f8d1",
+      "AnswerContent": "募集失败风险",
+      "QuestionId": "eb4859e0-49c8-43bb-84b8-ac3d8452f588"
+    },
+    {
+      "AnswerID": "cd1b46e1-97ff-45ac-b0f9-3b84e148feb3",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "9d54adc1-c073-4be0-9b68-d9f4b0747c71"
+    },
+    {
+      "AnswerID": "a4a97930-f353-4235-a42c-9cc9ea513e2a",
+      "AnswerContent": "创业投资通常采取参股性投资",
+      "QuestionId": "b8efd23b-a6e5-4cf6-8693-498f09c434f7"
+    },
+    {
+      "AnswerID": "8de939e5-c854-42fc-8356-769e16354c0f",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "6243658c-4f04-46f2-a07a-9752d63ce046"
+    },
+    {
+      "AnswerID": "a231e5e5-dbe8-41a7-805f-bd7d39d12655",
+      "AnswerContent": "受到未能IPO条件的触发，A基金必须强制执行回售权，出售价款总额为700万",
+      "QuestionId": "96732023-966c-4a3c-9840-d0fd2fdde996"
+    },
+    {
+      "AnswerID": "5124a960-76ad-42b5-bf8a-30b84371e293",
+      "AnswerContent": "被投资方",
+      "QuestionId": "3b0f8f4b-d0d3-4f0d-a042-e8ef28f373e7"
+    },
+    {
+      "AnswerID": "bca81832-79cf-4068-b90b-47ff9b861e15",
+      "AnswerContent": "并购基金投资对象主要是成长期企业",
+      "QuestionId": "41da0130-9081-4deb-a2fb-df8220af64cf"
+    },
+    {
+      "AnswerID": "c1da8fc3-092c-42b0-99c4-b1ae146b43ce",
+      "AnswerContent": "管理人分配获得0.8亿元，投资者分配获得7.2亿元",
+      "QuestionId": "f17721da-d6e9-4ba7-977f-19e765cb82c6"
+    },
+    {
+      "AnswerID": "d79f9e4d-1021-404f-8b9f-c969fae05384",
+      "AnswerContent": "维护监管机构的权威性是股权投资基金监管的首要目标，也是实现依法监管和高效监管的基础",
+      "QuestionId": "5653a236-1dea-4e3c-becc-63d512b1a3bd"
+    },
+    {
+      "AnswerID": "b05ef2de-0a78-4e88-924d-4f381b76c3a1",
+      "AnswerContent": "管理费是基金托管人向基金投资人收取的费用，按投资规模的一定比例收取",
+      "QuestionId": "c3846411-32e9-4399-9f3b-6967e3635691"
+    },
+    {
+      "AnswerID": "0ff784a2-1a1c-4a97-90a3-ec629a7ce1ad",
+      "AnswerContent": "银行贷款可以作为杠杆收购主要的资金来源",
+      "QuestionId": "30f0c21d-c4a1-4cef-a62b-44e30aa9deb7"
+    },
+    {
+      "AnswerID": "b4b12f94-02f5-4652-b070-d580c755e4cd",
+      "AnswerContent": "基金募集机构需向普通投资者以纸质或电子文档的方式进行特别警示，告知该产品或服务风险高于投资者承受能力",
+      "QuestionId": "57c70d30-2e84-4c53-9c19-65e7fd6edf3d"
+    },
+    {
+      "AnswerID": "8c54bf87-8e6c-4caa-884b-033a4c66ba92",
+      "AnswerContent": "股权投资基金管理人应遵循专业化原则，主营业务清晰，不得兼营与股权投资基金管理无关或存在利益冲突的其他业务",
+      "QuestionId": "3d8d3cc7-606c-490e-bb50-4f9a04f5eee8"
+    },
+    {
+      "AnswerID": "59b37ab2-ba54-477a-b4e6-8bfc2d79c0a8",
+      "AnswerContent": "对于早期阶段的被投资企业，增值服务侧重在资源导入，兼并收购，上市推动等方面",
+      "QuestionId": "14385b94-b50b-4b7e-9c13-65d7e4676064"
+    },
+    {
+      "AnswerID": "ca7e9692-4f12-4597-8bcb-83459b493d38",
+      "AnswerContent": "本基金的财产份额不得以任何方式公开募集或发行",
+      "QuestionId": "b2b3f0e2-4262-42b9-b061-c31b103dd30f"
+    },
+    {
+      "AnswerID": "2a5a4cd5-078f-4da4-8273-e0e166e37a32",
+      "AnswerContent": "基金托管人",
+      "QuestionId": "4d3a4207-0451-471a-a6bd-89115f872a7e"
+    },
+    {
+      "AnswerID": "fade0116-abda-4515-9f2a-5e3115d6ef20",
+      "AnswerContent": "保证不会因公司以更低发行价进行新一轮融资导致投资人股权贬值",
+      "QuestionId": "00032c4b-ef92-4b47-8e81-2d70d1fd904f"
+    },
+    {
+      "AnswerID": "0d8803c9-5ca5-4cdc-a411-9ff9342d49c9",
+      "AnswerContent": "8.3",
+      "QuestionId": "8e0b16ff-8fa4-43ad-a618-06fdddd7b666"
+    },
+    {
+      "AnswerID": "2c28bed9-17f8-4987-9d2b-d9feb4b6c5f1",
+      "AnswerContent": "基金托管人",
+      "QuestionId": "f6c8a33b-3dec-4852-aa13-66b7c5cb6cb6"
+    },
+    {
+      "AnswerID": "ee6e49b4-aa7b-4bea-bf3b-88a172c319d8",
+      "AnswerContent": "新设不到三个月、尚未开展具体经营的投资企业",
+      "QuestionId": "bb5f65a4-f9e8-41f6-8cde-96461ecc33f9"
+    },
+    {
+      "AnswerID": "c88c6a2a-41fd-4a57-ace8-44e0647ea749",
+      "AnswerContent": "0",
+      "QuestionId": "fb0b43ba-5970-46b2-acdf-1a2663ad1013"
+    },
+    {
+      "AnswerID": "3d982294-59f6-4a8b-9054-88ea33aa827f",
+      "AnswerContent": "员工回购",
+      "QuestionId": "a8ee3d38-9237-457d-849f-a954186c75fe"
+    },
+    {
+      "AnswerID": "fe9cc887-40fd-4183-90a2-fbec120dfa25",
+      "AnswerContent": "除非另有约定，基金合同中应当设置不少于24小时的投资冷静期",
+      "QuestionId": "d251afb6-c9df-4ef8-9207-1ead231fe941"
+    },
+    {
+      "AnswerID": "305a9e8f-75d2-4662-925b-e9a9e6b776c0",
+      "AnswerContent": "清算期间，公司不得开展新的经营活动，但清算组为清算目的有权处理公司尚未了结的业务",
+      "QuestionId": "c2f011cf-0279-42f6-b943-667237d79a28"
+    },
+    {
+      "AnswerID": "a661d50d-e6fa-4765-bfc9-00941a5276d6",
+      "AnswerContent": "基金因投资项目退出而分配给投资者的款项",
+      "QuestionId": "fe94cb23-f4d6-4de5-aaa3-9bcc46844a01"
+    },
+    {
+      "AnswerID": "a6aff7ce-7820-4dd8-968b-b48634903ffc",
+      "AnswerContent": "净资产不低于4亿元人民币",
+      "QuestionId": "49c4b936-e75f-472a-a946-f6069d6d11cb"
+    },
+    {
+      "AnswerID": "1b786bbc-6d21-4e90-83a6-1008389bd145",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
+      "QuestionId": "09d0545d-ed0e-42a9-bacb-e64ec25de4be"
+    },
+    {
+      "AnswerID": "9f1ffa31-64a1-4e56-b1c9-d720a46f7a94",
+      "AnswerContent": "《行政复议法》",
+      "QuestionId": "59622691-fb92-4c77-b6b6-7bb248f9b178"
+    },
+    {
+      "AnswerID": "7ce6b2c9-6704-427d-a648-7c54d1e1f637",
+      "AnswerContent": "Ⅲ、Ⅳ",
+      "QuestionId": "ac4d7e34-e30e-4cf3-956f-3130105eb0bc"
+    },
+    {
+      "AnswerID": "bbee084d-54ef-4f2c-bc6c-4017a22662ef",
+      "AnswerContent": "证券投资基金",
+      "QuestionId": "c94d47c9-f91f-4635-8f3b-4ae178e17b29"
+    },
+    {
+      "AnswerID": "0724e47d-2418-42b8-801f-1973268456b9",
+      "AnswerContent": "50%",
+      "QuestionId": "00366cc0-2392-4b38-9b49-4846cb9547b9"
+    },
+    {
+      "AnswerID": "47946467-369e-4070-9152-d01d9a76f77b",
+      "AnswerContent": "行业自律带有行政管理性质",
+      "QuestionId": "ae533a42-dd3a-4e30-b484-4548805b0c45"
+    },
+    {
+      "AnswerID": "52f172d5-2427-4f2b-88d7-f390276d7a7e",
+      "AnswerContent": "需关注重大合同履行过程中可能存在的不确定性",
+      "QuestionId": "46c3358d-f1f9-46f5-93fa-6f3c480de0fd"
+    },
+    {
+      "AnswerID": "ee4b4e4a-ed2a-4857-9dc7-f0d6584a077e",
+      "AnswerContent": "经营风险",
+      "QuestionId": "75cdfbea-9f8e-4794-85d8-11e50107f856"
+    },
+    {
+      "AnswerID": "6ada3358-a3ee-4b40-8e7d-be2d8d634726",
+      "AnswerContent": "基金服务机构接受管理人的委托，为股权投资基金提供服务",
+      "QuestionId": "f7934410-b110-4cf7-a346-675f32bcb913"
+    },
+    {
+      "AnswerID": "e057c09d-8c83-4c23-80c5-256a56f2c6d0",
+      "AnswerContent": "对于股权投资基金而言，其所投目标公司组合也属于商业秘密",
+      "QuestionId": "e83cb17d-0e26-4fb2-bf38-93bdb5619201"
+    },
+    {
+      "AnswerID": "b9e7d095-64b3-4460-8e85-6cbfb46b60cd",
+      "AnswerContent": "在排他期内，书面通知对方后，双方都可以提前终止排他期限",
+      "QuestionId": "49798ba1-91e0-4edb-b1f4-8fa195598a27"
+    },
+    {
+      "AnswerID": "438df550-f6a2-47d5-8033-3ef6513f1549",
+      "AnswerContent": "股东人数不超过200人",
+      "QuestionId": "1e747b0a-9ba8-4421-bd87-73cd84bd137c"
+    }
+  ]
 }
