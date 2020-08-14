@@ -2018,13 +2018,13 @@
     },
     {
       "QuestionId": "78cdf628-a2eb-47e2-82d4-06eb30cdf9ad",
-      "Topic": "国家对创业投资企业和天使投资个人在税收上给予特别支持，下列关于天使投资人甲相关税收事项的表述，正确的是（&nbsp;）。 ",
+      "Topic": "国家对创业投资企业和天使投资个人在税收上给予特别支持，下列关于天使投资人甲相关税收事项的表述，正确的是（&nbsp;）。&nbsp; ",
       "Score": 1.0,
       "PageNumber": 231,
       "IsShowPageNumber": true,
-      "AnalyticDesc": "本题考查股权投资基金税收支持政策。天使投资个人在试点地区投资多个初创科技型企业的，对其中办理注销清算的初创科技型企业，天使投资个人对其投资额的70%尚未抵扣完的，可自注销清算之日起36个月内抵扣天使投资个人转让其他初创科技型企业股权取得的应纳税所得额；法人合伙人、个人合伙人可以按照对初创科技型企业投资额的70%抵扣法人、个人合伙人从合伙创投企业分得的所得，当年不足抵扣的，可以在以后纳税年度结转抵扣。故“甲投资了一家初创科技型企业，同时也是这家初创科技企业的发起人，仍可享受相关税收政策”正确。",
+      "AnalyticDesc": "本题考查股权投资基金税收支持政策。天使投资个人在试点地区投资多个初创科技型企业的，对其中办理注销清算的初创科技型企业，天使投资个人对其投资额的70%尚未抵扣完的，可自注销清算之日起36个月内抵扣天使投资个人转让其他初创科技型企业股权取得的应纳税所得额；法人合伙人、个人合伙人可以按照对初创科技型企业投资额的70%抵扣法人、个人合伙人从合伙创投企业分得的所得，当年不足抵扣的，可以在以后纳税年度结转抵扣。故“甲投资多个初创科技性企业的，其中一家已办理注销清算，对其投资额的70%尚未抵扣完的部分，在其后一年内用以抵扣甲转让其他初创科技型企业股权”正确。",
       "KnowledgeId": "914a4ca8-50b8-4dbf-b078-16be5d987f52",
-      "AnswersIds": "92d6a391-f9ed-48aa-8d21-756237a43778",
+      "AnswersIds": "49dee413-9475-4ffd-9359-0480afe2cd34",
       "ParentID": null,
       "QuestionLevel": "",
       "AnalyticUrl": null,
@@ -2483,7 +2483,7 @@
       "QuestionId": "baa85200-2ef3-4233-912b-6b9f8e384fcf"
     },
     {
-      "AnswerID": "f2cf4acc-d4dd-4b07-9d14-700d0142852a",
+      "AnswerID": "7c92fb3b-e8f8-4264-83cf-212cdbcacda4",
       "AnswerContent": "甲与科技企业签订对赌条款，以可转债的方式投资，约定业绩若不达标则不转为股权，该笔投资仍可享受相关税收政策",
       "QuestionId": "78cdf628-a2eb-47e2-82d4-06eb30cdf9ad"
     },
@@ -3318,7 +3318,7 @@
       "QuestionId": "ffd014b2-512d-495f-b77c-298cae9694f9"
     },
     {
-      "AnswerID": "8e8573ad-6939-497e-b283-22bdb4d6b7db",
+      "AnswerID": "49dee413-9475-4ffd-9359-0480afe2cd34",
       "AnswerContent": "甲投资多个初创科技性企业的，其中一家已办理注销清算，对其投资额的70%尚未抵扣完的部分，在其后一年内用以抵扣甲转让其他初创科技型企业股权",
       "QuestionId": "78cdf628-a2eb-47e2-82d4-06eb30cdf9ad"
     },
@@ -3483,14 +3483,14 @@
       "QuestionId": "baa85200-2ef3-4233-912b-6b9f8e384fcf"
     },
     {
+      "AnswerID": "f6f4ec99-b8df-4304-b10d-8e0f879663d5",
+      "AnswerContent": "甲投资了一家初创科技型企业，同时也是这家初创科技企业的发起人，仍可享受相关税收政策",
+      "QuestionId": "78cdf628-a2eb-47e2-82d4-06eb30cdf9ad"
+    },
+    {
       "AnswerID": "4559482f-063d-4b36-ad22-26a611d169c0",
       "AnswerContent": "将企业分拆成可供出售的几个业务或资产包",
       "QuestionId": "6466c80a-f22a-40c2-81b2-ad2c039309ea"
-    },
-    {
-      "AnswerID": "92d6a391-f9ed-48aa-8d21-756237a43778",
-      "AnswerContent": "甲投资了一家初创科技型企业，同时也是这家初创科技企业的发起人，仍可享受相关税收政策",
-      "QuestionId": "78cdf628-a2eb-47e2-82d4-06eb30cdf9ad"
     },
     {
       "AnswerID": "485581c5-47ea-41a1-8df2-42b4ba98a775",
@@ -4313,7 +4313,12 @@
       "QuestionId": "ffd014b2-512d-495f-b77c-298cae9694f9"
     },
     {
-      "AnswerID": "55782d22-e1e0-4aa6-873c-b43c792700c0",
+      "AnswerID": "8aac69a2-2c5d-435e-a36f-b0d354e93ff4",
+      "AnswerContent": "估算单个业务或资产包的变现价值",
+      "QuestionId": "6466c80a-f22a-40c2-81b2-ad2c039309ea"
+    },
+    {
+      "AnswerID": "fe98f5f8-ffbc-479f-a3fd-0d742f326bad",
       "AnswerContent": "甲按照投资额的70%抵扣转让某初创科技型企业股权取得的应纳税所得额，如果当年不足抵扣的，不能在以后的纳税年度结转抵扣",
       "QuestionId": "78cdf628-a2eb-47e2-82d4-06eb30cdf9ad"
     },
@@ -4321,11 +4326,6 @@
       "AnswerID": "31b5c7ba-9e24-4d60-8667-bd812b7a6226",
       "AnswerContent": "Ⅰ、Ⅲ、Ⅳ",
       "QuestionId": "baa85200-2ef3-4233-912b-6b9f8e384fcf"
-    },
-    {
-      "AnswerID": "8aac69a2-2c5d-435e-a36f-b0d354e93ff4",
-      "AnswerContent": "估算单个业务或资产包的变现价值",
-      "QuestionId": "6466c80a-f22a-40c2-81b2-ad2c039309ea"
     },
     {
       "AnswerID": "9fb60e1a-3a41-4bb1-b459-cca6b31d2dbd",
@@ -4409,7 +4409,12 @@
       "CalculationScoreType": "0"
     }
   ],
-  "Label": [],
+  "Label": [
+    {
+      "QuestionId": "38dcb941-2690-4c3b-90f6-ea4f3369af7b",
+      "labelID": "eaec6ffc-03be-494d-ab2a-1e87fc3f7ce0"
+    }
+  ],
   "Wrong": [],
   "Schedule": [
     {

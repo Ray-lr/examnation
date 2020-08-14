@@ -1,0 +1,1339 @@
+{
+  "Topic": [
+    {
+      "QuestionId": "609e8a51-fee1-4bc0-9a60-f3727244ef09",
+      "Topic": "长江公司为增值税一般纳税人，2×19年9月购入一批原材料，增值税专用发票上注明的价款为50万元。增值税税额为6.5万元，款项已经支付。另以银行存款支付装卸费0.3万元（不考虑增值税），入库时发生挑选整理费0.2万元，运输途中发生合理损耗0.1万元。不考虑其他因素。该批原材料的入账成本为（　　）万元。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "存货的采购成本包括购买价款、运输费、装卸费、保险费以及其他可归属于存货采购成本的费用。所以本题中原材料的入账成本=50+0.3+0.2=50.5（万元）。",
+      "KnowledgeId": null,
+      "AnswersIds": "84ac4f51-9832-435d-9d91-36f4631ceddc",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909202
+    },
+    {
+      "QuestionId": "6bdcb47f-178c-4dda-9fbc-e7139aece3b7",
+      "Topic": "2020年2月1日，星辰公司以银行存款6&nbsp;000万元支付给华兴公司，作为取得华兴公司持有丙公司70%股权的合并对价。另发生评估、审计等中介费用10万元，已用银行存款支付。交易前华兴公司为星辰公司和丙公司的母公司，股权合并日被合并方丙公司在最终控制方华兴公司合并财务报表中的净资产的账面价值为10&nbsp;000万元（原母公司华兴公司未确认商誉）。星辰公司在合并日的会计处理中，不正确的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A，初始投资成本＝10&nbsp;000×70%＝7&nbsp;000（万元）；选项B，评估、审计等中介费用，应计入管理费用；选项C，同一控制下企业合并，长期股权投资初始投资成本7&nbsp;000万元与支付的银行存款6&nbsp;000万元之间的差额计入资本公积——股本溢价；选项D，同一控制下企业合并，不产生合并商誉。",
+      "KnowledgeId": null,
+      "AnswersIds": "997fc6c0-ea4b-4a16-be53-653787d91451",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909212
+    },
+    {
+      "QuestionId": "c3bd68da-7cb5-4f83-839d-93a25bb347d7",
+      "Topic": "长江公司将一栋自用办公楼转换为采用公允价值模式计量的投资性房地产，该办公楼的账面原值为5&nbsp;000万元，已计提累计折旧100万元，已计提固定资产减值准备200万元，转换日的公允价值为6&nbsp;000万元。下列关于长江公司在转换日的会计处理，不正确的是（　）。   ",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "自用房地产转为公允价值模式计量的投资性房地产时，贷方差额应计入其他综合收益；如是借方差额，则计入公允价值变动损益。",
+      "KnowledgeId": null,
+      "AnswersIds": "1f7bfb30-eb26-4500-975b-cfd98e028691",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909222
+    },
+    {
+      "QuestionId": "92bb1688-8aed-4e5b-8910-ae837aebdcac",
+      "Topic": "2020年7月1日，前程公司与蓝天公司签订合同，自蓝天公司购买ERP软件，当日投入使用。合同价款为5&nbsp;000万元，款项分五次支付，其中合同签订之日支付购买价款的20%，其余款项分四次自次年起每年7月1日支付1&nbsp;000万元。ERP软件购买价款的现值为4&nbsp;546万元，折现率为5%。该软件预计使用年限为5年，预计净残值为零，采用直线法摊销。假定不考虑增值税，下列关于前程公司购买的ERP软件相关会计处理的表述中，正确的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "2020年7月1日：<br>借：无形资产&nbsp;　　　　　　　　　　　　&nbsp;4&nbsp;546<br>未确认融资费用　　　　　　　　　　　454<br>贷：长期应付款　　　　　　　　　　　　　4&nbsp;000<br>银行存款&nbsp;　　　　　　　　　　　　　&nbsp;1&nbsp;000<br>12月31日：<br>借：财务费用　［（4&nbsp;000－454）×5%×1/2］88.65<br>贷：未确认融资费用　　　　　　　　　　　　&nbsp;88.65<br>选项A，ERP软件确认为无形资产并应按照现值4&nbsp;546万元入账；选项B，ERP软件应自2020年7月1日起在5年内平均摊销计入损益；选项C，长期应付款账面价值＝4&nbsp;000－（454－88.65）＝3&nbsp;634.65（万元）；选项D，无形资产账面价值＝4&nbsp;546－4&nbsp;546/5×6/12＝4&nbsp;091.4（万元）。",
+      "KnowledgeId": null,
+      "AnswersIds": "cdfd2356-d13c-4d7d-a0ae-cc9d3d18638e",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909232
+    },
+    {
+      "QuestionId": "b806998b-20f0-4d06-b2b5-b67d62c30683",
+      "Topic": "下列各项中，体现实质重于形式这一会计信息质量要求的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A、B，体现谨慎性会计信息质量要求；选项C，形式上不属于承租人的自有资产，但是实质上承租人已取得对该项资产的控制权，应作为自有资产核算，体现了实质重于形式会计信息质量要求,选项D，体现可比性会计信息质量要求。",
+      "KnowledgeId": null,
+      "AnswersIds": "0bf33d5a-4f95-47d1-b636-b0c064f4f63b",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909242
+    },
+    {
+      "QuestionId": "806df08e-251f-4677-b106-1a7cc8762b7f",
+      "Topic": "2019年1月31日，为遵守国家有关环保的法律规定，环球公司对A生产设备进行停工改造，安装环保装置B设备。3月31日，新安装的环保装置B设备达到预定可使用状态并交付使用，共发生成本600万元。A生产设备的成本为18&nbsp;000万元，至2019年1月31日，已计提折旧9&nbsp;000万元，未计提减值准备。A生产设备预计使用16年，已使用8年，安装环保装置B设备后还可使用8年；环保装置B设备预计使用5年。环球公司的固定资产按年限平均法计提折旧，预计净残值均为零。环球公司2019年度A生产设备与新安装的环保装置B设备相关会计处理，下列表述不正确的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项B，A设备与新安装的环保装置B设备应分别确认固定资产；选项C，A设备2019年计提的折旧金额＝A生产设备改造前折旧金额（不含环保装置）（18&nbsp;000/16×1/12）＋A生产设备改造后折旧金额（不含环保装置）9&nbsp;000/8×9/12＝937.5（万元）；选项D，新安装的环保装置B设备2019年计提的折旧金额＝600/5×9/12＝90（万元）。",
+      "KnowledgeId": null,
+      "AnswersIds": "88fb96f6-e4e7-4750-a638-426478854972",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909252
+    },
+    {
+      "QuestionId": "4aee6d6e-1546-464c-a02f-6cbbdb4cc22f",
+      "Topic": "2018年1月1日，A公司与B公司签订合同，允许B公司经营其连锁餐厅，双方协议约定，A公司每年收取特许权使用费40万元，按季度收取。合同签订日，符合收入确认条件，连锁餐厅自当日起交由B公司经营。2018年B公司财务状况良好，每季度向A公司提交经营报告和支付特许权使用费。但自2019年，周边又相继出现了其他几家餐厅，致使B公司经营的餐厅竞争压力倍增，顾客也日渐减少，从而财务状况下滑，现金不足，因此当年只支付了第一季度的特许权使用费，后三个季度均只支付了一半的特许权使用费。2020年财务状况进一步恶化，信用风险加剧，未支付当年特许权使用费。根据上述资料，A公司进行的下列会计处理中，不正确的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "2020年B公司财务状况进一步恶化，信用风险加剧，不再符合收入确认条件，所以A公司不再确认特许权使用费收入，同时对现有应收金额是否发生减值继续进行评估。",
+      "KnowledgeId": null,
+      "AnswersIds": "6982b632-5db9-487b-aab6-33c448c5e197",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909262
+    },
+    {
+      "QuestionId": "1fbef2f6-3b56-45e4-93b6-3f0625fa968c",
+      "Topic": "关于民间非营利组织受托代理业务的核算，下列表述中不正确的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "收到的受托代理资产如果为现金或银行存款的，可以不通过“受托代理资产”科目核算，而在“现金”“银行存款”科目下设置“受托代理资产”明细科目进行核算。",
+      "KnowledgeId": null,
+      "AnswersIds": "4f2e3e65-5cbf-4fc4-86ba-63920b6cba6d",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909272
+    },
+    {
+      "QuestionId": "830cffec-d1b9-4e01-950f-3ec9715ea68c",
+      "Topic": "2020年4月5日，黄河事业单位根据经过批准的部门预算和用款计划，向同级财政部门申请支付第一季度水费10万元。4月18日，财政部门经审核后，以财政直接支付方式向自来水公司支付了该单位的水费10万元。4月23日，黄河事业单位收到了“财政直接支付入账通知书”。该单位正确的会计处理是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "正确会计处理如下。<br>①在预算会计中：<br>借：事业支出　　　　　10<br>贷：财政拨款预算收入　10<br>②同时在财务会计中：<br>借：单位管理费用　　　10<br>贷：财政拨款收入　　　10",
+      "KnowledgeId": null,
+      "AnswersIds": "993b55e3-b786-4598-824b-993183d5f3fe",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909282
+    },
+    {
+      "QuestionId": "f6f63db0-c267-4f0e-aae7-b0332d2ee7b4",
+      "Topic": "下列各项中，属于企业现金流量表中“筹资活动产生的现金流量”的是（　）。",
+      "Score": 1.5,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A，属于“收回投资收到的现金”项目；选项C，属于“处置固定资产、无形资产和其他长期资产收回的现金净额”项目；选项D，属于“取得投资收益收到的现金”项目。选项A、C、D都是“投资活动产生的现金流量”。",
+      "KnowledgeId": null,
+      "AnswersIds": "acae4318-392e-4d88-8692-78fbeb5717c9",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909292
+    },
+    {
+      "QuestionId": "966314f4-d604-471e-8b89-7789d4ba9715",
+      "Topic": "下列有关存货会计处理的表述中，正确的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "购买商品运输途中发生的合理损耗不应从存货总成本中扣除，选项B错误。",
+      "KnowledgeId": null,
+      "AnswersIds": "5038925c-54a7-495e-bb9c-459cdaadb9e7,cc3182b5-b8ae-449d-9de8-660c8737316a,e7254e5c-bf17-46a4-b104-002e16ae81c8",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909302
+    },
+    {
+      "QuestionId": "8d825708-160a-4a63-97dd-ba2f27c5e630",
+      "Topic": "下列有关固定资产的会计处理表述中，不正确的有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项B，与固定资产有关的后续支出符合固定资产确认条件的应该计入固定资产成本；选项D，自行建造的固定资产成本由该固定资产达到预定可使用状态前所发生的必要支出构成。",
+      "KnowledgeId": null,
+      "AnswersIds": "e05457ea-3524-43b9-b9b4-d95ef56c0019,08752b05-a4b1-4795-9279-f84434a35f43",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909312
+    },
+    {
+      "QuestionId": "9dd05216-68cb-456f-8151-a4ec39338e03",
+      "Topic": "下列关于长期股权投资的事项中，投资企业应确认为投资收益的有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项B，应记入“营业外收入”科目。",
+      "KnowledgeId": null,
+      "AnswersIds": "3aba6349-c6e3-4022-9b8f-d2651147a5d8,4e32eea1-e018-4348-bbf8-7c06ffbc7f2d,4aee6f32-90ab-4ee5-80b9-e915ba02adf2",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909322
+    },
+    {
+      "QuestionId": "bbdd9a45-0f50-46d6-a188-deae4e264c03",
+      "Topic": "下列有关无形资产会计处理的表述中，正确的有（　）。 ",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项B，应当将该无形资产的账面价值转入营业外支出。",
+      "KnowledgeId": null,
+      "AnswersIds": "2778d0b7-1337-4a66-af14-936e0812e208,4fb934f6-439a-4e82-9be6-d3a6d8628d9b,2f542442-4d1b-498d-8ca2-369229fcba28",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909332
+    },
+    {
+      "QuestionId": "81d5d648-8435-4f5e-beac-81920fb00136",
+      "Topic": "M公司是一家著名的“中超”足球俱乐部。M公司2020年年初授权A公司在其设计生产的服装、帽子、水杯以及毛巾等特许产品上使用M公司球队的名称和图标，授权期间为3年。合同约定，M公司收取的合同对价由两部分组成：（1）600万元固定金额的使用费；（2）每年按照A公司销售上述商品所取得销售额的10%计算的提成。A公司预期M公司会继续参加国内顶级联赛，并取得优异的成绩。M公司2020年一次性收取A公司支付的600万元固定金额的使用费，A公司2020年销售特许产品已确认收入为2&nbsp;000万元。M公司2020年有关确认收入表述正确的是（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A，该合同仅包括一项履约义务，即授予使用权许可，M公司继续参加比赛并取得优异成绩等活动是该许可的组成部分，而并未向客户转让任何可明确区分的商品或服务。由于A公司能够合理预期M公司将继续参加比赛，M公司的成绩将会对其品牌（包括名称和图标等）的价值产生重大影响，而该品牌价值可能会进一步影响A公司产品的销量，M公司从事的上述活动并未向A公司转让任何可明确区分的商品，因此，M公司授予的该使用权许可，属于在某一时段内履行的履约义务。<br>选项B、C、D，M公司收取的600万元固定金额的使用费应当在3年内平均确认收入，按照A公司销售相关商品所取得销售额的10%计算的提成应当在A公司的销售实际完成时确认收入。M公司2020年确认收入的金额＝600/3＋2&nbsp;000×10%＝400（万元）。",
+      "KnowledgeId": null,
+      "AnswersIds": "0c9aa728-98e1-4c49-8d46-dae56844aff6,451cd3dd-0db2-4e28-a020-4c47abfc54d5,ccc8e8f0-823c-4bf9-b320-ddac480ebaec",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909342
+    },
+    {
+      "QuestionId": "f9814b24-8d27-4681-b7ed-9c33289bbb15",
+      "Topic": "下列项目中，应计入当期损益的有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A，外币一般借款产生的汇兑差额不允许资本化，一律计入财务费用；选项B，外币兑换业务的折算差额，计入财务费用。",
+      "KnowledgeId": null,
+      "AnswersIds": "d4721213-5d83-4814-bc6b-8f12151f778d,f3d4035f-8954-491e-ae69-51c3ad3db6a6",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909352
+    },
+    {
+      "QuestionId": "475f2063-783d-4967-b52f-46e511a4100b",
+      "Topic": "2019年12月31日，A事业单位经与代理银行提供的对账单核对无误后，将300万元零余额账户用款额度予以注销。2020年度，该单位收到代理银行提供的额度恢复到账通知书。大美事业单位正确的会计处理有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "A事业单位正确会计处理如下：<br>　　（1）2019年末，依据代理银行提供的对账单作注销额度（已下达的用款额度）。<br>　　①在预算会计中：<br>　　借：资金结存——财政应返还额度　　　300<br>　　　　贷：资金结存——零余额账户用款额度　300<br>　　②同时在财务会计中：<br>　　借：财政应返还额度——财政授权支付　300<br>　　　　贷：零余额账户用款额度　　　　　　　300<br>　　（2）2020年初恢复额度时。<br>　　①在预算会计中：<br>　　借：资金结存——零余额账户用款额度　300<br>　　　　贷：资金结存——财政应返还额度　　　300<br>　　②同时在财务会计中：<br>　　借：零余额账户用款额度　　　　　　　300<br>　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;贷：财政应返还额度——财政授权支付　300",
+      "KnowledgeId": null,
+      "AnswersIds": "48c077c5-0ecb-4e26-9a75-e464e046eec4,a08e915b-21d4-420b-a43e-367a0c47d36c,b74e3dd2-fbfa-4767-bb5c-3a9bc7b93b51,d7b6ceb4-da64-431d-84f7-a239562a3cfe",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909362
+    },
+    {
+      "QuestionId": "89f166c9-d9bd-4e9a-b31f-896ec077747b",
+      "Topic": "下列关于未来适用法的各项表述中，不正确的有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "未来适用法，是指将变更后的会计政策应用于变更日及以后发生的交易或事项，或者在会计估计变更当期和未来期间确认会计估计变更影响数的方法。不追溯调整，不调整期初留存收益和资产负债表年初余额。",
+      "KnowledgeId": null,
+      "AnswersIds": "7eafa021-adce-49ed-9cb8-810990abbda6,4126254c-6a2f-4ef0-873a-f8740c092c44",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909372
+    },
+    {
+      "QuestionId": "ec0e4565-be98-4385-bc0e-e64a34d85c1d",
+      "Topic": "下列关于民间非营利组织业务活动成本的表述，正确的有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "会计期末应将当期发生的业务活动成本转入非限定性净资产。",
+      "KnowledgeId": null,
+      "AnswersIds": "6fc2ac2e-26cf-45a2-a4af-a5ae59eb87f5,73b99c76-c6a3-451c-bfe5-453570c82840,b6b5ad13-9da8-4f90-9e2a-e39a092f74af",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909382
+    },
+    {
+      "QuestionId": "48f9353e-4115-41d0-97c6-6540ad5f3302",
+      "Topic": "大美股份有限公司2019年年度财务报告经董事会批准对外公布的日期为2020年4月3日。该公司2020年1月1日至4月3日发生的下列事项中，不应当作为资产负债表日后调整事项的有（　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A、D，属于非调整事项。",
+      "KnowledgeId": null,
+      "AnswersIds": "69c7a3ab-d7d3-423a-a066-9009cfed1377,e0b1b54b-325b-4bb9-8615-c49feef20187",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909392
+    },
+    {
+      "QuestionId": "4ad0bf3c-060f-4e58-aa84-8651bd64c8ca",
+      "Topic": "对于同时包含与资产相关和与收益相关的政府补助，难以区分的，企业应当将其整体归类为与资产相关的政府补助进行处理。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "对于同时包含与资产相关和与收益相关的政府补助，企业应当将其进行分解，区分不同部分分别进行会计处理；难以区分的，企业应当将其整体归类为与收益相关的政府补助进行处理。",
+      "KnowledgeId": null,
+      "AnswersIds": "e1200a2b-de35-4899-ba3b-f262afba2b54",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909402
+    },
+    {
+      "QuestionId": "92bf0edb-0605-4c7d-b3a0-061dfe67d71e",
+      "Topic": "民间非营利组织资产负债表日至财务报告批准报出日之间发生的报告期间或以前期间的销售退回，冲减当期商品销售收入等。（　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "应当作为资产负债表日后事项的调整事项处理，调整报告期间会计报表的相关项目。",
+      "KnowledgeId": null,
+      "AnswersIds": "43ae0e12-b9e0-4440-a764-0de8874e7a6f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909412
+    },
+    {
+      "QuestionId": "f09d6a7f-107f-4804-8a71-bafc65028678",
+      "Topic": "确认递延所得税资产或负债的同时，一定会影响利润表“所得税费用”项目的金额。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "不一定影响所得税费用，也可能计入其他综合收益、留存收益等所有者权益项目。",
+      "KnowledgeId": null,
+      "AnswersIds": "194170f5-dab2-4a03-846b-7bd0fcec1482",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909422
+    },
+    {
+      "QuestionId": "638243b2-ac2d-4521-ad31-261fa46bf11c",
+      "Topic": "企业为减少本年度亏损而调减计提的资产减值准备金额，体现了会计核算的谨慎性要求。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题该种情况属于滥用会计政策，并未体现谨慎性要求",
+      "KnowledgeId": null,
+      "AnswersIds": "d6004635-43d2-46bb-9343-2c3100c6d20e",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909432
+    },
+    {
+      "QuestionId": "9653dfc9-03d5-4379-a87b-017389907428",
+      "Topic": "在无形资产的摊销期内，当无形资产的账面价值低于其重新估计后的残值时，该无形资产应停止摊销，以后期间均不再恢复摊销。（　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "当重新估计的残值降至低于账面价值时，需要恢复摊销。",
+      "KnowledgeId": null,
+      "AnswersIds": "dc20a1cf-d4b4-48ab-84ed-343695e9de26",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909442
+    },
+    {
+      "QuestionId": "8a8e5ac7-86a9-4cc2-bd20-35e6c7b03cc7",
+      "Topic": "采用公允价值模式计量的投资性房地产，资产负债表日其公允价值与账面价值的差额记入“公允价值变动损益”科目。（　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "题干正确",
+      "KnowledgeId": null,
+      "AnswersIds": "421fad72-fdc1-4148-b08c-8dd5261ed6f9",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909452
+    },
+    {
+      "QuestionId": "6223fe85-090f-4486-b4d9-0fcebb0bc07b",
+      "Topic": "长期股权投资采用成本法核算的，在持有过程中被投资单位宣告发放的现金股利属于其在取得投资前被投资单位实现的净利润的分配额的，应作为投资成本的收回，借记“应收股利”",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "长期股权投资采用成本法核算的，在持有过程中被投资单位宣告发放的现金股利，不论是属于其在取得投资前还是投资后被投资单位实现的净利润的分配额，均应借记“应收股利”科目，贷记“投资收益”科目。",
+      "KnowledgeId": null,
+      "AnswersIds": "1c913012-efd4-401a-8b18-c6e7aa1df57f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909462
+    },
+    {
+      "QuestionId": "5d9cdd2f-b1ce-4eb0-8858-e85f18788215",
+      "Topic": "企业应以包括使用固定资产在内的经济活动产生的收入为基础计提折旧。（　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业选择固定资产折旧方法时，应当根据与固定资产有关的经济利益的预期消耗方式作出决定。由于收入可能受到投入、生产过程、销售等因素的影响，这些因素与固定资产有关经济利益的预期消耗方式无关。因此，企业不应以包括使用固定资产在内的经济活动所产生的收入为基础计提折旧。",
+      "KnowledgeId": null,
+      "AnswersIds": "d2c67ba4-f988-495f-894f-62a172ae8b12",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909472
+    },
+    {
+      "QuestionId": "169df1df-f7f9-498d-bee7-deb4829372e6",
+      "Topic": "对于使用寿命不确定的无形资产，在持有期间内不需要摊销，但需要至少于每一会计期末进行减值测试；对于使用寿命有限的无形资产，会计期末不需要进行减值测试。（　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "对于使用寿命有限的无形资产，如果有确凿证据表明资产存在减值迹象的，应在会计期末进行减值测试。",
+      "KnowledgeId": null,
+      "AnswersIds": "250e8ba8-3ef5-4719-aa14-523f3cb8544d",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909482
+    },
+    {
+      "QuestionId": "f1942f63-e772-412e-a200-42cf82c67926",
+      "Topic": "企业持有的需要进一步加工才能对外销售的存货，其可变现净值应以该存货的市场销售价格为基础计算。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "应当以该存货加工完成后的产成品的市场价格或合同价格为基础计算。",
+      "KnowledgeId": null,
+      "AnswersIds": "a0289cd9-3cbe-4ce4-adbe-4f953f5655f7",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909492
+    },
+    {
+      "QuestionId": "49373014-f87c-4237-bcf6-e824826db455",
+      "Topic": "甲公司期末存货采用成本与可变现净值孰低计量。有关资料如下：<br>资料一：2×19年12月31日，甲公司结存A产品200件，每件成本为12万元，账面余额为2&nbsp;400万元，A产品的市场价格为每件11.8万元，预计销售每件A产品还将发生相关税费0.8万元；对于A产品，甲公司与另一企业已签订一份不可撤销合同，该合同规定甲公司以每件13.1万元向该企业销售80件A产品。<br>资料二：2×19年12月31日，甲公司结存B在产品300件，每件成本为5万元，账面余额为1&nbsp;500万元。B在产品专门用于生产B产成品，B产成品的市场价格为8.5万元，将每件B在产品加工成产成品预计还将发生成本3.8万元，预计销售每件B产成品将发生相关税费0.5万元。<br>资料三：2×19年12月31日，甲公司持有丁原材料400件，成本为每件5.3万元。每件丁原材料可加工成一件C产品，加工过程中需发生的费用为每件0.8万元，销售过程中估计将发生运输费用为每件0.2万元。2×19年12月31日，丁原材料的市场价格为每件5.1万元，C产品的市场价格为每件6万元。<br>假定甲公司存货按单个项目计提存货跌价准备，2×19年12月31日计提存货跌价准备前，存货跌价准备余额为0，不考虑增值税及其他因素的影响。<br>要求：<br>（1）根据资料一，计算2×19年12月31日A产品应当确认的资产减值损失金额，并编制2×19年年末与计提资产减值相关的会计分录；<br>（2）根据资料二，计算2×19年12月31日B在产品应当确认的资产减值损失金额，并编制2×19年年末与计提资产减值相关的会计分录；<br>（3）根据资料三，计算2×19年12月31日丁原材料应当确认的资产减值损失金额，并编制2×19年年末与计提资产减值相关的会计分录。",
+      "Score": 10.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）2×19年12月31日合同数量内的80件A产品单位可变现净值=13.1-0.8=12.3（万元），大于单位成本12万元，未发生减值。<br>合同数量外的120件A产品单位可变现净值=11.8-0.8=11（万元），小于单位成本12万元，发生减值。<br>A产品应计提减值损失的金额=（12-11）×（200-80）=120（万元）。<br>会计分录为：<br>借：资产减值损失　　　　　　　　　　　　　　　　&nbsp;120<br>　贷：存货跌价准备—A产品　　　　　　　　　　　　　120<br>（2）2×19年12月31日B产成品单位可变现净值=8.5-0.5=8（万元），B产成品的单位成本=5+3.8=8.8（万元），由于B产成品的单位可变现净值低于单位成本，B产成品发生减值，所以B在产品应按可变现净值计量。<br>B在产品应计提减值损失的金额=［5-（8.5-3.8-0.5）］×300=240（万元）。<br>会计分录为：<br>借：资产减值损失　　　　　　　　　　　　　　　　&nbsp;240<br>　贷：存货跌价准备—B在产品　　　　　　　　　　　　240<br>（3）每件C产品的可变现净值=6-0.2=5.8（万元），每件C产品的成本=5.3+0.8=6.1（万元），丁原材料专门生产的C产品发生了减值，因此表明丁原材料应按其可变现净值计量。每件丁原材料的可变现净值=6-0.8-0.2=5（万元），每件丁原材料的成本为5.3万元，因此丁原材料应该计提减值金额=（5.3-5）×400=120（万元）。<br>会计分录为：<br>借：资产减值损失　　　　　　　　　　　　　　　　&nbsp;120<br>　贷：存货跌价准备—丁原材料　　　　　　　　　　　&nbsp;120",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "计算分析题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909502
+    },
+    {
+      "QuestionId": "dacc74c5-ec45-4f50-b192-fc0387ba0687",
+      "Topic": "橘子公司2×19年年初递延所得税负债的余额为零，递延所得税资产的余额为30万元（系2×18年年末应收账款的可抵扣暂时性差异产生）。橘子公司2×19年度有关交易和事项的会计处理中，与税法规定存在差异的有：<br>资料一：2×19年1月1日，购入一项非专利技术并立即用于生产A产品，成本为200万元，因无法合理预计其带来经济利益的期限，作为使用寿命不确定的无形资产核算。2×19年12月31日，对该项无形资产进行减值测试后未发现减值。根据税法规定，企业在计税时，对该项无形资产按照10年的期限采用直线法摊销，有关摊销额允许税前扣除。<br>资料二：2×19年1月1日，按面值购入当日发行的三年期国债1&nbsp;000万元，作为债权投资核算。该债券票面年利率为5%，每年年末付息一次，到期偿还面值。2×19年12月31日，橘子公司确认了50万元的利息收入。根据税法规定，国债利息收入免征企业所得税。<br>资料三：2×19年12月31日，应收账款账面余额为10&nbsp;000万元，减值测试前坏账准备的余额为200万元，减值测试后补提坏账准备100万元。根据税法规定，提取的坏账准备不允许税前扣除。<br>资料四：2×19年度，橘子公司实现的利润总额为9&nbsp;970万元，适用的所得税税率为15%；预计从2×20年开始适用的所得税税率为25%，且未来期间保持不变。假定未来期间能够产生足够的应纳税所得额用以抵扣可抵扣暂时性差异，不考虑其他因素。<br>要求：<br>（1）分别计算橘子公司2×19年度应纳税所得额和应交所得税的金额。<br>（2）分别计算橘子公司2×19年年末资产负债表“递延所得税资产”“递延所得税负债”项目“期末余额”栏应列示的金额。<br>（3）计算确定橘子公司2×19年度利润表“所得税费用”项目“本年金额”栏应列示的金额。<br>（4）编制橘子公司与确认应交所得税、递延所得税资产、递延所得税负债和所得税费用相关的会计分录。",
+      "Score": 12.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）橘子公司2×19年度应纳税所得额=9&nbsp;970-200/10（税法上无形资产摊销金额）-50（国债免税利息收入）+100（补提的坏账准备）=10&nbsp;000（万元）；<br>橘子公司2×19年度应交所得税=10&nbsp;000×15%=1&nbsp;500（万元）。<br>【提示】计算当期所得税时用当期的所得税税率，计算递延所得税时用未来的所得税税率。<br>（2）<br>①资料一：<br>该无形资产的使用寿命不确定，且2×19年年末未计提减值准备，所以该无形资产的账面价值为200万元，税法上按照10年进行摊销，因而计税基础=200-200/10=180（万元），产生应纳税暂时性差异=200-180=20（万元），递延所得税负债的余额=20×25%=5（万元）。<br>②资料二：<br>该债权投资的账面价值与计税基础相等，均为1000万元，不产生暂时性差异，不确认递延所得税。<br>③资料三：<br>该应收账款账面价值=10&nbsp;000-200-100=9&nbsp;700（万元），由于按照税法规定计提的坏账准备在实际发生损失前不允许税前扣除，所以计税基础为10&nbsp;000万元，产生可抵扣暂时性差异，递延所得税资产余额=（10&nbsp;000-9&nbsp;700）×25%=75（万元）。<br>④根据上述分析，“递延所得税资产”项目期末余额=（10&nbsp;000-9&nbsp;700）×25%=75（万元）；“递延所得税负债”项目期末余额=20×25%=5（万元）。<br>（3）本期确认的递延所得税负债=20×25%=5（万元），本期确认的递延所得税资产=75-30=45（万元）；<br>发生的递延所得税费用=本期确认的递延所得税负债-本期确认的递延所得税资产=5-45=-40（万元）；<br>所得税费用本期发生额=1&nbsp;500-40=1&nbsp;460（万元），即“所得税费用”项目“本年金额”应列示1&nbsp;460万元。<br>（4）相关会计分录：<br>借：所得税费用　　　　　　　　　　　　　　　　&nbsp;1&nbsp;460<br>　　递延所得税资产　　　　　　　　　　　　　　　　45<br>　贷：应交税费——应交所得税　　　　　　　　　　&nbsp;1&nbsp;500<br>　　　递延所得税负债　　　　　　　　　　　　　　　　&nbsp;5",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "计算分析题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909512
+    },
+    {
+      "QuestionId": "a3580ed5-8a39-40d4-bf40-71e7d040fccb",
+      "Topic": "大美股份有限公司为境内上市公司（以下简称“大美公司”），2019年度财务报告于2020年3月31日批准对外报出。大美公司2019年度的所得税汇算清缴完成日为2020年3月31日，适用的所得税税率为25%（假定大美公司发生的可抵扣暂时性差异预计在未来3年内能够转回，公司计提的各项资产减值准备均作为暂时性差异处理。不考虑除所得税以外的其他相关税费）。大美公司按净利润的10%提取法定盈余公积，按净利润的5%提取任意盈余公积。在2019年度的财务报告批准报出之前，发现大美公司如下事项的会计处理不正确：<br>　　资料一：大美公司于2019年1月1日取得A公司20%的股权作为长期股权投资。2019年12月31日对A公司长期股权投资的账面价值为20&nbsp;000万元，公允价值减去处置费用后的净额为17&nbsp;000万元，未来现金流量现值为19&nbsp;000万元。出于谨慎考虑，大美公司将长期股权投资的可收回金额预计为17&nbsp;000万元。其会计处理如下：<br>　　借：资产减值损失　　　　　　3&nbsp;000<br>　　　　贷：长期股权投资减值准备　　3&nbsp;000<br>　　资料二：B公司为大美公司的第二大股东，持有大美公司20%的股份，共计1&nbsp;800万股。因B公司欠大美公司3&nbsp;000万元逾期未偿还，大美公司于2019年4月1日向人民法院提出申请，要求法院采取诉前保全措施，保全B公司所持有的大美公司法人股。同年9月29日，人民法院向大美公司送达民事裁定书同意上述申请。<br>　　大美公司于9月30日对B公司提起诉讼，要求B公司偿还欠款。至2019年12月31日，此案件尚在审理中。大美公司估计该诉讼案件很可能胜诉，并可从保全的B公司所持大美公司股份的处置收入中收回全部欠款，大美公司调整了应交所得税。<br>　　大美公司于2019年12月31日进行会计处理如下：<br>　　借：其他应收款　　3&nbsp;000<br>　　　　贷：营业外收入　　3&nbsp;000<br>　　资料三：2020年2月4日，大美公司收到某供货单位的通知，被告知该供货单位2020年1月20日发生火灾，大部分设备和厂房被毁，不能按期交付大美公司所订购货物，且无法退还大美公司预付的购货款200万元。大美公司已通过法律途径要求该供货单位偿还预付的货款并要求承担相应的赔偿责任。大美公司按200万元全额计提坏账准备。大美公司的会计处理如下：<br>　　借：以前年度损益调整——信用减值损失　200<br>　　　　贷：坏账准备　　　　　　　　　　　　　200<br>　　借：递延所得税资产　　　　　　　　　　&nbsp;50<br>　　　　贷：以前年度损益调整——所得税费用　　&nbsp;50<br>　　资料四：大美公司2019年7月1日用银行存款1&nbsp;000万元购入C公司股份的25%，并对C公司具有重大影响，但大美公司对C公司的投资采用成本法核算。C公司2019年7月1日的所有者权益账面价值为2&nbsp;890万元，可辨认净资产的公允价值为3&nbsp;000万元；取得投资时被投资单位仅有一项无形资产的公允价值与账面价值不相等，除此以外，其他可辨认资产、负债的账面价值与公允价值相等。该无形资产原值为500万元，已计提摊销200万元，C公司预计使用年限为10年，净残值为零，按照直线法摊销；大美公司投资时预计该无形资产公允价值为600万元，预计剩余使用年限为6年，净残值为零，按照直线法摊销。<br>　　C公司2019年度下半年实现净利润705万元，双方没有发生内部交易。大美公司拟长期持有该股权。<br>　　大美公司2019年7月1日的会计处理如下：<br>　　借：长期股权投资——C公司　1&nbsp;000<br>　　　　贷：银行存款　　　　　　　&nbsp;1&nbsp;000<br>　　2019年大美公司对C公司的投资未进行其他会计处理。<br>　　资料五：大美公司对上述各项交易或事项均已确认暂时性差异的所得税费用影响。<br>　　要求：（“以前年度损益调整”不要求列示调整项目的名称，答案中金额单位用万元表示）<br>（1）对大美公司上述不正确的会计处理做出调整分录。<br>（2）合并编制以前年度损益调整结转到利润分配和调整盈余公积的会计分录。",
+      "Score": 15.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "(1)资料一，长期股权投资的可收回金额应为19&nbsp;000万元，应计提减值准备＝20&nbsp;000－19&nbsp;000＝1&nbsp;000（万元），多计提减值准备2&nbsp;000万元。<br>　　借：长期股权投资减值准备　　　2&nbsp;000<br>　　　　贷：以前年度损益调整　　　　　2&nbsp;000<br>　　借：以前年度损益调整　　　　　　500<br>　　　　贷：递延所得税资产（2&nbsp;000×25%）500<br>　　资料二，因为是很可能胜诉，并不是基本确定收到款项，不应该确认资产，应将其作为或有资产在报表附注中披露。<br>　　借：以前年度损益调整　　　　　　　　　3&nbsp;000<br>　　　　贷：其他应收款　　　　　　　　　　　　3&nbsp;000<br>　　借：应交税费——应交所得税（3&nbsp;000×25%）750<br>　　　　贷：以前年度损益调整　　　　　　　　　　750<br>　　资料三，属于当期业务，不能调整报告年度的会计报表。<br>　　借：信用减值损失　　　　　　　　　　　　200<br>　　　　贷：以前年度损益调整　　　　　　　　　　200<br>　　借：以前年度损益调整　　　　　　　　　　&nbsp;50<br>　　　　贷：所得税费用　　　　　　　　　　　　　&nbsp;50<br>　　资料四，应按照权益法核算。因为初始投资成本1&nbsp;000万元大于可辨认净资产公允价值的份额750万元（3&nbsp;000×25%），产生正商誉，无须调整初始投资成本。<br>　　借：长期股权投资——投资成本　　　　　1&nbsp;000<br>　　　　贷：长期股权投资——C公司　　　　　　&nbsp;1&nbsp;000<br>　　调整后的净利润＝705－（600/6－500/10）/2＝680（万元）。<br>　　借：长期股权投资——损益调整（680×25%）170<br>　　　　贷：以前年度损益调整　　　　　　　　　　170<br>（2）结转以前年度损益调整余额，调整2019年利润分配和盈余公积。<br>　　借：利润分配——未分配利润　　430<br>　　　　贷：以前年度损益调整　　　　　430<br>　　借：盈余公积——法定盈余公积　&nbsp;43<br>　　　　　　　　——任意盈余公积　&nbsp;21.5<br>　　　　贷：利润分配——未分配利润　　&nbsp;64.5<br>【解析】第（1）问中资料三属于当年业务，直接调整2020年的相关项目即可，不能调整2019年度报表。因此，2020年计提坏账准备并确认递延所得税资产的处理不影响2019年度报表，原错误做法需要更正。",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "综合题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909522
+    },
+    {
+      "QuestionId": "6e3d48b6-2046-4dde-b3f0-4a3addb6fd34",
+      "Topic": "J公司有关投资业务资料如下（不考虑所得税影响，J公司按照净利润的10%提取盈余公积）：<br>　　资料一：2019年7月1日，J公司以银行存款7&nbsp;500万元从其他股东处购买了H公司5%的股权。J公司与H公司的原股东在交易前不存在任何关联方关系，假定J公司对H公司5%的股权投资指定为其他权益工具投资核算；2019年12月31日，5%的股权投资的公允价值为8&nbsp;000万元。<br>　　资料二：2020年2月1日，J公司又以银行存款95&nbsp;000万元作为对价从H公司其他股东处购买了H公司50%的股权，追加投资后，J公司对H公司的持股比例上升为55%，取得了对H公司的控制权。该分步交易不属于一揽子交易。<br>　　2020年2月1日H公司可辨认净资产的账面价值总额为188&nbsp;400万元（其中股本80&nbsp;000万元、资本公积100&nbsp;000万元、其他综合收益1&nbsp;000万元、盈余公积700万元、未分配利润6&nbsp;700万元），公允价值为188&nbsp;500万元，其差额100万元为存货评估增值（至本年年末尚未对外出售）。原持有5%的股权投资的公允价值为9&nbsp;300万元。2020年2月1日至2020年12月31日H公司实现净利润为0，未分配现金股利，其他所有者权益未发生任何变动。<br>　　要求：（答案中的金额单位用万元表示）<br>（1）编制J公司2019年7月1日、2019年12月31日有关投资的会计分录。<br>（2）计算购买日J公司个别财务报表长期股权投资的初始投资成本，并编制会计分录。<br>（3）计算2020年2月1日J公司合并报表应确认的合并成本及其商誉，并编制2020年12月31日合并报表相关调整、抵销分录。",
+      "Score": 18.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "(1)2019年7月1日：<br>　　借：其他权益工具投资——成本　　　　7&nbsp;500<br>　　　　贷：银行存款　　　　　　　　　　　　7&nbsp;500<br>　　2019年12月31日：<br>　　借：其他权益工具投资——公允价值变动　500<br>　　　　贷：其他综合收益　　　（8&nbsp;000－7&nbsp;500）500<br>（2）购买日的长期股权投资初始投资成本＝9&nbsp;300＋95&nbsp;000＝104&nbsp;300（万元）。<br>　　借：长期股权投资　　　　　　　　　　　　　　　　104&nbsp;300<br>　　　　贷：其他权益工具投资——成本　　　　　　　　　　　7&nbsp;500<br>　　　　　　　　　　　　　　——公允价值变动　　　　　　　　500<br>　　　　　　盈余公积　　　　　　　　&nbsp;[（9&nbsp;300－8&nbsp;000）×10%]130<br>　　　　　　利润分配——未分配利润&nbsp;[（9&nbsp;300－8&nbsp;000）×90%]1&nbsp;170<br>　　　　　　银行存款　　　　　　　　　　　　　　　　　　&nbsp;95&nbsp;000<br>　　借：其他综合收益　　　　　　　　　　　　　　　　　　500<br>　　　　贷：盈余公积　　　　　　　　　　　　　　&nbsp;（500×10%）50<br>　　　　　　利润分配——未分配利润　　　　　　　　　　　　　450<br>（3）①合并成本＝9&nbsp;300＋95&nbsp;000＝104&nbsp;300（万元）。<br>　　②合并商誉＝104&nbsp;300－188&nbsp;500×55%＝625（万元）。<br>　　③调整、抵销分录：<br>　　借：存货　　　　　　　　　　　　　&nbsp;100<br>　　　　贷：资本公积　　　　　　　　　　　&nbsp;100<br>　　借：股本　　　　　　　　　　　　80&nbsp;000<br>　　　　资本公积　&nbsp;（100&nbsp;000＋100）100&nbsp;100<br>　　　　其他综合收益　　　　　　　　&nbsp;1&nbsp;000<br>　　　　盈余公积　　　　　　　　　　　&nbsp;700<br>　　　　未分配利润——年末　　　　　&nbsp;6&nbsp;700<br>　　　　商誉　　　　　　　　　　　　　&nbsp;625<br>　　　　贷：长期股权投资　　　　　　　&nbsp;104&nbsp;300<br>　　　　　　少数股东权益（188&nbsp;500×45%）84&nbsp;825",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "综合题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "b5feccec-d973-b666-8d13-181b440e7356",
+      "QuestionOrderNo": 3909532
+    }
+  ],
+  "Answer": [
+    {
+      "AnswerID": "84a6845e-d090-4738-a364-35d5b8eaed99",
+      "AnswerContent": "如果委托方没有提供受托代理资产有关凭据，受托代理资产应当按照其公允价值作为入账价值",
+      "QuestionId": "1fbef2f6-3b56-45e4-93b6-3f0625fa968c"
+    },
+    {
+      "AnswerID": "88fb96f6-e4e7-4750-a638-426478854972",
+      "AnswerContent": "A设备停工改造期间计提折旧",
+      "QuestionId": "806df08e-251f-4677-b106-1a7cc8762b7f"
+    },
+    {
+      "AnswerID": "8cc6c27f-aa62-474b-97d1-745402c38526",
+      "AnswerContent": "确认预计负债",
+      "QuestionId": "b806998b-20f0-4d06-b2b5-b67d62c30683"
+    },
+    {
+      "AnswerID": "26864c80-b2cf-4c40-b5ea-809337e13242",
+      "AnswerContent": "2018年需要确认特许权使用费收入",
+      "QuestionId": "4aee6d6e-1546-464c-a02f-6cbbdb4cc22f"
+    },
+    {
+      "AnswerID": "7d727caa-8615-47f5-ab32-46422947f98d",
+      "AnswerContent": "50",
+      "QuestionId": "609e8a51-fee1-4bc0-9a60-f3727244ef09"
+    },
+    {
+      "AnswerID": "1eaf1418-ea8b-4eb3-9ea3-cdcd49654d72",
+      "AnswerContent": "借记“投资性房地产”科目6&nbsp;000万元",
+      "QuestionId": "c3bd68da-7cb5-4f83-839d-93a25bb347d7"
+    },
+    {
+      "AnswerID": "7838ad2a-ee27-485b-ad4c-e172d96b141c",
+      "AnswerContent": "在财务会计中确认事业支出10万元",
+      "QuestionId": "830cffec-d1b9-4e01-950f-3ec9715ea68c"
+    },
+    {
+      "AnswerID": "7bef2bd9-f1aa-4219-ac9c-af1950843ed7",
+      "AnswerContent": "收回长期股权投资收到的现金",
+      "QuestionId": "f6f63db0-c267-4f0e-aae7-b0332d2ee7b4"
+    },
+    {
+      "AnswerID": "f73a06ab-5b3a-45f1-887f-07302d0269fb",
+      "AnswerContent": "ERP软件确认为无形资产并按5&nbsp;000万元进行初始计量",
+      "QuestionId": "92bb1688-8aed-4e5b-8910-ae837aebdcac"
+    },
+    {
+      "AnswerID": "02ad1270-f32f-40d8-9990-dfec2f86fbed",
+      "AnswerContent": "长期股权投资的初始投资成本为7&nbsp;000万元",
+      "QuestionId": "6bdcb47f-178c-4dda-9fbc-e7139aece3b7"
+    },
+    {
+      "AnswerID": "3aba6349-c6e3-4022-9b8f-d2651147a5d8",
+      "AnswerContent": "采用成本法核算的，被投资企业宣告发放的现金股利",
+      "QuestionId": "9dd05216-68cb-456f-8151-a4ec39338e03"
+    },
+    {
+      "AnswerID": "ded1e443-de9b-426c-a86e-686162d4900d",
+      "AnswerContent": "固定资产的各组成部分具有不同使用寿命或者以不同方式为企业提供经济利益，适用不同折旧率或折旧方法的，应当分别将各组成部分确认为单项固定资产",
+      "QuestionId": "8d825708-160a-4a63-97dd-ba2f27c5e630"
+    },
+    {
+      "AnswerID": "69c7a3ab-d7d3-423a-a066-9009cfed1377",
+      "AnswerContent": "3月11日，临时股东大会决议购买华兴公司51%的股权并于4月2日执行完毕",
+      "QuestionId": "48f9353e-4115-41d0-97c6-6540ad5f3302"
+    },
+    {
+      "AnswerID": "5038925c-54a7-495e-bb9c-459cdaadb9e7",
+      "AnswerContent": "管理不善造成的存货净损失计入管理费用",
+      "QuestionId": "966314f4-d604-471e-8b89-7789d4ba9715"
+    },
+    {
+      "AnswerID": "ef466705-7358-4854-819d-27b96384d164",
+      "AnswerContent": "将变更后的会计政策应用于变更日及以后发生的交易或者事项的方法",
+      "QuestionId": "89f166c9-d9bd-4e9a-b31f-896ec077747b"
+    },
+    {
+      "AnswerID": "6fc2ac2e-26cf-45a2-a4af-a5ae59eb87f5",
+      "AnswerContent": "业务活动成本是指民间非营利组织为了实现其业务活动目标、开展其项目活动或提供服务发生的费用",
+      "QuestionId": "ec0e4565-be98-4385-bc0e-e64a34d85c1d"
+    },
+    {
+      "AnswerID": "2778d0b7-1337-4a66-af14-936e0812e208",
+      "AnswerContent": "企业出售无形资产，应当将取得的价款扣除该无形资产账面价值和相关税费后的差额计入当期损益",
+      "QuestionId": "bbdd9a45-0f50-46d6-a188-deae4e264c03"
+    },
+    {
+      "AnswerID": "d4721213-5d83-4814-bc6b-8f12151f778d",
+      "AnswerContent": "符合资本化条件的外币一般借款汇兑差额",
+      "QuestionId": "f9814b24-8d27-4681-b7ed-9c33289bbb15"
+    },
+    {
+      "AnswerID": "e9e947ca-ca29-4f46-8173-7c32c592875b",
+      "AnswerContent": "该合同履约义务为时点义务",
+      "QuestionId": "81d5d648-8435-4f5e-beac-81920fb00136"
+    },
+    {
+      "AnswerID": "48c077c5-0ecb-4e26-9a75-e464e046eec4",
+      "AnswerContent": "2019年末，在预算会计中减少资金结存明细科目零余额账户用款额度300万元",
+      "QuestionId": "475f2063-783d-4967-b52f-46e511a4100b"
+    },
+    {
+      "AnswerID": "421fad72-fdc1-4148-b08c-8dd5261ed6f9",
+      "AnswerContent": "正确",
+      "QuestionId": "8a8e5ac7-86a9-4cc2-bd20-35e6c7b03cc7"
+    },
+    {
+      "AnswerID": "1833ea01-883f-4fcd-955d-88f1c3916c81",
+      "AnswerContent": "正确",
+      "QuestionId": "f1942f63-e772-412e-a200-42cf82c67926"
+    },
+    {
+      "AnswerID": "436537f1-809e-4180-b7e1-7a0410195318",
+      "AnswerContent": "正确",
+      "QuestionId": "f09d6a7f-107f-4804-8a71-bafc65028678"
+    },
+    {
+      "AnswerID": "22e6dd0f-1c22-46b5-b44e-08e55a917ea0",
+      "AnswerContent": "正确",
+      "QuestionId": "6223fe85-090f-4486-b4d9-0fcebb0bc07b"
+    },
+    {
+      "AnswerID": "8c3be8f1-8f42-4744-80ab-c80627189e0d",
+      "AnswerContent": "正确",
+      "QuestionId": "9653dfc9-03d5-4379-a87b-017389907428"
+    },
+    {
+      "AnswerID": "547e839f-5661-4ddb-a007-8d4dc7f139de",
+      "AnswerContent": "正确",
+      "QuestionId": "5d9cdd2f-b1ce-4eb0-8858-e85f18788215"
+    },
+    {
+      "AnswerID": "141eca46-c072-40b4-a844-be1a3fcc81e8",
+      "AnswerContent": "正确",
+      "QuestionId": "169df1df-f7f9-498d-bee7-deb4829372e6"
+    },
+    {
+      "AnswerID": "e0791484-eda3-454d-bf5e-5b5ecef4b755",
+      "AnswerContent": "正确",
+      "QuestionId": "638243b2-ac2d-4521-ad31-261fa46bf11c"
+    },
+    {
+      "AnswerID": "780078b5-718e-4741-8fbc-63c188f2091c",
+      "AnswerContent": "正确",
+      "QuestionId": "92bf0edb-0605-4c7d-b3a0-061dfe67d71e"
+    },
+    {
+      "AnswerID": "94d56b48-dd1d-4750-85d0-ebd89823d884",
+      "AnswerContent": "正确",
+      "QuestionId": "4ad0bf3c-060f-4e58-aa84-8651bd64c8ca"
+    },
+    {
+      "AnswerID": "e1200a2b-de35-4899-ba3b-f262afba2b54",
+      "AnswerContent": "错误",
+      "QuestionId": "4ad0bf3c-060f-4e58-aa84-8651bd64c8ca"
+    },
+    {
+      "AnswerID": "43ae0e12-b9e0-4440-a764-0de8874e7a6f",
+      "AnswerContent": "错误",
+      "QuestionId": "92bf0edb-0605-4c7d-b3a0-061dfe67d71e"
+    },
+    {
+      "AnswerID": "d6004635-43d2-46bb-9343-2c3100c6d20e",
+      "AnswerContent": "错误",
+      "QuestionId": "638243b2-ac2d-4521-ad31-261fa46bf11c"
+    },
+    {
+      "AnswerID": "250e8ba8-3ef5-4719-aa14-523f3cb8544d",
+      "AnswerContent": "错误",
+      "QuestionId": "169df1df-f7f9-498d-bee7-deb4829372e6"
+    },
+    {
+      "AnswerID": "d2c67ba4-f988-495f-894f-62a172ae8b12",
+      "AnswerContent": "错误",
+      "QuestionId": "5d9cdd2f-b1ce-4eb0-8858-e85f18788215"
+    },
+    {
+      "AnswerID": "1c913012-efd4-401a-8b18-c6e7aa1df57f",
+      "AnswerContent": "错误",
+      "QuestionId": "6223fe85-090f-4486-b4d9-0fcebb0bc07b"
+    },
+    {
+      "AnswerID": "dc20a1cf-d4b4-48ab-84ed-343695e9de26",
+      "AnswerContent": "错误",
+      "QuestionId": "9653dfc9-03d5-4379-a87b-017389907428"
+    },
+    {
+      "AnswerID": "194170f5-dab2-4a03-846b-7bd0fcec1482",
+      "AnswerContent": "错误",
+      "QuestionId": "f09d6a7f-107f-4804-8a71-bafc65028678"
+    },
+    {
+      "AnswerID": "a08e915b-21d4-420b-a43e-367a0c47d36c",
+      "AnswerContent": "2019年末，在财务会计中减少零余额账户用款额度300万元",
+      "QuestionId": "475f2063-783d-4967-b52f-46e511a4100b"
+    },
+    {
+      "AnswerID": "5b4c5827-6139-44d8-8908-a7012a788b20",
+      "AnswerContent": "错误",
+      "QuestionId": "8a8e5ac7-86a9-4cc2-bd20-35e6c7b03cc7"
+    },
+    {
+      "AnswerID": "a0289cd9-3cbe-4ce4-adbe-4f953f5655f7",
+      "AnswerContent": "错误",
+      "QuestionId": "f1942f63-e772-412e-a200-42cf82c67926"
+    },
+    {
+      "AnswerID": "0c9aa728-98e1-4c49-8d46-dae56844aff6",
+      "AnswerContent": "M公司收取的600万元固定金额的使用费应当在3年内平均确认收入",
+      "QuestionId": "81d5d648-8435-4f5e-beac-81920fb00136"
+    },
+    {
+      "AnswerID": "73b99c76-c6a3-451c-bfe5-453570c82840",
+      "AnswerContent": "业务活动成本包括直接成本与直接费用",
+      "QuestionId": "ec0e4565-be98-4385-bc0e-e64a34d85c1d"
+    },
+    {
+      "AnswerID": "e0dfd120-e898-47d0-bd06-b1819e96039d",
+      "AnswerContent": "无形资产预期不能为企业带来经济利益的，应当将该无形资产的账面价值计入管理费用<br />",
+      "QuestionId": "bbdd9a45-0f50-46d6-a188-deae4e264c03"
+    },
+    {
+      "AnswerID": "f77322de-bb7f-44d6-a7fa-48cb21109863",
+      "AnswerContent": "在会计估计变更当期和未来期间确认会计估计变更影响数的方法",
+      "QuestionId": "89f166c9-d9bd-4e9a-b31f-896ec077747b"
+    },
+    {
+      "AnswerID": "f3d4035f-8954-491e-ae69-51c3ad3db6a6",
+      "AnswerContent": "外币兑换业务的折算差额",
+      "QuestionId": "f9814b24-8d27-4681-b7ed-9c33289bbb15"
+    },
+    {
+      "AnswerID": "4f021cb5-bcb4-405b-b341-81c3e22384d1",
+      "AnswerContent": "购买商品运输途中发生的合理损耗应从存货总成本中扣除",
+      "QuestionId": "966314f4-d604-471e-8b89-7789d4ba9715"
+    },
+    {
+      "AnswerID": "4e8208a6-7104-45ba-b035-c2f9eb6028b4",
+      "AnswerContent": "2月1日，发现2019年10月盘盈一项固定资产尚未入账",
+      "QuestionId": "48f9353e-4115-41d0-97c6-6540ad5f3302"
+    },
+    {
+      "AnswerID": "e05457ea-3524-43b9-b9b4-d95ef56c0019",
+      "AnswerContent": "与固定资产有关的后续支出均应当在发生时计入当期损益",
+      "QuestionId": "8d825708-160a-4a63-97dd-ba2f27c5e630"
+    },
+    {
+      "AnswerID": "8d1f0718-c845-435a-9a2f-f888d6078efd",
+      "AnswerContent": "发生的评估、审计等中介费用10万元应计入管理费用",
+      "QuestionId": "6bdcb47f-178c-4dda-9fbc-e7139aece3b7"
+    },
+    {
+      "AnswerID": "30b00448-fcd2-441f-a062-60a6c1b3149a",
+      "AnswerContent": "采用权益法核算的，初始投资成本小于投资时应享有被投资单位可辨认净资产公允价值份额的差额",
+      "QuestionId": "9dd05216-68cb-456f-8151-a4ec39338e03"
+    },
+    {
+      "AnswerID": "5311ebb0-1dd1-49ce-9497-bf9937327dde",
+      "AnswerContent": "ERP软件自2020年8月1日起在5年内平均摊销并计入损益",
+      "QuestionId": "92bb1688-8aed-4e5b-8910-ae837aebdcac"
+    },
+    {
+      "AnswerID": "5d396d75-fd2f-42b4-a265-ff68858a2fee",
+      "AnswerContent": "在财务会计中确认财政拨款预算收入10万元",
+      "QuestionId": "830cffec-d1b9-4e01-950f-3ec9715ea68c"
+    },
+    {
+      "AnswerID": "2a6c81da-61df-43ee-9f28-c852e53b7724",
+      "AnswerContent": "不需要将固定资产的账面价值转入“固定资产清理”科目",
+      "QuestionId": "c3bd68da-7cb5-4f83-839d-93a25bb347d7"
+    },
+    {
+      "AnswerID": "acae4318-392e-4d88-8692-78fbeb5717c9",
+      "AnswerContent": "发行股票收到的现金",
+      "QuestionId": "f6f63db0-c267-4f0e-aae7-b0332d2ee7b4"
+    },
+    {
+      "AnswerID": "8f66d0fc-fb68-4642-8ac2-6872590473d3",
+      "AnswerContent": "57",
+      "QuestionId": "609e8a51-fee1-4bc0-9a60-f3727244ef09"
+    },
+    {
+      "AnswerID": "28019827-58fc-4145-9d65-0b571d463461",
+      "AnswerContent": "2020年对已有的应收款项是否发生减值继续进行评估",
+      "QuestionId": "4aee6d6e-1546-464c-a02f-6cbbdb4cc22f"
+    },
+    {
+      "AnswerID": "e367d3b2-7e6c-4204-bc6e-1c2c9697ada8",
+      "AnswerContent": "对存货计提跌价准备",
+      "QuestionId": "b806998b-20f0-4d06-b2b5-b67d62c30683"
+    },
+    {
+      "AnswerID": "e44e3d3f-f34f-4482-aa24-ac309ef671ab",
+      "AnswerContent": "“受托代理负债”科目的期末贷方余额，反映民间非营利组织尚未清偿的受托代理负债",
+      "QuestionId": "1fbef2f6-3b56-45e4-93b6-3f0625fa968c"
+    },
+    {
+      "AnswerID": "d6df5daf-e409-4887-879d-0fa9fa014319",
+      "AnswerContent": "A设备与新安装的环保装置B设备应分别确认固定资产",
+      "QuestionId": "806df08e-251f-4677-b106-1a7cc8762b7f"
+    },
+    {
+      "AnswerID": "1644258d-8474-4682-9a38-b280a0e3f242",
+      "AnswerContent": "A设备2019年计提的折旧额为937.5万元",
+      "QuestionId": "806df08e-251f-4677-b106-1a7cc8762b7f"
+    },
+    {
+      "AnswerID": "45a469da-4410-45ef-8c7a-2cae255099fd",
+      "AnswerContent": "2019年第一季度收到的特许权使用费10万元应确认收入",
+      "QuestionId": "4aee6d6e-1546-464c-a02f-6cbbdb4cc22f"
+    },
+    {
+      "AnswerID": "0bf33d5a-4f95-47d1-b636-b0c064f4f63b",
+      "AnswerContent": "承租人将取得的租赁资产使用权确认为资产入账",
+      "QuestionId": "b806998b-20f0-4d06-b2b5-b67d62c30683"
+    },
+    {
+      "AnswerID": "fc4ed55c-9db4-474b-a567-5eba59302543",
+      "AnswerContent": "50.1",
+      "QuestionId": "609e8a51-fee1-4bc0-9a60-f3727244ef09"
+    },
+    {
+      "AnswerID": "d0306e28-8553-4884-8aa7-8478026f17a7",
+      "AnswerContent": "在转赠或者转出受托代理资产时，应当按照转出受托代理资产的账面余额，借记“受托代理负债”科目，贷记“受托代理资产”科目",
+      "QuestionId": "1fbef2f6-3b56-45e4-93b6-3f0625fa968c"
+    },
+    {
+      "AnswerID": "6bd4fdef-2191-4a74-a055-9db3f2639ad9",
+      "AnswerContent": "在预算会计中确认单位管理费用10万元",
+      "QuestionId": "830cffec-d1b9-4e01-950f-3ec9715ea68c"
+    },
+    {
+      "AnswerID": "1f7bfb30-eb26-4500-975b-cfd98e028691",
+      "AnswerContent": "转换日办公楼的公允价值大于其账面价值的差额1&nbsp;300万元，计入公允价值变动损益",
+      "QuestionId": "c3bd68da-7cb5-4f83-839d-93a25bb347d7"
+    },
+    {
+      "AnswerID": "b780e043-f5a8-4c98-92fa-1d64cdeba926",
+      "AnswerContent": "处置固定资产收到的现金净额",
+      "QuestionId": "f6f63db0-c267-4f0e-aae7-b0332d2ee7b4"
+    },
+    {
+      "AnswerID": "058a0be7-e113-4fa4-bf65-644e76caf142",
+      "AnswerContent": "2020年12月31日长期应付款的账面价值是4&nbsp;000万元",
+      "QuestionId": "92bb1688-8aed-4e5b-8910-ae837aebdcac"
+    },
+    {
+      "AnswerID": "4e32eea1-e018-4348-bbf8-7c06ffbc7f2d",
+      "AnswerContent": "出售采用成本法核算的长期股权投资时，实际收到的金额与其账面价值及已宣告但尚未发放的现金股利或利润的差额",
+      "QuestionId": "9dd05216-68cb-456f-8151-a4ec39338e03"
+    },
+    {
+      "AnswerID": "997fc6c0-ea4b-4a16-be53-653787d91451",
+      "AnswerContent": "长期股权投资初始投资成本与支付对价的差额确认投资收益1&nbsp;000万元",
+      "QuestionId": "6bdcb47f-178c-4dda-9fbc-e7139aece3b7"
+    },
+    {
+      "AnswerID": "6ffa3a9e-028e-445d-a53c-35d2cce9aa7b",
+      "AnswerContent": "使固定资产达到预定可使用状态前所发生的可直接归属于该资产的税金、运输费、装卸费、安装费、专业人员服务费等其他成本也应计入固定资产成本",
+      "QuestionId": "8d825708-160a-4a63-97dd-ba2f27c5e630"
+    },
+    {
+      "AnswerID": "cc3182b5-b8ae-449d-9de8-660c8737316a",
+      "AnswerContent": "存货的加工成本是指加工过程中实际发生的人工成本和按照一定方法分配的制造费用",
+      "QuestionId": "966314f4-d604-471e-8b89-7789d4ba9715"
+    },
+    {
+      "AnswerID": "5fb4a545-8c78-48ad-92f1-e3a73fe064ad",
+      "AnswerContent": "3月10日，大美公司被法院判决败诉并要求支付赔款1&nbsp;000万元，对此项诉讼大美公司已于2019年年末确认预计负债800万元",
+      "QuestionId": "48f9353e-4115-41d0-97c6-6540ad5f3302"
+    },
+    {
+      "AnswerID": "84809297-fd41-414f-b04a-79869db4a4ea",
+      "AnswerContent": "外币财务报表的折算差额",
+      "QuestionId": "f9814b24-8d27-4681-b7ed-9c33289bbb15"
+    },
+    {
+      "AnswerID": "7eafa021-adce-49ed-9cb8-810990abbda6",
+      "AnswerContent": "调整会计估计变更当期期初留存收益",
+      "QuestionId": "89f166c9-d9bd-4e9a-b31f-896ec077747b"
+    },
+    {
+      "AnswerID": "4fb934f6-439a-4e82-9be6-d3a6d8628d9b",
+      "AnswerContent": "同时从事多项研究开发活动的企业，所发生的支出无法在各项研发活动之间进行分配时，应当全部计入当期损益",
+      "QuestionId": "bbdd9a45-0f50-46d6-a188-deae4e264c03"
+    },
+    {
+      "AnswerID": "451cd3dd-0db2-4e28-a020-4c47abfc54d5",
+      "AnswerContent": "M公司按照A公司销售特许商品所取得销售额的10%计算的提成应当在A公司的销售实际完成时确认收入",
+      "QuestionId": "81d5d648-8435-4f5e-beac-81920fb00136"
+    },
+    {
+      "AnswerID": "e56b9734-8e4d-4f51-b99b-addd1cc06a2b",
+      "AnswerContent": "会计期末应将当期发生的业务活动成本转入限定性净资产",
+      "QuestionId": "ec0e4565-be98-4385-bc0e-e64a34d85c1d"
+    },
+    {
+      "AnswerID": "b74e3dd2-fbfa-4767-bb5c-3a9bc7b93b51",
+      "AnswerContent": "2020年初恢复额度时，在预算会计中减少资金结存明细科目财政应返还额度300万元",
+      "QuestionId": "475f2063-783d-4967-b52f-46e511a4100b"
+    },
+    {
+      "AnswerID": "d7b6ceb4-da64-431d-84f7-a239562a3cfe",
+      "AnswerContent": "2020年初恢复额度时，在财务会计中减少财政应返还额度300万元",
+      "QuestionId": "475f2063-783d-4967-b52f-46e511a4100b"
+    },
+    {
+      "AnswerID": "ccc8e8f0-823c-4bf9-b320-ddac480ebaec",
+      "AnswerContent": "M公司2020年确认收入的金额为400万元",
+      "QuestionId": "81d5d648-8435-4f5e-beac-81920fb00136"
+    },
+    {
+      "AnswerID": "b6b5ad13-9da8-4f90-9e2a-e39a092f74af",
+      "AnswerContent": "为专项资金补助项目发生的所有费用，应计入业务活动成本",
+      "QuestionId": "ec0e4565-be98-4385-bc0e-e64a34d85c1d"
+    },
+    {
+      "AnswerID": "2f542442-4d1b-498d-8ca2-369229fcba28",
+      "AnswerContent": "购买无形资产的价款分期支付实质具有融资性质的，企业应以购买价款的现值为基础确定无形资产成本",
+      "QuestionId": "bbdd9a45-0f50-46d6-a188-deae4e264c03"
+    },
+    {
+      "AnswerID": "4126254c-6a2f-4ef0-873a-f8740c092c44",
+      "AnswerContent": "对变更年度资产负债表年初余额进行调整",
+      "QuestionId": "89f166c9-d9bd-4e9a-b31f-896ec077747b"
+    },
+    {
+      "AnswerID": "82f75b8a-0ede-4175-8f3c-772148fc38c5",
+      "AnswerContent": "符合资本化条件的外币专门借款汇兑差额",
+      "QuestionId": "f9814b24-8d27-4681-b7ed-9c33289bbb15"
+    },
+    {
+      "AnswerID": "e7254e5c-bf17-46a4-b104-002e16ae81c8",
+      "AnswerContent": "进口关税应计入存货成本",
+      "QuestionId": "966314f4-d604-471e-8b89-7789d4ba9715"
+    },
+    {
+      "AnswerID": "08752b05-a4b1-4795-9279-f84434a35f43",
+      "AnswerContent": "自行建造的固定资产成本，由建造该项资产办理竣工决算手续前所发生的必要支出构成",
+      "QuestionId": "8d825708-160a-4a63-97dd-ba2f27c5e630"
+    },
+    {
+      "AnswerID": "e0b1b54b-325b-4bb9-8615-c49feef20187",
+      "AnswerContent": "4月2日，办理完毕资本公积转增资本的手续",
+      "QuestionId": "48f9353e-4115-41d0-97c6-6540ad5f3302"
+    },
+    {
+      "AnswerID": "4aee6f32-90ab-4ee5-80b9-e915ba02adf2",
+      "AnswerContent": "处置采用权益法核算的长期股权投资时，结转原记入“资本公积——其他资本公积”科目的金额",
+      "QuestionId": "9dd05216-68cb-456f-8151-a4ec39338e03"
+    },
+    {
+      "AnswerID": "14465f24-a6a8-436c-b314-ec243ee55278",
+      "AnswerContent": "合并日不产生合并商誉",
+      "QuestionId": "6bdcb47f-178c-4dda-9fbc-e7139aece3b7"
+    },
+    {
+      "AnswerID": "cdfd2356-d13c-4d7d-a0ae-cc9d3d18638e",
+      "AnswerContent": "020年12月31日无形资产的账面价值是4&nbsp;091.4万元",
+      "QuestionId": "92bb1688-8aed-4e5b-8910-ae837aebdcac"
+    },
+    {
+      "AnswerID": "4e67797a-63d9-4e5b-b258-2abf8e0a366b",
+      "AnswerContent": "转换日办公楼的公允价值大于其账面价值的差额1&nbsp;300万元，计入其他综合收益",
+      "QuestionId": "c3bd68da-7cb5-4f83-839d-93a25bb347d7"
+    },
+    {
+      "AnswerID": "0e3004aa-7c62-4bfc-94c2-3c76b0c467c6",
+      "AnswerContent": "收到债权投资的应收利息",
+      "QuestionId": "f6f63db0-c267-4f0e-aae7-b0332d2ee7b4"
+    },
+    {
+      "AnswerID": "993b55e3-b786-4598-824b-993183d5f3fe",
+      "AnswerContent": "在预算会计中确认财政拨款预算收入10万元",
+      "QuestionId": "830cffec-d1b9-4e01-950f-3ec9715ea68c"
+    },
+    {
+      "AnswerID": "84ac4f51-9832-435d-9d91-36f4631ceddc",
+      "AnswerContent": "50.5",
+      "QuestionId": "609e8a51-fee1-4bc0-9a60-f3727244ef09"
+    },
+    {
+      "AnswerID": "6982b632-5db9-487b-aab6-33c448c5e197",
+      "AnswerContent": "2020年确认收入的同时借记“应收账款”科目",
+      "QuestionId": "4aee6d6e-1546-464c-a02f-6cbbdb4cc22f"
+    },
+    {
+      "AnswerID": "a9b2d1b5-226c-45d0-921f-f6138c620bc4",
+      "AnswerContent": "新安装的环保装置B设备2019年计提的折旧额为90万元",
+      "QuestionId": "806df08e-251f-4677-b106-1a7cc8762b7f"
+    },
+    {
+      "AnswerID": "8fe0e791-1185-488f-9a54-34f4853fabfc",
+      "AnswerContent": "对外公布财务报表时提供可比信息",
+      "QuestionId": "b806998b-20f0-4d06-b2b5-b67d62c30683"
+    },
+    {
+      "AnswerID": "4f2e3e65-5cbf-4fc4-86ba-63920b6cba6d",
+      "AnswerContent": "收到的受托代理资产即使为现金或银行存款的，也必须通过“受托代理资产”科目进行核算",
+      "QuestionId": "1fbef2f6-3b56-45e4-93b6-3f0625fa968c"
+    }
+  ],
+  "Paper": [
+    {
+      "ExamTime": 9900,
+      "CalculationScoreType": "3"
+    }
+  ],
+  "Label": [],
+  "Wrong": [],
+  "Schedule": [
+    {
+      "ScheduleID": "e7e0b20b-df68-44c4-ad8e-12facdb02d18",
+      "UseTime": 0,
+      "LableQuestionID": null,
+      "IsHand": 0
+    }
+  ],
+  "ScheduleItems": []
+}

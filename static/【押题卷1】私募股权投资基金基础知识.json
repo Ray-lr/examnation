@@ -26,13 +26,13 @@
     },
     {
       "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a",
-      "Topic": "以合伙企业形式设立的股权投资基金，基金管理人进行基金备案时，通常应当报送的信息或文件包括（&nbsp;）。</p><p>Ⅰ.基金合同</p><p>Ⅱ.投资者</p><p>Ⅲ.法律意见书</p><p>Ⅳ.合伙企业营业执照正副本复印件&nbsp;&nbsp; ",
+      "Topic": "以合伙企业形式设立的股权投资基金，基金管理人进行基金备案时，通常应当报送的信息或文件包括（&nbsp;）。<p>Ⅰ.合伙协议</p><p>Ⅱ.投资者</p><p>Ⅲ.法律意见书</p><p>Ⅳ.合伙企业营业执照正副本复印件&nbsp;&nbsp;&nbsp; </p>",
       "Score": 1.0,
       "PageNumber": 254,
       "IsShowPageNumber": true,
       "AnalyticDesc": "本题考查的是股权投资基金登记备案的内容。各类股权投资基金募集完毕，基金管理人进行基金备案，通常向基金业协会报送以下材料或信息：基金合同、公司章程或者合伙协议。资金募集过程中向投资者提供基金招募说明书的，应当报送基金招募说明书。以公司、合伙等企业形式设立的股权投资基金，还应当报送工商登记和营业执照正副本复印件。故“基金管理人进行基金备案时，通常应当报送的信息或文件”不包括“投资者”和“法律意见书”。",
       "KnowledgeId": null,
-      "AnswersIds": "8f8f9d3e-e995-404b-b5d9-d95d585e089a",
+      "AnswersIds": "4ef2e464-4d1b-4255-9954-e505d70970e4",
       "ParentID": null,
       "QuestionLevel": "",
       "AnalyticUrl": null,
@@ -2878,7 +2878,7 @@
       "QuestionId": "343994a2-e478-4013-9f40-baf148815d89"
     },
     {
-      "AnswerID": "8f8f9d3e-e995-404b-b5d9-d95d585e089a",
+      "AnswerID": "4ef2e464-4d1b-4255-9954-e505d70970e4",
       "AnswerContent": "Ⅰ、Ⅳ",
       "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a"
     },
@@ -2903,19 +2903,14 @@
       "QuestionId": "b3ccc9d5-dc93-4b87-98da-24a794799ee3"
     },
     {
-      "AnswerID": "2707ab48-6322-4af7-993d-9d13abfa62a3",
-      "AnswerContent": "计算企业加权平均资本成本无需考虑所得税的影响",
-      "QuestionId": "0d8c8d7f-c075-447e-9294-dd84d4bb7083"
+      "AnswerID": "d678e318-2c9e-4db7-b19e-110ffbb38deb",
+      "AnswerContent": "行业尽职调查",
+      "QuestionId": "c37df930-c59f-4e64-8273-05a7e26d1675"
     },
     {
       "AnswerID": "4dde1d6b-ab3c-4e4d-a27a-6a6770ea3481",
       "AnswerContent": "基金份额的销售可以由基金管理人自行承担",
       "QuestionId": "b3ccc9d5-dc93-4b87-98da-24a794799ee3"
-    },
-    {
-      "AnswerID": "d678e318-2c9e-4db7-b19e-110ffbb38deb",
-      "AnswerContent": "行业尽职调查",
-      "QuestionId": "c37df930-c59f-4e64-8273-05a7e26d1675"
     },
     {
       "AnswerID": "907cba00-51f3-4179-b261-38d63c6cdefd",
@@ -2928,7 +2923,12 @@
       "QuestionId": "343994a2-e478-4013-9f40-baf148815d89"
     },
     {
-      "AnswerID": "1c0a7d81-340f-4e14-96e7-bc71e46093ee",
+      "AnswerID": "2707ab48-6322-4af7-993d-9d13abfa62a3",
+      "AnswerContent": "计算企业加权平均资本成本无需考虑所得税的影响",
+      "QuestionId": "0d8c8d7f-c075-447e-9294-dd84d4bb7083"
+    },
+    {
+      "AnswerID": "8cc9d1fd-e64d-46fa-9cd6-a1ca6f10705d",
       "AnswerContent": "Ⅰ、Ⅱ、Ⅳ",
       "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a"
     },
@@ -3863,24 +3863,14 @@
       "QuestionId": "0ce39bea-d846-4acf-b9f0-7d2f604956ea"
     },
     {
-      "AnswerID": "905ae07e-c3c5-41f9-bccc-ce8dcaf82088",
-      "AnswerContent": "保密性条款和排他性条款均具有法律约束力",
-      "QuestionId": "84e141da-6b31-4d3a-8b2a-ca4c8cca04d8"
-    },
-    {
-      "AnswerID": "e1d371b3-25a0-4df6-8e93-31f91270d7a3",
-      "AnswerContent": "加权平均资本成本是企业各种融资来源的资本成本的加权平均值",
-      "QuestionId": "0d8c8d7f-c075-447e-9294-dd84d4bb7083"
+      "AnswerID": "302611fd-1ed6-469c-9721-ae62a55f51eb",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a"
     },
     {
       "AnswerID": "e2a25878-7ad8-4259-bf7b-f7481d3d9200",
       "AnswerContent": "目标公司现金流稳定，未来可预测性较高",
       "QuestionId": "343994a2-e478-4013-9f40-baf148815d89"
-    },
-    {
-      "AnswerID": "07fc7051-7c61-41d0-b900-76f453ffe66e",
-      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
-      "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a"
     },
     {
       "AnswerID": "6847f987-bccd-4f59-af75-e8e963fb17c7",
@@ -3893,6 +3883,16 @@
       "QuestionId": "e51c960e-c79f-4ae0-820e-7632aa5b19ad"
     },
     {
+      "AnswerID": "905ae07e-c3c5-41f9-bccc-ce8dcaf82088",
+      "AnswerContent": "保密性条款和排他性条款均具有法律约束力",
+      "QuestionId": "84e141da-6b31-4d3a-8b2a-ca4c8cca04d8"
+    },
+    {
+      "AnswerID": "e1d371b3-25a0-4df6-8e93-31f91270d7a3",
+      "AnswerContent": "加权平均资本成本是企业各种融资来源的资本成本的加权平均值",
+      "QuestionId": "0d8c8d7f-c075-447e-9294-dd84d4bb7083"
+    },
+    {
       "AnswerID": "0bec1018-f734-42c1-9d5b-3834ee6d4284",
       "AnswerContent": "业务尽职调查",
       "QuestionId": "c37df930-c59f-4e64-8273-05a7e26d1675"
@@ -3903,24 +3903,14 @@
       "QuestionId": "b3ccc9d5-dc93-4b87-98da-24a794799ee3"
     },
     {
-      "AnswerID": "125a9223-e2b6-4b75-ba73-04a47473ee78",
-      "AnswerContent": "法律尽职调查",
-      "QuestionId": "c37df930-c59f-4e64-8273-05a7e26d1675"
-    },
-    {
       "AnswerID": "99edae72-a0ab-48db-9a9f-32d9aabb2991",
       "AnswerContent": "基金产品的设计可以由基金管理人自行承担",
       "QuestionId": "b3ccc9d5-dc93-4b87-98da-24a794799ee3"
     },
     {
-      "AnswerID": "1fb666ff-d903-45f6-8c3e-090812e13980",
-      "AnswerContent": "目标公司处于破产阶段，需对可变现资产包进行价值评估",
-      "QuestionId": "343994a2-e478-4013-9f40-baf148815d89"
-    },
-    {
-      "AnswerID": "91f49b0b-c1ae-4c67-838e-98fe895fb577",
-      "AnswerContent": "Ⅱ、Ⅲ",
-      "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a"
+      "AnswerID": "125a9223-e2b6-4b75-ba73-04a47473ee78",
+      "AnswerContent": "法律尽职调查",
+      "QuestionId": "c37df930-c59f-4e64-8273-05a7e26d1675"
     },
     {
       "AnswerID": "5e172b1b-5bdf-4406-89c5-88c7085cdf05",
@@ -3931,6 +3921,16 @@
       "AnswerID": "e66c773e-b3dd-4518-9eb7-56150faa1b90",
       "AnswerContent": "估值条款和估值调整条款均具有法律约束力",
       "QuestionId": "84e141da-6b31-4d3a-8b2a-ca4c8cca04d8"
+    },
+    {
+      "AnswerID": "1fb666ff-d903-45f6-8c3e-090812e13980",
+      "AnswerContent": "目标公司处于破产阶段，需对可变现资产包进行价值评估",
+      "QuestionId": "343994a2-e478-4013-9f40-baf148815d89"
+    },
+    {
+      "AnswerID": "0132799d-d64a-4a61-b52a-3d5398f4e2e0",
+      "AnswerContent": "Ⅱ、Ⅲ",
+      "QuestionId": "da969b61-d410-4ea2-acf5-4053d7e6eb6a"
     },
     {
       "AnswerID": "eed6d16b-09db-4f42-82c6-812ab4dc18a6",
@@ -4409,13 +4409,18 @@
       "CalculationScoreType": "0"
     }
   ],
-  "Label": [],
+  "Label": [
+    {
+      "QuestionId": "38dcb941-2690-4c3b-90f6-ea4f3369af7b",
+      "labelID": "eaec6ffc-03be-494d-ab2a-1e87fc3f7ce0"
+    }
+  ],
   "Wrong": [],
   "Schedule": [
     {
-      "ScheduleID": "2b73d26d-1f3d-488d-866b-93c359d75b9e",
-      "UseTime": 647,
-      "LableQuestionID": "13143e75-fb70-43e3-8887-015158f55015",
+      "ScheduleID": "386a1e47-1328-4664-ae4f-907eb6ac2385",
+      "UseTime": 7,
+      "LableQuestionID": "9034c3dd-9dd4-430d-b1ff-9008c823fa60",
       "IsHand": 1
     }
   ],
@@ -4423,8 +4428,8 @@
     {
       "QuestionId": "13143e75-fb70-43e3-8887-015158f55015",
       "ChoiceID": "",
-      "ScheduleID": "2b73d26d-1f3d-488d-866b-93c359d75b9e",
-      "ScheduleItemsID": "69dfc9a4-f41a-46db-9821-c91b3d9148bb",
+      "ScheduleID": "386a1e47-1328-4664-ae4f-907eb6ac2385",
+      "ScheduleItemsID": "8553dc33-af77-4489-950a-eae6a7893782",
       "ExamId": "21347288-99ac-908b-b003-beea10f3db10",
       "IsRight": "2"
     }

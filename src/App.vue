@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1> 【押题卷1】私募股权投资基金基础知识</h1>
+    <h1>2020年《经济法》押题卷（二）</h1>
     <!--<img  height="200" width="200" src="./assets/avatar.jpg"><br>-->
     作者: Ray
     <Home/>

@@ -146,13 +146,13 @@
     },
     {
       "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815",
-      "Topic": "创业投资基金的投资范围包括（&nbsp;）。<br>Ⅰ.初创阶段的科技企业<br>Ⅱ.未上市的成熟期企业<br>Ⅲ.全国中小企业股份转让系统挂牌企业<br>Ⅳ.创业板上市公司",
+      "Topic": "创业投资基金的投资范围包括（&nbsp;）。<br />Ⅰ.初创阶段的科技企业<br />Ⅱ.未上市的成长期企业<br />Ⅲ.全国中小企业股份转让系统挂牌企业<br />Ⅳ.创业板上市公司 ",
       "Score": 1.0,
       "PageNumber": 33,
       "IsShowPageNumber": true,
       "AnalyticDesc": "创业投资基金，是指主要投资于处于各个阶段的未上市成长性企业的股权投资基金。",
       "KnowledgeId": "3378504c-027e-4343-91bf-034bac365d79",
-      "AnswersIds": "09cb82cc-e162-4a48-9cc0-5c4472739e95",
+      "AnswersIds": "6f204204-86e1-403e-b348-b36b2d1cf841",
       "ParentID": null,
       "QuestionLevel": "",
       "AnalyticUrl": null,
@@ -602,13 +602,13 @@
     },
     {
       "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa",
-      "Topic": "某股权投资基金甲计划于2018年初对某初创期科技企业投资500万元。预计2022年底退出对A公司的投资，预计退出时A公司的股权价值为1亿元。根据对A公司尽职调查的结果，股权投资基金甲希望对A公司的投资能实现年化50%的预期投资收益率。临近投资之前，股权投资基金甲发现之前遗漏了一个重要信息。A公司提供的文件显示，公司计划于2020年初完成第二轮融资，融资规模300万元。在完成第二轮融资的情况下，A公司方可于2022年底实现1亿元的股权价值。假设第二轮投资者要求的年化投资回报率为30%。保持其他假设条件不变，同时继续实施前述员工股权激励计划且第二轮投资者同时受其稀释，股权投资基金甲于2018年初投资时应要求持有A公司的股权比例最接近（&nbsp;）。&nbsp; ",
+      "Topic": "某股权投资基金甲计划于2018年初对某初创期科技企业投资500万元。预计2022年底退出对A公司的投资，预计退出时A公司的股权价值为1亿元。根据对A公司尽职调查的结果，股权投资基金甲希望对A公司的投资能实现年化50%的预期投资收益率。临近投资之前，股权投资基金甲发现之前遗漏了一个重要信息。A公司提供的文件显示，公司计划于2020年初完成第二轮融资，融资规模300万元。在完成第二轮融资的情况下，A公司方可于2022年底实现1亿元的股权价值。假设第二轮投资者要求的年化投资回报率为30%。保持其他假设条件不变，同时继续实施前述员工股权激励计划且第二轮投资者同时受其稀释，股权投资基金甲于2018年初投资时应要求持有A公司的股权比例最接近（&nbsp;）。&nbsp;&nbsp;&nbsp; ",
       "Score": 1.0,
       "PageNumber": 103,
       "IsShowPageNumber": true,
-      "AnalyticDesc": "本题考查的是创业投资估值法的运用。创业投资估值法通过评估目标公司退出时的股权价值，再基于目标回报倍数或收益率，倒推出目标公司的当前价值。2022年底公司的价值为1个亿;2022年初公司的价值×（1+30%）=1亿，2020年初公司价值=7692万，因为“A公司提供的文件显示，公司计划于2020年初完成第二轮融资，融资规模300万元”所以2020年初融资前的价值=7692-300=7392万，（1+r)^4(1+30%)=(1+50%)^5，r=87%,2018年初公司价值（1+87%）^4=7392万，2018年初公司价值=604万元，故股权比例=500万/604万=83%。",
+      "AnalyticDesc": "本题考查的是创业投资估值法的运用。创业投资估值法通过评估目标公司退出时的股权价值，再基于目标回报倍数或收益率，倒推出目标公司的当前价值。2022年底公司的价值为1个亿;2022年初公司的价值×（1+30%）=1亿，2020年初公司价值=7692万，因为“A公司提供的文件显示，公司计划于2020年初完成第二轮融资，融资规模300万元”所以2020年初融资前的价值=7692-300=7392万，（1+r)^4(1+30%)=(1+50%)^5，r约等于55%,2018年初公司价值（1+55%）^4=7392万，2018年初公司价值=1280.6652万元，故股权比例=500万/1280.6652万=39.04%。",
       "KnowledgeId": "72c7b035-563e-4ccd-a487-e864d24f80ac",
-      "AnswersIds": "1dc5bdde-fd45-400d-8432-13c8558c1aa8",
+      "AnswersIds": "86146a9c-f8c6-47be-abdc-f33405f0928f",
       "ParentID": null,
       "QuestionLevel": "",
       "AnalyticUrl": null,
@@ -2848,14 +2848,14 @@
       "QuestionId": "5d18a75f-c4bd-44b1-9a56-0773187bc970"
     },
     {
-      "AnswerID": "ba449125-92ee-4f0b-9331-c57a582c36b8",
-      "AnswerContent": "44.7%",
-      "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa"
-    },
-    {
       "AnswerID": "1c97f46a-cea2-489d-99a2-1b18a3a94618",
       "AnswerContent": "私募基金管理人登记证明意味着对私募基金管理人实行牌照管理",
       "QuestionId": "d207bc9f-8d15-406c-a097-998a6dfa2ac5"
+    },
+    {
+      "AnswerID": "3c994eea-00ce-47a1-b18d-ed7cabf23c3c",
+      "AnswerContent": "44.7%",
+      "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa"
     },
     {
       "AnswerID": "7021b7c6-fbaf-47ac-a12a-658426908243",
@@ -2893,7 +2893,7 @@
       "QuestionId": "692e186b-b933-4d98-a825-ca880d13c9ba"
     },
     {
-      "AnswerID": "650540a7-efb7-41cb-97fe-82affb7af45d",
+      "AnswerID": "c5136539-6188-43bc-89c1-d6608a2046b7",
       "AnswerContent": "Ⅰ",
       "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815"
     },
@@ -2903,14 +2903,19 @@
       "QuestionId": "45b65ab0-49ea-437c-be76-a304386aed7e"
     },
     {
+      "AnswerID": "80969b30-f33d-4e2d-90c3-874595c981fe",
+      "AnswerContent": "基金服务机构严重违规的，中国证券投资基金业协会可视情节轻重对其采取公开谴责、暂停办理相关业务、撤销其基金服务机构登记或取消会员资格等纪律处分",
+      "QuestionId": "b8dc2152-b2bb-4ca7-a61c-5c3dae68293c"
+    },
+    {
       "AnswerID": "6ccff5ea-f686-49fd-8c43-5e92a20950aa",
       "AnswerContent": "基金的投资范围，投资策略一般不会在基金合同中明确示例",
       "QuestionId": "45b65ab0-49ea-437c-be76-a304386aed7e"
     },
     {
-      "AnswerID": "80969b30-f33d-4e2d-90c3-874595c981fe",
-      "AnswerContent": "基金服务机构严重违规的，中国证券投资基金业协会可视情节轻重对其采取公开谴责、暂停办理相关业务、撤销其基金服务机构登记或取消会员资格等纪律处分",
-      "QuestionId": "b8dc2152-b2bb-4ca7-a61c-5c3dae68293c"
+      "AnswerID": "ca4afb48-ada8-493c-a792-c86d64eb2614",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815"
     },
     {
       "AnswerID": "0a410162-01b8-4f1e-aeef-b181322d4ce8",
@@ -2918,9 +2923,9 @@
       "QuestionId": "692e186b-b933-4d98-a825-ca880d13c9ba"
     },
     {
-      "AnswerID": "69532477-6b00-426c-93f9-339e4086d83e",
-      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
-      "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815"
+      "AnswerID": "3ab14d76-20ae-4255-891a-e1a7a594c724",
+      "AnswerContent": "管理人获得60万元，投资人获得2.344亿元",
+      "QuestionId": "8c3c0a6d-88ab-4209-b618-539313189dd8"
     },
     {
       "AnswerID": "e559b8f2-eb5a-41f7-bd54-dc1f5a73a165",
@@ -2933,9 +2938,9 @@
       "QuestionId": "9e503fc2-75a4-4cb3-8768-8c53a3a8320e"
     },
     {
-      "AnswerID": "3ab14d76-20ae-4255-891a-e1a7a594c724",
-      "AnswerContent": "管理人获得60万元，投资人获得2.344亿元",
-      "QuestionId": "8c3c0a6d-88ab-4209-b618-539313189dd8"
+      "AnswerID": "cac95e65-7283-4966-86ed-acc3c6512a5a",
+      "AnswerContent": "公司规模相近",
+      "QuestionId": "e0e8c069-ada2-4f61-83e4-08f9d41415c0"
     },
     {
       "AnswerID": "879e3771-4072-4097-8b84-3a6a44c632ac",
@@ -2943,19 +2948,14 @@
       "QuestionId": "2c12b19a-8b80-4125-b702-340ec173ff01"
     },
     {
-      "AnswerID": "cac95e65-7283-4966-86ed-acc3c6512a5a",
-      "AnswerContent": "公司规模相近",
-      "QuestionId": "e0e8c069-ada2-4f61-83e4-08f9d41415c0"
+      "AnswerID": "86146a9c-f8c6-47be-abdc-f33405f0928f",
+      "AnswerContent": "39.04%",
+      "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa"
     },
     {
       "AnswerID": "c5f5e582-6f00-43f9-943d-318e00d897a0",
       "AnswerContent": "私募基金管理人登记证明只是对私募基金管理人履行完登记手续给予事实确认",
       "QuestionId": "d207bc9f-8d15-406c-a097-998a6dfa2ac5"
-    },
-    {
-      "AnswerID": "05d25fb2-5e12-4e24-964c-0c48e5c2e981",
-      "AnswerContent": "33%",
-      "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa"
     },
     {
       "AnswerID": "a0a7b139-b0fd-4f29-99c2-6e7ebf989ed4",
@@ -3843,7 +3843,12 @@
       "QuestionId": "bfe6f836-92f3-48d0-ad9b-22d95a3bec6f"
     },
     {
-      "AnswerID": "1dc5bdde-fd45-400d-8432-13c8558c1aa8",
+      "AnswerID": "045da257-08f0-468a-8657-69115d976ff5",
+      "AnswerContent": "股份有限公司型投资者对外转让其持有的基金份额一般需经其他投资者所持表决权的2/3以上同意",
+      "QuestionId": "5d18a75f-c4bd-44b1-9a56-0773187bc970"
+    },
+    {
+      "AnswerID": "bbb4900d-8f1f-412e-bfb1-ed03981204ab",
       "AnswerContent": "83%",
       "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa"
     },
@@ -3873,29 +3878,24 @@
       "QuestionId": "9e503fc2-75a4-4cb3-8768-8c53a3a8320e"
     },
     {
-      "AnswerID": "045da257-08f0-468a-8657-69115d976ff5",
-      "AnswerContent": "股份有限公司型投资者对外转让其持有的基金份额一般需经其他投资者所持表决权的2/3以上同意",
-      "QuestionId": "5d18a75f-c4bd-44b1-9a56-0773187bc970"
-    },
-    {
-      "AnswerID": "243294da-b16d-48c4-a465-87d6aaf5cbe7",
-      "AnswerContent": "后续融资的公司估值低于基金A计划投资的估值",
-      "QuestionId": "b75ec7e7-95b8-45ee-9b59-2fe6f489c660"
-    },
-    {
-      "AnswerID": "47743cfd-cc51-41b2-a6a8-469fb8894fd8",
-      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
-      "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815"
-    },
-    {
       "AnswerID": "421bdb43-2806-483b-a8e8-f627ab26f8ec",
       "AnswerContent": "书面回函",
       "QuestionId": "692e186b-b933-4d98-a825-ca880d13c9ba"
     },
     {
+      "AnswerID": "ff99a4cf-3a08-46cd-b581-7adca0cf4a75",
+      "AnswerContent": "Ⅰ、Ⅱ、Ⅲ",
+      "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815"
+    },
+    {
       "AnswerID": "0a7d1278-b8e0-4e9e-9f9c-9dede790f4ef",
       "AnswerContent": "基金服务机构严重违规的，中国证券投资基金业协会可对其主要负责人采取加入黑名单、公开谴责、暂停或取消基金从业资格等纪律处分",
       "QuestionId": "b8dc2152-b2bb-4ca7-a61c-5c3dae68293c"
+    },
+    {
+      "AnswerID": "243294da-b16d-48c4-a465-87d6aaf5cbe7",
+      "AnswerContent": "后续融资的公司估值低于基金A计划投资的估值",
+      "QuestionId": "b75ec7e7-95b8-45ee-9b59-2fe6f489c660"
     },
     {
       "AnswerID": "d6198d9f-0b5d-464e-a763-2c28befe7160",
@@ -3918,9 +3918,14 @@
       "QuestionId": "692e186b-b933-4d98-a825-ca880d13c9ba"
     },
     {
-      "AnswerID": "09cb82cc-e162-4a48-9cc0-5c4472739e95",
+      "AnswerID": "6f204204-86e1-403e-b348-b36b2d1cf841",
       "AnswerContent": "Ⅰ、Ⅱ",
       "QuestionId": "18b440eb-737a-4099-94ed-a3e5322d9815"
+    },
+    {
+      "AnswerID": "0e16670d-feb5-407a-bde2-46a2c2505461",
+      "AnswerContent": "甲公司CFO同时与多家投资机构进行融资推荐",
+      "QuestionId": "b75ec7e7-95b8-45ee-9b59-2fe6f489c660"
     },
     {
       "AnswerID": "49e15712-753e-4bbb-9564-4cf83badab1b",
@@ -3931,11 +3936,6 @@
       "AnswerID": "4302e003-3d36-4db3-a3c4-969e31a6b9cd",
       "AnswerContent": "管理人获得700万元，投资人获得2.28亿元",
       "QuestionId": "8c3c0a6d-88ab-4209-b618-539313189dd8"
-    },
-    {
-      "AnswerID": "0e16670d-feb5-407a-bde2-46a2c2505461",
-      "AnswerContent": "甲公司CFO同时与多家投资机构进行融资推荐",
-      "QuestionId": "b75ec7e7-95b8-45ee-9b59-2fe6f489c660"
     },
     {
       "AnswerID": "b66db9f6-77b4-44ec-92c8-d99cadac50b7",
@@ -3953,7 +3953,7 @@
       "QuestionId": "d207bc9f-8d15-406c-a097-998a6dfa2ac5"
     },
     {
-      "AnswerID": "c8b2bb22-ef51-442e-9804-01b5b7dbbe46",
+      "AnswerID": "be64d94e-2838-47ec-b03f-0382bbab6997",
       "AnswerContent": "51.3%",
       "QuestionId": "da5d6cfc-899f-48fd-8428-e9f61418a8fa"
     },
@@ -4409,11 +4409,16 @@
       "CalculationScoreType": "0"
     }
   ],
-  "Label": [],
+  "Label": [
+    {
+      "QuestionId": "38dcb941-2690-4c3b-90f6-ea4f3369af7b",
+      "labelID": "eaec6ffc-03be-494d-ab2a-1e87fc3f7ce0"
+    }
+  ],
   "Wrong": [],
   "Schedule": [
     {
-      "ScheduleID": "5f77467d-48e7-4797-9a61-e707f815de5c",
+      "ScheduleID": "8500911e-93d8-4393-b28f-b83c7edae5dd",
       "UseTime": 0,
       "LableQuestionID": null,
       "IsHand": 0

@@ -1,0 +1,2077 @@
+{
+  "Topic": [
+    {
+      "QuestionId": "4a0870dc-7414-43f0-a69a-f24289e8f3e0",
+      "Topic": "下列关于企业及其组织形式的表述中，说法正确的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "个人独资企业的生命有限，将随着业主的死亡而自动消亡，选项B说法错误；而公司制企业可以无限存续，一个公司在最初的所有者和经营者退出后仍然可以继续存在，选项D说法错误；公司制企业作为独立的法人，其利润需缴纳企业所得税，企业利润分配给股东后，股东还需缴纳个人所得税，因此选项C说法错误。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "bacd5784-6dee-4c94-abfc-22db5b8f898f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914522
+    },
+    {
+      "QuestionId": "ca645fb1-f5a8-4fe5-8bf4-e4264e8d9a4c",
+      "Topic": "甲企业预计在本年年初取得银行借款500万元，借款的年利率为8%，每年年末偿还利息，第五年年末偿还本金，则甲企业该笔借款第五年年末的本利和为（　　）万元。[已知：（F/P，8%，5）=1.4693，（F/P，8%，6）=1.5869]",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "F=500×（F/P，8%，5）=500×1.4693=734.65（万元）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "c2c2a7bd-d56e-4068-9112-438b6f2e918d",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914532
+    },
+    {
+      "QuestionId": "470f048d-920e-41dc-8311-552284cb69df",
+      "Topic": "下列预算中，属于财务预算的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "财务预算是指与企业资金收支、财务状况或经营成果等有关的预算。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "f95a08d7-0af1-413b-90b0-ce860f253b47",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914542
+    },
+    {
+      "QuestionId": "1d107ae4-0677-4634-b746-ce8ca47d5595",
+      "Topic": "某公司打算投资一个项目，预计该项目需固定资产投资400万元，预计可使用5年。固定资产采用直线法计提折旧，估计净残值为10万元。营业期间估计每年固定成本为（不含折旧）25万元，变动成本为每件75元。销售部门估计各年销售量均为5万件，该公司可以接受150元/件的价格，适用的所得税税率为25%。则该项目最后一年现金净流量为（　　）万元。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "年折旧=（400-10）/5=78（万元）净利润=[（150-75）×5-（78+25）]×（1-25%）=204（万元）项目最后一年现金净流量=净利润+折旧+固定资产残值=204+78+10=292（万元）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "4ea72bf5-a51c-411c-b8bd-0ef92db2cc22",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914552
+    },
+    {
+      "QuestionId": "9cc9c8f2-896d-4478-af3f-a135a9b97446",
+      "Topic": "某项目预计投产第一年年初流动资产需用额为160万元，流动负债需用额为55万元，投产第二年年初流动资产需用额为300万元，流动负债需用额为140万元，则该项目第二年垫支的营运资金为（　　）万元。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "第一年所需营运资金=160-55=105（万元）第一年垫支的营运资金=105-0=105（万元）第二年所需营运资金=300-140=160（万元）第二年垫支的营运资金=第二年所需营运资金-第一年垫支的营运资金=160-105=55（万元）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "490e97e6-a291-4158-bfae-5a04c2948114",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914562
+    },
+    {
+      "QuestionId": "90bb2a44-dcf6-4417-af88-fa350dd03daf",
+      "Topic": "下列选项中，不属于营运资金特点的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "营运资金的实物形态具有变动性和易变现性。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "d921737d-fb75-4e7d-a09f-b6ea840e03ab",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914572
+    },
+    {
+      "QuestionId": "0ec9f59f-5dcb-45c8-9d58-6cc9dce4fc4a",
+      "Topic": "某企业固定资产为800万元，永久性流动资产为200万元，波动性流动资产为200万元。已知长期负债、自发性负债和股东权益资本可提供的资金为900万元，则该企业采取的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "流动资产融资策略包括期限匹配融资策略、保守融资策略和激进融资策略三种。本题永久性资产=800+200=1000（万元），长期资金来源900万元，说明有100万元永久性流动资产和200万元的波动性流动资产由短期资金来源解决，临时性负债大于波动性流动资产，它不仅解决波动性流动资产的资金需求，还解决部分永久性流动资产的资金需求，属于激进融资策略的特点，因此选择选项C。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "4527e7e9-c377-41aa-84eb-ada60aad9ab3",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914582
+    },
+    {
+      "QuestionId": "72fc85c1-6d67-45bf-967a-d72061c6ce59",
+      "Topic": "下列各项中，不属于企业相关者利益最大化财务管理目标特点的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "以相关者利益最大化作为财务管理目标，具有以下优点：（1）有利于企业长期稳定发展；（2）体现了合作共赢的价值理念，有利于实现企业经济效益和社会效益的统一；（3）这一目标本身是一个多层次、多元化的目标体系，较好地兼顾了各利益主体的利益；（4）体现了现实性和前瞻性的统一。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "98fc7411-1f69-4c55-a46a-970147e74ad8",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914592
+    },
+    {
+      "QuestionId": "2cd549dd-2c18-4b20-8f38-da97948275f9",
+      "Topic": "某公司2019年资金平均占用额为500万元，经分析，其中不合理部分为20万元，预计2016年销售增长8%，但资金周转下降3%。则预测2020年资金需要量为（　　）万元。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "2020年资金需要量=（500-20）×（1+8%）×（1+3%）=533.95（万元）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "5378e65f-c1c8-4fe7-952b-7a4edbad45a0",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914602
+    },
+    {
+      "QuestionId": "4d0e9eb4-26f1-44ac-b541-de492b06ac4c",
+      "Topic": "采用销售百分比法预测对外筹资需要量时，下列各项变动中，会使对外筹资需要量减少的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A、D都会导致留存收益减少，因此导致对外筹资需要量提高。固定资产增加会增加资金占用，会使对外筹资需要量增加。应付账款增加会减少资金占用，会使对外筹资需要量减少。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "1a95baba-a0a6-4635-9b1a-c4e0c70d6c9b",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914612
+    },
+    {
+      "QuestionId": "c7851f1f-b8a4-4ec7-a239-a2b5ce8836e6",
+      "Topic": "王某打算10年后从银行收到本利和51874元，假设目前银行的存款利率为10%且保持稳定不变，则王某现在应该存入（　　）元。[已知：（F/P，10%，10）=2.5937，（F/P，10%，11）=2.8531]",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题考查的是复利现值的计算。F=P×（F/P，10%，10），故P=51874/2.5937=20000（元）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "8ba0bbdb-5f08-46b8-bae2-01c37608b70a",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914622
+    },
+    {
+      "QuestionId": "7824e5df-d3ff-494c-b08f-fc1cd6fb4efc",
+      "Topic": "与企业资金收支、财务状况或经营成果等有关的预算是（　　）。 ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "<span style=\"\">财务预算是指与企业资金收支、财务状况或经营成果等有关的预算。</span><br />",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "c0c617fc-00fd-4e3f-939a-10a49c0c5c1e",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914632
+    },
+    {
+      "QuestionId": "87452d16-1898-4bc4-a302-9620f8865bfa",
+      "Topic": "企业因扩大经营规模或对外投资需要而产生的筹资动机是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "扩张性筹资动机，是指企业因扩大经营规模或对外投资需要而产生的筹资动机。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "544480e0-5404-4da5-87a3-96aa38b07c99",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914642
+    },
+    {
+      "QuestionId": "3f085c60-cd9a-4121-934b-2d607bdb88ba",
+      "Topic": "下列关于企业筹资方式和筹资渠道的说法中，正确的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "商业票据融资具有融资成本较低、灵活方便等特点，选项A错误。由于商圈内多数商贸经营主体属中小企业，抵押物少、信用记录不健全，“融资难”问题较为突出，选项B错误。节能服务公司为实现节能目标向用能单位提供必要的服务，用能单位以节能效益支付节能服务公司的投入及其合理利润的节能服务机制，选项D错误。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "3595d47b-b5e9-4482-a463-43bb58abd0cb",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914652
+    },
+    {
+      "QuestionId": "a2a6d8c0-dea7-45d2-a55f-aad6a7d5c3d3",
+      "Topic": "资本成本是企业筹资和使用资金需要付出的代价，下列不属于筹资费用的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "在资金筹集过程中，要发生股票发行费、借款手续费、证券印刷费、公证费、律师费等费用，这些属于资金筹集费用。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "1c73c340-6332-4e30-9a78-1310e7f79e70",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914662
+    },
+    {
+      "QuestionId": "ac288fba-1c63-432f-ac0e-396a316a00c5",
+      "Topic": "某企业只生产A产品一种产品，预计下年销售价格为120元，单位变动成本为60元，固定成本为480000元，如果下一年要实现目标利润240000元，那么销售量应到达（　　）件。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "实现目标利润的销售量=（240000+480000）/（120-60）=12000（件）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "3e923bd7-be6b-43fd-ac5d-6a197b22f210",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914672
+    },
+    {
+      "QuestionId": "9d3cebc0-d9e1-432d-8fc7-7cd851b9ed6b",
+      "Topic": "下列关于股票回购的说法中，不正确的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股票回购是指上市公司出资将其发行在外的普通股以一定价格购买回来予以注销或作为库存股的一种资本运作方式，股票回购会导致所有者权益总额的减少，从而改变公司的资本结构。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "362969f9-2bce-4715-a389-51f11ef43913",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914682
+    },
+    {
+      "QuestionId": "22ca0fa1-6c1d-4356-a228-5b6cfbfb418e",
+      "Topic": "股利的支付减少了管理者对自由现金流量的支配权，这在一定程度上可以抑制公司管理者的过度投资或在职消费行为，从而保护外部投资者的利益。这种观点体现的股利理论是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "代理理论认为，股利的支付能够有效地降低代理成本。首先，股利的支付减少了管理者对自由现金流量的支配权，这在一定程度上可以抑制公司管理者的过度投资或在职消费行为，从而保护外部投资者的利益；其次，较多的现金股利发放，减少了内部融资，导致公司进入资本市场寻求外部融资，从而公司将接受资本市场上更多的、更严格的监督，这样便通过资本市场的监督减少了代理成本。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "f0b592e8-daea-46f8-8c0e-17ec4e4b5b60",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914692
+    },
+    {
+      "QuestionId": "883097f1-4407-40da-ae4d-88ac942240e3",
+      "Topic": "下列各项中，不属于效率比率的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "效率比率，是某项财务活动中所费与所得的比率，反映投入与产出的关系。比如，将利润项目与营业成本、营业收入、资本金等项目加以对比，可以计算出成本利润率、营业利润率和资本金利润率等指标，从不同角度观察比较企业盈利能力的高低及其增减变化情况。流动比率属于相关比率，所以应选择选项D。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "b8b69d38-1150-4e65-9dad-cd1605576381",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914702
+    },
+    {
+      "QuestionId": "5c0716b7-b6e5-432a-9372-fceaa4ef9950",
+      "Topic": "乙公司的流动资产由速动资产和存货组成，年末流动资产为70万元，年末流动比率为2，年末速动比率为1，则年末存货余额为（　　）万元。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "乙公司年末流动负债=流动资产/流动比率=70/2=35（万元），速动资产=流动负债×速动比率=35×1=35（万元），所以存货余额=流动资产-速动资产=70-35=35（万元）。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "8ef9cc93-6fbd-4464-a988-f8f0ca86948f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914712
+    },
+    {
+      "QuestionId": "74dc2145-461c-4f4c-9598-fbbf22455de7",
+      "Topic": "以职能化管理为核心，在管理分工下实行集权控制，没有中间管理层的企业组织体制是（　　）组织。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "U型组织以职能化管理为核心，最典型的特征是在管理分工下实行集权控制，没有中间管理层，依靠总部的采购、营销、财务等职能部门直接控制各业务单元，子公司的自主权较小。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "2f98f209-1623-4630-8bda-0444c30ac341",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914722
+    },
+    {
+      "QuestionId": "b2bedd75-6be5-4e35-a550-3b1e730b76e2",
+      "Topic": "下列各项中，属于短期融资券筹资的特点的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "发行短期融资券的条件比较严格。必须具备一定的信用等级的实力强的企业，才能发行短期融资券筹资。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "3b1d86e5-0fad-428b-a378-9c77188bcedd",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914732
+    },
+    {
+      "QuestionId": "ad737b4f-aec7-4254-94a7-bfdc569b44de",
+      "Topic": "下列各项不属于能效信贷业务的重点服务领域的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "能效信贷业务的重点服务领域包括：（1）工业节能；（2）建筑节能；（3）交通运输节能；（4）与节能项目、服务、技术和设备有关的其他重要领域。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "19ed1cb9-efdd-4af8-93be-b7d203c650df",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914742
+    },
+    {
+      "QuestionId": "44473528-7551-453b-bbbe-b1249a3c27ca",
+      "Topic": "下列关于股利支付形式与程序的说法中，正确的有（　　）。 ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "从出息日开始，新购入股票的投资者不能分享最近一期股利，选项D正确。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "1a525c28-8ad6-4555-911f-78ed3c1c4274",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914752
+    },
+    {
+      "QuestionId": "5bbbd528-58ae-4e8b-8df7-5d21816cb273",
+      "Topic": "下列关于优序融资理论说法中正确的是（　　）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "优序融资理论以非对称信息条件以及交易成本的存在为前提，认为企业外部融资要多支付各种成本,使得投资者可以从企业资本结构的选择来判断企业市场价值。所以选项A错误。企业偏好内部融资，当需要进行外部融资时,债务筹资优于股权筹资。从成熟的证券市场来看，企业的筹资优序模式首先是内部筹资,其次是借款、发行债券、可转换债券,最后是发行新股筹资。所以选项B、C错误，选项D正确。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "48587150-9eda-46b7-a143-6d436a461a07",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914762
+    },
+    {
+      "QuestionId": "c568b986-4897-4ab6-af9d-da41cc98811f",
+      "Topic": "下列关于企业社会责任的说法中，正确的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "确保交易安全，切实履行合法订立的合同体现的是对债权人的责任。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "346fab86-114f-4eeb-8b9c-09c1caecbc00,798ec94d-6067-40bc-809a-e0dd816f8c13,0b18d1f5-7b1a-4968-93f4-cc45070b71bd",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914772
+    },
+    {
+      "QuestionId": "96c1b87d-bdbd-4d59-b39b-fb4617114594",
+      "Topic": "某投资者准备投资一个项目，该项目前m年没有取得现金流量，从第m+1年开始每年年末获得等额的现金流量A万元，假设一共取得n年，则这笔项目收益的现值为（　　）万元。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "本题主要考查递延年金现值的计算方法。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "e3c63ed3-781a-4ca5-87ff-c0e85d2af999,063277da-e2ae-474b-a135-b39c1a2b4f24",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914782
+    },
+    {
+      "QuestionId": "71efe1f4-5488-486a-b9ef-f31524cef6f9",
+      "Topic": "下列各项中，不属于全面预算体系最后环节的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "财务预算作为全面预算体系的最后环节，它是从价值方面总括地反映企业经营预算与专门决策预算的结果，故亦称为总预算，其他预算则相应称为辅助预算或分预算。生产预算属于经营预算，所以本题的正确选项是ACD。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "9aaccd7f-c274-48eb-8c0a-2ec723e808ba,157f7d8b-d563-4009-bcdb-a5b62f0a4d66,fb5deb4e-8505-42c6-a2a0-7c9c1b113169",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914792
+    },
+    {
+      "QuestionId": "f9dbeff8-b13e-4be0-b6d9-967719cf22ef",
+      "Topic": "下列属于长期借款的特殊性保护条款的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "特殊性保护条款是针对某些特殊情况而出现在部分借款合同中的条款，只有在特殊情况下才能生效。主要包括：要求公司的主要领导人购买人身保险；借款的用途不得改变；违约惩罚条款等。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "3c41bb18-a4a5-4169-88a3-5ff3c9190a97,e7cd887f-5610-4283-abe1-fa0748031bcb",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914802
+    },
+    {
+      "QuestionId": "2437ed01-74f6-4426-bdef-62ca2b3bc875",
+      "Topic": "某公司经营杠杆系数为2，财务杠杆系数为3，如果产销量增加1%，则下列说法不正确的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "总杠杆系数=经营杠杆系数×财务杠杆系数=2×3=6。根据三个杠杆系数的计算公式可知，选项A、D正确。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "3f53c5a6-a112-4528-b105-8804ecc8236a,ab6c3f52-09ae-46d0-ab6a-0aef616ef7c7",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914812
+    },
+    {
+      "QuestionId": "8868833c-3773-4137-8f6c-b140bfd637ab",
+      "Topic": "下列各项关于独立投资方案决策的表述中，正确的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "内含收益率法考虑了原始投资额与获得收益之间的比率关系,适用于任何独立投资方案；现值指数法是在净现值法的基础上考虑了原始投资额与获得收益之间的比率关系，是相对数指标，所以可以适用于原始投资额不同的独立投资方案，但是同样没有考虑寿命期的问题，所以适用的范围是寿命期相同但原始投资额不同的独立方案决策；年金净流量法因为把净现值平均分摊到每一年后进行决策，考虑了项目寿命期的问题，所以适用于寿命期不同但原始投资额相同的独立方案决策。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "360838d1-991f-4299-a367-2842fbf5646c,d0aa1df9-0f7f-431c-9ca8-671632f48622,7c7eb745-e5a1-4e9a-b784-ba401355110e,f862cf73-db2b-41c7-bddb-3a464029ade0",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914822
+    },
+    {
+      "QuestionId": "f44eb1b7-2a24-4f62-9e52-69b8e35e47d3",
+      "Topic": "下列成本费用中，属于存货储存成本的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "储存成本指为保持存货而发生的成本，包括存货占用资金所应计的利息、仓库费用、保险费用、存货破损和变质损失等。选项D属于缺货成本。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "3481814c-c07a-462f-9e4f-973a15939599,2d4446e7-6f97-4521-b955-de1ed2301e97,e1b1d0b8-4dda-45cb-8410-a24d7752ce1e",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914832
+    },
+    {
+      "QuestionId": "2c69c00f-7fe8-4b3f-ad2b-fabba40669d3",
+      "Topic": "在下列各项中，属于可控成本必须同时具备的条件有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "可控成本是指成本中心可以控制的各种耗费，它应具备三个条件：第一，该成本的发生是成本中心可以预见的；第二，该成本是成本中心可以计量的；第三，该成本是成本中心可以调节和控制的。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "6c644637-2b9e-4eb7-b0a5-f867a8119e16,7fb1509e-c5f1-4b33-afdd-4f7e120a2100,2977c46a-6611-4988-852b-8db9164981e6,29a376a7-97a9-41ba-b13b-e6816bb2c0c3",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914842
+    },
+    {
+      "QuestionId": "75f83d18-a541-4f29-bfca-eeb4f0a412c7",
+      "Topic": "下列选项中，属于企业的定价目标的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业自身的实际情况及所面临的外部环境不同，企业的定价目标也多种多样，主要有以下几种：（1）实现利润最大化；（2）保持或提高市场占有率；（3）稳定市场价格；（4）应对和避免竞争；（5）树立企业形象及产品品牌。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "6c976ca7-0a52-48ce-8f19-9a60c5003ef6,33cea248-1d13-426c-b51b-aab842c8d399,312405a3-daa5-4fc3-a736-ddc0582a77e6,263ebd24-e09e-4ca8-a9a9-bf08f9604f86",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914852
+    },
+    {
+      "QuestionId": "275c4377-13ad-4931-914d-960426cb44b4",
+      "Topic": "下列各项属于稀释性潜在普通股的有（　　）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "稀释性潜在普通股是指假设当期转换为普通股会减少每股收益的潜在普通股，主要包括可转换公司债券、认股权证和股票期权等。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "61cf4700-8ec0-41bb-a25c-8da19acb5962,a0142e88-ebec-4302-91b3-e2392b25b6e9,335f390f-24bb-4bc8-a7c8-d037771c481a",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914862
+    },
+    {
+      "QuestionId": "643aa701-afc2-4c95-8255-609c651d601a",
+      "Topic": "企业是依法设立的，以营利为目的，运用各种生产要素（土地、劳动力、资本和技术等），向市场提供商品或服务，实行自主经营、自负盈亏、独立核算的法人或其他社会经济组织。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业是依法设立的，以营利为目的，运用各种生产要素（土地、劳动力、资本和技术等），向市场提供商品或服务，实行自主经营、自负盈亏、独立核算的法人或其他社会经济组织。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "73c5ea5d-276e-4022-8265-4aa89155f6d2",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914872
+    },
+    {
+      "QuestionId": "b0c5ee8c-ba53-4d63-8082-a7ef746a2942",
+      "Topic": "曲线变动成本分为递增曲线成本和递减曲线成本，其中递减曲线成本是随着业务量的增加而减少的。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "曲线变动成本分为递增曲线成本和递减曲线成本，其中递增曲线成本，随着业务量的增加，成本逐步增加，并且增加幅度是递增的；递减曲线成本，用量越大则总成本越高，但增长越来越慢，变化率是递减的。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "a3afa8f3-75a4-4322-8846-08e53e416641",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914882
+    },
+    {
+      "QuestionId": "576cad4f-8f19-4662-a17e-1fe14cc1396d",
+      "Topic": "产品成本预算，是销售预算、生产预算、直接材料预算、直接人工预算、制造费用预算、销售及管理费用预算的汇总。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "产品成本预算，是销售预算、生产预算、直接材料预算、直接人工预算、制造费用预算的汇总。不考虑销售及管理费用预算。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "8d89f661-4fe2-4434-926d-91ad2aa7ed66",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914892
+    },
+    {
+      "QuestionId": "df4b1b82-7283-4399-8132-12e81dab8a2d",
+      "Topic": "调整性筹资的目的，是为了企业经营活动追加资金，这类筹资通常会增加企业的资本总额。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "调整性筹资的目的是为了调整资本结构，而不是为企业经营活动追加资金，资本结构调整的目的在于降低资本成本，这类筹资通常不会增加企业的资本总额。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "ac1f1f0d-ea05-473c-9bd5-ff65af5f627f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914902
+    },
+    {
+      "QuestionId": "bd8ea24c-9981-481c-8823-0b946a3ec28a",
+      "Topic": "息税前利润大于零的情况下，只要有固定性经营成本存在，经营杠杆系数总是大于1。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "在息税前利润为正的前提下，经营杠杆系数最低为1，不会为负数；只要有固定性经营成本存在，经营杠杆系数总是大于1。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "8c5fcafb-0f6b-4714-a558-befaa796f2de",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914912
+    },
+    {
+      "QuestionId": "b02fa650-64cb-4bd7-8168-1359d817e97b",
+      "Topic": "在项目投资决策中，内含收益率的计算与项目设定的贴现率的高低无关。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "内含收益率的计算与项目设定的贴现率的高低无关。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "78fcc55b-5226-4bbf-bdde-5d3af9c78f97",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914922
+    },
+    {
+      "QuestionId": "bb56a6a3-507c-4fd6-a029-edeae4609696",
+      "Topic": "在确定经济订货批量时，随着每次订货批量的变动，相关订货成本与相关储存成本呈反方向变化。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "相关订货成本=（存货全年需要量/每次订货批量）×每次订货变动成本；相关储存成本=（每次订货批量/2）×单位存货的年变动储存成本，根据公式可知，相关储存成本的高低与每次订货批量成正比，相关订货成本的高低与每次订货批量成反比，所以相关订货成本与相关储存成本呈反方向变化。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "9f92c7f5-4c24-4b62-a103-b07df65bd0e2",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914932
+    },
+    {
+      "QuestionId": "8ddc618b-4b6d-4b85-888b-a017bfb2dc2e",
+      "Topic": "企业经营管理者总是希望企业的保本点越低越好，保本点越低，企业的经营风险就越小。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "保本点越低，说明企业只要实现较小的销售量就可以保本，对于企业来说经营的风险就越小。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "e78339cb-e75d-4a63-9aac-d9dbae80c65a",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914942
+    },
+    {
+      "QuestionId": "9593e4fd-a8b1-4c08-bd77-a17f3b0ca143",
+      "Topic": "当且仅当总资产收益率（息税前）大于债务利息率时，负债筹资才能给股东带来正的财务杠杆效应，有利于股东财富的增加。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "当且仅当总资产收益率（息税前）大于债务利息率时，负债筹资才能给股东带来正的财务杠杆效应，有利于股东财富的增加。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "7ee4112f-9313-46ae-a14d-ae850109ab66",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914952
+    },
+    {
+      "QuestionId": "d82757ca-65f9-4085-b622-d7c5e14f5e0d",
+      "Topic": "在其他条件不变的情况下，权益乘数越小，企业的负债程度越高，给企业带来更多财务杠杆利益的同时也增加了企业的财务风险。（　　）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "在其他条件不变的情况下，权益乘数越大，资产负债率越高。而企业的负债程度越高，能给企业带来的财务杠杆利益越大，但同时也增加了企业的财务风险。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "724d5299-dda5-4a0f-9fbb-3149fc6dbba9",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914962
+    },
+    {
+      "QuestionId": "665d7d2f-0149-451e-bec0-b3b6143a9263",
+      "Topic": "某公司生产甲、乙、丙三种产品，预计甲产品的单位制造成本为120元，计划销售10000件，计划期的期间费用总额为800000元；乙产品的计划销售量为8000件，应负担的固定成本总额为200000元，单位产品变动成本为55元；丙产品本期计划销售量为11500件，目标利润总额为254000元，完全成本总额为516000元；该公司对甲产品要求的成本利润率为20%，甲、乙、丙三种产品适用的消费税税率均为5%。<br />要求：<br />（1）运用完全成本加成定价法计算单位甲产品的价格；<br />（2）运用保本点定价法计算单位乙产品的价格；<br />（3）运用目标利润法计算单位丙产品的价格。&nbsp;&nbsp; ",
+      "Score": 5.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "<span style=\"\">（1）单位完全成本=120+800000/10000=200（元）</span></p><p><span style=\"\">单位甲产品价格=200*（1+20%）/（1-5%）=252.63（元）<br />（2）单位固定成本=200000/8000=25（元）<br /></span><span style=\"\">单位乙产品价格=（25+55）/（1-5%）=84.21（元）<br />（3）单位丙产品价格=（254000+516000）/11500*（1+20%）=70.48（元）。<br /><br /></span><br /><br />",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "5e3851de-e6ef-4fea-8182-fa7e665f48e8",
+      "ParentID": null,
+      "QuestionLevel": "中",
+      "AnalyticUrl": null,
+      "QuestionMainType": "计算分析题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914972
+    },
+    {
+      "QuestionId": "0c091eeb-264d-49b3-8ca2-4d3b84629e26",
+      "Topic": "某企业只生产和销售甲产品，2017年的年产销量为2万件，售价为30元/件，单位变动成本为12元，固定成本总额为18万元。假设2018年成本性态保持不变。预计2018年甲产品的售价仍为30元/件，目标息税前利润比2017年增长10%。适用的所得税税率为25%，假设不考虑其他相关税费。<br />要求：<br />（1）计算2017年的下列指标：①边际贡献率；②安全边际额；③保本作业率。<br />（2）计算2018年甲产品实现目标利润的销售量。<br />（3）计算甲产品的销售量对利润的敏感系数。 ",
+      "Score": 5.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）①边际贡献率=单位边际贡献/单价=（30-12）/30×100%=60%<br />②盈亏平衡点的销售额=固定成本/边际贡献率=180000/60%=300000（元）<br />安全边际额=20000×30-300000=300000（元）<br />③安全边际率=300000/（20000×30）×100%=50%<br />保本作业率=1-50%=50%<br />（2）2017年息税前利润=20000×（30-12）-180000=180000（元）<br />2018年目标息税前利润=180000×（1+10%）=198000（元）<br />2018年甲产品实现目标利润的销售量=（198000+180000）/（30-12）=21000（件）<br />（3）销售量变动百分比=（21000-20000）/20000×100%=5%<br />甲产品的销售量对利润的敏感系数=10%/5%=2。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "6c02f194-aa74-456e-9a7b-d0b7bbc0cb96",
+      "ParentID": null,
+      "QuestionLevel": "中",
+      "AnalyticUrl": null,
+      "QuestionMainType": "计算分析题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914982
+    },
+    {
+      "QuestionId": "8f9eaf3b-ac65-4ff5-ae32-45fb3dd633bf",
+      "Topic": "某公司准备购买一套办公用房，有三种付款方案可供选择：<br>（1）甲方案：从现在起每年年初付款24万元，连续支付5年，共计120万元；<br>（2）乙方案：从第3年起，每年年初付款26万元，连续支付5年，共计130万元；<br>（3）丙方案：从现在起每年年末付款25万元，连续支付5年，共计125万元。<br>要求：假定该公司要求的投资报酬率为10%，通过计算说明应选择哪种方案。[（P/A，10%，5）=3.7908，（P/A，10%，4）=3.1699，（P/F，10%，1）=0.9091]",
+      "Score": 5.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "甲方案：<br>付款总现值=24×（P/A，10%，5）×（1+10%）=24×3.7908×（1+10%）=100.08（万元）<br>乙方案：<br>付款总现值=26×（P/A，10%，5）×（P/F，10%，1）=26×3.7908×0.9091=89.60（万元）<br>丙方案：<br>付款总现值=25×（P/A，10%，5）=25×3.7908=94.77（万元）<br>通过计算可知，该公司应选择乙方案。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "中",
+      "AnalyticUrl": null,
+      "QuestionMainType": "计算分析题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3914992
+    },
+    {
+      "QuestionId": "ba3c0404-152d-4e08-bdb0-6514ecd7d5c5",
+      "Topic": "某公司2015年1月1日发行票面利率10%，每张面值1000元，4年期的公司债券。该债券每年12月31日付息一次，到期按面值偿还。假定某投资人存在下列事项：<br>（1）2015年1月1日以每张1000元的价格购入该债券并持有到期。<br>（2）2017年1月1日以每张1020元的价格购入该债券并持有到期。<br>（3）2016年1月1日购入该债券并持有到期，要求的必要收益率为12%。[已知：（P/A,12%,3）=2.4018，（P/F,12%,3）=0.7118，（P/A,10%,2）=1.7355,（P/F,10%,2）=0.8264，（P/A,8%,2）=1.7833，（P/F,8%,2）=0.8573]<br>要求：<br>（1）针对事项（1），计算该债券的内部收益率。<br>（2）针对事项（2），计算该债券的内部收益率。<br>（3）针对事项（3），计算该债券的价格低于多少时可以购入。",
+      "Score": 5.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）由于该债券属于分期付息、到期还本的平价债券，所以，持有期收益率=票面利率=10%。<br>（2）设内部收益率为i，则：NPV=1000×10%×（P/A，i，2）+1000×（P/F，i，2）-1020<br>当i=10%，NPV=1000×10%×（P/A，10%，2）+1000×（P/F，10%，2）-1020<br>=-20.05（元）<br>当i=8%，NPV=1000×10%×（P/A，8%，2）+1000×（P/F，8%，2）-1020<br>=15.63（元）<br>内插法求得：<br>i=&nbsp;8.88%<br>（3）2016年1月1日债券的价值=1000×10%×（P/A，12%，3）+1000×（P/F，12%，3）<br>=100×2.4018+1000×0.7118=951.98（元）<br>债券的价格低于951.98元时可以购入。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "中",
+      "AnalyticUrl": null,
+      "QuestionMainType": "计算分析题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3915002
+    },
+    {
+      "QuestionId": "b4b1b8c2-20a0-4dd9-a15c-e0bac742987f",
+      "Topic": "丁公司2019年12月31日总资产为600000元，其中流动资产为450000元，非流动资产为150000元；股东权益为400000元。2019年经营活动现金流量净额为85000元，2019年计提的折旧为10000元，长期资产摊销为5000元，计提的资产减值准备为5000元。<br />丁公司年度运营分析报告显示，2019年的存货周转次数为8次，营业收入为900000元，营业成本为500000元，净资产收益率为20%，非经营净收益为-20000元。期末的流动比率为2.5。<br />要求：<br />（1）计算2019年存货平均余额。<br />（2）计算2019年年末流动负债。<br />（3）计算2019年净利润。<br />（4）计算2019年营业现金比率。<br />（5）计算2019年经营净收益。<br />（6）计算2019年净收益营运指数。<br />（7）计算2019年现金营运指数，并评价其收益质量。 ",
+      "Score": 10.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）2019年存货平均余额=500000/8=62500（元）<br />（2）2019年年末流动负债=450000/2.5=180000（元）<br />（3）2019年净利润=400000×20%=80000（元）<br />（4）2019年营业现金比率=85000/900000=9.44%<br />（5）2019年经营净收益=80000-（-20000）=100000（元）<br />（6）2019年净收益营运指数=100000/80000=1.25<br />（7）2019年经营所得现金=100000+10000+5000+5000=120000（元）<br />2019年现金营运指数=85000/120000=0.71<br />因为现金营运指数小于1，所以收益质量不好。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "97868a13-5e05-4851-af6a-db1566180e2b",
+      "ParentID": null,
+      "QuestionLevel": "中",
+      "AnalyticUrl": null,
+      "QuestionMainType": "综合题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3915012
+    },
+    {
+      "QuestionId": "f0adee04-ee4a-4184-bbe1-43e80b947c86",
+      "Topic": "某企业2019年12月31日的资产负债表（简表）如下：<br />2019年12月31日 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;单位：万元<br /><img src=\"http://files.lekaowang.cn/Document/Subject/QuestionPicture/202008110620023151.png\" alt=\"\" /><br />该企业2019年的营业收入为6000万元，营业净利率为10%，净利润的50%分配给投资者。预计2020年营业收入净额比上年增长25%，为此需要增加固定资产200万元，增加无形资产100万元，根据有关情况分析，企业经营流动资产项目和经营流动负债项目将随营业收入同比例增减。<br />假定该企业2020年的营业净利率与上年保持一致，该年度长期借款不发生变化；2020年年末固定资产净值和无形资产合计为2700万元，公司计划靠所有者增加投资来解决资金来源。<br />公司经理层将上述2020年度有关经营计划、财务预算和筹资规划提交董事会审议。根据董事会要求，为保障公司的财务弹性，公司应保持股利支付率不变，按照债权人借款合同规定公司的资产负债率不能超过70%，公司的目标资本结构是70%。<br />要求：<br />（1）计算2020年需要增加的营运资本额。<br />（2）预测2020年需要增加的资金需要量以及需要增加的对外筹集的资金额。<br />（3）预测2020年年末资产总额、负债总额和所有者权益总额。<br />（4）预测2020年的净资产收益率。<br />（5）判断公司经理层提出的外部筹资额通过增加所有者权益是否合适，并说明应注意的问题。 ",
+      "Score": 15.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）敏感资产销售百分比=（300+900+1800）/6000=50%<br />敏感负债销售百分比=（300+600）/6000=15%<br />2020年需要增加的营运资金额=6000×25%×（50%-15%）=525（万元）<br />或者：2020年需要增加的流动资产额=（300+900+1800）×25%=750（万元）<br />2020年需要增加的流动负债额=（300+600）×25%=225（万元）<br />2020年需要增加的营运资金额=750-225=525（万元）<br />（2）2020年需要增加的资金需要量=增加的资产-增加的负债=（750+200+100）-225=825（万元）<br />2020年需要增加对外筹集的资金额=增加的资产-增加的负债-增加的留存收益=825-6000×（1+25%）×10%×（1-50%）=450（万元）<br />（3）2020年年末的资产总额=2019年末资产+2020年增加的资产=5400+（750+200+100）=6450（万元）<br />2020年年末的负债总额=2019年末负债+2020年增加的负债=3600+225=3825（万元）<br />（注：因为题目中说明企业需要增加对外筹集的资金由所有者增加投入解决，所以长期负债不变还是2700万元）<br />2020年年末的所有者权益总额=资产总额-负债总额=6450-3825=2625（万元）<br />（4）2020年的净资产收益率=6000×（1+25%）×10%/[（1200+600+2625）/2]×100%≈33.90%<br />（5）不合适，公司没有充分利用财务杠杆水平。按照目前的筹资规划，公司的资产负债率=3825/6450=59.30%，而公司资产负债率的标准是70%。<br />公司应采用增加负债的方式，若采用增加负债方式，公司的资产负债率=（3825+450）/6450=66.28%，没有超过债权人设定的负债率水平，利用负债筹资可以降低企业筹资的资本成本，还可以充分利用财务杠杆水平，但利用负债水平可能会加大公司的财务风险，利用负债受债权人的约束较大。",
+      "KnowledgeId": "37283570-2733-4cd0-8893-0eb8e895e005",
+      "AnswersIds": "451d5234-f16b-4262-aec4-bd631f3c0718",
+      "ParentID": null,
+      "QuestionLevel": "中",
+      "AnalyticUrl": null,
+      "QuestionMainType": "综合题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "aeadfd34-653d-5d7f-cfe5-99a2bb54d810",
+      "QuestionOrderNo": 3915022
+    }
+  ],
+  "Answer": [
+    {
+      "AnswerID": "f32ac910-7a02-4f2e-8301-f38d83f43b57",
+      "AnswerContent": "500",
+      "QuestionId": "ca645fb1-f5a8-4fe5-8bf4-e4264e8d9a4c"
+    },
+    {
+      "AnswerID": "5378e65f-c1c8-4fe7-952b-7a4edbad45a0",
+      "AnswerContent": "533.95",
+      "QuestionId": "2cd549dd-2c18-4b20-8f38-da97948275f9"
+    },
+    {
+      "AnswerID": "008e5e33-1727-4543-9d06-20b603d0d4a6",
+      "AnswerContent": "商业票据融资成本较高",
+      "QuestionId": "3f085c60-cd9a-4121-934b-2d607bdb88ba"
+    },
+    {
+      "AnswerID": "4a935216-a526-410c-ab43-bd8f5cfb139b",
+      "AnswerContent": "股利支付率提高",
+      "QuestionId": "4d0e9eb4-26f1-44ac-b541-de492b06ac4c"
+    },
+    {
+      "AnswerID": "d0d2fd0b-643f-4b57-bc7f-99c4ca085a5c",
+      "AnswerContent": "证券印刷费",
+      "QuestionId": "a2a6d8c0-dea7-45d2-a55f-aad6a7d5c3d3"
+    },
+    {
+      "AnswerID": "cd7a56aa-91ef-4792-9c3a-993c737b70cb",
+      "AnswerContent": "6000",
+      "QuestionId": "ac288fba-1c63-432f-ac0e-396a316a00c5"
+    },
+    {
+      "AnswerID": "a4e94063-2343-40a6-91c6-8034d856ba21",
+      "AnswerContent": "优序融资理论以对称信息条件以及交易成本的存在为前提",
+      "QuestionId": "5bbbd528-58ae-4e8b-8df7-5d21816cb273"
+    },
+    {
+      "AnswerID": "4e9ace53-4f45-4e73-aef6-07f31b07ea79",
+      "AnswerContent": "期限匹配融资策略",
+      "QuestionId": "0ec9f59f-5dcb-45c8-9d58-6cc9dce4fc4a"
+    },
+    {
+      "AnswerID": "85e22f2b-6078-4cfc-a042-c5bd4eaa49fc",
+      "AnswerContent": "“手中鸟”理论",
+      "QuestionId": "22ca0fa1-6c1d-4356-a228-5b6cfbfb418e"
+    },
+    {
+      "AnswerID": "8ba5cce1-2884-4b84-9a37-634bbccff644",
+      "AnswerContent": "70",
+      "QuestionId": "5c0716b7-b6e5-432a-9372-fceaa4ef9950"
+    },
+    {
+      "AnswerID": "d94c6ac3-41cb-44da-be68-999860ff8054",
+      "AnswerContent": "A型",
+      "QuestionId": "74dc2145-461c-4f4c-9598-fbbf22455de7"
+    },
+    {
+      "AnswerID": "8ba39b3e-e07c-4772-9fbb-82be07457747",
+      "AnswerContent": "创立性筹资动机",
+      "QuestionId": "87452d16-1898-4bc4-a302-9620f8865bfa"
+    },
+    {
+      "AnswerID": "6918e23c-015d-457c-8aa5-d62756ea5f79",
+      "AnswerContent": "筹资数额比较小",
+      "QuestionId": "b2bedd75-6be5-4e35-a550-3b1e730b76e2"
+    },
+    {
+      "AnswerID": "6c4c1508-15f4-4ce5-96b9-806f35f66590",
+      "AnswerContent": "工业节能",
+      "QuestionId": "ad737b4f-aec7-4254-94a7-bfdc569b44de"
+    },
+    {
+      "AnswerID": "b43325b2-72c1-4795-990f-e8533cf3426a",
+      "AnswerContent": "有利于企业长期稳定发展",
+      "QuestionId": "72fc85c1-6d67-45bf-967a-d72061c6ce59"
+    },
+    {
+      "AnswerID": "2389885d-7d40-4818-a955-4d983a0d5c9f",
+      "AnswerContent": "成本利润率",
+      "QuestionId": "883097f1-4407-40da-ae4d-88ac942240e3"
+    },
+    {
+      "AnswerID": "bacd5784-6dee-4c94-abfc-22db5b8f898f",
+      "AnswerContent": "企业是社会生产和服务的主要承担者",
+      "QuestionId": "4a0870dc-7414-43f0-a69a-f24289e8f3e0"
+    },
+    {
+      "AnswerID": "a99c8cc4-e76b-47fa-9ad8-ba9685d6a9dd",
+      "AnswerContent": "股票回购是现金股利的一种替代方式",
+      "QuestionId": "9d3cebc0-d9e1-432d-8fc7-7cd851b9ed6b"
+    },
+    {
+      "AnswerID": "01670a44-a7a6-4a3f-be65-46559878db9c",
+      "AnswerContent": "销售预算",
+      "QuestionId": "470f048d-920e-41dc-8311-552284cb69df"
+    },
+    {
+      "AnswerID": "4ba0ab4a-005c-4044-ace4-a8041e57c353",
+      "AnswerContent": "160",
+      "QuestionId": "9cc9c8f2-896d-4478-af3f-a135a9b97446"
+    },
+    {
+      "AnswerID": "4ea72bf5-a51c-411c-b8bd-0ef92db2cc22",
+      "AnswerContent": "292",
+      "QuestionId": "1d107ae4-0677-4634-b746-ce8ca47d5595"
+    },
+    {
+      "AnswerID": "73d8bde7-39d2-4a60-82bb-7837917595c9",
+      "AnswerContent": "5187.4",
+      "QuestionId": "c7851f1f-b8a4-4ec7-a239-a2b5ce8836e6"
+    },
+    {
+      "AnswerID": "c86ebf1a-31fa-4b72-a19b-ea1a29b723b2",
+      "AnswerContent": "在股权登记日取得股票的股东无权领取本次分派的股利",
+      "QuestionId": "44473528-7551-453b-bbbe-b1249a3c27ca"
+    },
+    {
+      "AnswerID": "89c5c477-16b7-42a2-ac74-ee04c757fb23",
+      "AnswerContent": "来源具有多样性",
+      "QuestionId": "90bb2a44-dcf6-4417-af88-fa350dd03daf"
+    },
+    {
+      "AnswerID": "8882f319-52e3-4c19-8df4-b166372cd1a0",
+      "AnswerContent": "经营预算",
+      "QuestionId": "7824e5df-d3ff-494c-b08f-fc1cd6fb4efc"
+    },
+    {
+      "AnswerID": "3481814c-c07a-462f-9e4f-973a15939599",
+      "AnswerContent": "存货占用资金的应计利息",
+      "QuestionId": "f44eb1b7-2a24-4f62-9e52-69b8e35e47d3"
+    },
+    {
+      "AnswerID": "e3c63ed3-781a-4ca5-87ff-c0e85d2af999",
+      "AnswerContent": "A×（P/A，i，n）×（P/F，i，m）",
+      "QuestionId": "96c1b87d-bdbd-4d59-b39b-fb4617114594"
+    },
+    {
+      "AnswerID": "6c976ca7-0a52-48ce-8f19-9a60c5003ef6",
+      "AnswerContent": "稳定市场价格",
+      "QuestionId": "75f83d18-a541-4f29-bfca-eeb4f0a412c7"
+    },
+    {
+      "AnswerID": "6c644637-2b9e-4eb7-b0a5-f867a8119e16",
+      "AnswerContent": "该成本的发生是成本中心可以预见的",
+      "QuestionId": "2c69c00f-7fe8-4b3f-ad2b-fabba40669d3"
+    },
+    {
+      "AnswerID": "9aaccd7f-c274-48eb-8c0a-2ec723e808ba",
+      "AnswerContent": "经营预算",
+      "QuestionId": "71efe1f4-5488-486a-b9ef-f31524cef6f9"
+    },
+    {
+      "AnswerID": "360838d1-991f-4299-a367-2842fbf5646c",
+      "AnswerContent": "两项目原始投资额不同但期限相同，采用现值指数较高的项目",
+      "QuestionId": "8868833c-3773-4137-8f6c-b140bfd637ab"
+    },
+    {
+      "AnswerID": "3c41bb18-a4a5-4169-88a3-5ff3c9190a97",
+      "AnswerContent": "财务总监要购买人身保险",
+      "QuestionId": "f9dbeff8-b13e-4be0-b6d9-967719cf22ef"
+    },
+    {
+      "AnswerID": "61cf4700-8ec0-41bb-a25c-8da19acb5962",
+      "AnswerContent": "可转换公司债券",
+      "QuestionId": "275c4377-13ad-4931-914d-960426cb44b4"
+    },
+    {
+      "AnswerID": "3827f6a6-58cb-4dc7-8935-93a311d8b596",
+      "AnswerContent": "息税前利润将增加2%",
+      "QuestionId": "2437ed01-74f6-4426-bdef-62ca2b3bc875"
+    },
+    {
+      "AnswerID": "346fab86-114f-4eeb-8b9c-09c1caecbc00",
+      "AnswerContent": "企业除了向员工支付报酬的法律责任外，还负有为员工提供安全工作环境、职业教育等保障员工利益的责任",
+      "QuestionId": "c568b986-4897-4ab6-af9d-da41cc98811f"
+    },
+    {
+      "AnswerID": "9f92c7f5-4c24-4b62-a103-b07df65bd0e2",
+      "AnswerContent": "正确",
+      "QuestionId": "bb56a6a3-507c-4fd6-a029-edeae4609696"
+    },
+    {
+      "AnswerID": "73c5ea5d-276e-4022-8265-4aa89155f6d2",
+      "AnswerContent": "正确",
+      "QuestionId": "643aa701-afc2-4c95-8255-609c651d601a"
+    },
+    {
+      "AnswerID": "e78339cb-e75d-4a63-9aac-d9dbae80c65a",
+      "AnswerContent": "正确",
+      "QuestionId": "8ddc618b-4b6d-4b85-888b-a017bfb2dc2e"
+    },
+    {
+      "AnswerID": "6d15f0d2-a396-4106-942e-745c1841b915",
+      "AnswerContent": "正确",
+      "QuestionId": "d82757ca-65f9-4085-b622-d7c5e14f5e0d"
+    },
+    {
+      "AnswerID": "78fcc55b-5226-4bbf-bdde-5d3af9c78f97",
+      "AnswerContent": "正确",
+      "QuestionId": "b02fa650-64cb-4bd7-8168-1359d817e97b"
+    },
+    {
+      "AnswerID": "cb4f2ca1-5415-4ba1-9432-4d07c33593b4",
+      "AnswerContent": "正确",
+      "QuestionId": "576cad4f-8f19-4662-a17e-1fe14cc1396d"
+    },
+    {
+      "AnswerID": "7ee4112f-9313-46ae-a14d-ae850109ab66",
+      "AnswerContent": "正确",
+      "QuestionId": "9593e4fd-a8b1-4c08-bd77-a17f3b0ca143"
+    },
+    {
+      "AnswerID": "83fb5864-aac7-4045-9cb5-dfdf3e217304",
+      "AnswerContent": "正确",
+      "QuestionId": "b0c5ee8c-ba53-4d63-8082-a7ef746a2942"
+    },
+    {
+      "AnswerID": "ba7be85b-327d-4614-b019-b687b9309762",
+      "AnswerContent": "正确",
+      "QuestionId": "df4b1b82-7283-4399-8132-12e81dab8a2d"
+    },
+    {
+      "AnswerID": "e3d11bbc-bc02-40cc-9832-6ac435bfc55a",
+      "AnswerContent": "见解析",
+      "QuestionId": "ba3c0404-152d-4e08-bdb0-6514ecd7d5c5"
+    },
+    {
+      "AnswerID": "a0f86790-09e6-4528-b332-c7485ad421f0",
+      "AnswerContent": "见解析",
+      "QuestionId": "8f9eaf3b-ac65-4ff5-ae32-45fb3dd633bf"
+    },
+    {
+      "AnswerID": "6c02f194-aa74-456e-9a7b-d0b7bbc0cb96",
+      "AnswerContent": "见解析",
+      "QuestionId": "0c091eeb-264d-49b3-8ca2-4d3b84629e26"
+    },
+    {
+      "AnswerID": "5e3851de-e6ef-4fea-8182-fa7e665f48e8",
+      "AnswerContent": "见解析",
+      "QuestionId": "665d7d2f-0149-451e-bec0-b3b6143a9263"
+    },
+    {
+      "AnswerID": "97868a13-5e05-4851-af6a-db1566180e2b",
+      "AnswerContent": "见解析",
+      "QuestionId": "b4b1b8c2-20a0-4dd9-a15c-e0bac742987f"
+    },
+    {
+      "AnswerID": "451d5234-f16b-4262-aec4-bd631f3c0718",
+      "AnswerContent": "见解析",
+      "QuestionId": "f0adee04-ee4a-4184-bbe1-43e80b947c86"
+    },
+    {
+      "AnswerID": "8c5fcafb-0f6b-4714-a558-befaa796f2de",
+      "AnswerContent": "正确",
+      "QuestionId": "bd8ea24c-9981-481c-8823-0b946a3ec28a"
+    },
+    {
+      "AnswerID": "60f37bf2-16dd-4c08-93f8-ef10f9664792",
+      "AnswerContent": "错误",
+      "QuestionId": "bd8ea24c-9981-481c-8823-0b946a3ec28a"
+    },
+    {
+      "AnswerID": "798ec94d-6067-40bc-809a-e0dd816f8c13",
+      "AnswerContent": "债权人是企业的重要利益相关者，企业应依据合同的约定以及法律的规定对债权人承担相应的义务，保障债权人合法权益",
+      "QuestionId": "c568b986-4897-4ab6-af9d-da41cc98811f"
+    },
+    {
+      "AnswerID": "ac1f1f0d-ea05-473c-9bd5-ff65af5f627f",
+      "AnswerContent": "错误",
+      "QuestionId": "df4b1b82-7283-4399-8132-12e81dab8a2d"
+    },
+    {
+      "AnswerID": "1c5f38c5-aff3-4771-bc47-af26a931ca26",
+      "AnswerContent": "错误",
+      "QuestionId": "9593e4fd-a8b1-4c08-bd77-a17f3b0ca143"
+    },
+    {
+      "AnswerID": "a3afa8f3-75a4-4322-8846-08e53e416641",
+      "AnswerContent": "错误",
+      "QuestionId": "b0c5ee8c-ba53-4d63-8082-a7ef746a2942"
+    },
+    {
+      "AnswerID": "8d89f661-4fe2-4434-926d-91ad2aa7ed66",
+      "AnswerContent": "错误",
+      "QuestionId": "576cad4f-8f19-4662-a17e-1fe14cc1396d"
+    },
+    {
+      "AnswerID": "5f17eb81-91ac-4b73-a566-747fe32c724d",
+      "AnswerContent": "错误",
+      "QuestionId": "b02fa650-64cb-4bd7-8168-1359d817e97b"
+    },
+    {
+      "AnswerID": "724d5299-dda5-4a0f-9fbb-3149fc6dbba9",
+      "AnswerContent": "错误",
+      "QuestionId": "d82757ca-65f9-4085-b622-d7c5e14f5e0d"
+    },
+    {
+      "AnswerID": "8c14e272-76ab-48e1-ae8e-d790969f905c",
+      "AnswerContent": "错误",
+      "QuestionId": "643aa701-afc2-4c95-8255-609c651d601a"
+    },
+    {
+      "AnswerID": "2ce6f21a-2142-4d06-a07c-689298bc95ce",
+      "AnswerContent": "错误",
+      "QuestionId": "8ddc618b-4b6d-4b85-888b-a017bfb2dc2e"
+    },
+    {
+      "AnswerID": "d5d09311-ac9c-4b01-94b6-d15d418bf2cc",
+      "AnswerContent": "错误",
+      "QuestionId": "bb56a6a3-507c-4fd6-a029-edeae4609696"
+    },
+    {
+      "AnswerID": "3f53c5a6-a112-4528-b105-8804ecc8236a",
+      "AnswerContent": "息税前利润将增加3%",
+      "QuestionId": "2437ed01-74f6-4426-bdef-62ca2b3bc875"
+    },
+    {
+      "AnswerID": "a0142e88-ebec-4302-91b3-e2392b25b6e9",
+      "AnswerContent": "认股权证",
+      "QuestionId": "275c4377-13ad-4931-914d-960426cb44b4"
+    },
+    {
+      "AnswerID": "e7cd887f-5610-4283-abe1-fa0748031bcb",
+      "AnswerContent": "借款的用途不得改变",
+      "QuestionId": "f9dbeff8-b13e-4be0-b6d9-967719cf22ef"
+    },
+    {
+      "AnswerID": "d0aa1df9-0f7f-431c-9ca8-671632f48622",
+      "AnswerContent": "两项目原始投资额不同但期限相同，采用内含收益率较高的项目",
+      "QuestionId": "8868833c-3773-4137-8f6c-b140bfd637ab"
+    },
+    {
+      "AnswerID": "5db5bea0-5fa0-4f3f-ae7b-89b6f1b8aa45",
+      "AnswerContent": "财务预算",
+      "QuestionId": "71efe1f4-5488-486a-b9ef-f31524cef6f9"
+    },
+    {
+      "AnswerID": "063277da-e2ae-474b-a135-b39c1a2b4f24",
+      "AnswerContent": "A×[（P/A，i，m+n）-（P/A，i，m）]",
+      "QuestionId": "96c1b87d-bdbd-4d59-b39b-fb4617114594"
+    },
+    {
+      "AnswerID": "7fb1509e-c5f1-4b33-afdd-4f7e120a2100",
+      "AnswerContent": "该成本是成本中心可以计量的",
+      "QuestionId": "2c69c00f-7fe8-4b3f-ad2b-fabba40669d3"
+    },
+    {
+      "AnswerID": "33cea248-1d13-426c-b51b-aab842c8d399",
+      "AnswerContent": "树立企业形象及产品品牌",
+      "QuestionId": "75f83d18-a541-4f29-bfca-eeb4f0a412c7"
+    },
+    {
+      "AnswerID": "2d4446e7-6f97-4521-b955-de1ed2301e97",
+      "AnswerContent": "存货破损和变质损失",
+      "QuestionId": "f44eb1b7-2a24-4f62-9e52-69b8e35e47d3"
+    },
+    {
+      "AnswerID": "fcf695e0-7450-4639-a5e8-c3eb7eacdaf4",
+      "AnswerContent": "专门决策预算",
+      "QuestionId": "7824e5df-d3ff-494c-b08f-fc1cd6fb4efc"
+    },
+    {
+      "AnswerID": "c7d90c08-a9ad-49c8-9a1d-77aa658907dc",
+      "AnswerContent": "数量具有波动性",
+      "QuestionId": "90bb2a44-dcf6-4417-af88-fa350dd03daf"
+    },
+    {
+      "AnswerID": "72cc2124-78b7-4d67-be23-1fc0ace8ec14",
+      "AnswerContent": "在除息日之前，股利权从属于股票",
+      "QuestionId": "44473528-7551-453b-bbbe-b1249a3c27ca"
+    },
+    {
+      "AnswerID": "490e97e6-a291-4158-bfae-5a04c2948114",
+      "AnswerContent": "55",
+      "QuestionId": "9cc9c8f2-896d-4478-af3f-a135a9b97446"
+    },
+    {
+      "AnswerID": "b75a9e76-bbd5-4a57-975d-61a831ae1233",
+      "AnswerContent": "15000",
+      "QuestionId": "c7851f1f-b8a4-4ec7-a239-a2b5ce8836e6"
+    },
+    {
+      "AnswerID": "846355db-73d2-4db0-bfb3-7c01b67dfa13",
+      "AnswerContent": "282",
+      "QuestionId": "1d107ae4-0677-4634-b746-ce8ca47d5595"
+    },
+    {
+      "AnswerID": "f95a08d7-0af1-413b-90b0-ce860f253b47",
+      "AnswerContent": "资金预算",
+      "QuestionId": "470f048d-920e-41dc-8311-552284cb69df"
+    },
+    {
+      "AnswerID": "bf2d348e-98f7-46b1-8005-82b788f6fae1",
+      "AnswerContent": "个人独资企业可以无限存续下去",
+      "QuestionId": "4a0870dc-7414-43f0-a69a-f24289e8f3e0"
+    },
+    {
+      "AnswerID": "362969f9-2bce-4715-a389-51f11ef43913",
+      "AnswerContent": "股票回购不改变公司的资本结构",
+      "QuestionId": "9d3cebc0-d9e1-432d-8fc7-7cd851b9ed6b"
+    },
+    {
+      "AnswerID": "11838783-5085-4a9a-a8ea-d207e6db4c56",
+      "AnswerContent": "体现了合作共赢的价值理念，有利于实现企业经济效益和社会效益的统一",
+      "QuestionId": "72fc85c1-6d67-45bf-967a-d72061c6ce59"
+    },
+    {
+      "AnswerID": "489cfcbb-69bd-4cc7-a53f-766be2136e06",
+      "AnswerContent": "营业利润率",
+      "QuestionId": "883097f1-4407-40da-ae4d-88ac942240e3"
+    },
+    {
+      "AnswerID": "3161be43-7c8c-4b1e-9936-11507ed97580",
+      "AnswerContent": "建筑节能",
+      "QuestionId": "ad737b4f-aec7-4254-94a7-bfdc569b44de"
+    },
+    {
+      "AnswerID": "d076e8d7-66bc-4c4e-aa1e-5179b55cfe0e",
+      "AnswerContent": "筹资弹性比较大",
+      "QuestionId": "b2bedd75-6be5-4e35-a550-3b1e730b76e2"
+    },
+    {
+      "AnswerID": "bbe7c488-65e3-4325-bdec-e89014c39672",
+      "AnswerContent": "45",
+      "QuestionId": "5c0716b7-b6e5-432a-9372-fceaa4ef9950"
+    },
+    {
+      "AnswerID": "8db56a47-df75-4163-8d0e-cd1417f312ab",
+      "AnswerContent": "支付性筹资动机",
+      "QuestionId": "87452d16-1898-4bc4-a302-9620f8865bfa"
+    },
+    {
+      "AnswerID": "2f98f209-1623-4630-8bda-0444c30ac341",
+      "AnswerContent": "U型",
+      "QuestionId": "74dc2145-461c-4f4c-9598-fbbf22455de7"
+    },
+    {
+      "AnswerID": "32530a66-13af-4794-8f5e-3a5b6d063bd9",
+      "AnswerContent": "信号传递理论",
+      "QuestionId": "22ca0fa1-6c1d-4356-a228-5b6cfbfb418e"
+    },
+    {
+      "AnswerID": "3a1da401-57d7-4cd5-8365-3d5587f7b25a",
+      "AnswerContent": "保守融资策略",
+      "QuestionId": "0ec9f59f-5dcb-45c8-9d58-6cc9dce4fc4a"
+    },
+    {
+      "AnswerID": "608b32a2-e7d1-493b-8303-a8dc0276de11",
+      "AnswerContent": "公证费",
+      "QuestionId": "a2a6d8c0-dea7-45d2-a55f-aad6a7d5c3d3"
+    },
+    {
+      "AnswerID": "e1d89d32-7261-44f1-a1bd-0069979debe4",
+      "AnswerContent": "企业先外部融资，后内部融资",
+      "QuestionId": "5bbbd528-58ae-4e8b-8df7-5d21816cb273"
+    },
+    {
+      "AnswerID": "3e923bd7-be6b-43fd-ac5d-6a197b22f210",
+      "AnswerContent": "12000",
+      "QuestionId": "ac288fba-1c63-432f-ac0e-396a316a00c5"
+    },
+    {
+      "AnswerID": "29345ed2-2239-4f64-8dfa-3307fd7d41ae",
+      "AnswerContent": "固定资产增加",
+      "QuestionId": "4d0e9eb4-26f1-44ac-b541-de492b06ac4c"
+    },
+    {
+      "AnswerID": "10c64a24-8cb2-454a-94b0-91f8834ff471",
+      "AnswerContent": "商圈融资速度较快",
+      "QuestionId": "3f085c60-cd9a-4121-934b-2d607bdb88ba"
+    },
+    {
+      "AnswerID": "64b5c1e3-6b3b-456f-8ba6-7b5592bbfc4a",
+      "AnswerContent": "556.62",
+      "QuestionId": "2cd549dd-2c18-4b20-8f38-da97948275f9"
+    },
+    {
+      "AnswerID": "8e531ae0-0108-4ac6-93d7-223ab92f68d9",
+      "AnswerContent": "600",
+      "QuestionId": "ca645fb1-f5a8-4fe5-8bf4-e4264e8d9a4c"
+    },
+    {
+      "AnswerID": "fdc74e57-3b61-4131-a233-62cb906e56c7",
+      "AnswerContent": "700",
+      "QuestionId": "ca645fb1-f5a8-4fe5-8bf4-e4264e8d9a4c"
+    },
+    {
+      "AnswerID": "ba17d136-54ea-495d-b653-ca160238cbd1",
+      "AnswerContent": "502.85",
+      "QuestionId": "2cd549dd-2c18-4b20-8f38-da97948275f9"
+    },
+    {
+      "AnswerID": "3595d47b-b5e9-4482-a463-43bb58abd0cb",
+      "AnswerContent": "供应链融资降低了供应链条融资成本",
+      "QuestionId": "3f085c60-cd9a-4121-934b-2d607bdb88ba"
+    },
+    {
+      "AnswerID": "1c73c340-6332-4e30-9a78-1310e7f79e70",
+      "AnswerContent": "融资租赁的利息费用",
+      "QuestionId": "a2a6d8c0-dea7-45d2-a55f-aad6a7d5c3d3"
+    },
+    {
+      "AnswerID": "1a95baba-a0a6-4635-9b1a-c4e0c70d6c9b",
+      "AnswerContent": "应付账款增加",
+      "QuestionId": "4d0e9eb4-26f1-44ac-b541-de492b06ac4c"
+    },
+    {
+      "AnswerID": "2ddb6aa4-a418-4097-a87d-7d35974c5627",
+      "AnswerContent": "企业偏好内部融资当需要进行外部融资时,股权筹资优于债务筹资",
+      "QuestionId": "5bbbd528-58ae-4e8b-8df7-5d21816cb273"
+    },
+    {
+      "AnswerID": "59c82324-7589-4989-8a55-d1ff2dcd9ffa",
+      "AnswerContent": "4000",
+      "QuestionId": "ac288fba-1c63-432f-ac0e-396a316a00c5"
+    },
+    {
+      "AnswerID": "4527e7e9-c377-41aa-84eb-ada60aad9ab3",
+      "AnswerContent": "激进融资策略",
+      "QuestionId": "0ec9f59f-5dcb-45c8-9d58-6cc9dce4fc4a"
+    },
+    {
+      "AnswerID": "b86327ca-a6c2-4389-a5dc-4853ee8a87b2",
+      "AnswerContent": "所得税差异理论",
+      "QuestionId": "22ca0fa1-6c1d-4356-a228-5b6cfbfb418e"
+    },
+    {
+      "AnswerID": "5d66eee0-b72d-49e4-8506-329b663bb56c",
+      "AnswerContent": "H型",
+      "QuestionId": "74dc2145-461c-4f4c-9598-fbbf22455de7"
+    },
+    {
+      "AnswerID": "8ef9cc93-6fbd-4464-a988-f8f0ca86948f",
+      "AnswerContent": "35",
+      "QuestionId": "5c0716b7-b6e5-432a-9372-fceaa4ef9950"
+    },
+    {
+      "AnswerID": "3b1d86e5-0fad-428b-a378-9c77188bcedd",
+      "AnswerContent": "筹资条件比较严格",
+      "QuestionId": "b2bedd75-6be5-4e35-a550-3b1e730b76e2"
+    },
+    {
+      "AnswerID": "c6a16d8f-2bd5-4490-abfa-469fb5c69fef",
+      "AnswerContent": "交通运输节能",
+      "QuestionId": "ad737b4f-aec7-4254-94a7-bfdc569b44de"
+    },
+    {
+      "AnswerID": "544480e0-5404-4da5-87a3-96aa38b07c99",
+      "AnswerContent": "扩张性筹资动机",
+      "QuestionId": "87452d16-1898-4bc4-a302-9620f8865bfa"
+    },
+    {
+      "AnswerID": "32ed209d-f52f-4e38-9fe5-9957012142b7",
+      "AnswerContent": "资本金利润率",
+      "QuestionId": "883097f1-4407-40da-ae4d-88ac942240e3"
+    },
+    {
+      "AnswerID": "e5949e2e-0020-4d6a-bad7-f68f2fc8f9aa",
+      "AnswerContent": "体现了现实性和前瞻性的统一",
+      "QuestionId": "72fc85c1-6d67-45bf-967a-d72061c6ce59"
+    },
+    {
+      "AnswerID": "f93c27f8-d4e2-468b-8add-09c361ed014f",
+      "AnswerContent": "合伙企业存在双重课税的缺点",
+      "QuestionId": "4a0870dc-7414-43f0-a69a-f24289e8f3e0"
+    },
+    {
+      "AnswerID": "40d35e70-d391-4ef2-9fb0-2956051e7e2d",
+      "AnswerContent": "105",
+      "QuestionId": "9cc9c8f2-896d-4478-af3f-a135a9b97446"
+    },
+    {
+      "AnswerID": "71aa2839-2315-45de-a907-b750513a8c0e",
+      "AnswerContent": "股票回购可减少流通在外的股票数量，提高每股收益",
+      "QuestionId": "9d3cebc0-d9e1-432d-8fc7-7cd851b9ed6b"
+    },
+    {
+      "AnswerID": "d882918f-30fa-49bc-993a-c5e3ce1fac48",
+      "AnswerContent": "直接材料预算",
+      "QuestionId": "470f048d-920e-41dc-8311-552284cb69df"
+    },
+    {
+      "AnswerID": "306c7868-f813-4ecb-97e9-550158415226",
+      "AnswerContent": "204",
+      "QuestionId": "1d107ae4-0677-4634-b746-ce8ca47d5595"
+    },
+    {
+      "AnswerID": "8ba0bbdb-5f08-46b8-bae2-01c37608b70a",
+      "AnswerContent": "20000",
+      "QuestionId": "c7851f1f-b8a4-4ec7-a239-a2b5ce8836e6"
+    },
+    {
+      "AnswerID": "62618510-65e3-4599-90d8-2a42e62adbb2",
+      "AnswerContent": "在股利发放日，新购入股票的投资者能分享本次股利",
+      "QuestionId": "44473528-7551-453b-bbbe-b1249a3c27ca"
+    },
+    {
+      "AnswerID": "d921737d-fb75-4e7d-a09f-b6ea840e03ab",
+      "AnswerContent": "实物形态具有一致性和易变现性",
+      "QuestionId": "90bb2a44-dcf6-4417-af88-fa350dd03daf"
+    },
+    {
+      "AnswerID": "c0c617fc-00fd-4e3f-939a-10a49c0c5c1e",
+      "AnswerContent": "财务预算",
+      "QuestionId": "7824e5df-d3ff-494c-b08f-fc1cd6fb4efc"
+    },
+    {
+      "AnswerID": "e1b1d0b8-4dda-45cb-8410-a24d7752ce1e",
+      "AnswerContent": "存货保险费用",
+      "QuestionId": "f44eb1b7-2a24-4f62-9e52-69b8e35e47d3"
+    },
+    {
+      "AnswerID": "6c351857-554f-4d74-ab20-f6b8266af311",
+      "AnswerContent": "A×（P/A，i，n）×（P/F，i，m+n）",
+      "QuestionId": "96c1b87d-bdbd-4d59-b39b-fb4617114594"
+    },
+    {
+      "AnswerID": "2977c46a-6611-4988-852b-8db9164981e6",
+      "AnswerContent": "该成本是成本中心可以调节的",
+      "QuestionId": "2c69c00f-7fe8-4b3f-ad2b-fabba40669d3"
+    },
+    {
+      "AnswerID": "312405a3-daa5-4fc3-a736-ddc0582a77e6",
+      "AnswerContent": "应对和避免竞争",
+      "QuestionId": "75f83d18-a541-4f29-bfca-eeb4f0a412c7"
+    },
+    {
+      "AnswerID": "157f7d8b-d563-4009-bcdb-a5b62f0a4d66",
+      "AnswerContent": "专门决策预算",
+      "QuestionId": "71efe1f4-5488-486a-b9ef-f31524cef6f9"
+    },
+    {
+      "AnswerID": "7c7eb745-e5a1-4e9a-b784-ba401355110e",
+      "AnswerContent": "两项目原始投资额相同但期限不同，采用年金净流量较高的项目",
+      "QuestionId": "8868833c-3773-4137-8f6c-b140bfd637ab"
+    },
+    {
+      "AnswerID": "ab6c3f52-09ae-46d0-ab6a-0aef616ef7c7",
+      "AnswerContent": "每股收益将增加3%",
+      "QuestionId": "2437ed01-74f6-4426-bdef-62ca2b3bc875"
+    },
+    {
+      "AnswerID": "335f390f-24bb-4bc8-a7c8-d037771c481a",
+      "AnswerContent": "股票期权",
+      "QuestionId": "275c4377-13ad-4931-914d-960426cb44b4"
+    },
+    {
+      "AnswerID": "ec10cbf4-4bea-46d7-ac98-9f41d75e0637",
+      "AnswerContent": "限制企业资本支出的规模",
+      "QuestionId": "f9dbeff8-b13e-4be0-b6d9-967719cf22ef"
+    },
+    {
+      "AnswerID": "8f27a609-5720-461b-890e-1b0342b74649",
+      "AnswerContent": "确保交易安全，切实履行合法订立的合同体现的是对消费者的责任",
+      "QuestionId": "c568b986-4897-4ab6-af9d-da41cc98811f"
+    },
+    {
+      "AnswerID": "0b18d1f5-7b1a-4968-93f4-cc45070b71bd",
+      "AnswerContent": "企业对社会公益的责任主要涉及慈善、社区等",
+      "QuestionId": "c568b986-4897-4ab6-af9d-da41cc98811f"
+    },
+    {
+      "AnswerID": "4bd94406-c3e2-4e5f-8b3a-93fc9ef18afb",
+      "AnswerContent": "每股收益将增加6%",
+      "QuestionId": "2437ed01-74f6-4426-bdef-62ca2b3bc875"
+    },
+    {
+      "AnswerID": "f862cf73-db2b-41c7-bddb-3a464029ade0",
+      "AnswerContent": "两项目的原始投资额和期限都不相同，采用内含收益率较高的项目",
+      "QuestionId": "8868833c-3773-4137-8f6c-b140bfd637ab"
+    },
+    {
+      "AnswerID": "478da79d-c009-44cf-bae0-48ee2ce49a49",
+      "AnswerContent": "优先股",
+      "QuestionId": "275c4377-13ad-4931-914d-960426cb44b4"
+    },
+    {
+      "AnswerID": "02a10f0f-722c-49f0-b766-71c5485185fc",
+      "AnswerContent": "不以资产作其他承诺的担保或抵押",
+      "QuestionId": "f9dbeff8-b13e-4be0-b6d9-967719cf22ef"
+    },
+    {
+      "AnswerID": "fb5deb4e-8505-42c6-a2a0-7c9c1b113169",
+      "AnswerContent": "生产预算",
+      "QuestionId": "71efe1f4-5488-486a-b9ef-f31524cef6f9"
+    },
+    {
+      "AnswerID": "29a376a7-97a9-41ba-b13b-e6816bb2c0c3",
+      "AnswerContent": "该成本是成本中心可以控制的",
+      "QuestionId": "2c69c00f-7fe8-4b3f-ad2b-fabba40669d3"
+    },
+    {
+      "AnswerID": "263ebd24-e09e-4ca8-a9a9-bf08f9604f86",
+      "AnswerContent": "保持或提高市场占有率",
+      "QuestionId": "75f83d18-a541-4f29-bfca-eeb4f0a412c7"
+    },
+    {
+      "AnswerID": "941e7e16-6dba-455e-a85c-29803a786948",
+      "AnswerContent": "A×（P/A，i，n）",
+      "QuestionId": "96c1b87d-bdbd-4d59-b39b-fb4617114594"
+    },
+    {
+      "AnswerID": "584fc0f4-2bcc-4864-98c4-20a9f338bfe2",
+      "AnswerContent": "存货储备不足造成的损失",
+      "QuestionId": "f44eb1b7-2a24-4f62-9e52-69b8e35e47d3"
+    },
+    {
+      "AnswerID": "2589b01e-9ed1-4b63-9fce-ae11e173fd59",
+      "AnswerContent": "周转具有短期性",
+      "QuestionId": "90bb2a44-dcf6-4417-af88-fa350dd03daf"
+    },
+    {
+      "AnswerID": "6895da1d-a246-45f7-b0c6-0f49f6f38cf0",
+      "AnswerContent": "生产预算",
+      "QuestionId": "7824e5df-d3ff-494c-b08f-fc1cd6fb4efc"
+    },
+    {
+      "AnswerID": "1a525c28-8ad6-4555-911f-78ed3c1c4274",
+      "AnswerContent": "从除息日开始，新购入股票的投资者不能分享最近一期股利",
+      "QuestionId": "44473528-7551-453b-bbbe-b1249a3c27ca"
+    },
+    {
+      "AnswerID": "b65ef3a5-d114-4763-a9a2-11036e9ac339",
+      "AnswerContent": "23000",
+      "QuestionId": "c7851f1f-b8a4-4ec7-a239-a2b5ce8836e6"
+    },
+    {
+      "AnswerID": "86ea1de5-4c86-43f6-967d-c171658a34cf",
+      "AnswerContent": "262",
+      "QuestionId": "1d107ae4-0677-4634-b746-ce8ca47d5595"
+    },
+    {
+      "AnswerID": "4352a51a-03ed-4974-97b6-412904b14ee4",
+      "AnswerContent": "35",
+      "QuestionId": "9cc9c8f2-896d-4478-af3f-a135a9b97446"
+    },
+    {
+      "AnswerID": "4b2d226e-f610-457e-bea2-295e956105ec",
+      "AnswerContent": "公司制企业在最初所有者死亡后会自动消亡",
+      "QuestionId": "4a0870dc-7414-43f0-a69a-f24289e8f3e0"
+    },
+    {
+      "AnswerID": "ee649b3a-4d18-4c5e-b8c2-9cf94f3978e4",
+      "AnswerContent": "股票回购若用大量资金支付回购成本，容易造成资金紧张，资产流动性变差，影响公司的后续发展",
+      "QuestionId": "9d3cebc0-d9e1-432d-8fc7-7cd851b9ed6b"
+    },
+    {
+      "AnswerID": "4568eaef-b757-4c87-b88e-9dd8032882f9",
+      "AnswerContent": "直接人工预算",
+      "QuestionId": "470f048d-920e-41dc-8311-552284cb69df"
+    },
+    {
+      "AnswerID": "19ed1cb9-efdd-4af8-93be-b7d203c650df",
+      "AnswerContent": "金融机构节能",
+      "QuestionId": "ad737b4f-aec7-4254-94a7-bfdc569b44de"
+    },
+    {
+      "AnswerID": "98fc7411-1f69-4c55-a46a-970147e74ad8",
+      "AnswerContent": "这一目标没有兼顾各利益主体的利益",
+      "QuestionId": "72fc85c1-6d67-45bf-967a-d72061c6ce59"
+    },
+    {
+      "AnswerID": "b8b69d38-1150-4e65-9dad-cd1605576381",
+      "AnswerContent": "流动比率",
+      "QuestionId": "883097f1-4407-40da-ae4d-88ac942240e3"
+    },
+    {
+      "AnswerID": "9536f336-3f9d-4337-8ad1-9cee1179c0f1",
+      "AnswerContent": "筹资成本比较高",
+      "QuestionId": "b2bedd75-6be5-4e35-a550-3b1e730b76e2"
+    },
+    {
+      "AnswerID": "c2bf8a95-0d1e-4eca-bcd5-5f73c67421ee",
+      "AnswerContent": "调整性筹资动机",
+      "QuestionId": "87452d16-1898-4bc4-a302-9620f8865bfa"
+    },
+    {
+      "AnswerID": "de3c87a5-d80f-4555-aadc-5ea91c45ce9e",
+      "AnswerContent": "M型",
+      "QuestionId": "74dc2145-461c-4f4c-9598-fbbf22455de7"
+    },
+    {
+      "AnswerID": "4e4c853b-bcca-4735-b87b-5906962e8af5",
+      "AnswerContent": "15",
+      "QuestionId": "5c0716b7-b6e5-432a-9372-fceaa4ef9950"
+    },
+    {
+      "AnswerID": "893b1575-2af1-4d38-9925-d262b3f099dd",
+      "AnswerContent": "折中融资策略",
+      "QuestionId": "0ec9f59f-5dcb-45c8-9d58-6cc9dce4fc4a"
+    },
+    {
+      "AnswerID": "f0b592e8-daea-46f8-8c0e-17ec4e4b5b60",
+      "AnswerContent": "代理理论",
+      "QuestionId": "22ca0fa1-6c1d-4356-a228-5b6cfbfb418e"
+    },
+    {
+      "AnswerID": "ec1ebb5a-34cc-45e2-99a2-f1d7d7770acd",
+      "AnswerContent": "8000",
+      "QuestionId": "ac288fba-1c63-432f-ac0e-396a316a00c5"
+    },
+    {
+      "AnswerID": "16881da4-3a48-4466-ba38-fac3ee550694",
+      "AnswerContent": "股票发行费",
+      "QuestionId": "a2a6d8c0-dea7-45d2-a55f-aad6a7d5c3d3"
+    },
+    {
+      "AnswerID": "48587150-9eda-46b7-a143-6d436a461a07",
+      "AnswerContent": "企业融资的顺序先是内部筹资,其次是借款、发行债券、可转换债券,最后是发行新股筹资",
+      "QuestionId": "5bbbd528-58ae-4e8b-8df7-5d21816cb273"
+    },
+    {
+      "AnswerID": "b0135fac-1e78-4030-8954-d314eb6aa3ed",
+      "AnswerContent": "销售净利率降低",
+      "QuestionId": "4d0e9eb4-26f1-44ac-b541-de492b06ac4c"
+    },
+    {
+      "AnswerID": "c9a6c261-7491-49d9-b92d-f8681e9d39da",
+      "AnswerContent": "用能单位为实现节能目标向用能单位提供必要的服务",
+      "QuestionId": "3f085c60-cd9a-4121-934b-2d607bdb88ba"
+    },
+    {
+      "AnswerID": "c2c2a7bd-d56e-4068-9112-438b6f2e918d",
+      "AnswerContent": "734.65",
+      "QuestionId": "ca645fb1-f5a8-4fe5-8bf4-e4264e8d9a4c"
+    },
+    {
+      "AnswerID": "2208cc54-0882-46e2-9278-a27a9e4c463b",
+      "AnswerContent": "523.8",
+      "QuestionId": "2cd549dd-2c18-4b20-8f38-da97948275f9"
+    }
+  ],
+  "Paper": [
+    {
+      "ExamTime": 8100,
+      "CalculationScoreType": "3"
+    }
+  ],
+  "Label": [],
+  "Wrong": [],
+  "Schedule": [
+    {
+      "ScheduleID": "50c1302f-5e9f-4d97-bc38-58a6db1af9fb",
+      "UseTime": 0,
+      "LableQuestionID": null,
+      "IsHand": 0
+    }
+  ],
+  "ScheduleItems": []
+}
