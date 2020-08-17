@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <h1>2020年《经济法》押题卷（三）</h1>
-    <!--<img  height="200" width="200" src="./assets/avatar.jpg"><br>-->
     作者: Ray
     <Home/>
   </div>
