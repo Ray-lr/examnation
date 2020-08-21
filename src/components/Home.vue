@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import exam from '../../static/2020年《经济法》押题卷（三）'
+import exam from '../../static/2020年《经济法》押题卷（五）'
 
 export default {
   name: 'Home',
