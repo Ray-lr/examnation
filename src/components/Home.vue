@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import exam from '../../static/2020年《经济法》押题卷（五）'
+import exam from '../../static/2021银行业法律法规与综合能力(初级)/2021银行业法律法规与综合能力(初级)押题卷四'
 
 export default {
   name: 'Home',
@@ -60,7 +60,7 @@ export default {
         answers: []
       },
       showData: [],
-      letters: ['A', 'B', 'C', 'D'
+      letters: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
       ]
     }
   }

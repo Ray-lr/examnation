@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h1>2020年《经济法》押题卷（五）</h1>
-    作者: Ray
+    <h1>2021银行业法律法规与综合能力(初级)4</h1>
+    Ray
     <Home/>
   </div>
 </template>
