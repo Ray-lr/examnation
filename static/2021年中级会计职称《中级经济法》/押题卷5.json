@@ -1,0 +1,2454 @@
+{
+  "Topic": [
+    {
+      "QuestionId": "a2a467a3-2749-4fc6-bf90-51325f4fab6b",
+      "Topic": "下列视为完全民事行为能力人的是（&nbsp;）&nbsp;。 ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "16周岁以上的未成年人，以自己的劳动收入为主要生活来源的，视为完全民事行为能力人。",
+      "KnowledgeId": null,
+      "AnswersIds": "2052a23a-58c3-4b91-8efc-12b2784399ff",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830227
+    },
+    {
+      "QuestionId": "bc20924f-3f64-4612-a0ba-77fb92b68fc3",
+      "Topic": "下列属于多方民事法律行为的有（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "委托代理的撤销（选项C）、无权代理的追认（选项D）等属于单方民事法律行为；拾得遗失物（选项B）因为欠缺意思表示而属于事实行为而非法律行为；决议行为（选项&nbsp;A&nbsp;）属于多方民事法律行为。",
+      "KnowledgeId": null,
+      "AnswersIds": "d725340d-a88c-48db-9f72-e8ce319c62d1",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830237
+    },
+    {
+      "QuestionId": "07b6df1a-06f9-4fdf-813c-93fe08187121",
+      "Topic": "下列关于代理的表述中，错误的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "代理人在代理权限内独立地向第三人进行意思表示，故B选项错误。",
+      "KnowledgeId": null,
+      "AnswersIds": "1032cc64-3d6a-4862-850b-3d50b2ff0c68",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830247
+    },
+    {
+      "QuestionId": "50c84f0d-2c7e-41b1-8d41-dd980f6930ce",
+      "Topic": "根据民事法律制度的规定，当事人申请再审，下列情形中人民法院予以受理的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "当事人申请再审，有下列情形之一的，人民法院不予受理：（1）再审申请被驳回后再次提出申请的；（2）对再审判决、裁定提出申请的；（3）在人民检察院对当事人的申请作出不予提出再审检察建议或抗诉决定后又提出申请的。",
+      "KnowledgeId": null,
+      "AnswersIds": "75a34457-b55f-471f-830b-44365523e014",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830257
+    },
+    {
+      "QuestionId": "bc162477-3a32-4003-9e9b-29bae7ce1b46",
+      "Topic": "赵某、钱某、孙某三人出资设立了特殊普通合伙企业，根据合伙企业法律制度规定，下列关于合伙人责任承担的说法中，正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "一个合伙人或者数个合伙人在执业活动中因故意或者重大过失造成合伙企业债务的，应当承担无限责任或者无限连带责任，其他合伙人以其在合伙企业中的财产份额为限承担责任。合伙人在执业活动中非因故意或者重大过失造成的合伙企业债务以及合伙企业的其他债务，由全体合伙人承担无限连带责任。",
+      "KnowledgeId": null,
+      "AnswersIds": "f922a652-9f86-4588-ab5d-f474b9370839",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830267
+    },
+    {
+      "QuestionId": "92145b7b-2dc5-4453-bdfa-d68f6e3994fe",
+      "Topic": "某上市公司与赵某成立一合伙企业，下列关于该合伙企业的说法中，正确的是（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）国有独资公司、国有企业、上市公司以及公益性的事业单位、社会团体不得成为普通合伙人，因此，该合伙企业为有限合伙企业，上市公司公司作为有限合伙人、赵某为普通合伙人。（2）有限合伙企业由普通合伙人和有限合伙人组成，普通合伙人对合伙企业债务承担无限连带责任，有限合伙人以其认缴的出资额为限对合伙企业债务承担责任，因此选项A错误、&nbsp;选项D错误。（3）普通合伙人为自然人的，应当具有完全民事行为能力，选项B正确。（4）有限合伙人不得以劳务出资，选项C错误。",
+      "KnowledgeId": null,
+      "AnswersIds": "0733277c-73ab-4237-b37f-cd50954a4107",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830277
+    },
+    {
+      "QuestionId": "78c6168c-ea7c-4444-9f74-ab072d730cbc",
+      "Topic": "2020年3月，赵某、钱某、孙某、李某成立一有限合伙企业，赵某为普通合伙人，钱某、孙某、李某为有限合伙人。2021年3月李某转为普通合伙人。2020年8月该合伙企业欠银行50万元，直至2021年6月合伙企业被宣告破产仍未偿还。下列关于赵某、钱某、孙某、李某对50万元银行债务承担责任的表述中，符合合伙企业法律制度规定的是（&nbsp;）。   ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "有限合伙企业由普通合伙人和有限合伙人组成，普通合伙人对合伙企业债务承担无限连带责任，有限合伙人以其认缴的出资额为限对合伙企业债务承担责任。有限合伙人转变为普通合伙人的，对其作为有限合伙人期间有限合伙企业发生的债务承担无限连带责任。",
+      "KnowledgeId": null,
+      "AnswersIds": "65357f19-de70-4636-8c28-96eac0bd6a11",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830287
+    },
+    {
+      "QuestionId": "59a1711f-84cb-488f-af71-ea80d2aa87c3",
+      "Topic": "赵某为向钱某借款，以自己的小轿车为钱某设立了抵押权。此外，赵某请求孙某为该借款提供保证，钱某和孙某书面订立了保证合同，但没有约定保证方式。三方亦未约定债权实现的顺序。当借款期满，赵某无力偿还借款，根据合同法律制度规定，下列说法中正确的有（&nbsp;&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项&nbsp;AB&nbsp;：当事人在保证合同中对保证方式没有约定或者约定不明确的，按照一般保证承担保证责任。（2）选项&nbsp;CD&nbsp;：被担保的债权既有物的担保又有人的担保的，债务人不履行到期债务或者发生当事人约定的实现担保物权的情形，债权人应当按照约定实现债权；没有约定或者约定不明确，债务人自己提供物的担保的，债权人应当先就该物的担保实现债权；第三人提供物的担保的，债权人可以就物的担保实现债权，也可以请求保证人承担保证责任。提供担保的第三人承担担保责任后，有权向债务人追偿。",
+      "KnowledgeId": null,
+      "AnswersIds": "9b803d72-1eb6-4679-87ae-d17014c81ac7",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830297
+    },
+    {
+      "QuestionId": "83a599d6-a693-4a53-adf1-e72823d6681e",
+      "Topic": "根据《合同法》的规定，债务人或者第三人有权处分的下列权利中，不可以出质的有（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "债务人或者第三人有权处分的下列权利可以出质：（1）汇票、本票、支票；（2）债券、存款单；（3）仓单、提单；（4）可以转让的基金份额、股权；（5）可以转让的注册商标专用权、专利权、著作权等知识产权中的财产权；（6）现有的以及将有的应收账款；（7）法律、行政法规规定可以出质的其他财产权利。",
+      "KnowledgeId": null,
+      "AnswersIds": "46978b52-df7e-4ccd-8e53-2b8161bac3fb",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830307
+    },
+    {
+      "QuestionId": "92e5ccef-f507-44f8-bb8b-5ddcd1ba3be1",
+      "Topic": "根据合同法律制度的规定，下列关于逾期利率的说法中，不正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项&nbsp;C&nbsp;：借贷双方对逾期利率有约定的，从其约定，但是以不超过合同成立时1年期贷款市场报价利率4倍为限。（&nbsp;2&nbsp;）选项D&nbsp;：既未约定借期内利率，也未约定逾期利率，出借人主张借款人自逾期还款之日起承担逾期还款违约责任的，人民法院应予支持。",
+      "KnowledgeId": null,
+      "AnswersIds": "d9717623-2ed1-4772-b414-2dc5f7935e63",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830317
+    },
+    {
+      "QuestionId": "b64be8d3-4852-49a5-83a5-265d5727acb6",
+      "Topic": "赵某和钱某订立关于机械设备的买卖合同，约定检验期限为收货后2个月内。赵某依约交付标的物后，钱某忙于生产经营，在交货3个月后方开箱验货，发现产品有严重质量问题无法使用，根据合同法律制度规定，下列说法中，正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "当事人约定检验期限的，买受人应当在检验期限内将标的物的数量或者质量不符合约定的情形通知出卖人。买受人怠于通知的，视为标的物的数量或者质量符合约定。",
+      "KnowledgeId": null,
+      "AnswersIds": "8b60b2b3-b4e9-4c01-a196-b817e580d435",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830327
+    },
+    {
+      "QuestionId": "4d0d8671-f3d8-4c51-a47e-084f5466630d",
+      "Topic": "2020年度甲居民企业销售收入为5000万元，营业外收入为200万元，实际发生与生产经营有关的业务招待费为60万元，甲居民企业在计算2020年度企业所得税应纳税所得额时，准予扣除的业务招待费为（&nbsp;）万元。 ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）企业发生的与生产经营活动有关的业务招待费支出，按照发生额的60%扣除，但最高不得超过当年销售（营业）收入的5&nbsp;‰。（2）发生额的60%=60×60%=36（万元）＞&nbsp;销售（营业）收入的5‰&nbsp;=5000×5‰=25&nbsp;（万元），故甲居民企业&nbsp;年准予扣除的业务招待费为25万元。",
+      "KnowledgeId": null,
+      "AnswersIds": "70ed4e58-67c1-4acc-a67e-d5bb53a619c7",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830337
+    },
+    {
+      "QuestionId": "7688b890-e602-4369-8f79-42cf00ffb140",
+      "Topic": "根据企业所得税法律制度的规定，企业发生的下列支出中，超出规定扣除标准的部分不得在以后纳税年度结转扣除的有（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）企业发生的公益性捐赠支出，在年度利润总额12%以内的部分，准予在计算应纳税所得额时扣除；超过年度利润总额12%的部分，准予结转以后3年内在计算应纳税所得额时扣除，选项A错误。（2）企业发生的职工教育经费支出，不超过工资薪金总额8%的部分，准予在计算企业所得税应纳税所得额时扣除；超过部分，准予在以后纳税年度结转扣除，选C项错误。（3）企业发生的符合条件的广告费和业务宣传费支出，除国务院财政、税务主管部门另有规定外，不超过当年销售（营业）收入15%的部分，准予扣除；超过部分，准予在以后纳税年度结转扣除，选项D错误。",
+      "KnowledgeId": null,
+      "AnswersIds": "cd0f690a-0fb7-42d5-a572-612a53af452d",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830347
+    },
+    {
+      "QuestionId": "2c3b8b93-0070-4273-8d3f-5bbb136ebc2d",
+      "Topic": "根据企业所得税法律制度的规定，在计算应纳税所得额时，下列固定资产不得计算折旧扣除的有（&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "下列固定资产不得计算折旧扣除：（1）房屋、建筑物以外未投入使用的固定资产（未投入使用的房屋、建筑物可以计算折旧扣除）；（2）以经营租赁方式租入的固定资产；（3）以融资租赁方式租出的固定资产；（4）已足额提取折旧仍继续使用的固定资产；（5）与经营活动无关的固定资产；（6）单独估价作为固定资产入账的土地；（7）其他不得计算折旧扣除的固定资产。",
+      "KnowledgeId": null,
+      "AnswersIds": "3e8ec013-7162-434b-92ce-31861ba3c2ce",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830357
+    },
+    {
+      "QuestionId": "d034952d-c1ad-4176-82e2-0440f79d3a77",
+      "Topic": "根据企业所得税法律制度的规定，下列关于税收优惠政策的表述中，不正确的是（&nbsp;）。 ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业购置并实际使用规定的环境保护、节能节水、安全生产等专用设备的投资额的10%可以从企业当年的应纳税额中抵免；当年不足抵免的，可以在以后5个纳税年度结转抵免，D选项错误。",
+      "KnowledgeId": null,
+      "AnswersIds": "089146da-a7a3-4d73-ae34-a683a5207e0b",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830367
+    },
+    {
+      "QuestionId": "506b3b1d-facc-4340-b212-e941de465165",
+      "Topic": "王某以违法犯罪所得的50万元出资并取得公司股权。根据公司法律制度的规定，对王某的犯罪行为予以追究、处罚时，就其股权处置的下列表述中，正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "以贪污、受贿、侵占、挪用等违法犯罪所得的货币出资后取得股权的，司法机关对违法犯罪行为予以追究、处罚时，应当采取拍卖或者变卖的方式处置其股权。",
+      "KnowledgeId": null,
+      "AnswersIds": "d52a4086-47dc-4e99-9cc0-e0150f7e0407",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830377
+    },
+    {
+      "QuestionId": "f663db1d-05a1-47dc-8473-8a7e9309d3d1",
+      "Topic": "根据公司法律制度的规定，下列关于有限责任公司股东缴纳出资的表述中，不正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股东以货币出资的，应当将货币出资足额存入为设立有限责任公司而在银行开设的账户；以非货币财产出资的，应当依法办理其财产权的转移手续，该转移手续一般在6个月内办理完毕；股东不按照规定缴纳出资的，应向公司足额缴纳，并向已按期足额缴纳出资的股东承担违约责任。该违约责任除出资部分外，还包括未出资的利息。",
+      "KnowledgeId": null,
+      "AnswersIds": "f1f3b355-1f05-49ad-8b6e-9425ed32944b",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830387
+    },
+    {
+      "QuestionId": "2a52826b-e9c0-4f51-8690-03d2b475f1a3",
+      "Topic": "甲、乙、丙三人共同出资100万元设立了一个有限责任公司，其中甲出资55万元，乙出资25万元，丙出资20万元。公司成立后，召开了第一次股东会会议。有关这次会议的下列情况中，不符合公司法律制度规定的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项A：有限责任公司首次股东会由出资最多的股东召集和主持；（2）选项B：股东人数较少或者规模较小的有限责任公司，可以不设董事会，只设1名执行董事，执行董事可以为公司的法定代表人；（3）选项C：股东人数较少或者规模较小的有限责任公司，可以不设监事会，只设1～2名监事，监事任期为3年（不能为2年）；（4）选项D：决定公司的经营方针和投资计划属于股东会的职权。",
+      "KnowledgeId": null,
+      "AnswersIds": "77145150-2830-4a6c-b25f-a2defca8bd99",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830397
+    },
+    {
+      "QuestionId": "7cfff77a-2776-4ba4-b3a9-0c929da58411",
+      "Topic": "根据公司法律制度的规定，公司董事会、监事会的成员可以由公司职工代表出任。下列表述中，正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项A：国有独资公司的董事会必须有职工代表，但不受1/3的限制；（2）选项B：两个以上的国有企业投资设立的有限责任公司，其董事会必须有职工代表；（3）选项C：没有国有投资主体投资设立的有限责任公司，其监事会必须有职工代表。",
+      "KnowledgeId": null,
+      "AnswersIds": "afb3ff6b-0407-4dc2-b7c0-17a7ff760b05",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830407
+    },
+    {
+      "QuestionId": "c1745933-1fbf-4c25-aa3d-b34604cbcb94",
+      "Topic": "某公司注册资本为200万元。2020年该公司提取的法定公积金累计额为105万元，提取的任意公积金累计额为80万元。该公司拟用公积金转增公司资本80万元。下列有关公司拟用公积金转增资本的方案中，不符合公司法律制度规定的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）法定公积金最多可以转增55万元（105－200×25％）；（2）任意公积金不受25％的限制，任意公积金最多可以转增80万元。",
+      "KnowledgeId": null,
+      "AnswersIds": "7926fedb-ef71-41e1-a3de-05ceda39a931",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830417
+    },
+    {
+      "QuestionId": "b48f8229-db93-4b16-9f03-22972588c192",
+      "Topic": "根据证券法律制度的规定，在特定情形下，如无相反证据，投资者将会被视为一致行动人。下列各项中，不属于该特定情形的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项B：根据规定，投资者之间有股权控制关系，投资者之间存在合伙、合作、联营等其他经济利益关系的，除非有相反证据，否则均可视为一致行动人。本题B选项投资者之间为同学、战友，并不存在经济利益关系，不构成一致行动人。",
+      "KnowledgeId": null,
+      "AnswersIds": "9c516408-bece-48c2-9a71-2d20bb9a3f56",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830427
+    },
+    {
+      "QuestionId": "dc5b974b-e389-4fd6-9d93-7f4db8f542e8",
+      "Topic": "根据证券法律制度的规定，凡发生可能对上市公司股票交易价格产生较大影响的重大事件，投资者尚未得知时，上市公司应当立即报送临时报告，并予公告，下列情形中，不属于重大事件的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项B，公司“新增借款或者对外提供担保”超过上年末净资产的“20%”属于公司债券上市交易公司发布临时报告的重大事件。",
+      "KnowledgeId": null,
+      "AnswersIds": "a8fba2cc-461b-437a-968f-d1bc2a4d0830",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830437
+    },
+    {
+      "QuestionId": "2027ac5e-7b13-4e69-8060-9d9a750d5ce6",
+      "Topic": "下列关于保险代理人与经纪人的说法中正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项A，保险经纪人行为属于“中介”行为，不属于代理；选项B，保险经纪人只能是单位；选项C，保险代理人代表保险人利益，保险经纪人代表投保人利益；选项D，保险经纪人的佣金一般由保险人支付。",
+      "KnowledgeId": null,
+      "AnswersIds": "54f4c7ab-688d-47b4-a193-82e5aea2dfed",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830447
+    },
+    {
+      "QuestionId": "116665af-fd3b-4ac7-9eab-d75f612850d2",
+      "Topic": "甲公司购进一台价值360万元的机器设备，向保险公司投保。保险合同约定保险金额为180万元，但未约定保险金的计算方法。后保险期间发生了保险事故，造成该设备实际损失240万元；甲公司为防止损失的扩大，花费了6万元施救费。根据保险法律制度的规定，保险公司应当支付给甲公司的保险金数额是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）保险金额低于保险价值的，除合同另有约定外，保险人按照保险金额与保险价值的比例（180÷360＝50％）承担赔偿保险金的责任；（2）保险事故发生后，被保险人为防止或者减少保险标的的损失所支付的必要的、合理的费用（6万元），由保险人承担；保险人所承担的费用数额在保险标的损失赔偿金额以外另行计算，最高不超过保险金额的数额；（3）保险公司应赔偿＝240×50％＋6＝126（万元）。",
+      "KnowledgeId": null,
+      "AnswersIds": "fde3fc3d-9c1d-4b8b-b76c-e687c5497be1",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830457
+    },
+    {
+      "QuestionId": "f3a919de-ab26-4f76-8f6a-8aba759be3f6",
+      "Topic": "甲将一汇票背书转让给乙，但该汇票上未记载乙的名称。其后，乙在该汇票被背书人栏内记载了自己的名称。根据《票据法》的规定，下列有关该汇票背书与记载效力的表述中，正确的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "根据规定，如果背书人未记载被背书人名称而将票据交付他人的，持票人在票据被背书人栏内记载自己的名称与背书人记载具有同等法律效力。",
+      "KnowledgeId": null,
+      "AnswersIds": "761136b7-2754-46f4-81b2-b4530aa3acfe",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830467
+    },
+    {
+      "QuestionId": "85addbcd-149f-48f4-bf92-72bc99122441",
+      "Topic": "根据增值税法律制度的规定，进口货物申报纳税的地点为（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "进口货物应纳的增值税，应当向报关地海关申报纳税。",
+      "KnowledgeId": null,
+      "AnswersIds": "4e2d9fc0-43a5-4a00-88c6-655d2221e9f7",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830477
+    },
+    {
+      "QuestionId": "950887be-c302-480e-9491-b848a3340d90",
+      "Topic": "根据增值税法律制度的规定，增值税一般纳税人将购进的货物用于下列项目所涉及的进项税额，准予从销项税额中抵扣的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项BCD：增值税一般纳税人将购进的货物用于增值税免税项目、简易计税方法计税项目、集体福利和个人消费的，不得抵扣进项税额。（2）选项A：增值税一般纳税人将购进的货物分配给投资者属于视同销售行为，准予抵扣进项税额。",
+      "KnowledgeId": null,
+      "AnswersIds": "dc86c9a6-296c-4f65-8f37-a4057097198e",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830487
+    },
+    {
+      "QuestionId": "3debe9cc-3407-493f-ab28-b15025293b66",
+      "Topic": "根据《预算法》的规定，中央预算应当由特定主体审查和批准，该特定主体为（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "中央预算由全国人民代表大会审查和批准。地方各级预算由本级人民代表大会审查和批准。",
+      "KnowledgeId": null,
+      "AnswersIds": "ef51f591-c87c-4464-a762-11f4fa78091e",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830497
+    },
+    {
+      "QuestionId": "fb8d5e07-e4eb-44d1-aea3-3e676adbca83",
+      "Topic": "根据专利法律制度的规定，下列各项中，不授予专利权的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）不授予专利权的客体有：①科学发现；②智力活动的规则和方法；③疾病的诊断和治疗方法（选项A可以授予）；④动物和植物品种；⑤原子核变换方法以及用原子核变换方法获得的物质；⑥对平面印刷品的图案、色彩或者二者的结合作出的主要起标识作用的设计（选项C）；（2）选项B：对产品的形状、构造或者其结合所提出的适于实用的新的技术方案，可以申请实用新型专利；（3）选项D：对产品的整体或者局部的形状、图案或者其结合以及色彩与形状、图案的结合所作出的富有美感并适于工业应用的新设计，可以申请外观设计专利。",
+      "KnowledgeId": null,
+      "AnswersIds": "26789d15-4a63-49b0-9da4-4d9f11db9ae2",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830507
+    },
+    {
+      "QuestionId": "77709158-064b-4611-b07d-c7e456824878",
+      "Topic": "根据商标法律制度的规定，下列不可以作为商标标识的是（&nbsp;&nbsp;）。",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "任何能够将自然人、法人或者其他组织的商品或者服务与他人的商品或者服务区别开的标志，包括文字、图形、字母、数字、三维标志、颜色组合和声音等，以及上述要素的组合，均可以作为商标申请注册。选项B不可以。",
+      "KnowledgeId": null,
+      "AnswersIds": "869969e3-22bf-4846-ad55-92cee2ca4664",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "单选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830517
+    },
+    {
+      "QuestionId": "6198412d-7291-4600-9c78-0c69dbbe479b",
+      "Topic": "下列纠纷中，不能够通过&nbsp;《仲裁法》&nbsp;解决的是（&nbsp;）。 ",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项&nbsp;A&nbsp;：平等主体的公民、法人和其他组织之间发生的合同纠纷和其他财产权益纠纷，可以仲裁；（2）选项&nbsp;B&nbsp;：婚姻、收养、监护、扶养、继承纠纷不能仲裁；（3）选项C：由于劳动争议和农业集体经济组织内部的农业承包合同纠纷不同于一般的经济纠纷，不适用于《仲裁法》&nbsp;；（4）选项D：税务局与乙商场属于不平等主体，故不适用于《仲裁法》，应适用于行政复议或者行政诉讼。",
+      "KnowledgeId": null,
+      "AnswersIds": "4e9ec5bc-0c89-444f-9d01-e547a62ec59a,ced7508f-b204-414b-bfb0-fc6919a91e3b,c5b7669c-e204-4e8d-b708-c6d89c67e760",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830527
+    },
+    {
+      "QuestionId": "c1d13d03-3d08-46b0-a398-80e2320220a3",
+      "Topic": "下列关于特殊地域管辖的说法中，不正确的是（&nbsp;）。 ",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项&nbsp;A&nbsp;：因财产保险合同纠纷提起的诉讼，如果保险标的物是运输工具或者运输中的货物，可以由运输工具登记注册地、运输目的地、保险事故发生地人民法院管辖。（2）选项&nbsp;B&nbsp;：因人身保险合同纠纷提起的诉讼，可以由被保险人住所地人民法院管辖。（3）选项&nbsp;C&nbsp;：因铁路、公路、水上和航空事故请求损害赔偿提起的诉讼，由事故发生地或者车辆、船舶最先到达地、航空器最先降落地或者被告住所地人民法院管辖。",
+      "KnowledgeId": null,
+      "AnswersIds": "50010e69-bbd0-4b03-bf15-6a8994c6c93a,a37bff8f-b347-4af3-bef2-cdd9f406db80,c348ec2a-cfa5-415a-8dd6-73c8eb3f47c5",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830537
+    },
+    {
+      "QuestionId": "e37cc144-7d9d-4986-b575-99a6d132c0aa",
+      "Topic": "根据合伙企业法律制度规定，下列关于合伙事务执行的说法中，正确的是（&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项A：不执行合伙事务的合伙人有权监督执行事务合伙人执行合伙事务的情况。（2）选项B：合伙人为了解合伙企业的经营状况和财务状况，有权查阅合伙企业会计账簿等财务资料。（3）选项C：合伙人分别执行合伙事务的，执行事务合伙人可以对其他合伙人执行的事务提出异议。提出异议时，应当暂停该项事务的执行。（4）选项D：受委托执行合伙事务的合伙人不按照合伙协议或者全体合伙人的决定执行事务的，其他合伙人可以决定撤销该委托。",
+      "KnowledgeId": null,
+      "AnswersIds": "2e3deb10-b204-45aa-af82-0b8edcdf2eab,93eec1fc-8b50-437d-9fe2-d2b96d04f6d6,ec73042d-f138-4fe5-963e-6b2551b0014f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830547
+    },
+    {
+      "QuestionId": "0c6d2f23-6267-4634-a8e3-88d0719de294",
+      "Topic": "根据合伙企业法律制度规定，下列关于有限合伙企业及有限合伙人的说法中，正确的是（&nbsp;）。 ",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）选项A：合伙协议不得约定由部分合伙人承担全部亏损。（2）选项B：有限合伙人可以自营或者同他人合作经营与本有限合伙企业相竞争的业务；但是，合伙协议另有约定的除外。（3）选项C：有限合伙人可以同本有限合伙企业进行交易；但是，合伙协议另有约定的除外。（4）选项D：有限合伙企业不得将全部利润分配给部分合伙人；但是，合伙协议另有约定的除外。",
+      "KnowledgeId": null,
+      "AnswersIds": "f4f39a77-466d-49e2-a979-681a0b19ecd7,f52c3671-4c3c-4ae5-99dc-769f51f0a793,76ece47b-fb08-499a-905e-86f793dbdeda",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830557
+    },
+    {
+      "QuestionId": "9e8b3a1b-26f1-44f3-9e80-1559708cc7e4",
+      "Topic": "下列关于债权人代位权行使的表述中，不符合合同法律制度规定的是（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）因债务人怠于行使其债权或者与该债权有关的从权利，影响债权人的到期债权实现的，债权人可以向人民法院请求以自己的名义代位行使债务人对相对人的权利，但是该&nbsp;权利专属于债务人自身的除外，A、D选项错误；（2）债务人的债权不是专属于债务人自身的债权。专属于债务人自身的债权，是指基于扶养关系、抚养关系、赡养关系、继承关系产生的给付请求权和劳动报酬、退休金、养老金、抚恤金、安置费、人寿保险、人身伤害赔偿请求权等权利，B选项正确；（3）代位权的行使范围以债权人的到期债权为限，对超出部分人民法院不予支持，C选项错误。",
+      "KnowledgeId": null,
+      "AnswersIds": "be1fb6aa-0e39-41f9-8c55-8f5619e65d61,53d7e4b9-61f4-4b57-97ec-e0cee5fcd6ec,0235ef1d-f0aa-44bb-81aa-e1a70c1a0781",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830567
+    },
+    {
+      "QuestionId": "0f3e2b55-3ecb-4348-84fb-393db50888fd",
+      "Topic": "根据合同法律制度的规定，下列情形中，可以主张撤销赠与的是（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "受赠人有下列情形之一的，赠与人可以撤销赠与：（1）严重侵害赠与人或者赠与人的近亲属（近亲属而非亲属，&nbsp;A&nbsp;选项错误，不应选）；（2）对赠与人有扶养义务而不履行（C选项正确，应选）；（3）不履行赠与合同约定的义务（D选项正确，应选）。因受赠人的违法行为致使赠与人死亡或者丧失民事行为能力的，赠与人的继承人或者法定代理人可以撤销赠与（B选项正确，应选）。",
+      "KnowledgeId": null,
+      "AnswersIds": "050b6fad-6922-4237-b76d-bdb71a9a3a5f,c7ec3add-0df7-4bbe-b62f-a05d63a2b816,29768cb5-ceb9-4373-94f4-43d85eb8a083",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830577
+    },
+    {
+      "QuestionId": "42fe83d8-6978-43de-87d5-ca8e5509621d",
+      "Topic": "根据企业所得税法律制度的规定，企业缴纳的下列税金中，在计算企业所得税应纳税所得额时不得扣除的有（&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "计算企业所得税应纳税所得额时，准予扣除的基本项目是与纳税人取得收入有关的成本、费用、税金和损失。所谓税金，即纳税人按规定缴纳的&nbsp;消费税&nbsp;、营业税、城乡维护建设税、资源税、&nbsp;土地增值税&nbsp;。",
+      "KnowledgeId": null,
+      "AnswersIds": "5b9260f5-0b24-435d-82b3-862fbd560213,397c2e40-d9bb-457e-b384-cf2bcbb71228",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830587
+    },
+    {
+      "QuestionId": "d93993bc-a219-4c84-b95e-08106bebcc1a",
+      "Topic": "根据公司法律制度的规定，下列各项中，属于有限责任公司章程应当载明的事项有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "有限责任公司章程应载明下列事项：①公司名称和住所；②公司经营范围；③公司注册资本；④股东姓名或名称；⑤股东的出资方式、出资额和出资时间；⑥公司的机构及其产生办法、职权、议事规则；⑦公司法定代表人；⑧股东会会议认为需要规定的其他事项。选项D：公司利润分配办法属于股份有限公司章程应当载明的事项。",
+      "KnowledgeId": null,
+      "AnswersIds": "f2467d22-106f-45ae-b534-2abb1616e43e,2640481c-2de4-4fda-86dc-5de03adef15c,c13c923e-a569-42c2-a762-de50b84582c2",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830597
+    },
+    {
+      "QuestionId": "6bcb0da2-a746-4906-ac0c-2a3a9426c60d",
+      "Topic": "王某、吴某、蔡某共同出资设立甲有限责任公司。王某在规定时间缴纳了认缴出资额的70%；吴某以房产出资，但未按章程规定办理房屋所有权转移手续；蔡某如期足额缴纳出资。根据公司法律制度的规定，下列关于王某承担责任的表述中，不正确的有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股东不按照规定缴纳出资的，除应当向公司足额缴纳外，还应当向已按期足额缴纳出资的其他股东（蔡某）承担违约责任。",
+      "KnowledgeId": null,
+      "AnswersIds": "6e7910f8-0983-4e39-85f5-8a8919ac7ea0,95ef189f-b3ca-4593-97c3-0a5e3031fcb5,34e65fb1-d450-4592-b856-8b4484ee0d3f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830607
+    },
+    {
+      "QuestionId": "8628eb7d-cc0f-4a02-9008-9f4f7212f700",
+      "Topic": "根据公司法律制度的规定，下列各项中，属于清算组在清算期间可以行使的职权有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "清算组的职权：（1）清理公司财产，分别编制资产负债表和财产清单；（2）通知、公告债权人；（3）处理与清算有关的公司未了结的业务；（4）清缴所欠税款以及清算过程中产生的税款；（5）清理债权、债务；（6）处理公司清偿债务后的剩余财产；（7）代表公司参与民事诉讼活动。",
+      "KnowledgeId": null,
+      "AnswersIds": "46ad041a-e114-4f0c-befd-8b1662cee878,08df930b-7569-4140-bd47-836d455e5b5f,ef431843-406b-465d-9fda-2cd4178ba19f,46071f26-4dfd-4fcd-bab8-600c536c7089",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830617
+    },
+    {
+      "QuestionId": "21265215-06a7-4b30-a3d2-356dab3dc3ed",
+      "Topic": "根据《证券法》的规定，某上市公司的下列人员中，不得将其持有的该公司的股票在买入后6个月内卖出，或者在卖出后6个月内又买入的有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "上市公司、股票在国务院批准的其他全国性证券交易场所交易的公司持有5%以上股份的股东、董事、监事、高级管理人员，将其持有的该公司的股票或者其他具有股权性质的证券在买入后6个月内卖出，或者在卖出后6个月内又买入，由此所得收益归该公司所有。选项ACD，属于高级管理人员；选项B，属于董事。",
+      "KnowledgeId": null,
+      "AnswersIds": "8967ad1c-961b-4c7a-b5fa-77a39091219b,08a562c4-dc88-4187-ac14-61940294ff43,dcbbdcda-393f-4cbe-a01a-856583737f63,ae066d5d-8d01-4cfe-8fd2-d6bbecc85026",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830627
+    },
+    {
+      "QuestionId": "31ff7089-a566-4de2-8747-0d83cc03b081",
+      "Topic": "下列关于上市公司要约收购的表述中，符合证券法律制度规定的有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "选项C：在收购要约确定的承诺期限内，收购人不得撤销其收购要约。选项D：要约收购是指通过证券交易所的证券交易，投资者持有或者协议、其他安排与他人共同持有一个上市公司的股份达到该公司已发行股份的30%时，继续增持股份的，应当采取向被收购公司的股东发出收购要约的方式进行的收购；协议收购是指收购人在证券交易所之外，通过与被收购公司的股东协商一致达成协议，受让其持有的上市公司的股份而进行的收购。",
+      "KnowledgeId": null,
+      "AnswersIds": "17ddb347-9636-4b28-8c8a-a6c25dd40c1b,9b3d30aa-4931-4973-b10e-e2e0e3fa696c",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830637
+    },
+    {
+      "QuestionId": "c5dbad6e-9ad1-4c19-b399-4e79947ff383",
+      "Topic": "根据票据法律制度的规定，在汇票到期日前的下列情形中，持票人可以行使追索权的有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "汇票到期日前，有下列情形之一的，持票人可以行使追索权：①被拒绝承兑（包括承兑附条件）；②承兑人或者付款人死亡、逃匿；③承兑人或者付款人被依法宣告破产或者因违法被责令终止业务活动。",
+      "KnowledgeId": null,
+      "AnswersIds": "2b20b929-5eaf-47f4-b18d-8185640465f8,e5371b52-0274-4895-90b0-4ab9ebeecf9f,375f4dea-f11c-4834-9325-d6533a5a58c6,0e8689bf-8f04-4f2f-a490-1fe53781d9b7",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830647
+    },
+    {
+      "QuestionId": "8a64f2c0-555c-41aa-acb3-469a27345e18",
+      "Topic": "根据增值税法律制度的规定，甲公司的下列业务中，属于视同销售服务、无形资产或者不动产的有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "纳税人向其他单位或者个人无偿提供服务、转让无形资产或者不动产，视同销售服务、无形资产、不动产，但用于公益事业或者以社会公众为对象的除外。单位或者个体工商户为聘用的员工提供服务属于非经营活动，不征收增值税。",
+      "KnowledgeId": null,
+      "AnswersIds": "b509ef30-f6b9-4e16-bb8d-eb4dfd7c3503,5eee985e-9c3a-4cb5-942b-b4446532a9e3",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830657
+    },
+    {
+      "QuestionId": "b9f7064d-78eb-4a62-957d-878abe804f3a",
+      "Topic": "根据企业国有资产法律制度的规定，下列各项中，代表国家对国家出资企业履行出资人职责的有（&nbsp;&nbsp;）。",
+      "Score": 2.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "国务院和地方人民政府根据需要，可以授权其他部门、机构（如国资委、财政部门）代表本级人民政府对国家出资企业履行出资人职责。",
+      "KnowledgeId": null,
+      "AnswersIds": "3f1886a0-19a8-4362-9395-e73d63b6226b,3bd91f1f-3ad6-451c-9f65-ebd4b4ead205",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "多选题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "多选题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830667
+    },
+    {
+      "QuestionId": "28991bd7-1d26-467f-80d9-b4ca842244b9",
+      "Topic": "企业的不征税收入用于支出所形成的费用，不可以在计算企业所得税应纳税所得额时扣除。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业的不征税收入用于支出所形成的费用，不可以在计算企业所得税应纳税所得额时扣除。",
+      "KnowledgeId": null,
+      "AnswersIds": "db258ce2-bd2a-41e0-87d4-e699af67e4ce",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830677
+    },
+    {
+      "QuestionId": "ec1bd3e6-fa56-4949-b4fc-6a5fe832774c",
+      "Topic": "企业发生的职工福利费支出，不超过工资薪金总额17%的部分，准予扣除。（&nbsp;&nbsp;） ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "企业发生的职工福利费支出，不超过工资薪金总额14%的部分，准予扣除。",
+      "KnowledgeId": null,
+      "AnswersIds": "98bd024f-887c-426b-8b65-072159f80997",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830687
+    },
+    {
+      "QuestionId": "9793271f-627f-45d2-acbe-567ec41d117d",
+      "Topic": "赵某向钱某借款10万元到期未还，双方因债务清偿问题发生纠纷，赵某被钱某打伤，住院治疗共支出医疗费15万元。钱某有权主张在10万元的范围内抵销，只向赵某支付5万元的医疗费。（&nbsp;&nbsp;） ",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "因故意实施侵权行为产生的债务（15万元），不得抵销。",
+      "KnowledgeId": null,
+      "AnswersIds": "351e76d7-8612-44b4-a061-62e1bfb6b8c4",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830697
+    },
+    {
+      "QuestionId": "edfe0479-9046-4182-8cbc-4494b7d5f08b",
+      "Topic": "承租人占有融资租赁物期间，租赁物造成第三人的人身损害或者财产损失的，出租人承担责任。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "承租人占有融资租赁物期间，租赁物造成第三人的人身损害或者财产损失的，出租人不承担责任。",
+      "KnowledgeId": null,
+      "AnswersIds": "ea263e06-dd3b-4a87-9617-f7f9a88473ed",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830707
+    },
+    {
+      "QuestionId": "76e03569-3986-49f2-8bde-e7cbe38a316a",
+      "Topic": "被代理人死亡后，被代理人的继承人予以承认的委托代理行为无效。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "被代理人死亡后，被代理人的继承人予以承认的委托代理行为仍有效。",
+      "KnowledgeId": null,
+      "AnswersIds": "d02ca4ec-085b-4313-8261-2f2753b997ba",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830717
+    },
+    {
+      "QuestionId": "fe71dec6-5abc-4dd3-934b-3afb70f6a0fb",
+      "Topic": "投资者及其一致行动人不是上市公司的第一大股东或者实际控制人，其拥有表决权的股份达到或者超过5%，但未达到20%的，应当编制详式权益变动报告书。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "投资者及其一致行动人不是上市公司的第一大股东或者实际控制人，其拥有表决权的股份达到或者超过5%，但未达到20%的，应当编制简式权益变动报告书。投资者及其一致行动人是上市公司第一大股东或者实际控制人，或者拥有表决权的股份达到20%但未超过30%的，应当编制详式权益变动报告书。",
+      "KnowledgeId": null,
+      "AnswersIds": "48dd8a3f-8f70-4af6-8b1d-6b14157ec806",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830727
+    },
+    {
+      "QuestionId": "95f24e66-7f11-4a62-88eb-8908b2973962",
+      "Topic": "持票人对票据承兑人的追索权，自票据到期日起6个月不行使而消灭。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）远期商业汇票的持票人对出票人、承兑人的权利，自票据到期日起2年；见票即付的汇票，自出票日起2年。（2）银行本票的持票人对出票人的权利，自出票日起2年。（3）支票的持票人对出票人的权利，自出票日起6个月。",
+      "KnowledgeId": null,
+      "AnswersIds": "e239db6c-98e3-4d20-8a15-0563be9c8f0f",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830737
+    },
+    {
+      "QuestionId": "6a402d1b-17ce-4cd0-9481-f637d60a2d91",
+      "Topic": "甲股份有限公司在设立期间，发起人向社会公开募集股份。认股人蒋某在填写了认股书后并未如期缴纳股款，为保证公司顺利设立，发起人未经催缴即对蒋某认购的股份另行募集，该募集行为无效。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "股份有限公司的认股人未按期缴纳所认股份的股款，经公司发起人催缴后在合理期间内仍未缴纳的，公司发起人才可以对该股份另行募集。",
+      "KnowledgeId": null,
+      "AnswersIds": "2f4abfed-963a-49ee-9b19-6a7d8f518dea",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830747
+    },
+    {
+      "QuestionId": "176138fb-9b0f-4af3-828c-0e98761e4e78",
+      "Topic": "卫星电视信号落地转接服务，按照“基础电信服务”缴纳增值税。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "电信服务包括基础电信服务（如语音通话服务）和增值电信服务（如短信服务、互联网接入服务）。卫星电视信号落地转接服务，按照“增值电信服务”缴纳增值税。",
+      "KnowledgeId": null,
+      "AnswersIds": "bb95cb4a-35c1-4636-8f2c-8a185c324a76",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830757
+    },
+    {
+      "QuestionId": "9218e8c3-6770-4903-a501-239de941fe34",
+      "Topic": "两个以上的自然人、法人或者其他组织可以组成一个联合体，以一个供应商的身份共同参加政府采购。联合体中有同类资质的供应商按照联合体分工承担相同工作，应当按照“资质等级较高”的供应商确定资质等级。（&nbsp;&nbsp;）",
+      "Score": 1.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "两个以上的自然人、法人或者其他组织可以组成一个联合体，以一个供应商的身份共同参加政府采购。联合体中有同类资质的供应商按照联合体分工承担相同工作，应当按照“资质等级较低”的供应商确定资质等级。",
+      "KnowledgeId": null,
+      "AnswersIds": "192fc2c3-44f3-49e0-a519-4bcb7a859ec3",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "判断题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "判断题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830767
+    },
+    {
+      "QuestionId": "b31f689a-0807-46b4-87c0-b3e2d3819e1b",
+      "Topic": "赵某、钱某、孙某拟设立甲有限合伙企业（以下简称“甲企业”）。企业协议约定：赵某为普通合伙人，以劳务出资；钱某、孙某为有限合伙人，钱某以实物作价4万元出资，孙某以6万元现金出资，孙某自企业成立之日起3年内缴纳出资；赵某执行甲企业事务，并由甲企业每月支付报酬4&nbsp;000元。后钱某以甲企业的名义对外和乙有限责任公司签订购买汽车的买卖合同，并向乙公司出示了合伙企业的公章等可以证明自己享有对外代表甲企业的证件，但其一直没有向乙公司交付货款。孙某欠李某6万元到期未还，李某要求从有限合伙企业中分取的收益用于清偿。后甲企业因经营不善倒闭，赵某直接作为清算人对合伙企业财产进行清算。<br>要求：<br>根据上述资料和合伙企业法律制度的规定，分别回答下列问题。<br>（1）乙公司是否可以要求钱某就该笔货款承担连带责任？简要说明理由。<br>（2）李某要求将从有限合伙企业中分取的收益用于清偿是否合理？简要说明理由。<br>（3）赵某直接作为清算人对合伙企业财产进行清算是否符合规定？简要说明理由。",
+      "Score": 6.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）乙公司可以要求钱某就该笔货款承担连带责任。第三人有理由相信有限合伙人为普通合伙人并与其交易的，该有限合伙人对该笔交易承担与普通合伙人同样的责任。<br>（2）李某要求从有限合伙企业中分取的收益用于清偿是合理的。有限合伙人的自有财产不足清偿其与合伙企业无关的债务的，该合伙人可以以其从有限合伙企业中分取的收益用于清偿；债权人也可以依法请求人民法院强制执行该合伙人在有限合伙企业中的财产份额用于清偿。<br>（3）赵某直接作为清算人对合伙企业财产进行清算不符合规定。根据规定，清算人由全体合伙人担任。经全体合伙人过半数同意，可以自合伙企业解散事由出现后15日内指定一个或者数个合伙人，或者委托第三人担任清算人。",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "简答题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830777
+    },
+    {
+      "QuestionId": "5653319c-e298-463c-99c3-1c42d3173d02",
+      "Topic": "甲公司为增值税一般纳税人，主要生产汽车玩具，2021年5月，甲公司发生如下事项：<br>（1）5月6日，购入一批钢材，取得的增值税专用发票上注明的价款为60万元、增值税额7.8万元。<br>（2）5月12日，处理一批下脚料，取得含税销售收入2.26万元。<br>（3）5月20日，因管理不善，当月购进的钢材部分被盗，不含税金额10万元。<br>（4）5月26日，销售一批汽车玩具，含增值税销售额为339万元，同时收取了包装费9.04万元。<br>要求：<br>根据上述资料和增值税法律制度的规定，回答下列问题。<br>（1）甲公司当期购入钢材的进项税额是否可以全额扣除？简要说明理由。<br>（2）甲公司销售下脚料应如何进行增值税处理？<br>（3）请计算甲公司本月的增值税应纳税额。",
+      "Score": 6.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）甲公司当期购入钢材的进项税额不能全额扣除。根据规定，当月购进的钢材因管理不善被盗的部分，不得抵扣进项税额。当期购入钢材可以抵扣的进项税额=7.8-10×13%=6.5（万元）。<br>（2）销售下脚料应确认销项税额=2.26÷（1+13%）×13%=0.26（万元）。<br>（3）甲公司本月的增值税应纳税额=（339+9.04）÷（1+13%）×13%+0.26-6.5=33.8（万元）。",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "简答题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830787
+    },
+    {
+      "QuestionId": "c2940b9d-3543-4911-94c1-6d270422a60a",
+      "Topic": "2021年4月15日，甲公司签发一张转账支票交付给同城的乙公司，该支票记载了付款日期，但未记载票面金额和收款人名称。乙公司收到该支票后，其财务人员按照甲公司的授权对票面金额和收款人名称进行了补记，补记后的票面金额为30万元。乙公司在4月26日向甲公司开户行提示付款，遭到退票。甲公司开户行退票理由如下：<br>（1）支票上票面金额和收款人名称记载与其他内容记载的字体不一致，显然不是出票人所记载；<br>（2）支票上记载了付款日期。<br>（3）乙公司逾期提示付款。<br>要求：<br>根据上述内容，分别回答下列问题：<br>（1）甲公司开户行的退票理由（1）是否成立？简要说明理由。<br>（2）甲公司开户行的退票理由（2）是否成立？简要说明理由。<br>（3）甲公司开户行的退票理由（3）是否成立？简要说明理由。",
+      "Score": 6.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）退票理由（1）不成立。根据规定，支票上的金额和收款人名称可以由出票人授权补记。<br>（2）退票理由（2）不成立。根据规定，支票限于见票即付，不得另行记载付款日期。另行记载付款日期的，该记载无效，支票有效。<br>（3）退票理由（3）成立。根据规定，支票的持票人应当自出票日起10日内提示付款。",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "简答题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830797
+    },
+    {
+      "QuestionId": "35547b9b-e486-459f-ac8d-06dbf552ba93",
+      "Topic": "2020年6月，A公司、B公司、C公司和赵某共同投资设立D有限责任公司。D公司章程规定：<br />（1）公司注册资本500万元；（2）A公司以房屋作价120万元出资；B公司以机器设备作价100万元出资；赵某以货币100万元出资；C公司出资180万元，首期以原材料作价100万元出资，余额以特许经营权出资，2019年12月前缴足；（3）公司设股东会，1名执行董事和1名监事；（4）股东按照1﹕1﹕1﹕1行使表决权。公司章程对出资及表决权事项未作其他特殊规定。公司设立后，A公司、B公司和赵某按照公司章程的规定实际缴纳了出资，并办理了相关手续。C公司按公司章程规定缴纳首期出资后，于2019年11月以特许经营权作价80万元缴足出资。2021年6月，因股东之间经营理念存在诸多冲突且无法达成一致，赵某提议解散D公司。D公司召开股东会就该事项进行表决。A公司、B公司和赵某赞成，C公司反对。于是股东会作出了解散D公司的决议，D公司进入清算程序。清算期间，清算组发现如下情况：<br />（1）由于市场行情变化，A公司出资的房屋贬值20万元。<br />（2）B公司出资时机器设备的实际价额为70万元，明显低于公司章程所定价额100万元。清算组要求A公司补足房屋贬值20万元，A公司拒绝。清算组要求B公司和其他股东对B公司实际出资价额的不足承担相应的民事责任。<br />要求：<br />根据上述资料和公司法律制度的规定，回答下列问题。<br />（1）指出D公司股东出资方式中的不合法之处。<br />（2）D公司设1名执行董事和1名监事是否合法？说明理由。<br />（3）D公司股东会作出解散公司的决议是否合法？说明理由。<br />（4）A公司拒绝补足房屋贬值20万元是否合法？说明理由。<br />（5）对B公司实际出资价额的不足，B公司和其他股东应分别承担什么民事责任？  ",
+      "Score": 12.0,
+      "PageNumber": 0,
+      "IsShowPageNumber": true,
+      "AnalyticDesc": "（1）C公司以特许经营权出资不合法。根据规定，股东不得以劳务、信用、自然人姓名、商誉、特许经营权或者设定担保的财产等作价出资。<br />（2）D公司设1名执行董事和1名监事合法。根据规定，股东人数较少或者规模较小的有限责任公司，可以设1名执行董事、1～2名监事，不设立董事会、监事会。<br />（3）D公司股东会作出解散公司的决议合法。根据规定：①有限责任公司解散决议，应当经代表2/3以上表决权的股东通过；②有限责任公司股东会由股东按出资比例行使表决权，但公司章程另有规定的除外。在本题中，公司章程规定股东按照1∶1∶1∶1行使股东会表决权，而A公司、B公司和赵某赞成解散公司，解散决议以3/4表决权赞成而通过。<br />（4）A公司拒绝补足房屋贬值20万元合法。根据规定，出资人以符合法定条件的非货币财产出资后，因市场变化或者其他客观因素导致出资财产贬值，公司、其他股东或者公司债权人请求该出资人承担补足出资责任的，人民法院不予支持，但当事人另有约定的除外。<br />（5）B公司应当向D公司补足出资不足部分的本息、向已按期足额缴纳出资的股东承担违约责任，其他发起人股东应对此承担连带责任。",
+      "KnowledgeId": null,
+      "AnswersIds": "",
+      "ParentID": null,
+      "QuestionLevel": "易",
+      "AnalyticUrl": null,
+      "QuestionMainType": "综合题",
+      "WrongID": "",
+      "labelID": "",
+      "ScheduleItemsID": "",
+      "ScheduleID": "",
+      "QuestionType": "主观题",
+      "ChoiceID": "",
+      "IsRight": "",
+      "ParentTopic": null,
+      "ExamId": "5556d60e-53c6-9244-71d2-dd12f596e69b",
+      "QuestionOrderNo": 6830807
+    }
+  ],
+  "Answer": [
+    {
+      "AnswerID": "f01e5875-c540-41b7-8a33-d061c78663e1",
+      "AnswerContent": "甲的背书无效，因为甲未记载被背书人乙的名称",
+      "QuestionId": "f3a919de-ab26-4f76-8f6a-8aba759be3f6"
+    },
+    {
+      "AnswerID": "02e75e91-a6b3-4c38-adf8-b854d418f1f4",
+      "AnswerContent": "15周岁的学生赵某，以兼职家教的劳动收入作为主要生活来源",
+      "QuestionId": "a2a467a3-2749-4fc6-bf90-51325f4fab6b"
+    },
+    {
+      "AnswerID": "c1b51d99-d946-4f12-8997-dba5222a9954",
+      "AnswerContent": "未投入使用的房屋、建筑物",
+      "QuestionId": "2c3b8b93-0070-4273-8d3f-5bbb136ebc2d"
+    },
+    {
+      "AnswerID": "f50febe0-7be9-4ca6-837d-0b3209a78267",
+      "AnswerContent": "保证方式为连带责任保证",
+      "QuestionId": "59a1711f-84cb-488f-af71-ea80d2aa87c3"
+    },
+    {
+      "AnswerID": "1fd4fd75-e19b-4b13-8d68-23d318158cc8",
+      "AnswerContent": "股东以非货币财产出资的，一般应在6个月内办理完财产权转移手续",
+      "QuestionId": "f663db1d-05a1-47dc-8473-8a7e9309d3d1"
+    },
+    {
+      "AnswerID": "af619fa0-37f5-467a-a1de-0925b0382b75",
+      "AnswerContent": "100",
+      "QuestionId": "4d0d8671-f3d8-4c51-a47e-084f5466630d"
+    },
+    {
+      "AnswerID": "65357f19-de70-4636-8c28-96eac0bd6a11",
+      "AnswerContent": "孙某、钱某应以其认缴的出资额为限对50万元债务承担清偿责任，赵某、李某承担无限连带责任",
+      "QuestionId": "78c6168c-ea7c-4444-9f74-ab072d730cbc"
+    },
+    {
+      "AnswerID": "9ffe5ad0-dfc3-44b9-a47b-9656b18cb673",
+      "AnswerContent": "符合规定的公益性捐赠",
+      "QuestionId": "7688b890-e602-4369-8f79-42cf00ffb140"
+    },
+    {
+      "AnswerID": "234ade8f-d5ce-44b5-ad5a-31e938219231",
+      "AnswerContent": "钱某可要求赵某承担违约责任",
+      "QuestionId": "b64be8d3-4852-49a5-83a5-265d5727acb6"
+    },
+    {
+      "AnswerID": "61f3a19a-2ee7-4ca5-9de9-339c4575b54e",
+      "AnswerContent": "用法定公积金0万元、任意公积金80万元转增资本",
+      "QuestionId": "c1745933-1fbf-4c25-aa3d-b34604cbcb94"
+    },
+    {
+      "AnswerID": "6652aee9-fbb0-4472-8a65-8e248bfedd17",
+      "AnswerContent": "投资者之间存在股权控制关系",
+      "QuestionId": "b48f8229-db93-4b16-9f03-22972588c192"
+    },
+    {
+      "AnswerID": "ea00a9d6-2ca5-417d-8118-2cc10a4795c6",
+      "AnswerContent": "收货人取得进口货物地",
+      "QuestionId": "85addbcd-149f-48f4-bf92-72bc99122441"
+    },
+    {
+      "AnswerID": "6726a34e-d6ca-42bf-ae20-7070675b04e9",
+      "AnswerContent": "出借人与借款人既约定了逾期利率，又约定了违约金或者其他费用，出借人可以选择主张逾期利息、违约金或者其他费用，也可以一并主张，但是总计不得超过合同成立时1年期贷款市场报价利率4倍",
+      "QuestionId": "92e5ccef-f507-44f8-bb8b-5ddcd1ba3be1"
+    },
+    {
+      "AnswerID": "c56801a2-c618-4499-8b4d-2ad328124092",
+      "AnswerContent": "该上市公司以其实缴的出资额为限对合伙企业债务承担责任",
+      "QuestionId": "92145b7b-2dc5-4453-bdfa-d68f6e3994fe"
+    },
+    {
+      "AnswerID": "7a44b824-8907-4553-a9e3-4f7e1b37f431",
+      "AnswerContent": "国有独资公司的董事会、监事会成员中，应当有职工代表，且其比例不得低于董事会、监事会成员的1/3",
+      "QuestionId": "7cfff77a-2776-4ba4-b3a9-0c929da58411"
+    },
+    {
+      "AnswerID": "d52a4086-47dc-4e99-9cc0-e0150f7e0407",
+      "AnswerContent": "采取拍卖或者变卖的方式处置王某的股权",
+      "QuestionId": "506b3b1d-facc-4340-b212-e941de465165"
+    },
+    {
+      "AnswerID": "761fd731-aed3-4b54-8c24-3caeec6df31f",
+      "AnswerContent": "代理人必须以被代理人的名义实施民事法律行为",
+      "QuestionId": "07b6df1a-06f9-4fdf-813c-93fe08187121"
+    },
+    {
+      "AnswerID": "fa8a562d-6a11-4dec-86aa-707d184d4650",
+      "AnswerContent": "会议由甲召集和主持",
+      "QuestionId": "2a52826b-e9c0-4f51-8690-03d2b475f1a3"
+    },
+    {
+      "AnswerID": "74dd3c0c-d01f-4057-9eff-37d66bc08195",
+      "AnswerContent": "用于诊断或者治疗疾病的仪器设备",
+      "QuestionId": "fb8d5e07-e4eb-44d1-aea3-3e676adbca83"
+    },
+    {
+      "AnswerID": "d725340d-a88c-48db-9f72-e8ce319c62d1",
+      "AnswerContent": "决议行为",
+      "QuestionId": "bc20924f-3f64-4612-a0ba-77fb92b68fc3"
+    },
+    {
+      "AnswerID": "c0978b86-0c1a-485e-b1da-a48a92ee306c",
+      "AnswerContent": "债券",
+      "QuestionId": "83a599d6-a693-4a53-adf1-e72823d6681e"
+    },
+    {
+      "AnswerID": "ef51f591-c87c-4464-a762-11f4fa78091e",
+      "AnswerContent": "全国人民代表大会",
+      "QuestionId": "3debe9cc-3407-493f-ab28-b15025293b66"
+    },
+    {
+      "AnswerID": "a0667535-920a-4bc2-95fb-e1b44a9e0c10",
+      "AnswerContent": "保险代理人和保险经纪人的行为均属于代理行为",
+      "QuestionId": "2027ac5e-7b13-4e69-8060-9d9a750d5ce6"
+    },
+    {
+      "AnswerID": "54ff84fc-a423-4afd-b12f-d0de0d6243f4",
+      "AnswerContent": "再审申请被驳回后再次提出申请",
+      "QuestionId": "50c84f0d-2c7e-41b1-8d41-dd980f6930ce"
+    },
+    {
+      "AnswerID": "e569e995-1cd5-4ea7-8f24-66f3db7f87ab",
+      "AnswerContent": "赵某在执业活动中因故意或者重大过失造成合伙企业债务的，钱某、孙某应当承担无限责任或者无限连带责任",
+      "QuestionId": "bc162477-3a32-4003-9e9b-29bae7ce1b46"
+    },
+    {
+      "AnswerID": "dc86c9a6-296c-4f65-8f37-a4057097198e",
+      "AnswerContent": "分配给投资者",
+      "QuestionId": "950887be-c302-480e-9491-b848a3340d90"
+    },
+    {
+      "AnswerID": "ab093ed4-7566-4ac2-94ae-7053b9b93c8b",
+      "AnswerContent": "自2018年1月1日起，当年具备高新技术企业或科技型中小企业资格的企业，其具备资格年度之前5个年度发生的尚未弥补完的亏损，准予结转以后年度弥补，最长结转年限由5年延长至10年",
+      "QuestionId": "d034952d-c1ad-4176-82e2-0440f79d3a77"
+    },
+    {
+      "AnswerID": "fde3fc3d-9c1d-4b8b-b76c-e687c5497be1",
+      "AnswerContent": "126万元",
+      "QuestionId": "116665af-fd3b-4ac7-9eab-d75f612850d2"
+    },
+    {
+      "AnswerID": "e403ed6e-c879-4253-86f6-fc609853deb9",
+      "AnswerContent": "公司分配股利的计划",
+      "QuestionId": "dc5b974b-e389-4fd6-9d93-7f4db8f542e8"
+    },
+    {
+      "AnswerID": "d3cb4ae7-0896-4eb2-9757-2c06a2096e5c",
+      "AnswerContent": "声音",
+      "QuestionId": "77709158-064b-4611-b07d-c7e456824878"
+    },
+    {
+      "AnswerID": "6e7910f8-0983-4e39-85f5-8a8919ac7ea0",
+      "AnswerContent": "王某应向公司足额缴纳出资，但无须向吴某、蔡某承担违约责任",
+      "QuestionId": "6bcb0da2-a746-4906-ac0c-2a3a9426c60d"
+    },
+    {
+      "AnswerID": "df126ebc-d523-4d20-bf7e-26b34bf26a66",
+      "AnswerContent": "严重侵害赠与人的亲属",
+      "QuestionId": "0f3e2b55-3ecb-4348-84fb-393db50888fd"
+    },
+    {
+      "AnswerID": "9b13328d-176e-4064-b004-cae95e036caa",
+      "AnswerContent": "全国人民代表大会",
+      "QuestionId": "b9f7064d-78eb-4a62-957d-878abe804f3a"
+    },
+    {
+      "AnswerID": "46ad041a-e114-4f0c-befd-8b1662cee878",
+      "AnswerContent": "清理公司财产",
+      "QuestionId": "8628eb7d-cc0f-4a02-9008-9f4f7212f700"
+    },
+    {
+      "AnswerID": "be1fb6aa-0e39-41f9-8c55-8f5619e65d61",
+      "AnswerContent": "因债务人怠于行使其到期债权，影响债权人到期债权实现的，债权人可以向人民法院请求以债务人的名义行使债务人的债权",
+      "QuestionId": "9e8b3a1b-26f1-44f3-9e80-1559708cc7e4"
+    },
+    {
+      "AnswerID": "a8e1f33d-464f-4184-a35d-1c5b7105bb6e",
+      "AnswerContent": "合伙协议可以约定由部分合伙人承担全部亏损",
+      "QuestionId": "0c6d2f23-6267-4634-a8e3-88d0719de294"
+    },
+    {
+      "AnswerID": "b509ef30-f6b9-4e16-bb8d-eb4dfd7c3503",
+      "AnswerContent": "向子公司无偿转让土地使用权",
+      "QuestionId": "8a64f2c0-555c-41aa-acb3-469a27345e18"
+    },
+    {
+      "AnswerID": "3fcb1705-e104-4855-8bf8-9b7f428afd4a",
+      "AnswerContent": "城市维护建设税",
+      "QuestionId": "42fe83d8-6978-43de-87d5-ca8e5509621d"
+    },
+    {
+      "AnswerID": "2e3deb10-b204-45aa-af82-0b8edcdf2eab",
+      "AnswerContent": "不执行合伙事务的合伙人有权监督执行事务合伙人执行合伙事务的情况",
+      "QuestionId": "e37cc144-7d9d-4986-b575-99a6d132c0aa"
+    },
+    {
+      "AnswerID": "8967ad1c-961b-4c7a-b5fa-77a39091219b",
+      "AnswerContent": "董事会秘书",
+      "QuestionId": "21265215-06a7-4b30-a3d2-356dab3dc3ed"
+    },
+    {
+      "AnswerID": "b34cf3cc-7769-4654-abf6-cbd84e592eea",
+      "AnswerContent": "甲税务局向某百货商场购买商品，因商品质量问题与该百货商场发生纠纷",
+      "QuestionId": "6198412d-7291-4600-9c78-0c69dbbe479b"
+    },
+    {
+      "AnswerID": "f2467d22-106f-45ae-b534-2abb1616e43e",
+      "AnswerContent": "公司名称和住所",
+      "QuestionId": "d93993bc-a219-4c84-b95e-08106bebcc1a"
+    },
+    {
+      "AnswerID": "50010e69-bbd0-4b03-bf15-6a8994c6c93a",
+      "AnswerContent": "因财产保险合同纠纷提起的诉讼，保险标的物是运输工具，由事故发生地或者车辆最先到达地或者被告住所地人民法院管辖",
+      "QuestionId": "c1d13d03-3d08-46b0-a398-80e2320220a3"
+    },
+    {
+      "AnswerID": "2b20b929-5eaf-47f4-b18d-8185640465f8",
+      "AnswerContent": "承兑人或付款人逃匿",
+      "QuestionId": "c5dbad6e-9ad1-4c19-b399-4e79947ff383"
+    },
+    {
+      "AnswerID": "17ddb347-9636-4b28-8c8a-a6c25dd40c1b",
+      "AnswerContent": "收购人在收购期内，不得卖出被收购公司的股票",
+      "QuestionId": "31ff7089-a566-4de2-8747-0d83cc03b081"
+    },
+    {
+      "AnswerID": "ce680528-5bdc-4021-9265-27d59899b2af",
+      "AnswerContent": "正确",
+      "QuestionId": "76e03569-3986-49f2-8bde-e7cbe38a316a"
+    },
+    {
+      "AnswerID": "387822d9-39a2-49b5-857b-62e5fc5d0e4f",
+      "AnswerContent": "正确",
+      "QuestionId": "176138fb-9b0f-4af3-828c-0e98761e4e78"
+    },
+    {
+      "AnswerID": "88f979dc-eed5-4310-bc40-5048cb6e666b",
+      "AnswerContent": "正确",
+      "QuestionId": "9793271f-627f-45d2-acbe-567ec41d117d"
+    },
+    {
+      "AnswerID": "9897e0d7-1a51-4c62-ba2a-2967f2e59476",
+      "AnswerContent": "答案见解析",
+      "QuestionId": "5653319c-e298-463c-99c3-1c42d3173d02"
+    },
+    {
+      "AnswerID": "ca6999ec-921f-46dc-9083-700fd2fe457e",
+      "AnswerContent": "正确",
+      "QuestionId": "9218e8c3-6770-4903-a501-239de941fe34"
+    },
+    {
+      "AnswerID": "5e2e4d67-f354-4d8e-95a4-030f0b170a44",
+      "AnswerContent": "正确",
+      "QuestionId": "fe71dec6-5abc-4dd3-934b-3afb70f6a0fb"
+    },
+    {
+      "AnswerID": "d2b92ef5-4239-4ca6-9bdf-f93f38d341c9",
+      "AnswerContent": "正确",
+      "QuestionId": "edfe0479-9046-4182-8cbc-4494b7d5f08b"
+    },
+    {
+      "AnswerID": "62ac7af2-c74c-4228-ad7c-5ff59829e61b",
+      "AnswerContent": "正确",
+      "QuestionId": "ec1bd3e6-fa56-4949-b4fc-6a5fe832774c"
+    },
+    {
+      "AnswerID": "b123d82f-d1c2-4f14-8c12-090a95c84778",
+      "AnswerContent": "答案见解析",
+      "QuestionId": "c2940b9d-3543-4911-94c1-6d270422a60a"
+    },
+    {
+      "AnswerID": "e6883b2d-f992-493a-bcff-8fc46ebe651f",
+      "AnswerContent": "正确",
+      "QuestionId": "95f24e66-7f11-4a62-88eb-8908b2973962"
+    },
+    {
+      "AnswerID": "96ec92b4-025a-4c25-86ae-f3bd29e0279a",
+      "AnswerContent": "答案见解析",
+      "QuestionId": "b31f689a-0807-46b4-87c0-b3e2d3819e1b"
+    },
+    {
+      "AnswerID": "db258ce2-bd2a-41e0-87d4-e699af67e4ce",
+      "AnswerContent": "正确",
+      "QuestionId": "28991bd7-1d26-467f-80d9-b4ca842244b9"
+    },
+    {
+      "AnswerID": "2f4abfed-963a-49ee-9b19-6a7d8f518dea",
+      "AnswerContent": "正确",
+      "QuestionId": "6a402d1b-17ce-4cd0-9481-f637d60a2d91"
+    },
+    {
+      "AnswerID": "8be05d4e-c189-43f6-8da3-cddd926b11c8",
+      "AnswerContent": "错误",
+      "QuestionId": "6a402d1b-17ce-4cd0-9481-f637d60a2d91"
+    },
+    {
+      "AnswerID": "a261df1a-6c93-4c2f-a92d-6bd284329ab2",
+      "AnswerContent": "错误",
+      "QuestionId": "28991bd7-1d26-467f-80d9-b4ca842244b9"
+    },
+    {
+      "AnswerID": "9b3d30aa-4931-4973-b10e-e2e0e3fa696c",
+      "AnswerContent": "上市公司发行不同种类股份的，收购人可以针对不同种类股份提出不同的收购条件",
+      "QuestionId": "31ff7089-a566-4de2-8747-0d83cc03b081"
+    },
+    {
+      "AnswerID": "e239db6c-98e3-4d20-8a15-0563be9c8f0f",
+      "AnswerContent": "错误",
+      "QuestionId": "95f24e66-7f11-4a62-88eb-8908b2973962"
+    },
+    {
+      "AnswerID": "98bd024f-887c-426b-8b65-072159f80997",
+      "AnswerContent": "错误",
+      "QuestionId": "ec1bd3e6-fa56-4949-b4fc-6a5fe832774c"
+    },
+    {
+      "AnswerID": "48dd8a3f-8f70-4af6-8b1d-6b14157ec806",
+      "AnswerContent": "错误",
+      "QuestionId": "fe71dec6-5abc-4dd3-934b-3afb70f6a0fb"
+    },
+    {
+      "AnswerID": "ea263e06-dd3b-4a87-9617-f7f9a88473ed",
+      "AnswerContent": "错误",
+      "QuestionId": "edfe0479-9046-4182-8cbc-4494b7d5f08b"
+    },
+    {
+      "AnswerID": "192fc2c3-44f3-49e0-a519-4bcb7a859ec3",
+      "AnswerContent": "错误",
+      "QuestionId": "9218e8c3-6770-4903-a501-239de941fe34"
+    },
+    {
+      "AnswerID": "351e76d7-8612-44b4-a061-62e1bfb6b8c4",
+      "AnswerContent": "错误",
+      "QuestionId": "9793271f-627f-45d2-acbe-567ec41d117d"
+    },
+    {
+      "AnswerID": "bb95cb4a-35c1-4636-8f2c-8a185c324a76",
+      "AnswerContent": "错误",
+      "QuestionId": "176138fb-9b0f-4af3-828c-0e98761e4e78"
+    },
+    {
+      "AnswerID": "d02ca4ec-085b-4313-8261-2f2753b997ba",
+      "AnswerContent": "错误",
+      "QuestionId": "76e03569-3986-49f2-8bde-e7cbe38a316a"
+    },
+    {
+      "AnswerID": "a37bff8f-b347-4af3-bef2-cdd9f406db80",
+      "AnswerContent": "因人身保险合同纠纷提起的诉讼，可以由投保人住所地人民法院管辖",
+      "QuestionId": "c1d13d03-3d08-46b0-a398-80e2320220a3"
+    },
+    {
+      "AnswerID": "5eee985e-9c3a-4cb5-942b-b4446532a9e3",
+      "AnswerContent": "向客户无偿提供运输服务",
+      "QuestionId": "8a64f2c0-555c-41aa-acb3-469a27345e18"
+    },
+    {
+      "AnswerID": "e5371b52-0274-4895-90b0-4ab9ebeecf9f",
+      "AnswerContent": "汇票被拒绝承兑",
+      "QuestionId": "c5dbad6e-9ad1-4c19-b399-4e79947ff383"
+    },
+    {
+      "AnswerID": "93eec1fc-8b50-437d-9fe2-d2b96d04f6d6",
+      "AnswerContent": "不执行合伙事务的合伙人有权查阅合伙企业会计账簿等财务资料",
+      "QuestionId": "e37cc144-7d9d-4986-b575-99a6d132c0aa"
+    },
+    {
+      "AnswerID": "08a562c4-dc88-4187-ac14-61940294ff43",
+      "AnswerContent": "董事长",
+      "QuestionId": "21265215-06a7-4b30-a3d2-356dab3dc3ed"
+    },
+    {
+      "AnswerID": "2640481c-2de4-4fda-86dc-5de03adef15c",
+      "AnswerContent": "公司注册资本",
+      "QuestionId": "d93993bc-a219-4c84-b95e-08106bebcc1a"
+    },
+    {
+      "AnswerID": "4e9ec5bc-0c89-444f-9d01-e547a62ec59a",
+      "AnswerContent": "婚姻纠纷",
+      "QuestionId": "6198412d-7291-4600-9c78-0c69dbbe479b"
+    },
+    {
+      "AnswerID": "6a060ebc-f101-4725-84e3-52686629f13c",
+      "AnswerContent": "消费税",
+      "QuestionId": "42fe83d8-6978-43de-87d5-ca8e5509621d"
+    },
+    {
+      "AnswerID": "08df930b-7569-4140-bd47-836d455e5b5f",
+      "AnswerContent": "处理与清算有关的公司未了结的业务",
+      "QuestionId": "8628eb7d-cc0f-4a02-9008-9f4f7212f700"
+    },
+    {
+      "AnswerID": "f4f39a77-466d-49e2-a979-681a0b19ecd7",
+      "AnswerContent": "有限合伙人可以自营或者同他人合作经营与本有限合伙企业相竞争的业务；但是，合伙协议另有约定的除外",
+      "QuestionId": "0c6d2f23-6267-4634-a8e3-88d0719de294"
+    },
+    {
+      "AnswerID": "60496633-24d8-4eeb-a270-1b23b37b1db0",
+      "AnswerContent": "债务人的债权不是请求支付劳动报酬、退休金、养老金等专属于债务人自身的权利",
+      "QuestionId": "9e8b3a1b-26f1-44f3-9e80-1559708cc7e4"
+    },
+    {
+      "AnswerID": "9d0edb86-e77b-452a-88fc-641c7c82692e",
+      "AnswerContent": "经认定的技术先进型服务企业（服务贸易类），减按15%的税率征收企业所得税",
+      "QuestionId": "d034952d-c1ad-4176-82e2-0440f79d3a77"
+    },
+    {
+      "AnswerID": "050b6fad-6922-4237-b76d-bdb71a9a3a5f",
+      "AnswerContent": "因受赠人的违法行为致使赠与人死亡或者丧失民事行为能力",
+      "QuestionId": "0f3e2b55-3ecb-4348-84fb-393db50888fd"
+    },
+    {
+      "AnswerID": "dbe8988e-e595-4851-b475-107424a6dec9",
+      "AnswerContent": "全国人民代表大会常务委员会",
+      "QuestionId": "b9f7064d-78eb-4a62-957d-878abe804f3a"
+    },
+    {
+      "AnswerID": "869969e3-22bf-4846-ad55-92cee2ca4664",
+      "AnswerContent": "气味",
+      "QuestionId": "77709158-064b-4611-b07d-c7e456824878"
+    },
+    {
+      "AnswerID": "95ef189f-b3ca-4593-97c3-0a5e3031fcb5",
+      "AnswerContent": "王某可将出资抽回，退出公司，但应向吴某、蔡某承担违约责任",
+      "QuestionId": "6bcb0da2-a746-4906-ac0c-2a3a9426c60d"
+    },
+    {
+      "AnswerID": "a8fba2cc-461b-437a-968f-d1bc2a4d0830",
+      "AnswerContent": "公司对外提供担保超过上年末净资产的20%",
+      "QuestionId": "dc5b974b-e389-4fd6-9d93-7f4db8f542e8"
+    },
+    {
+      "AnswerID": "fff36e22-3f59-44e8-a566-960b3157ee6b",
+      "AnswerContent": "180万元",
+      "QuestionId": "116665af-fd3b-4ac7-9eab-d75f612850d2"
+    },
+    {
+      "AnswerID": "f922a652-9f86-4588-ab5d-f474b9370839",
+      "AnswerContent": "赵某在执业活动中非因故意或者重大过失造成合伙企业债务，由全体合伙人承担无限连带责任",
+      "QuestionId": "bc162477-3a32-4003-9e9b-29bae7ce1b46"
+    },
+    {
+      "AnswerID": "1ddaedbc-fbee-4b6d-a6b9-56f761141bfd",
+      "AnswerContent": "增值税免税项目",
+      "QuestionId": "950887be-c302-480e-9491-b848a3340d90"
+    },
+    {
+      "AnswerID": "cef36ef8-5e8f-4aa5-a374-734ae8986cf4",
+      "AnswerContent": "拾得遗失物",
+      "QuestionId": "bc20924f-3f64-4612-a0ba-77fb92b68fc3"
+    },
+    {
+      "AnswerID": "75a34457-b55f-471f-830b-44365523e014",
+      "AnswerContent": "对原审判决提出申请",
+      "QuestionId": "50c84f0d-2c7e-41b1-8d41-dd980f6930ce"
+    },
+    {
+      "AnswerID": "46978b52-df7e-4ccd-8e53-2b8161bac3fb",
+      "AnswerContent": "不可转让的股权",
+      "QuestionId": "83a599d6-a693-4a53-adf1-e72823d6681e"
+    },
+    {
+      "AnswerID": "94b4c6cc-e42b-4d00-aa8f-f68e6b52237e",
+      "AnswerContent": "全国人民代表大会常务委员会",
+      "QuestionId": "3debe9cc-3407-493f-ab28-b15025293b66"
+    },
+    {
+      "AnswerID": "45a78384-0ddb-4cdf-8e8d-16d1ba0690f7",
+      "AnswerContent": "保险代理人和保险经纪人可以是单位也可以是个人",
+      "QuestionId": "2027ac5e-7b13-4e69-8060-9d9a750d5ce6"
+    },
+    {
+      "AnswerID": "72f290c1-2a99-453e-913d-1e881bbb7a68",
+      "AnswerContent": "会议决定不设董事会，由甲担任执行董事，甲为公司的法定代表人",
+      "QuestionId": "2a52826b-e9c0-4f51-8690-03d2b475f1a3"
+    },
+    {
+      "AnswerID": "913eaf73-b724-4f3c-b230-66969245939b",
+      "AnswerContent": "对产品的构造提出的适于实用的新的技术方案",
+      "QuestionId": "fb8d5e07-e4eb-44d1-aea3-3e676adbca83"
+    },
+    {
+      "AnswerID": "1032cc64-3d6a-4862-850b-3d50b2ff0c68",
+      "AnswerContent": "代理人在代理权限内按照被代理人的意思向第三人实施意思表示",
+      "QuestionId": "07b6df1a-06f9-4fdf-813c-93fe08187121"
+    },
+    {
+      "AnswerID": "cd0f690a-0fb7-42d5-a572-612a53af452d",
+      "AnswerContent": "职工福利费",
+      "QuestionId": "7688b890-e602-4369-8f79-42cf00ffb140"
+    },
+    {
+      "AnswerID": "82ef6fea-02a5-4315-a598-8438a4776d74",
+      "AnswerContent": "两个以上的国有企业投资设立的有限责任公司，其董事会成员中可以无职工代表，但监事会成员中必须有职工代表，且其比例不得低于监事会成员的1/3",
+      "QuestionId": "7cfff77a-2776-4ba4-b3a9-0c929da58411"
+    },
+    {
+      "AnswerID": "6ceeec9e-6088-4c50-ab4b-13bdbc7f8806",
+      "AnswerContent": "将王某的出资从公司中抽出，并将公司注册资本减少50万元",
+      "QuestionId": "506b3b1d-facc-4340-b212-e941de465165"
+    },
+    {
+      "AnswerID": "0733277c-73ab-4237-b37f-cd50954a4107",
+      "AnswerContent": "赵某应当具有完全民事行为能力",
+      "QuestionId": "92145b7b-2dc5-4453-bdfa-d68f6e3994fe"
+    },
+    {
+      "AnswerID": "dbe43a55-eaa4-4a10-a99f-1a20f3c7d2f5",
+      "AnswerContent": "约定了借期内的利率但未约定逾期利率，出借人有权主张借款人自逾期还款之日起按照借期内的利率支付资金占用期间利息",
+      "QuestionId": "92e5ccef-f507-44f8-bb8b-5ddcd1ba3be1"
+    },
+    {
+      "AnswerID": "73d2609d-79b9-4bd9-9418-69c56ed425c9",
+      "AnswerContent": "收货人机构所在地",
+      "QuestionId": "85addbcd-149f-48f4-bf92-72bc99122441"
+    },
+    {
+      "AnswerID": "3f9f3895-cffc-4027-ae01-cb100d69fb02",
+      "AnswerContent": "用法定公积金40万元、任意公积金40万元转增资本",
+      "QuestionId": "c1745933-1fbf-4c25-aa3d-b34604cbcb94"
+    },
+    {
+      "AnswerID": "9c516408-bece-48c2-9a71-2d20bb9a3f56",
+      "AnswerContent": "投资者之间为同学、战友关系",
+      "QuestionId": "b48f8229-db93-4b16-9f03-22972588c192"
+    },
+    {
+      "AnswerID": "a2e2c9c8-31d3-48df-86a6-9223d8087b9c",
+      "AnswerContent": "如果产品质量存在严重问题，致使合同目的无法实现，钱某可行使法定解除权",
+      "QuestionId": "b64be8d3-4852-49a5-83a5-265d5727acb6"
+    },
+    {
+      "AnswerID": "c4358dcf-2243-4f38-96b2-69d9dd2c69f2",
+      "AnswerContent": "钱某、孙某、李某应以其认缴的出资额为限对50万元债务承担清偿责任，赵某承担无限责任",
+      "QuestionId": "78c6168c-ea7c-4444-9f74-ab072d730cbc"
+    },
+    {
+      "AnswerID": "db68a699-fe88-40e6-9a95-3f151a1e7f45",
+      "AnswerContent": "以经营租赁方式租出的固定资产",
+      "QuestionId": "2c3b8b93-0070-4273-8d3f-5bbb136ebc2d"
+    },
+    {
+      "AnswerID": "44c7f987-2e00-4f59-bb51-0c20647ca5f4",
+      "AnswerContent": "60",
+      "QuestionId": "4d0d8671-f3d8-4c51-a47e-084f5466630d"
+    },
+    {
+      "AnswerID": "4e87ec99-4212-4bce-9dce-89eea5f42278",
+      "AnswerContent": "保证合同无效",
+      "QuestionId": "59a1711f-84cb-488f-af71-ea80d2aa87c3"
+    },
+    {
+      "AnswerID": "11a5f966-2225-4249-a7e6-4e915ea0ed1e",
+      "AnswerContent": "股东以货币出资的，应当将货币出资足额存入为设立有限责任公司而在银行开设的账户",
+      "QuestionId": "f663db1d-05a1-47dc-8473-8a7e9309d3d1"
+    },
+    {
+      "AnswerID": "413d1cc7-1be6-4310-8b88-859959962630",
+      "AnswerContent": "17周岁的高中生刘某，以父母为其全款购买的个人名下住宅的出租收入作为主要生活来源",
+      "QuestionId": "a2a467a3-2749-4fc6-bf90-51325f4fab6b"
+    },
+    {
+      "AnswerID": "54004f2e-d551-484a-a90f-a370762bfb59",
+      "AnswerContent": "甲的背书无效，且将导致该票据无效",
+      "QuestionId": "f3a919de-ab26-4f76-8f6a-8aba759be3f6"
+    },
+    {
+      "AnswerID": "2052a23a-58c3-4b91-8efc-12b2784399ff",
+      "AnswerContent": "16周岁的餐厅服务员钱某，以自己的劳动收入作为主要生活来源",
+      "QuestionId": "a2a467a3-2749-4fc6-bf90-51325f4fab6b"
+    },
+    {
+      "AnswerID": "e6c76d52-6626-4f22-b53e-0cd6778bcbca",
+      "AnswerContent": "乙的记载无效，应由背书人甲补记",
+      "QuestionId": "f3a919de-ab26-4f76-8f6a-8aba759be3f6"
+    },
+    {
+      "AnswerID": "f1f3b355-1f05-49ad-8b6e-9425ed32944b",
+      "AnswerContent": "股东不按照规定缴纳出资的，应向公司足额缴纳，并向已按期足额缴纳出资的股东承担违约责任，该违约责任仅包括未出资部分",
+      "QuestionId": "f663db1d-05a1-47dc-8473-8a7e9309d3d1"
+    },
+    {
+      "AnswerID": "4eac1e23-052f-45f6-b109-e2a57e98f8ea",
+      "AnswerContent": "未足额提取折旧仍继续使用的固定资产",
+      "QuestionId": "2c3b8b93-0070-4273-8d3f-5bbb136ebc2d"
+    },
+    {
+      "AnswerID": "9b803d72-1eb6-4679-87ae-d17014c81ac7",
+      "AnswerContent": "钱某应当先就该小轿车的抵押权实现债权",
+      "QuestionId": "59a1711f-84cb-488f-af71-ea80d2aa87c3"
+    },
+    {
+      "AnswerID": "70ed4e58-67c1-4acc-a67e-d5bb53a619c7",
+      "AnswerContent": "25",
+      "QuestionId": "4d0d8671-f3d8-4c51-a47e-084f5466630d"
+    },
+    {
+      "AnswerID": "1c7ee479-a469-4b29-9cf9-5256e09e72ca",
+      "AnswerContent": "职工教育经费",
+      "QuestionId": "7688b890-e602-4369-8f79-42cf00ffb140"
+    },
+    {
+      "AnswerID": "b4add51d-fad7-434a-9d88-9b6a0f9ba532",
+      "AnswerContent": "孙某、李某应以其实缴的出资额为限对50万元债务承担清偿责任，赵某、钱某承担无限连带责任",
+      "QuestionId": "78c6168c-ea7c-4444-9f74-ab072d730cbc"
+    },
+    {
+      "AnswerID": "8d365d40-888f-43a8-84e4-394a01a8e6f3",
+      "AnswerContent": "投资者之间存在合伙关系",
+      "QuestionId": "b48f8229-db93-4b16-9f03-22972588c192"
+    },
+    {
+      "AnswerID": "29d98e9b-b896-4e77-b9a6-e975011dff96",
+      "AnswerContent": "钱某可要求赵某承担缔约过失责任",
+      "QuestionId": "b64be8d3-4852-49a5-83a5-265d5727acb6"
+    },
+    {
+      "AnswerID": "5d82fc04-15f6-4189-8317-e25f79249013",
+      "AnswerContent": "用法定公积金55万元、任意公积金25万元转增资本",
+      "QuestionId": "c1745933-1fbf-4c25-aa3d-b34604cbcb94"
+    },
+    {
+      "AnswerID": "1cfe12f1-8969-456a-94e6-c34e1ec7afb0",
+      "AnswerContent": "进口货物销售地",
+      "QuestionId": "85addbcd-149f-48f4-bf92-72bc99122441"
+    },
+    {
+      "AnswerID": "d9717623-2ed1-4772-b414-2dc5f7935e63",
+      "AnswerContent": "借贷双方对逾期利率有约定的，从其约定，但以不超过年利率24%为限",
+      "QuestionId": "92e5ccef-f507-44f8-bb8b-5ddcd1ba3be1"
+    },
+    {
+      "AnswerID": "8352ff1a-1f7e-42fb-b574-ce213391697e",
+      "AnswerContent": "该上市公司可以劳务进行出资",
+      "QuestionId": "92145b7b-2dc5-4453-bdfa-d68f6e3994fe"
+    },
+    {
+      "AnswerID": "d4e0742a-df7b-407c-8484-3931baacd0df",
+      "AnswerContent": "将王某的出资从公司中抽出，其他股东对50万元出资承担连带责任",
+      "QuestionId": "506b3b1d-facc-4340-b212-e941de465165"
+    },
+    {
+      "AnswerID": "3af199a0-cac5-42a4-949f-7fde8c96ee18",
+      "AnswerContent": "没有国有投资主体投资设立的有限责任公司，其董事会、监事会成员中可以无职工代表",
+      "QuestionId": "7cfff77a-2776-4ba4-b3a9-0c929da58411"
+    },
+    {
+      "AnswerID": "4283da37-16e2-4c54-bba6-39459eeb1392",
+      "AnswerContent": "代理行为的法律后果直接归属于被代理人",
+      "QuestionId": "07b6df1a-06f9-4fdf-813c-93fe08187121"
+    },
+    {
+      "AnswerID": "77145150-2830-4a6c-b25f-a2defca8bd99",
+      "AnswerContent": "会议决定设1名监事，由乙担任，任期2年",
+      "QuestionId": "2a52826b-e9c0-4f51-8690-03d2b475f1a3"
+    },
+    {
+      "AnswerID": "26789d15-4a63-49b0-9da4-4d9f11db9ae2",
+      "AnswerContent": "对平面印刷品的图案作出的主要起标识作用的设计",
+      "QuestionId": "fb8d5e07-e4eb-44d1-aea3-3e676adbca83"
+    },
+    {
+      "AnswerID": "2006afbe-d7bb-40ce-990a-2a5f865bb840",
+      "AnswerContent": "委托代理的撤销",
+      "QuestionId": "bc20924f-3f64-4612-a0ba-77fb92b68fc3"
+    },
+    {
+      "AnswerID": "a407f994-97c4-4fcf-8989-179296c5cf60",
+      "AnswerContent": "应收账款",
+      "QuestionId": "83a599d6-a693-4a53-adf1-e72823d6681e"
+    },
+    {
+      "AnswerID": "54f4c7ab-688d-47b4-a193-82e5aea2dfed",
+      "AnswerContent": "保险代理人代表保险人利益，保险经纪人代表投保人利益",
+      "QuestionId": "2027ac5e-7b13-4e69-8060-9d9a750d5ce6"
+    },
+    {
+      "AnswerID": "8d5583fe-dad1-4cde-bbbf-92a18462f060",
+      "AnswerContent": "国务院",
+      "QuestionId": "3debe9cc-3407-493f-ab28-b15025293b66"
+    },
+    {
+      "AnswerID": "3db12d0f-4be9-4195-a858-c052fcd565a3",
+      "AnswerContent": "在人民检察院对当事人的申请作出不予提出再审检察建议决定后又提出申请",
+      "QuestionId": "50c84f0d-2c7e-41b1-8d41-dd980f6930ce"
+    },
+    {
+      "AnswerID": "86bdbeb1-656e-4a73-b73a-948e14eed491",
+      "AnswerContent": "赵某在执业活动中因故意或者重大过失造成合伙企业债务的，赵某以其在合伙企业中的财产份额为限承担责任",
+      "QuestionId": "bc162477-3a32-4003-9e9b-29bae7ce1b46"
+    },
+    {
+      "AnswerID": "cda78660-eab7-49d7-ad3a-b04b4f28e4c8",
+      "AnswerContent": "简易计税方法计税项目",
+      "QuestionId": "950887be-c302-480e-9491-b848a3340d90"
+    },
+    {
+      "AnswerID": "cc978fce-798b-4519-8b5d-a87877732313",
+      "AnswerContent": "企业开展研发活动中实际发生的研发费用，未形成无形资产计入当期损益的，在按规定据实扣除的基础上，在2018年1月1日至2020年12月31日期间再按照实际发生额的75%在税前加计扣除；形成无形资产的，在上述期间按照无形资产成本的175%在税前摊销",
+      "QuestionId": "d034952d-c1ad-4176-82e2-0440f79d3a77"
+    },
+    {
+      "AnswerID": "7553ad18-f727-4f01-b290-2524f8a0a153",
+      "AnswerContent": "240万元",
+      "QuestionId": "116665af-fd3b-4ac7-9eab-d75f612850d2"
+    },
+    {
+      "AnswerID": "bb09e331-bdd0-4180-b1be-e662a52d4fbe",
+      "AnswerContent": "公司注册资本增资的决定",
+      "QuestionId": "dc5b974b-e389-4fd6-9d93-7f4db8f542e8"
+    },
+    {
+      "AnswerID": "4c7a066a-58ba-4c8e-86ab-1003263c1277",
+      "AnswerContent": "纯数字",
+      "QuestionId": "77709158-064b-4611-b07d-c7e456824878"
+    },
+    {
+      "AnswerID": "ce1e54bc-f707-48f4-8c88-75f1cf1489ed",
+      "AnswerContent": "王某应向公司足额缴纳出资，并向蔡某承担违约责任",
+      "QuestionId": "6bcb0da2-a746-4906-ac0c-2a3a9426c60d"
+    },
+    {
+      "AnswerID": "c7ec3add-0df7-4bbe-b62f-a05d63a2b816",
+      "AnswerContent": "对赠与人有扶养义务而不履行",
+      "QuestionId": "0f3e2b55-3ecb-4348-84fb-393db50888fd"
+    },
+    {
+      "AnswerID": "3f1886a0-19a8-4362-9395-e73d63b6226b",
+      "AnswerContent": "国务院",
+      "QuestionId": "b9f7064d-78eb-4a62-957d-878abe804f3a"
+    },
+    {
+      "AnswerID": "ef431843-406b-465d-9fda-2cd4178ba19f",
+      "AnswerContent": "清缴所欠税款以及清算过程中产生的税款",
+      "QuestionId": "8628eb7d-cc0f-4a02-9008-9f4f7212f700"
+    },
+    {
+      "AnswerID": "53d7e4b9-61f4-4b57-97ec-e0cee5fcd6ec",
+      "AnswerContent": "C.债权人行使代位权的请求数额可以超过债务人所负债务的数额",
+      "QuestionId": "9e8b3a1b-26f1-44f3-9e80-1559708cc7e4"
+    },
+    {
+      "AnswerID": "f52c3671-4c3c-4ae5-99dc-769f51f0a793",
+      "AnswerContent": "C.有限合伙人可以同本有限合伙企业进行交易；但是，合伙协议另有约定的除外",
+      "QuestionId": "0c6d2f23-6267-4634-a8e3-88d0719de294"
+    },
+    {
+      "AnswerID": "fc770dc2-34d7-4ff4-8fc1-681cc9540769",
+      "AnswerContent": "向孤儿院无偿捐赠房屋",
+      "QuestionId": "8a64f2c0-555c-41aa-acb3-469a27345e18"
+    },
+    {
+      "AnswerID": "5b9260f5-0b24-435d-82b3-862fbd560213",
+      "AnswerContent": "企业所得税",
+      "QuestionId": "42fe83d8-6978-43de-87d5-ca8e5509621d"
+    },
+    {
+      "AnswerID": "2f336a4b-265c-4c18-a63e-556f674a6d21",
+      "AnswerContent": "不执行合伙事务的合伙人可以对其他合伙人执行的事务提出异议",
+      "QuestionId": "e37cc144-7d9d-4986-b575-99a6d132c0aa"
+    },
+    {
+      "AnswerID": "ced7508f-b204-414b-bfb0-fc6919a91e3b",
+      "AnswerContent": "劳动纠纷",
+      "QuestionId": "6198412d-7291-4600-9c78-0c69dbbe479b"
+    },
+    {
+      "AnswerID": "276d6af4-5191-499e-b8d8-20ceffb8a497",
+      "AnswerContent": "公司利润分配办法",
+      "QuestionId": "d93993bc-a219-4c84-b95e-08106bebcc1a"
+    },
+    {
+      "AnswerID": "dcbbdcda-393f-4cbe-a01a-856583737f63",
+      "AnswerContent": "财务负责人",
+      "QuestionId": "21265215-06a7-4b30-a3d2-356dab3dc3ed"
+    },
+    {
+      "AnswerID": "c348ec2a-cfa5-415a-8dd6-73c8eb3f47c5",
+      "AnswerContent": "因铁路、公路、水上和航空事故请求损害赔偿提起的诉讼，可以由运输工具登记注册地、运输目的地、保险事故发生地人民法院管辖",
+      "QuestionId": "c1d13d03-3d08-46b0-a398-80e2320220a3"
+    },
+    {
+      "AnswerID": "01e83f91-8036-470a-b132-b02d8105c8eb",
+      "AnswerContent": "收购人在收购要约确定的承诺期限内，可在满足一定条件下撤销其收购要约",
+      "QuestionId": "31ff7089-a566-4de2-8747-0d83cc03b081"
+    },
+    {
+      "AnswerID": "375f4dea-f11c-4834-9325-d6533a5a58c6",
+      "AnswerContent": "承兑人或付款人被宣告破产",
+      "QuestionId": "c5dbad6e-9ad1-4c19-b399-4e79947ff383"
+    },
+    {
+      "AnswerID": "39600265-5f34-4ca8-9d10-431cbfced2ab",
+      "AnswerContent": "收购人在证券交易所之外进行的收购，属于要约收购",
+      "QuestionId": "31ff7089-a566-4de2-8747-0d83cc03b081"
+    },
+    {
+      "AnswerID": "0e8689bf-8f04-4f2f-a490-1fe53781d9b7",
+      "AnswerContent": "承兑人或付款人因违法被责令终止业务活动",
+      "QuestionId": "c5dbad6e-9ad1-4c19-b399-4e79947ff383"
+    },
+    {
+      "AnswerID": "c13c923e-a569-42c2-a762-de50b84582c2",
+      "AnswerContent": "股东的出资方式",
+      "QuestionId": "d93993bc-a219-4c84-b95e-08106bebcc1a"
+    },
+    {
+      "AnswerID": "a50719d5-d3ef-4cb8-9566-1c02bbdf96b3",
+      "AnswerContent": "因票据纠纷提起的诉讼，由票据支付地或者被告住所地人民法院管辖",
+      "QuestionId": "c1d13d03-3d08-46b0-a398-80e2320220a3"
+    },
+    {
+      "AnswerID": "ae066d5d-8d01-4cfe-8fd2-d6bbecc85026",
+      "AnswerContent": "总经理",
+      "QuestionId": "21265215-06a7-4b30-a3d2-356dab3dc3ed"
+    },
+    {
+      "AnswerID": "c5b7669c-e204-4e8d-b708-c6d89c67e760",
+      "AnswerContent": "甲税务局向乙百货商场征税而与其发生的争议",
+      "QuestionId": "6198412d-7291-4600-9c78-0c69dbbe479b"
+    },
+    {
+      "AnswerID": "ec73042d-f138-4fe5-963e-6b2551b0014f",
+      "AnswerContent": "受委托执行合伙事务的合伙人不按照合伙协议或者全体合伙人的决定执行事务的，其他合伙人可以决定撤销该委托",
+      "QuestionId": "e37cc144-7d9d-4986-b575-99a6d132c0aa"
+    },
+    {
+      "AnswerID": "397c2e40-d9bb-457e-b384-cf2bcbb71228",
+      "AnswerContent": "增值税",
+      "QuestionId": "42fe83d8-6978-43de-87d5-ca8e5509621d"
+    },
+    {
+      "AnswerID": "76ece47b-fb08-499a-905e-86f793dbdeda",
+      "AnswerContent": "有限合伙企业不得将全部利润分配给部分合伙人；但是，合伙协议另有约定的除外",
+      "QuestionId": "0c6d2f23-6267-4634-a8e3-88d0719de294"
+    },
+    {
+      "AnswerID": "b20a454a-276b-4d43-a7d2-6239d40d1953",
+      "AnswerContent": "向本单位员工无偿提供房屋装饰服务",
+      "QuestionId": "8a64f2c0-555c-41aa-acb3-469a27345e18"
+    },
+    {
+      "AnswerID": "0235ef1d-f0aa-44bb-81aa-e1a70c1a0781",
+      "AnswerContent": "债权人行使代位权应取得债务人的同意",
+      "QuestionId": "9e8b3a1b-26f1-44f3-9e80-1559708cc7e4"
+    },
+    {
+      "AnswerID": "46071f26-4dfd-4fcd-bab8-600c536c7089",
+      "AnswerContent": "代表公司参与民事诉讼活动",
+      "QuestionId": "8628eb7d-cc0f-4a02-9008-9f4f7212f700"
+    },
+    {
+      "AnswerID": "3bd91f1f-3ad6-451c-9f65-ebd4b4ead205",
+      "AnswerContent": "地方人民政府",
+      "QuestionId": "b9f7064d-78eb-4a62-957d-878abe804f3a"
+    },
+    {
+      "AnswerID": "29768cb5-ceb9-4373-94f4-43d85eb8a083",
+      "AnswerContent": "不履行赠与合同约定的义务",
+      "QuestionId": "0f3e2b55-3ecb-4348-84fb-393db50888fd"
+    },
+    {
+      "AnswerID": "34e65fb1-d450-4592-b856-8b4484ee0d3f",
+      "AnswerContent": "王某应向公司足额缴纳出资，并向吴某、蔡某承担违约责任",
+      "QuestionId": "6bcb0da2-a746-4906-ac0c-2a3a9426c60d"
+    },
+    {
+      "AnswerID": "1b48de20-f89b-4865-b603-2715438a0329",
+      "AnswerContent": "纯图形",
+      "QuestionId": "77709158-064b-4611-b07d-c7e456824878"
+    },
+    {
+      "AnswerID": "24dd6606-582f-4028-a392-9c00c2f6b249",
+      "AnswerContent": "246万元",
+      "QuestionId": "116665af-fd3b-4ac7-9eab-d75f612850d2"
+    },
+    {
+      "AnswerID": "377b8ba5-9cbf-4fe2-9c60-59e08738d8db",
+      "AnswerContent": "公司涉嫌违法受到刑事处罚",
+      "QuestionId": "dc5b974b-e389-4fd6-9d93-7f4db8f542e8"
+    },
+    {
+      "AnswerID": "089146da-a7a3-4d73-ae34-a683a5207e0b",
+      "AnswerContent": "企业购置用于环境保护、节能节水、安全生产等专用设备的投资额10%可以从企业当年的应纳税所得额中抵免；当年不足抵免的，可以在以后5个纳税年度结转抵免",
+      "QuestionId": "d034952d-c1ad-4176-82e2-0440f79d3a77"
+    },
+    {
+      "AnswerID": "5abb8706-1044-47f0-8030-c00657c7de54",
+      "AnswerContent": "集体福利",
+      "QuestionId": "950887be-c302-480e-9491-b848a3340d90"
+    },
+    {
+      "AnswerID": "70435c08-2fa7-4d5c-942f-7bc27665f10b",
+      "AnswerContent": "赵某在执业活动中因故意或者重大过失造成合伙企业债务的，钱某、孙某以其认缴的出资额为限承担责任",
+      "QuestionId": "bc162477-3a32-4003-9e9b-29bae7ce1b46"
+    },
+    {
+      "AnswerID": "8d936286-edf1-460d-a808-eddb5d6cc874",
+      "AnswerContent": "保险经纪人的佣金必须由保险人支付",
+      "QuestionId": "2027ac5e-7b13-4e69-8060-9d9a750d5ce6"
+    },
+    {
+      "AnswerID": "8dcf4328-4abd-4ce8-81e6-0b78a9882530",
+      "AnswerContent": "在人民检察院对当事人的申请作出不予抗诉决定后又提出申请",
+      "QuestionId": "50c84f0d-2c7e-41b1-8d41-dd980f6930ce"
+    },
+    {
+      "AnswerID": "165a860d-d721-41fe-876e-be8b7d374aff",
+      "AnswerContent": "财政部",
+      "QuestionId": "3debe9cc-3407-493f-ab28-b15025293b66"
+    },
+    {
+      "AnswerID": "004df640-4628-4c71-baa3-2cb1c826f18d",
+      "AnswerContent": "仓单",
+      "QuestionId": "83a599d6-a693-4a53-adf1-e72823d6681e"
+    },
+    {
+      "AnswerID": "87302de0-cc0a-40b6-8eaf-ca43185dc225",
+      "AnswerContent": "对产品的形状作出的富有美感并适于工业应用的新设计",
+      "QuestionId": "fb8d5e07-e4eb-44d1-aea3-3e676adbca83"
+    },
+    {
+      "AnswerID": "b2c241e5-1973-4483-af25-0d50ee4d11a8",
+      "AnswerContent": "无权代理的追认",
+      "QuestionId": "bc20924f-3f64-4612-a0ba-77fb92b68fc3"
+    },
+    {
+      "AnswerID": "f41de0f4-6c58-49c3-bd9d-d779003cd753",
+      "AnswerContent": "会议决定了公司的经营方针和投资计划",
+      "QuestionId": "2a52826b-e9c0-4f51-8690-03d2b475f1a3"
+    },
+    {
+      "AnswerID": "441c7865-1788-465f-b254-e784a6a1ad49",
+      "AnswerContent": "代理人并不因为代理行为直接取得利益或者负担",
+      "QuestionId": "07b6df1a-06f9-4fdf-813c-93fe08187121"
+    },
+    {
+      "AnswerID": "a7825f74-c1e5-4bc2-9945-e176304c250c",
+      "AnswerContent": "将王某的出资从公司中抽出，补偿受害人损失",
+      "QuestionId": "506b3b1d-facc-4340-b212-e941de465165"
+    },
+    {
+      "AnswerID": "afb3ff6b-0407-4dc2-b7c0-17a7ff760b05",
+      "AnswerContent": "股份有限公司董事会成员中可以有职工代表，监事会中应当有职工代表，且其比例不得低于监事会成员的1/3",
+      "QuestionId": "7cfff77a-2776-4ba4-b3a9-0c929da58411"
+    },
+    {
+      "AnswerID": "4e893e19-f469-472a-93ac-44a5e3969410",
+      "AnswerContent": "该上市公司对合伙企业债务承担无限连带责任",
+      "QuestionId": "92145b7b-2dc5-4453-bdfa-d68f6e3994fe"
+    },
+    {
+      "AnswerID": "6eaee734-c080-4b2a-98c1-e1957293ad9c",
+      "AnswerContent": "既未约定借期内利率，也未约定逾期利率，出借人有权主张借款人自逾期还款之日起承担逾期还款违约责任",
+      "QuestionId": "92e5ccef-f507-44f8-bb8b-5ddcd1ba3be1"
+    },
+    {
+      "AnswerID": "4e2d9fc0-43a5-4a00-88c6-655d2221e9f7",
+      "AnswerContent": "进口货物报关地",
+      "QuestionId": "85addbcd-149f-48f4-bf92-72bc99122441"
+    },
+    {
+      "AnswerID": "3deaddcf-d821-40f5-82fc-2cd4d7e2b2ab",
+      "AnswerContent": "投资者之间存在联营关系",
+      "QuestionId": "b48f8229-db93-4b16-9f03-22972588c192"
+    },
+    {
+      "AnswerID": "7926fedb-ef71-41e1-a3de-05ceda39a931",
+      "AnswerContent": "用法定公积金70万元、任意公积金10万元转增资本",
+      "QuestionId": "c1745933-1fbf-4c25-aa3d-b34604cbcb94"
+    },
+    {
+      "AnswerID": "f8aef4fe-cda4-4bf1-affa-42370384058f",
+      "AnswerContent": "业务宣传费",
+      "QuestionId": "7688b890-e602-4369-8f79-42cf00ffb140"
+    },
+    {
+      "AnswerID": "8b60b2b3-b4e9-4c01-a196-b817e580d435",
+      "AnswerContent": "由于钱某怠于通知，因此视为标的物的质量符合约定",
+      "QuestionId": "b64be8d3-4852-49a5-83a5-265d5727acb6"
+    },
+    {
+      "AnswerID": "1f945218-b774-48ef-be2b-9b0a3bf1f76e",
+      "AnswerContent": "钱某、孙某、李某应以实缴的出资额为限对50万元债务承担清偿责任，赵某承担无限责任",
+      "QuestionId": "78c6168c-ea7c-4444-9f74-ab072d730cbc"
+    },
+    {
+      "AnswerID": "7954d823-5ce3-40ca-9c1b-a649576279a1",
+      "AnswerContent": "20",
+      "QuestionId": "4d0d8671-f3d8-4c51-a47e-084f5466630d"
+    },
+    {
+      "AnswerID": "aab30404-6ad3-4acf-bfff-746f851157e3",
+      "AnswerContent": "钱某可以就小轿车的抵押权实现债权，也可以要求保证人孙某承担保证责任",
+      "QuestionId": "59a1711f-84cb-488f-af71-ea80d2aa87c3"
+    },
+    {
+      "AnswerID": "ea220045-6c26-4c0e-9d13-fa824a0f8f4f",
+      "AnswerContent": "股东以非货币财产出资的，应当依法办理其财产权的转移手续",
+      "QuestionId": "f663db1d-05a1-47dc-8473-8a7e9309d3d1"
+    },
+    {
+      "AnswerID": "e5772f1b-671c-4046-82c1-d367ad328ca7",
+      "AnswerContent": "8周岁的童星谢某，以自己的劳动收入作为主要生活来源",
+      "QuestionId": "a2a467a3-2749-4fc6-bf90-51325f4fab6b"
+    },
+    {
+      "AnswerID": "3e8ec013-7162-434b-92ce-31861ba3c2ce",
+      "AnswerContent": "以融资租赁方式租出的固定资产",
+      "QuestionId": "2c3b8b93-0070-4273-8d3f-5bbb136ebc2d"
+    },
+    {
+      "AnswerID": "761136b7-2754-46f4-81b2-b4530aa3acfe",
+      "AnswerContent": "乙的记载有效，其记载与背书人甲记载具有同等法律效力",
+      "QuestionId": "f3a919de-ab26-4f76-8f6a-8aba759be3f6"
+    }
+  ],
+  "Paper": [
+    {
+      "ExamTime": 7200,
+      "CalculationScoreType": "3"
+    }
+  ],
+  "Label": [],
+  "Wrong": [],
+  "Schedule": [
+    {
+      "ScheduleID": "75441874-ffa0-43e3-99e4-0436198556e2",
+      "UseTime": 0,
+      "LableQuestionID": null,
+      "IsHand": 0
+    }
+  ],
+  "ScheduleItems": []
+}

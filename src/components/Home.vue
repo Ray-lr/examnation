@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import exam from '../../static/2021银行业法律法规与综合能力(初级)/2021银行业法律法规与综合能力(初级)押题卷四'
+import exam from '../../static/2021年中级会计职称《中级会计实务》/押题卷6.json'
 
 export default {
   name: 'Home',
